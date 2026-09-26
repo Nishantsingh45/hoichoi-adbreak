@@ -1,0 +1,1371 @@
+{
+ "candidates": [
+  {
+   "boundary_index": 1,
+   "gemini_boundary": 138.0,
+   "t": 142.52,
+   "kind": "shot_cut",
+   "shot_score": 0.182,
+   "silence_before_s": 3.48,
+   "silence_after_s": 71.69,
+   "alternatives": [
+    {
+     "t": 143.16,
+     "kind": "shot_cut",
+     "shot_score": 0.17,
+     "silence_before_s": 4.12,
+     "silence_after_s": 71.05
+    },
+    {
+     "t": 144.0,
+     "kind": "shot_cut",
+     "shot_score": 0.122,
+     "silence_before_s": 4.96,
+     "silence_after_s": 70.21
+    }
+   ],
+   "id": "c001",
+   "scene_before": {
+    "start": "00:09",
+    "end": "02:18",
+    "location": "Quiet Alleyway at Night",
+    "characters": [
+     "Harun",
+     "Investigative Reporter"
+    ],
+    "dominant_activity": "Two men conversing confrontationally in an alley",
+    "mood": "tense",
+    "summary": "Harun walks down a dimly lit street and encounters a reporter waiting for him. The reporter shows an article on his smartphone alleging misconduct, while Harun sternly warns him about interfering in police investigations before walking away.",
+    "opening_gist": "The reporter is on the phone in an alley when Harun approaches.",
+    "closing_gist": "Harun issues a veiled warning to the reporter to be careful.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "alley",
+     "night",
+     "street",
+     "phone call",
+     "smartphone",
+     "journalist",
+     "police officer",
+     "investigation",
+     "threat"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "02:18",
+    "end": "03:17",
+    "location": "Dhaka City Montage",
+    "characters": [],
+    "dominant_activity": "Montage of nighttime cityscapes with opening titles",
+    "mood": "atmospheric",
+    "summary": "Nighttime footage displays bustling street scenes, markets, roads, and monuments across Dhaka City. The sequence serves as the opening title montage accompanied by dramatic background music.",
+    "opening_gist": "Aerial and ground views of Dhaka streets appear as the credits roll.",
+    "closing_gist": "The series title 'Mahanagar 2' appears followed by the episode title card.",
+    "ends_on": "transition",
+    "tags": [
+     "opening title",
+     "montage",
+     "cityscape",
+     "dhaka",
+     "monuments",
+     "traffic",
+     "nightlife"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.91,
+    "natural_break_confidence": 0.91,
+    "same_conversation": 0.03,
+    "emotional_peak": 0.31,
+    "input_tokens": 1106
+   },
+   "quality": 0.914
+  },
+  {
+   "boundary_index": 2,
+   "gemini_boundary": 197.0,
+   "t": 194.52,
+   "kind": "fade_to_black",
+   "shot_score": 0.32,
+   "silence_before_s": 55.48,
+   "silence_after_s": 19.69,
+   "alternatives": [
+    {
+     "t": 198.04,
+     "kind": "shot_cut",
+     "shot_score": 0.221,
+     "silence_before_s": 59.0,
+     "silence_after_s": 16.17
+    }
+   ],
+   "id": "c002",
+   "scene_before": {
+    "start": "02:18",
+    "end": "03:17",
+    "location": "Dhaka City Montage",
+    "characters": [],
+    "dominant_activity": "Montage of nighttime cityscapes with opening titles",
+    "mood": "atmospheric",
+    "summary": "Nighttime footage displays bustling street scenes, markets, roads, and monuments across Dhaka City. The sequence serves as the opening title montage accompanied by dramatic background music.",
+    "opening_gist": "Aerial and ground views of Dhaka streets appear as the credits roll.",
+    "closing_gist": "The series title 'Mahanagar 2' appears followed by the episode title card.",
+    "ends_on": "transition",
+    "tags": [
+     "opening title",
+     "montage",
+     "cityscape",
+     "dhaka",
+     "monuments",
+     "traffic",
+     "nightlife"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "03:17",
+    "end": "04:26",
+    "location": "Roadside beside Auto-Rickshaw",
+    "characters": [
+     "Sukumar Barua",
+     "Auto-Rickshaw Driver"
+    ],
+    "dominant_activity": "Driver waiting by his auto-rickshaw while Barua shows a photo",
+    "mood": "suspicious",
+    "summary": "The driver finishes smoking inside his auto-rickshaw as Sukumar approaches him on the roadside. Barua shows him a photograph on a phone, asking if he has seen the girl, and the driver confirms he dropped her off nearby.",
+    "opening_gist": "The auto-rickshaw driver smokes a cigarette while waiting beside a roadside stall.",
+    "closing_gist": "They both get into the auto-rickshaw to head toward the location.",
+    "ends_on": "transition",
+    "tags": [
+     "auto-rickshaw",
+     "roadside",
+     "smoking",
+     "cigarette",
+     "smartphone",
+     "photo",
+     "night",
+     "driver"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.59,
+    "natural_break_confidence": 0.59,
+    "same_conversation": 0.04,
+    "emotional_peak": 0.04,
+    "input_tokens": 1121
+   },
+   "quality": 0.9068
+  },
+  {
+   "boundary_index": 3,
+   "gemini_boundary": 266.0,
+   "t": 266.48,
+   "kind": "shot_cut",
+   "shot_score": 0.213,
+   "silence_before_s": 4.72,
+   "silence_after_s": 3.76,
+   "alternatives": [],
+   "id": "c003",
+   "scene_before": {
+    "start": "03:17",
+    "end": "04:26",
+    "location": "Roadside beside Auto-Rickshaw",
+    "characters": [
+     "Sukumar Barua",
+     "Auto-Rickshaw Driver"
+    ],
+    "dominant_activity": "Driver waiting by his auto-rickshaw while Barua shows a photo",
+    "mood": "suspicious",
+    "summary": "The driver finishes smoking inside his auto-rickshaw as Sukumar approaches him on the roadside. Barua shows him a photograph on a phone, asking if he has seen the girl, and the driver confirms he dropped her off nearby.",
+    "opening_gist": "The auto-rickshaw driver smokes a cigarette while waiting beside a roadside stall.",
+    "closing_gist": "They both get into the auto-rickshaw to head toward the location.",
+    "ends_on": "transition",
+    "tags": [
+     "auto-rickshaw",
+     "roadside",
+     "smoking",
+     "cigarette",
+     "smartphone",
+     "photo",
+     "night",
+     "driver"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "scene_after": {
+    "start": "04:26",
+    "end": "05:10",
+    "location": "Alleyway Brothel Entrance",
+    "characters": [
+     "Sukumar Barua",
+     "Auto-Rickshaw Driver",
+     "Sex Workers"
+    ],
+    "dominant_activity": "Men being introduced to women in a red-light alley",
+    "mood": "seedy",
+    "summary": "The auto-rickshaw driver brings Sukumar to an alley where several women are sitting outside under pinkish lights. Sukumar clarifies he is looking for a specific person, not services, while the driver boasts about the quality of the establishment.",
+    "opening_gist": "A row of women sit under magenta lighting as Sukumar and the driver approach.",
+    "closing_gist": "The driver laughs and explains he only brings select clients here.",
+    "ends_on": "transition",
+    "tags": [
+     "alley",
+     "night",
+     "red-light district",
+     "brothel",
+     "sex workers",
+     "investigation"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 1.44,
+    "natural_break_confidence": 0.22,
+    "same_conversation": 0.64,
+    "emotional_peak": 0.06,
+    "input_tokens": 1147
+   },
+   "quality": 0.542
+  },
+  {
+   "boundary_index": 4,
+   "gemini_boundary": 310.0,
+   "t": 310.36,
+   "kind": "shot_cut",
+   "shot_score": 0.257,
+   "silence_before_s": 0.41,
+   "silence_after_s": 6.22,
+   "alternatives": [],
+   "id": "c004",
+   "scene_before": {
+    "start": "04:26",
+    "end": "05:10",
+    "location": "Alleyway Brothel Entrance",
+    "characters": [
+     "Sukumar Barua",
+     "Auto-Rickshaw Driver",
+     "Sex Workers"
+    ],
+    "dominant_activity": "Men being introduced to women in a red-light alley",
+    "mood": "seedy",
+    "summary": "The auto-rickshaw driver brings Sukumar to an alley where several women are sitting outside under pinkish lights. Sukumar clarifies he is looking for a specific person, not services, while the driver boasts about the quality of the establishment.",
+    "opening_gist": "A row of women sit under magenta lighting as Sukumar and the driver approach.",
+    "closing_gist": "The driver laughs and explains he only brings select clients here.",
+    "ends_on": "transition",
+    "tags": [
+     "alley",
+     "night",
+     "red-light district",
+     "brothel",
+     "sex workers",
+     "investigation"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "05:10",
+    "end": "07:19",
+    "location": "Mayor's Residence / Office",
+    "characters": [
+     "Mayor",
+     "Personal Assistant",
+     "Titu"
+    ],
+    "dominant_activity": "Political meeting and discussion about urban projects",
+    "mood": "tense",
+    "summary": "The Mayor's assistant informs her of a meeting with Titu, who enters to discuss project delays regarding public toilets for women and hawker evictions. Titu then hands her an invitation to a foundation stone ceremony at a city complex hosted by an MP, but the Mayor refuses to attend.",
+    "opening_gist": "The personal assistant informs the Mayor at her desk about Titu's arrival.",
+    "closing_gist": "The Mayor declares she will not attend the event because it is on her father's land.",
+    "ends_on": "resolved",
+    "tags": [
+     "office",
+     "mayor",
+     "politics",
+     "bureaucracy",
+     "meeting",
+     "invitation card",
+     "desk",
+     "paperwork"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.71,
+    "natural_break_confidence": 0.71,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.06,
+    "input_tokens": 1137
+   },
+   "quality": 0.9298
+  },
+  {
+   "boundary_index": 5,
+   "gemini_boundary": 439.0,
+   "t": 439.0,
+   "kind": "shot_cut",
+   "shot_score": 0.51,
+   "silence_before_s": 0.83,
+   "silence_after_s": 19.08,
+   "alternatives": [
+    {
+     "t": 443.44,
+     "kind": "shot_cut",
+     "shot_score": 0.444,
+     "silence_before_s": 5.27,
+     "silence_after_s": 14.64
+    }
+   ],
+   "id": "c005",
+   "scene_before": {
+    "start": "05:10",
+    "end": "07:19",
+    "location": "Mayor's Residence / Office",
+    "characters": [
+     "Mayor",
+     "Personal Assistant",
+     "Titu"
+    ],
+    "dominant_activity": "Political meeting and discussion about urban projects",
+    "mood": "tense",
+    "summary": "The Mayor's assistant informs her of a meeting with Titu, who enters to discuss project delays regarding public toilets for women and hawker evictions. Titu then hands her an invitation to a foundation stone ceremony at a city complex hosted by an MP, but the Mayor refuses to attend.",
+    "opening_gist": "The personal assistant informs the Mayor at her desk about Titu's arrival.",
+    "closing_gist": "The Mayor declares she will not attend the event because it is on her father's land.",
+    "ends_on": "resolved",
+    "tags": [
+     "office",
+     "mayor",
+     "politics",
+     "bureaucracy",
+     "meeting",
+     "invitation card",
+     "desk",
+     "paperwork"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "07:19",
+    "end": "09:57",
+    "location": "Restaurant",
+    "characters": [
+     "Afnan Chowdhury",
+     "Sukumar Barua"
+    ],
+    "dominant_activity": "Eating dinner while engaging in a subtle interrogation",
+    "mood": "tense",
+    "summary": "Afnan Chowdhury is eating alone at a restaurant when Sukumar joins his table and begins making pointed remarks about deception and Afnan's recent detention. After Afnan takes a phone call identifying Sukumar as a DB officer sent by Harun, he delivers an ominous veiled warning.",
+    "opening_gist": "Afnan cuts food on his plate as Sukumar walks in and sits at his table.",
+    "closing_gist": "Afnan stares at Sukumar and quietly curses him as Sukumar eats.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "restaurant",
+     "dining",
+     "food",
+     "eating",
+     "phone call",
+     "investigation",
+     "threat",
+     "police officer"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.84,
+    "natural_break_confidence": 0.84,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.09,
+    "input_tokens": 1161
+   },
+   "quality": 0.9477
+  },
+  {
+   "boundary_index": 6,
+   "gemini_boundary": 597.0,
+   "t": 597.36,
+   "kind": "shot_cut",
+   "shot_score": 0.559,
+   "silence_before_s": 9.17,
+   "silence_after_s": 18.71,
+   "alternatives": [
+    {
+     "t": 592.68,
+     "kind": "shot_cut",
+     "shot_score": 0.397,
+     "silence_before_s": 4.49,
+     "silence_after_s": 23.39
+    },
+    {
+     "t": 602.76,
+     "kind": "shot_cut",
+     "shot_score": 0.139,
+     "silence_before_s": 14.57,
+     "silence_after_s": 13.31
+    }
+   ],
+   "id": "c006",
+   "scene_before": {
+    "start": "07:19",
+    "end": "09:57",
+    "location": "Restaurant",
+    "characters": [
+     "Afnan Chowdhury",
+     "Sukumar Barua"
+    ],
+    "dominant_activity": "Eating dinner while engaging in a subtle interrogation",
+    "mood": "tense",
+    "summary": "Afnan Chowdhury is eating alone at a restaurant when Sukumar joins his table and begins making pointed remarks about deception and Afnan's recent detention. After Afnan takes a phone call identifying Sukumar as a DB officer sent by Harun, he delivers an ominous veiled warning.",
+    "opening_gist": "Afnan cuts food on his plate as Sukumar walks in and sits at his table.",
+    "closing_gist": "Afnan stares at Sukumar and quietly curses him as Sukumar eats.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "restaurant",
+     "dining",
+     "food",
+     "eating",
+     "phone call",
+     "investigation",
+     "threat",
+     "police officer"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "09:57",
+    "end": "10:10",
+    "location": "City Road at Night",
+    "characters": [
+     "Afnan Chowdhury"
+    ],
+    "dominant_activity": "Driving at night while wearing a hands-free headset",
+    "mood": "anxious",
+    "summary": "Afnan drives hurriedly through the night streets of the city, wearing a Bluetooth earpiece, processing the information he just received about the police officer tailing him.",
+    "opening_gist": "An exterior wide shot shows night traffic before cutting inside Afnan's car.",
+    "closing_gist": "Afnan stares ahead intently while driving.",
+    "ends_on": "transition",
+    "tags": [
+     "driving",
+     "car",
+     "night",
+     "street",
+     "traffic"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.46,
+    "natural_break_confidence": 0.46,
+    "same_conversation": 0.14,
+    "emotional_peak": 0.27,
+    "input_tokens": 1111
+   },
+   "quality": 0.812
+  },
+  {
+   "boundary_index": 7,
+   "gemini_boundary": 610.0,
+   "t": 610.6,
+   "kind": "shot_cut",
+   "shot_score": 0.389,
+   "silence_before_s": 22.41,
+   "silence_after_s": 5.47,
+   "alternatives": [
+    {
+     "t": 606.68,
+     "kind": "shot_cut",
+     "shot_score": 0.18,
+     "silence_before_s": 18.49,
+     "silence_after_s": 9.39
+    }
+   ],
+   "id": "c007",
+   "scene_before": {
+    "start": "09:57",
+    "end": "10:10",
+    "location": "City Road at Night",
+    "characters": [
+     "Afnan Chowdhury"
+    ],
+    "dominant_activity": "Driving at night while wearing a hands-free headset",
+    "mood": "anxious",
+    "summary": "Afnan drives hurriedly through the night streets of the city, wearing a Bluetooth earpiece, processing the information he just received about the police officer tailing him.",
+    "opening_gist": "An exterior wide shot shows night traffic before cutting inside Afnan's car.",
+    "closing_gist": "Afnan stares ahead intently while driving.",
+    "ends_on": "transition",
+    "tags": [
+     "driving",
+     "car",
+     "night",
+     "street",
+     "traffic"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "10:10",
+    "end": "10:37",
+    "location": "Phone Booth / Outdoor Street",
+    "characters": [
+     "Harun",
+     "Sukumar Barua"
+    ],
+    "dominant_activity": "Urgent phone conversation between two officers",
+    "mood": "urgent",
+    "summary": "Harun calls Sukumar to check if he has managed to locate the girl yet. Sukumar complains about the difficulty of searching an unfamiliar city, but Harun insists he must find her immediately before time runs out.",
+    "opening_gist": "Harun speaks into his phone inside a booth, demanding updates.",
+    "closing_gist": "Harun cuts off Sukumar's excuses and orders him to track down the girl right away.",
+    "ends_on": "resolved",
+    "tags": [
+     "phone call",
+     "police officer",
+     "street",
+     "investigation",
+     "urgency"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.13,
+    "natural_break_confidence": 0.5,
+    "same_conversation": 0.05,
+    "emotional_peak": 0.14,
+    "input_tokens": 1062
+   },
+   "quality": 0.8
+  },
+  {
+   "boundary_index": 8,
+   "gemini_boundary": 637.0,
+   "t": 640.618,
+   "kind": "pause",
+   "shot_score": 0.0,
+   "silence_before_s": 2.38,
+   "silence_after_s": 16.51,
+   "alternatives": [],
+   "id": "c008",
+   "scene_before": {
+    "start": "10:10",
+    "end": "10:37",
+    "location": "Phone Booth / Outdoor Street",
+    "characters": [
+     "Harun",
+     "Sukumar Barua"
+    ],
+    "dominant_activity": "Urgent phone conversation between two officers",
+    "mood": "urgent",
+    "summary": "Harun calls Sukumar to check if he has managed to locate the girl yet. Sukumar complains about the difficulty of searching an unfamiliar city, but Harun insists he must find her immediately before time runs out.",
+    "opening_gist": "Harun speaks into his phone inside a booth, demanding updates.",
+    "closing_gist": "Harun cuts off Sukumar's excuses and orders him to track down the girl right away.",
+    "ends_on": "resolved",
+    "tags": [
+     "phone call",
+     "police officer",
+     "street",
+     "investigation",
+     "urgency"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "10:37",
+    "end": "11:25",
+    "location": "Police Station Hallway",
+    "characters": [
+     "Harun",
+     "Officer Molloy"
+    ],
+    "dominant_activity": "Officers conversing in a station corridor",
+    "mood": "suspicious",
+    "summary": "Harun emerges from a back room into the hallway and encounters Officer Molloy coming from the restroom. Harun questions his frequent visits, and Molloy claims diabetes as his excuse before walking off.",
+    "opening_gist": "Harun steps into the brightly lit police corridor and spots Molloy approaching.",
+    "closing_gist": "Molloy walks down the corridor as Harun watches him with suspicion.",
+    "ends_on": "transition",
+    "tags": [
+     "police station",
+     "hallway",
+     "corridor",
+     "police officer",
+     "interrogation",
+     "suspicion"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.47,
+    "natural_break_confidence": 0.47,
+    "same_conversation": 0.05,
+    "emotional_peak": 0.17,
+    "input_tokens": 1095
+   },
+   "quality": 0.8563
+  },
+  {
+   "boundary_index": 9,
+   "gemini_boundary": 685.0,
+   "t": 681.4,
+   "kind": "shot_cut",
+   "shot_score": 0.437,
+   "silence_before_s": 1.28,
+   "silence_after_s": 4.75,
+   "alternatives": [],
+   "id": "c009",
+   "scene_before": {
+    "start": "10:37",
+    "end": "11:25",
+    "location": "Police Station Hallway",
+    "characters": [
+     "Harun",
+     "Officer Molloy"
+    ],
+    "dominant_activity": "Officers conversing in a station corridor",
+    "mood": "suspicious",
+    "summary": "Harun emerges from a back room into the hallway and encounters Officer Molloy coming from the restroom. Harun questions his frequent visits, and Molloy claims diabetes as his excuse before walking off.",
+    "opening_gist": "Harun steps into the brightly lit police corridor and spots Molloy approaching.",
+    "closing_gist": "Molloy walks down the corridor as Harun watches him with suspicion.",
+    "ends_on": "transition",
+    "tags": [
+     "police station",
+     "hallway",
+     "corridor",
+     "police officer",
+     "interrogation",
+     "suspicion"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "11:25",
+    "end": "11:42",
+    "location": "City Street at Night",
+    "characters": [
+     "Sukumar Barua",
+     "Assistant (on phone)"
+    ],
+    "dominant_activity": "Police officer making a phone call on the street",
+    "mood": "focused",
+    "summary": "Sukumar calls an associate to request call logs for a specific phone number over the past three hours. He identifies the person they are searching for as Zara Hayat Khan.",
+    "opening_gist": "Sukumar stands on a dimly lit street talking on his mobile phone.",
+    "closing_gist": "Sukumar reveals the girl's name to his associate and confirms she is in the same city.",
+    "ends_on": "resolved",
+    "tags": [
+     "phone call",
+     "street",
+     "night",
+     "police officer",
+     "investigation"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.57,
+    "natural_break_confidence": 0.57,
+    "same_conversation": 0.03,
+    "emotional_peak": 0.08,
+    "input_tokens": 1085
+   },
+   "quality": 0.8977
+  },
+  {
+   "boundary_index": 10,
+   "gemini_boundary": 702.0,
+   "t": 705.822,
+   "kind": "pause",
+   "shot_score": 0.0,
+   "silence_before_s": 2.18,
+   "silence_after_s": 39.11,
+   "alternatives": [],
+   "id": "c010",
+   "scene_before": {
+    "start": "11:25",
+    "end": "11:42",
+    "location": "City Street at Night",
+    "characters": [
+     "Sukumar Barua",
+     "Assistant (on phone)"
+    ],
+    "dominant_activity": "Police officer making a phone call on the street",
+    "mood": "focused",
+    "summary": "Sukumar calls an associate to request call logs for a specific phone number over the past three hours. He identifies the person they are searching for as Zara Hayat Khan.",
+    "opening_gist": "Sukumar stands on a dimly lit street talking on his mobile phone.",
+    "closing_gist": "Sukumar reveals the girl's name to his associate and confirms she is in the same city.",
+    "ends_on": "resolved",
+    "tags": [
+     "phone call",
+     "street",
+     "night",
+     "police officer",
+     "investigation"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "11:42",
+    "end": "12:20",
+    "location": "Dark Hotel Room",
+    "characters": [
+     "Zara Hayat Khan",
+     "Afnan Chowdhury (in flashback)"
+    ],
+    "dominant_activity": "Woman pacing in psychological distress remembering an assault",
+    "mood": "disturbed",
+    "summary": "Zara is alone in a dimly lit bedroom, clutching her head in agony as traumatic memories of an argument and physical struggle with Afnan flash across her mind. Overwhelmed with nausea, she rushes into the bathroom to vomit.",
+    "opening_gist": "Zara paces anxiously across her bedroom holding her head.",
+    "closing_gist": "Zara suddenly dry-heaves and runs into the adjacent bathroom.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "hotel room",
+     "bedroom",
+     "flashback",
+     "trauma",
+     "panic attack",
+     "nausea",
+     "vomiting",
+     "violence"
+    ],
+    "sensitive_themes": [
+     "vomiting_or_disgust",
+     "horror_or_fear",
+     "violence_or_fight"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.45,
+    "natural_break_confidence": 0.45,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.07,
+    "input_tokens": 1143
+   },
+   "quality": 0.8802
+  },
+  {
+   "boundary_index": 11,
+   "gemini_boundary": 740.0,
+   "t": 740.56,
+   "kind": "shot_cut",
+   "shot_score": 0.363,
+   "silence_before_s": 36.92,
+   "silence_after_s": 4.37,
+   "alternatives": [],
+   "id": "c011",
+   "scene_before": {
+    "start": "11:42",
+    "end": "12:20",
+    "location": "Dark Hotel Room",
+    "characters": [
+     "Zara Hayat Khan",
+     "Afnan Chowdhury (in flashback)"
+    ],
+    "dominant_activity": "Woman pacing in psychological distress remembering an assault",
+    "mood": "disturbed",
+    "summary": "Zara is alone in a dimly lit bedroom, clutching her head in agony as traumatic memories of an argument and physical struggle with Afnan flash across her mind. Overwhelmed with nausea, she rushes into the bathroom to vomit.",
+    "opening_gist": "Zara paces anxiously across her bedroom holding her head.",
+    "closing_gist": "Zara suddenly dry-heaves and runs into the adjacent bathroom.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "hotel room",
+     "bedroom",
+     "flashback",
+     "trauma",
+     "panic attack",
+     "nausea",
+     "vomiting",
+     "violence"
+    ],
+    "sensitive_themes": [
+     "vomiting_or_disgust",
+     "horror_or_fear",
+     "violence_or_fight"
+    ]
+   },
+   "scene_after": {
+    "start": "12:20",
+    "end": "14:48",
+    "location": "Quiet Residential Street",
+    "characters": [
+     "Sukumar Barua",
+     "Mohon",
+     "Afnan Chowdhury (in car)"
+    ],
+    "dominant_activity": "Undercover interrogation and weed purchase on a street corner",
+    "mood": "suspenseful",
+    "summary": "Sukumar meets a local drug peddler named Mohon, initially pretending to buy weed before intimidating him to reveal Zara's location. Terrified, Mohon discloses that Zara is staying alone at Hotel Relax in room 503, while Afnan watches unseen from his car nearby.",
+    "opening_gist": "Sukumar calls out to Mohon from the back of an auto-rickshaw view.",
+    "closing_gist": "Afnan's car pulls away into the night after observing the exchange.",
+    "ends_on": "cliffhanger",
+    "tags": [
+     "street",
+     "night",
+     "drugs",
+     "marijuana",
+     "interrogation",
+     "threat",
+     "surveillance",
+     "car"
+    ],
+    "sensitive_themes": [
+     "crime_theft_or_fraud"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.66,
+    "natural_break_confidence": 0.66,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.9,
+    "input_tokens": 1209
+   },
+   "quality": 0.7527
+  },
+  {
+   "boundary_index": 12,
+   "gemini_boundary": 888.0,
+   "t": 888.88,
+   "kind": "shot_cut",
+   "shot_score": 0.358,
+   "silence_before_s": 21.72,
+   "silence_after_s": 13.4,
+   "alternatives": [],
+   "id": "c012",
+   "scene_before": {
+    "start": "12:20",
+    "end": "14:48",
+    "location": "Quiet Residential Street",
+    "characters": [
+     "Sukumar Barua",
+     "Mohon",
+     "Afnan Chowdhury (in car)"
+    ],
+    "dominant_activity": "Undercover interrogation and weed purchase on a street corner",
+    "mood": "suspenseful",
+    "summary": "Sukumar meets a local drug peddler named Mohon, initially pretending to buy weed before intimidating him to reveal Zara's location. Terrified, Mohon discloses that Zara is staying alone at Hotel Relax in room 503, while Afnan watches unseen from his car nearby.",
+    "opening_gist": "Sukumar calls out to Mohon from the back of an auto-rickshaw view.",
+    "closing_gist": "Afnan's car pulls away into the night after observing the exchange.",
+    "ends_on": "cliffhanger",
+    "tags": [
+     "street",
+     "night",
+     "drugs",
+     "marijuana",
+     "interrogation",
+     "threat",
+     "surveillance",
+     "car"
+    ],
+    "sensitive_themes": [
+     "crime_theft_or_fraud"
+    ]
+   },
+   "scene_after": {
+    "start": "14:48",
+    "end": "15:11",
+    "location": "Detention Waiting Room",
+    "characters": [
+     "Detainee / Suspect",
+     "Guard"
+    ],
+    "dominant_activity": "Guard reprimanding a sleeping detainee",
+    "mood": "gloomy",
+    "summary": "A bruised and exhausted detainee is slouched asleep on a couch. A guard enters and aggressively nudges him awake, warning him not to treat the police station like his home.",
+    "opening_gist": "A battered detainee lies slumped on an office sofa.",
+    "closing_gist": "The guard orders him to sit upright and walks away.",
+    "ends_on": "transition",
+    "tags": [
+     "detention",
+     "police station",
+     "sofa",
+     "guard",
+     "prisoner",
+     "intimidation"
+    ],
+    "sensitive_themes": [
+     "injury_or_blood"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.67,
+    "natural_break_confidence": 0.67,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.18,
+    "input_tokens": 1159
+   },
+   "quality": 0.8985
+  },
+  {
+   "boundary_index": 13,
+   "gemini_boundary": 911.0,
+   "t": 909.824,
+   "kind": "pause",
+   "shot_score": 0.0,
+   "silence_before_s": 1.67,
+   "silence_after_s": 1.67,
+   "alternatives": [],
+   "id": "c013",
+   "scene_before": {
+    "start": "14:48",
+    "end": "15:11",
+    "location": "Detention Waiting Room",
+    "characters": [
+     "Detainee / Suspect",
+     "Guard"
+    ],
+    "dominant_activity": "Guard reprimanding a sleeping detainee",
+    "mood": "gloomy",
+    "summary": "A bruised and exhausted detainee is slouched asleep on a couch. A guard enters and aggressively nudges him awake, warning him not to treat the police station like his home.",
+    "opening_gist": "A battered detainee lies slumped on an office sofa.",
+    "closing_gist": "The guard orders him to sit upright and walks away.",
+    "ends_on": "transition",
+    "tags": [
+     "detention",
+     "police station",
+     "sofa",
+     "guard",
+     "prisoner",
+     "intimidation"
+    ],
+    "sensitive_themes": [
+     "injury_or_blood"
+    ]
+   },
+   "scene_after": {
+    "start": "15:11",
+    "end": "16:42",
+    "location": "Alleyway outside Police Station",
+    "characters": [
+     "Dipu",
+     "Investigative Reporter"
+    ],
+    "dominant_activity": "Police officer and reporter smoking and trading information",
+    "mood": "cynical",
+    "summary": "Dipu and the reporter smoke cigarettes in a secluded outdoor alley behind the station. The reporter asks about Masum's arrest, and Dipu reveals that solving the high-profile political case within 24 hours virtually guarantees Harun's promotion.",
+    "opening_gist": "The camera pans down from a metal stairway to Dipu and the reporter talking below.",
+    "closing_gist": "Both men laugh and take long drags from their cigarettes.",
+    "ends_on": "resolved",
+    "tags": [
+     "alley",
+     "smoking",
+     "cigarette",
+     "police officer",
+     "reporter",
+     "gossip",
+     "corruption",
+     "night"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.37,
+    "natural_break_confidence": 0.49,
+    "same_conversation": 0.03,
+    "emotional_peak": 0.12,
+    "input_tokens": 1126
+   },
+   "quality": 0.853
+  },
+  {
+   "boundary_index": 14,
+   "gemini_boundary": 1002.0,
+   "t": 1007.28,
+   "kind": "shot_cut",
+   "shot_score": 0.223,
+   "silence_before_s": 5.01,
+   "silence_after_s": 22.16,
+   "alternatives": [],
+   "id": "c014",
+   "scene_before": {
+    "start": "15:11",
+    "end": "16:42",
+    "location": "Alleyway outside Police Station",
+    "characters": [
+     "Dipu",
+     "Investigative Reporter"
+    ],
+    "dominant_activity": "Police officer and reporter smoking and trading information",
+    "mood": "cynical",
+    "summary": "Dipu and the reporter smoke cigarettes in a secluded outdoor alley behind the station. The reporter asks about Masum's arrest, and Dipu reveals that solving the high-profile political case within 24 hours virtually guarantees Harun's promotion.",
+    "opening_gist": "The camera pans down from a metal stairway to Dipu and the reporter talking below.",
+    "closing_gist": "Both men laugh and take long drags from their cigarettes.",
+    "ends_on": "resolved",
+    "tags": [
+     "alley",
+     "smoking",
+     "cigarette",
+     "police officer",
+     "reporter",
+     "gossip",
+     "corruption",
+     "night"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "scene_after": {
+    "start": "16:42",
+    "end": "19:03",
+    "location": "Police Station Holding Cell Corridor",
+    "characters": [
+     "Masum's Sister",
+     "Masum",
+     "Police Constables"
+    ],
+    "dominant_activity": "Emotional jail visit between siblings",
+    "mood": "heartbreaking",
+    "summary": "Masum's sister is permitted three minutes to see her brother in the lockup. She is devastated to find Masum severely battered from police torture, and Masum breaks down in tears claiming he confessed under brutal coercion while she promises to get him out.",
+    "opening_gist": "Masum's sister waits anxiously before being led down to the holding cell.",
+    "closing_gist": "Masum weeps through the cell bars as his sister desperately tries to comfort him.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "jail cell",
+     "lockup",
+     "prison bars",
+     "police station",
+     "crying",
+     "torture",
+     "brother sister",
+     "emotional reunion"
+    ],
+    "sensitive_themes": [
+     "injury_or_blood",
+     "horror_or_fear"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.62,
+    "natural_break_confidence": 0.62,
+    "same_conversation": 0.03,
+    "emotional_peak": 0.06,
+    "input_tokens": 1166
+   },
+   "quality": 0.9108
+  },
+  {
+   "boundary_index": 15,
+   "gemini_boundary": 1143.0,
+   "t": 1143.08,
+   "kind": "shot_cut",
+   "shot_score": 0.235,
+   "silence_before_s": 0.81,
+   "silence_after_s": 3.84,
+   "alternatives": [
+    {
+     "t": 1146.4,
+     "kind": "shot_cut",
+     "shot_score": 0.22,
+     "silence_before_s": 4.13,
+     "silence_after_s": 0.52
+    },
+    {
+     "t": 1148.04,
+     "kind": "shot_cut",
+     "shot_score": 0.233,
+     "silence_before_s": 0.56,
+     "silence_after_s": 1.76
+    }
+   ],
+   "id": "c015",
+   "scene_before": {
+    "start": "16:42",
+    "end": "19:03",
+    "location": "Police Station Holding Cell Corridor",
+    "characters": [
+     "Masum's Sister",
+     "Masum",
+     "Police Constables"
+    ],
+    "dominant_activity": "Emotional jail visit between siblings",
+    "mood": "heartbreaking",
+    "summary": "Masum's sister is permitted three minutes to see her brother in the lockup. She is devastated to find Masum severely battered from police torture, and Masum breaks down in tears claiming he confessed under brutal coercion while she promises to get him out.",
+    "opening_gist": "Masum's sister waits anxiously before being led down to the holding cell.",
+    "closing_gist": "Masum weeps through the cell bars as his sister desperately tries to comfort him.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "jail cell",
+     "lockup",
+     "prison bars",
+     "police station",
+     "crying",
+     "torture",
+     "brother sister",
+     "emotional reunion"
+    ],
+    "sensitive_themes": [
+     "injury_or_blood",
+     "horror_or_fear"
+    ]
+   },
+   "scene_after": {
+    "start": "19:03",
+    "end": "20:17",
+    "location": "Police Station Holding Room",
+    "characters": [
+     "Harun",
+     "Detained Man",
+     "Plainclothes Officers"
+    ],
+    "dominant_activity": "Detectives dragging away a detainee in front of Harun",
+    "mood": "tense",
+    "summary": "Harun checks in on a stressed detainee who pleads his innocence and asks Harun to notify his family. Suddenly, other officers burst in and forcefully escort the man away despite his desperate cries to Harun for help.",
+    "opening_gist": "Harun enters the room and places a hand on the slumped detainee's shoulder.",
+    "closing_gist": "The detainee is dragged down the corridor screaming Harun's name.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "police station",
+     "arrest",
+     "detention",
+     "escort",
+     "screaming",
+     "abduction",
+     "corridor"
+    ],
+    "sensitive_themes": [
+     "kidnapping",
+     "horror_or_fear"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.28,
+    "natural_break_confidence": 0.28,
+    "same_conversation": 0.06,
+    "emotional_peak": 0.93,
+    "input_tokens": 1189
+   },
+   "quality": 0.667
+  },
+  {
+   "boundary_index": 16,
+   "gemini_boundary": 1217.0,
+   "t": 1217.88,
+   "kind": "shot_cut",
+   "shot_score": 0.18,
+   "silence_before_s": 29.24,
+   "silence_after_s": 0.62,
+   "alternatives": [
+    {
+     "t": 1214.48,
+     "kind": "shot_cut",
+     "shot_score": 0.309,
+     "silence_before_s": 25.84,
+     "silence_after_s": 4.02
+    }
+   ],
+   "id": "c016",
+   "scene_before": {
+    "start": "19:03",
+    "end": "20:17",
+    "location": "Police Station Holding Room",
+    "characters": [
+     "Harun",
+     "Detained Man",
+     "Plainclothes Officers"
+    ],
+    "dominant_activity": "Detectives dragging away a detainee in front of Harun",
+    "mood": "tense",
+    "summary": "Harun checks in on a stressed detainee who pleads his innocence and asks Harun to notify his family. Suddenly, other officers burst in and forcefully escort the man away despite his desperate cries to Harun for help.",
+    "opening_gist": "Harun enters the room and places a hand on the slumped detainee's shoulder.",
+    "closing_gist": "The detainee is dragged down the corridor screaming Harun's name.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "police station",
+     "arrest",
+     "detention",
+     "escort",
+     "screaming",
+     "abduction",
+     "corridor"
+    ],
+    "sensitive_themes": [
+     "kidnapping",
+     "horror_or_fear"
+    ]
+   },
+   "scene_after": {
+    "start": "20:17",
+    "end": "21:11",
+    "location": "Police Lockup Cell & Station Duty Desk",
+    "characters": [
+     "Masum",
+     "Constable",
+     "Duty Officer"
+    ],
+    "dominant_activity": "Prisoner needing cleanup led out of cell",
+    "mood": "grimy",
+    "summary": "In the lockup, Masum informs the guard that he has soiled himself and needs water to clean up. After checking with the duty desk officer, the constable unlocks the cell to escort Masum outside for washing.",
+    "opening_gist": "Masum holds an empty plastic bottle against the cell bars pleading for water.",
+    "closing_gist": "Two constables escort Masum out of the lockup corridor toward the wash area.",
+    "ends_on": "transition",
+    "tags": [
+     "police station",
+     "lockup",
+     "jail cell",
+     "prison guard",
+     "escort",
+     "duty desk"
+    ],
+    "sensitive_themes": [
+     "vomiting_or_disgust"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.43,
+    "natural_break_confidence": 0.43,
+    "same_conversation": 0.07,
+    "emotional_peak": 0.91,
+    "input_tokens": 1154
+   },
+   "quality": 0.696
+  },
+  {
+   "boundary_index": 17,
+   "gemini_boundary": 1271.0,
+   "t": 1271.12,
+   "kind": "shot_cut",
+   "shot_score": 0.373,
+   "silence_before_s": 18.87,
+   "silence_after_s": 0.47,
+   "alternatives": [],
+   "id": "c017",
+   "scene_before": {
+    "start": "20:17",
+    "end": "21:11",
+    "location": "Police Lockup Cell & Station Duty Desk",
+    "characters": [
+     "Masum",
+     "Constable",
+     "Duty Officer"
+    ],
+    "dominant_activity": "Prisoner needing cleanup led out of cell",
+    "mood": "grimy",
+    "summary": "In the lockup, Masum informs the guard that he has soiled himself and needs water to clean up. After checking with the duty desk officer, the constable unlocks the cell to escort Masum outside for washing.",
+    "opening_gist": "Masum holds an empty plastic bottle against the cell bars pleading for water.",
+    "closing_gist": "Two constables escort Masum out of the lockup corridor toward the wash area.",
+    "ends_on": "transition",
+    "tags": [
+     "police station",
+     "lockup",
+     "jail cell",
+     "prison guard",
+     "escort",
+     "duty desk"
+    ],
+    "sensitive_themes": [
+     "vomiting_or_disgust"
+    ]
+   },
+   "scene_after": {
+    "start": "21:11",
+    "end": "22:12",
+    "location": "Station Balcony / Courtyard",
+    "characters": [
+     "Harun",
+     "Dipu"
+    ],
+    "dominant_activity": "Police chief receiving a shocking phone call and status update",
+    "mood": "shocking",
+    "summary": "Harun speaks on the phone on the balcony about presenting the suspect in court tomorrow. Dipu rushes up to him visibly shaken and reveals a catastrophic accident has occurred: Masum cannot be found anywhere.",
+    "opening_gist": "Harun talks confidently on his phone overlooking the station compound.",
+    "closing_gist": "Harun drops his lighter in disbelief as Dipu reveals Masum is missing.",
+    "ends_on": "cliffhanger",
+    "tags": [
+     "balcony",
+     "night",
+     "police station",
+     "phone call",
+     "lighter",
+     "cigarette",
+     "shock",
+     "escape"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "jev": {
+    "natural_break": 1.95,
+    "natural_break_confidence": 0.0,
+    "same_conversation": 0.05,
+    "emotional_peak": 0.09,
+    "input_tokens": 1128
+   },
+   "quality": 0.777
+  },
+  {
+   "boundary_index": 18,
+   "gemini_boundary": 1332.0,
+   "t": 1332.68,
+   "kind": "fade_to_black",
+   "shot_score": 1.12,
+   "silence_before_s": 10.89,
+   "silence_after_s": 63.95,
+   "alternatives": [],
+   "id": "c018",
+   "scene_before": {
+    "start": "21:11",
+    "end": "22:12",
+    "location": "Station Balcony / Courtyard",
+    "characters": [
+     "Harun",
+     "Dipu"
+    ],
+    "dominant_activity": "Police chief receiving a shocking phone call and status update",
+    "mood": "shocking",
+    "summary": "Harun speaks on the phone on the balcony about presenting the suspect in court tomorrow. Dipu rushes up to him visibly shaken and reveals a catastrophic accident has occurred: Masum cannot be found anywhere.",
+    "opening_gist": "Harun talks confidently on his phone overlooking the station compound.",
+    "closing_gist": "Harun drops his lighter in disbelief as Dipu reveals Masum is missing.",
+    "ends_on": "cliffhanger",
+    "tags": [
+     "balcony",
+     "night",
+     "police station",
+     "phone call",
+     "lighter",
+     "cigarette",
+     "shock",
+     "escape"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "scene_after": {
+    "start": "22:12",
+    "end": "23:17",
+    "location": "Graphic Screen",
+    "characters": [],
+    "dominant_activity": "End credits roll",
+    "mood": "neutral",
+    "summary": "Full rolling end credits for the episode, listing cast, technical crew, and production credits accompanied by theme music.",
+    "opening_gist": "White rolling text on a solid black background appears.",
+    "closing_gist": "Copyright notice for Hoichoi Technologies displays before fading out.",
+    "ends_on": "resolved",
+    "tags": [
+     "credits",
+     "cast",
+     "crew",
+     "text",
+     "black screen"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.41,
+    "natural_break_confidence": 0.41,
+    "same_conversation": 0.03,
+    "emotional_peak": 0.87,
+    "input_tokens": 1057
+   },
+   "quality": 0.7103
+  }
+ ],
+ "rejected": [
+  {
+   "boundary_index": 0,
+   "gemini_boundary": 9.0,
+   "reason": "inside protected opening/ending window"
+  }
+ ]
+}

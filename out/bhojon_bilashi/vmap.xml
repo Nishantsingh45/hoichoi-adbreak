@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+  <vmap:AdBreak timeOffset="00:06:15.880" breakType="linear" breakId="midroll-1">
+    <vmap:AdSource id="midroll-1-ad" allowMultipleAds="false" followRedirects="true">
+      <vmap:VASTAdData>
+        <VAST version="3.0">
+          <Ad id="g_30s_bn">
+            <InLine>
+              <AdSystem version="1.0">hoichoi-adbreak-planner</AdSystem>
+              <AdTitle>Brand G</AdTitle>
+              <Advertiser>Brand G</Advertiser>
+              <Impression id="imp-g_30s_bn"><![CDATA[about:blank]]></Impression>
+              <Creatives>
+                <Creative id="g_30s_bn" sequence="1">
+                  <Linear>
+                    <Duration>00:00:30</Duration>
+                    <MediaFiles>
+                      <MediaFile id="g_30s_bn" delivery="progressive" type="video/mp4" width="1280" height="720"><![CDATA[/ads/brand_g/g_30s_bn.mp4]]></MediaFile>
+                    </MediaFiles>
+                  </Linear>
+                </Creative>
+              </Creatives>
+            </InLine>
+          </Ad>
+        </VAST>
+      </vmap:VASTAdData>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+  <vmap:AdBreak timeOffset="00:15:20.920" breakType="linear" breakId="midroll-2">
+    <vmap:AdSource id="midroll-2-ad" allowMultipleAds="false" followRedirects="true">
+      <vmap:VASTAdData>
+        <VAST version="3.0">
+          <Ad id="a_20s_bn">
+            <InLine>
+              <AdSystem version="1.0">hoichoi-adbreak-planner</AdSystem>
+              <AdTitle>Brand A</AdTitle>
+              <Advertiser>Brand A</Advertiser>
+              <Impression id="imp-a_20s_bn"><![CDATA[about:blank]]></Impression>
+              <Creatives>
+                <Creative id="a_20s_bn" sequence="1">
+                  <Linear>
+                    <Duration>00:00:20</Duration>
+                    <MediaFiles>
+                      <MediaFile id="a_20s_bn" delivery="progressive" type="video/mp4" width="1280" height="720"><![CDATA[/ads/brand_a/a_20s_bn.mp4]]></MediaFile>
+                    </MediaFiles>
+                  </Linear>
+                </Creative>
+              </Creatives>
+            </InLine>
+          </Ad>
+        </VAST>
+      </vmap:VASTAdData>
+    </vmap:AdSource>
+  </vmap:AdBreak>
+</vmap:VMAP>

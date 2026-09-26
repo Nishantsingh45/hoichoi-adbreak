@@ -1,0 +1,116 @@
+{
+ "439.000": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A woman is speaking in Bengali, then there is a sound of a plate being put on a table, and then a man is eating.",
+  "passed": true
+ },
+ "909.824": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man grunts at 00:05.",
+  "passed": true
+ },
+ "310.360": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "The audio cuts from a man speaking to the sound of crickets.",
+  "passed": true
+ },
+ "1007.280": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "There is no speech, only background music.",
+  "passed": true
+ },
+ "888.880": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A musical instrument is playing a tune.",
+  "passed": true
+ },
+ "1018.360": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "There is no speech heard between 00:04 and 00:06. The only audio is background music and ambient sounds.",
+  "passed": true
+ },
+ "740.560": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man says \"Hey, Mohan\" in Bengali.",
+  "passed": false
+ },
+ "597.360": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man is speaking in Bengali, then the scene changes to a night street with traffic and music.",
+  "passed": true
+ },
+ "705.822": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A dramatic string instrument plays a melody.",
+  "passed": true
+ },
+ "1271.120": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man is speaking in Bengali, and his speech starts at 00:05.00 and continues after the cut.",
+  "passed": false
+ },
+ "1214.480": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A man is heard screaming 'Please save me' and the word 'save' is cut off by the ad-break.",
+  "passed": false
+ },
+ "1217.880": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man is heard shouting in Bengali, and then another man speaks in Bengali after the cut.",
+  "passed": false
+ },
+ "1143.080": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A woman is heard crying and speaking in Bengali until 00:04. Then there is silence until 00:08, when a man starts speaking in Bengali.",
+  "passed": true
+ },
+ "1332.000": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man is heard screaming, followed by a loud bang. Then, music starts playing.",
+  "passed": true
+ },
+ "681.400": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Silence/quiet background room tone as the shot transitions down the hallway; no speech occurs between 00:04 and 00:06.",
+  "passed": true
+ },
+ "640.618": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Only instrumental background music",
+  "passed": true
+ },
+ "610.600": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Silence or faint ambient/background music with no speech around 00:05; speech starts later around 00:07.",
+  "passed": true
+ },
+ "198.040": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Ambient vehicle engine sounds, no speech is heard around 00:05.",
+  "passed": true
+ },
+ "194.520": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A soft flute or wind instrument melody plays against background ambient sound with no speech.",
+  "passed": true
+ }
+}

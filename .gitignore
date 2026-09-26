@@ -1,0 +1,8 @@
+.env
+.venv/
+__pycache__/
+data/
+out/**/audio.wav
+out/**/proxy.mp4
+out/ads/**/*.png
+out/gemini_ledger.json

@@ -1,0 +1,643 @@
+{
+ "synopsis": "An aged Indubala reminisces about her youth and journey as a customer relishes her Kochu Bata dish. Decades earlier, young Indubala bonds with Laxmi, a girl she takes under her wing, only for Laxmi to meet a tragic end on the railway tracks.",
+ "scenes": [
+  {
+   "start": "00:00",
+   "end": "00:18",
+   "location": "Graphic slate",
+   "characters": [],
+   "dominant_activity": "Network ident and disclaimer text",
+   "mood": "neutral",
+   "summary": "The channel logo appears followed by standard legal disclaimers and credits.",
+   "opening_gist": "Network ident logo plays.",
+   "closing_gist": "Legal text and title information on black screen.",
+   "ends_on": "transition",
+   "tags": [
+    "disclaimer",
+    "logo",
+    "title screen"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:18",
+   "end": "01:06",
+   "location": "Rural marshland / Taro plantation",
+   "characters": [
+    "Young Indubala",
+    "Child sibling"
+   ],
+   "dominant_activity": "Harvesting taro roots in the wet marsh",
+   "mood": "tense",
+   "summary": "Young Indubala and her young brother navigate a wet taro leaf patch during rain to harvest roots. She urges him to keep watch while she cuts the stalk, reciting rhymes to stave off fear.",
+   "opening_gist": "A boy calls out to his sister warning her about mother finding out.",
+   "closing_gist": "Indubala calls out frantically looking for her brother as he wanders off.",
+   "ends_on": "cliffhanger",
+   "tags": [
+    "taro plantation",
+    "rain",
+    "harvesting",
+    "forest",
+    "siblings",
+    "nature"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "01:06",
+   "end": "02:59",
+   "location": "Old Indubala's bedroom",
+   "characters": [
+    "Elderly Indubala",
+    "Son (on video call)",
+    "Granddaughter (on video call)",
+    "Daughter-in-law / House help"
+   ],
+   "dominant_activity": "Elderly Indubala video calls her son and family",
+   "mood": "tender",
+   "summary": "Elderly Indubala sits in her armchair answering a video call from her son abroad. Her granddaughter proudly shows off a dish she cooked, and her son mentions plans for an extended leave to visit home. Afterwards, a maid comes in to discuss the next day's meal plan.",
+   "opening_gist": "The son greets his mother on screen asking what she was doing.",
+   "closing_gist": "Indubala dismisses the maid, saying she will look into the cooking tomorrow.",
+   "ends_on": "resolved",
+   "tags": [
+    "bedroom",
+    "phone call",
+    "video call",
+    "family",
+    "elderly",
+    "cooking discussion"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "02:59",
+   "end": "03:20",
+   "location": "Rural marshland / Taro plantation",
+   "characters": [
+    "Young Indubala"
+   ],
+   "dominant_activity": "Indubala cutting a taro stalk in the rain",
+   "mood": "mysterious",
+   "summary": "Young Indubala uses a blade to chop down a thick stalk of taro plant in the gloomy forest rain.",
+   "opening_gist": "Young Indubala slices through a wet taro plant.",
+   "closing_gist": "She looks up anxiously into the gloomy canopy.",
+   "ends_on": "transition",
+   "tags": [
+    "taro plantation",
+    "rain",
+    "cutting",
+    "flashback"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "03:20",
+   "end": "04:42",
+   "location": "Indubala's boarding eatery (Past)",
+   "characters": [
+    "Young Indubala",
+    "Dhana",
+    "Boarders / Dining customers",
+    "Young girl (Laxmi)"
+   ],
+   "dominant_activity": "Serving meals to lunch boarders at the hotel",
+   "mood": "warm",
+   "summary": "Customers sit along the hallway floor enjoying a freshly cooked home-style meal, praising the quality of the food. Laxmi rushes in excitedly carrying a large taro root she retrieved, bringing joy to the boarders who request a special dish.",
+   "opening_gist": "A customer compliments the delicious food as Dhana rushes about.",
+   "closing_gist": "Indubala tells Dhana to bring out the grinding stone as Laxmi beams with pride.",
+   "ends_on": "resolved",
+   "tags": [
+    "hotel",
+    "eating",
+    "serving food",
+    "rice",
+    "boarding house",
+    "traditional meal"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "04:42",
+   "end": "05:03",
+   "location": "Street outside Indubala's hotel (Present)",
+   "characters": [
+    "Elderly Indubala",
+    "Vegetable vendor"
+   ],
+   "dominant_activity": "Buying fresh vegetables from a cart vendor",
+   "mood": "nostalgic",
+   "summary": "Old Indubala steps out to inspect produce on a vegetable cart. The vendor shows her fresh Elephant Apple (chalta) and high-quality taro roots, which she examines fondly.",
+   "opening_gist": "The vendor greets Indubala and asks what she needs today.",
+   "closing_gist": "Indubala handles the taro roots thoughtfully as she prepares to buy them.",
+   "ends_on": "transition",
+   "tags": [
+    "street",
+    "vegetable cart",
+    "shopping",
+    "elderly woman",
+    "food ingredients"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "05:03",
+   "end": "07:07",
+   "location": "Kitchen / Hallway (Past)",
+   "characters": [
+    "Young Indubala",
+    "Laxmi"
+   ],
+   "dominant_activity": "Grinding taro root and sharing memories",
+   "mood": "tender",
+   "summary": "Indubala grinds taro roots on a stone mortar alongside Laxmi while reminiscing about her childhood pond and memories back in East Bengal. Interspersed flashback flashes show her wading through wet vegetation as a lyrical song swells, followed by the two sharing a quiet meal together.",
+   "opening_gist": "Indubala and Laxmi prepare the taro paste in the kitchen.",
+   "closing_gist": "Both women sit on the floor smiling and eating rice mixed with the paste.",
+   "ends_on": "resolved",
+   "tags": [
+    "kitchen",
+    "cooking",
+    "grinding stone",
+    "memories",
+    "eating",
+    "bonding",
+    "traditional song"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "07:07",
+   "end": "08:33",
+   "location": "Dining room (Present)",
+   "characters": [
+    "Elderly Indubala",
+    "Young female customer / Vlogger",
+    "Dhana",
+    "Other diners"
+   ],
+   "dominant_activity": "Customer tasting the special Kochu Bata dish and recording a vlog",
+   "mood": "cheerful",
+   "summary": "Elderly Indubala serves the freshly prepared Kochu Bata to a young girl seated at the dining table who is recording a food review on her phone. The girl is blown away by the authentic flavor and praises Indubala, suggesting this rare specialty could draw huge crowds.",
+   "opening_gist": "A customer receives rice while another requests the taro paste.",
+   "closing_gist": "A loud singer's voice echoes from outside, catching Indubala's attention.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "dining room",
+    "eating",
+    "vlogging",
+    "smartphone",
+    "restaurant",
+    "appreciation"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "08:33",
+   "end": "09:17",
+   "location": "Courtyard & Kitchen (Past)",
+   "characters": [
+    "Young Indubala",
+    "Dhana",
+    "Schoolchildren"
+   ],
+   "dominant_activity": "Morning chores in the boarding house courtyard",
+   "mood": "calm",
+   "summary": "Young Indubala checks the kitchen fire amid morning smoke, sends the children off to school, and asks Dhana if Laxmi has returned with the taro.",
+   "opening_gist": "Indubala walks out to the courtyard asking if the stove has caught fire.",
+   "closing_gist": "Dhana remarks that Laxmi must be harvesting taro near the railway tracks.",
+   "ends_on": "transition",
+   "tags": [
+    "courtyard",
+    "morning routine",
+    "schoolchildren",
+    "domestic chores",
+    "smoke"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "09:17",
+   "end": "10:14",
+   "location": "Courtyard & Doorway",
+   "characters": [
+    "Young Indubala",
+    "Dhana",
+    "Laxmi's husband"
+   ],
+   "dominant_activity": "Laxmi's husband arrives with grim news",
+   "mood": "tense",
+   "summary": "A distraught man enters weeping and breaks down before Indubala, revealing that his wife Laxmi was struck and severed by a speeding train while crossing the railway tracks early that morning.",
+   "opening_gist": "The man calls out to Indubala in tears from the courtyard.",
+   "closing_gist": "He collapses weeping about Laxmi's body being cut into two pieces.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "courtyard",
+    "crying",
+    "tragic news",
+    "accident report",
+    "shock"
+   ],
+   "sensitive_themes": [
+    "death",
+    "accident_or_crash"
+   ]
+  },
+  {
+   "start": "10:14",
+   "end": "10:38",
+   "location": "Railway crossing (Past)",
+   "characters": [
+    "Police officers",
+    "Cart pullers",
+    "Bystanders"
+   ],
+   "dominant_activity": "Carrying the deceased body away from the railway tracks",
+   "mood": "somber",
+   "summary": "Local authorities and cart drivers load the sheet-covered remains from the railway line onto a wooden handcart amidst gathering rain and transport it away.",
+   "opening_gist": "Railway tracks show scattered food containers and debris.",
+   "closing_gist": "The cart bearing the body is pushed past the railway gate.",
+   "ends_on": "transition",
+   "tags": [
+    "railway tracks",
+    "corpse",
+    "police",
+    "handcart",
+    "monsoon",
+    "body transport"
+   ],
+   "sensitive_themes": [
+    "death",
+    "funeral_or_mourning"
+   ]
+  },
+  {
+   "start": "10:38",
+   "end": "12:16",
+   "location": "Indubala's bedroom and courtyard (Past)",
+   "characters": [
+    "Young Indubala",
+    "Her young sons",
+    "Laxmi",
+    "Boarders"
+   ],
+   "dominant_activity": "Flashback to a stormy night when Laxmi took shelter",
+   "mood": "warm",
+   "summary": "Indubala reads a book to her young boys in bed on a tempestuous rainy night when Laxmi rushes in soaked, seeking shelter and bringing sweets. Boarders enjoy the rain as Indubala offers Laxmi dry clothes and a towel.",
+   "opening_gist": "Title card plays, followed by Indubala with her boys in bed.",
+   "closing_gist": "Laxmi wraps herself in a dry towel inside Indubala's room.",
+   "ends_on": "resolved",
+   "tags": [
+    "bedroom",
+    "rainstorm",
+    "friendship",
+    "bedtime story",
+    "shelter",
+    "monsoon"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "12:16",
+   "end": "12:47",
+   "location": "Morgue",
+   "characters": [
+    "Morgue attendants"
+   ],
+   "dominant_activity": "Morgue workers handling ice and lifting the covered body",
+   "mood": "somber",
+   "summary": "Attendants in a dim hospital morgue haul large blocks of ice across the wet floor and lift the covered corpse onto a metal autopsy table, noting the body was crushed on the train tracks.",
+   "opening_gist": "Morgue workers drag heavy ice slabs near the gurney.",
+   "closing_gist": "The body wrapped in cloth is hoisted onto the table.",
+   "ends_on": "transition",
+   "tags": [
+    "morgue",
+    "corpse",
+    "ice slabs",
+    "gurney",
+    "hospital"
+   ],
+   "sensitive_themes": [
+    "death",
+    "funeral_or_mourning"
+   ]
+  },
+  {
+   "start": "12:47",
+   "end": "13:39",
+   "location": "Indubala's bedroom (Past)",
+   "characters": [
+    "Laxmi"
+   ],
+   "dominant_activity": "Laxmi admiring herself in the mirror and lying on the bed",
+   "mood": "melancholic",
+   "summary": "In the flashback, a younger Laxmi dries her hair, looks in the mirror, and marvels at the comfort of Indubala's spacious four-poster bed before curling up to rest.",
+   "opening_gist": "Laxmi brushes her hair looking at her reflection.",
+   "closing_gist": "She lies peacefully across the mattress with a weary smile.",
+   "ends_on": "transition",
+   "tags": [
+    "bedroom",
+    "mirror",
+    "bed",
+    "flashback",
+    "resting"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "13:39",
+   "end": "14:12",
+   "location": "Hospital / Police station veranda",
+   "characters": [
+    "Young Indubala",
+    "Laxmi's husband",
+    "Officials"
+   ],
+   "dominant_activity": "Waiting to identify the body in the rain",
+   "mood": "bleak",
+   "summary": "Indubala stands waiting under the rainy hospital portico as Laxmi's husband informs her that all arrangements have been made and an officer calls out for Laxmi Pahan's family.",
+   "opening_gist": "People walk with umbrellas outside a government building.",
+   "closing_gist": "An attendant calls out asking for relatives of the deceased.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "hospital",
+    "corridor",
+    "rain",
+    "waiting",
+    "identification"
+   ],
+   "sensitive_themes": [
+    "death"
+   ]
+  },
+  {
+   "start": "14:12",
+   "end": "15:09",
+   "location": "Indubala's bedroom (Past)",
+   "characters": [
+    "Young Indubala",
+    "Laxmi"
+   ],
+   "dominant_activity": "Late night conversation between friends",
+   "mood": "tender",
+   "summary": "Indubala enters holding a kerosene lantern and gently wakes Laxmi. She warmly tells Laxmi that she too had never seen such a fine bed before coming to this house, and promises to make tea and puffed rice for them.",
+   "opening_gist": "Indubala enters the dark room carrying a lantern.",
+   "closing_gist": "Laxmi smiles as Indubala calls Dhana to boil water for tea.",
+   "ends_on": "resolved",
+   "tags": [
+    "bedroom",
+    "lantern",
+    "bonding",
+    "tea",
+    "midnight conversation"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "15:09",
+   "end": "15:33",
+   "location": "Morgue",
+   "characters": [
+    "Young Indubala",
+    "Doctor / Attendant"
+   ],
+   "dominant_activity": "Identifying the dead body",
+   "mood": "heartbreaking",
+   "summary": "Indubala stands over the covered body on the examination table. When the cloth is pulled back, she stares at the bandaged face of Laxmi with quiet sorrow.",
+   "opening_gist": "Indubala steps into the cold morgue room under a hanging lamp.",
+   "closing_gist": "She gazes down at Laxmi's lifeless face.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "morgue",
+    "corpse",
+    "identification",
+    "grief",
+    "silent sorrow"
+   ],
+   "sensitive_themes": [
+    "death",
+    "funeral_or_mourning"
+   ]
+  },
+  {
+   "start": "15:33",
+   "end": "17:36",
+   "location": "Boarding house courtyard / kitchen (Past)",
+   "characters": [
+    "Young Indubala",
+    "Laxmi",
+    "Dhana"
+   ],
+   "dominant_activity": "Laxmi shares stories of her lost village and first love",
+   "mood": "poignant",
+   "summary": "Sitting on the veranda by lamplight, Laxmi reminisces about her childhood village by the Kamli river, a boy named Arjun she once fancied, and how floods washed away her home. She teases Indubala about her own past romance.",
+   "opening_gist": "Laxmi says she had a strange dream after a long time.",
+   "closing_gist": "Indubala gets up silently with an elusive smile, saying she has no such story.",
+   "ends_on": "transition",
+   "tags": [
+    "courtyard",
+    "lantern",
+    "storytelling",
+    "nostalgia",
+    "tea drinking",
+    "memories"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "17:36",
+   "end": "18:26",
+   "location": "Morgue",
+   "characters": [
+    "Young Indubala",
+    "Laxmi (deceased)"
+   ],
+   "dominant_activity": "Indubala bidding farewell to deceased Laxmi",
+   "mood": "mournful",
+   "summary": "Indubala gently whispers to deceased Laxmi that she lied about having no love story of her own, and acknowledges that they were truly alike.",
+   "opening_gist": "A mournful classical song accompanies Indubala standing over the body.",
+   "closing_gist": "Indubala admits her hidden secret to her dead friend.",
+   "ends_on": "transition",
+   "tags": [
+    "morgue",
+    "corpse",
+    "confession",
+    "mourning",
+    "song"
+   ],
+   "sensitive_themes": [
+    "death",
+    "funeral_or_mourning"
+   ]
+  },
+  {
+   "start": "18:26",
+   "end": "18:58",
+   "location": "Boarding house veranda (Past)",
+   "characters": [
+    "Young Indubala",
+    "Laxmi"
+   ],
+   "dominant_activity": "Watching the rain and laughing together",
+   "mood": "joyful",
+   "summary": "Indubala steps to the open door and reaches out her hand into the torrential rain, laughing as Laxmi teases her about being in love.",
+   "opening_gist": "Indubala looks outside at the heavy downpour.",
+   "closing_gist": "Indubala rinses rain water over her face with a blissful laugh.",
+   "ends_on": "resolved",
+   "tags": [
+    "rain",
+    "monsoon",
+    "laughter",
+    "friendship",
+    "nostalgia"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "18:58",
+   "end": "19:46",
+   "location": "Morgue office",
+   "characters": [
+    "Young Indubala",
+    "Morgue clerk"
+   ],
+   "dominant_activity": "Signing the release papers for Laxmi's body",
+   "mood": "somber",
+   "summary": "A stray dog is shooed away from the morgue entrance. The official asks Indubala how she is related to the deceased, and Indubala firmly declares herself as Laxmi's sister, signing the official paperwork.",
+   "opening_gist": "The clerk chases a dog out of the doorway.",
+   "closing_gist": "Indubala signs her name on the register and walks out.",
+   "ends_on": "resolved",
+   "tags": [
+    "paperwork",
+    "signing documents",
+    "morgue office",
+    "corpse handover",
+    "sisterhood"
+   ],
+   "sensitive_themes": [
+    "death"
+   ]
+  },
+  {
+   "start": "19:46",
+   "end": "20:24",
+   "location": "Hospital veranda",
+   "characters": [
+    "Young Indubala"
+   ],
+   "dominant_activity": "Standing in the pouring rain in silent grief",
+   "mood": "melancholic",
+   "summary": "Indubala steps onto the outdoor veranda as the rain pours down violently. She extends her hand to catch the raindrops just as she had done with Laxmi, weeping quietly.",
+   "opening_gist": "Indubala steps out into the rain-swept corridor.",
+   "closing_gist": "She gazes upward catching the raindrops in her palm.",
+   "ends_on": "transition",
+   "tags": [
+    "rain",
+    "grief",
+    "solitude",
+    "crying",
+    "symbolism"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "20:24",
+   "end": "21:27",
+   "location": "Boarding house courtyard (Past)",
+   "characters": [
+    "Lawyer",
+    "Dhana",
+    "Indubala's young son"
+   ],
+   "dominant_activity": "The lawyer delivers legal news about the property",
+   "mood": "relieved",
+   "summary": "A lawyer arrives asking for Indubala and announces to Dhana that she has won the court case, legally securing full ownership of the house. He remarks that all other claimants must vacate within seven days, and praises Laxmi's fierce support during the legal battle.",
+   "opening_gist": "The lawyer enters the courtyard looking for Indubala.",
+   "closing_gist": "Dhana tells the lawyer that Laxmi has passed away.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "courtyard",
+    "lawyer",
+    "legal victory",
+    "property ownership",
+    "news delivery"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "21:27",
+   "end": "22:25",
+   "location": "Dining corridor / Room (Past)",
+   "characters": [
+    "Young Indubala",
+    "Dhana"
+   ],
+   "dominant_activity": "Indubala plans a memorial offering for Laxmi",
+   "mood": "mournful",
+   "summary": "Indubala sits alone in despair when Dhana brings her water and asks about Laxmi's last rites. Indubala asks Dhana to visit the market to find taro roots so she can cook a memorial meal for Laxmi according to custom.",
+   "opening_gist": "Indubala sits motionlessly in the corner of the dining room.",
+   "closing_gist": "Dhana departs for the bazaar while leaving the front door open.",
+   "ends_on": "resolved",
+   "tags": [
+    "dining room",
+    "water glass",
+    "mourning",
+    "memorial meal planning",
+    "grief"
+   ],
+   "sensitive_themes": [
+    "death"
+   ]
+  },
+  {
+   "start": "22:25",
+   "end": "24:50",
+   "location": "Dark woods / Field & Bedroom (Past)",
+   "characters": [
+    "Young Indubala"
+   ],
+   "dominant_activity": "Placing an earthen lamp and food offering for Laxmi's soul",
+   "mood": "haunting",
+   "summary": "At night, Indubala lights a clay lamp and carries a plate of food including Kochu Bata into the dark trees by the tracks. She leaves the food offering under a tree and returns to sit on her bed in silent mourning.",
+   "opening_gist": "A match strikes as Indubala lights an oil lamp in the dark.",
+   "closing_gist": "She sits alone on the edge of the bed as the song fades out.",
+   "ends_on": "resolved",
+   "tags": [
+    "earthen lamp",
+    "night",
+    "food offering",
+    "memorial ritual",
+    "forest",
+    "loneliness",
+    "song"
+   ],
+   "sensitive_themes": [
+    "death",
+    "religious_ritual"
+   ]
+  },
+  {
+   "start": "24:50",
+   "end": "25:53",
+   "location": "End credits roll",
+   "characters": [],
+   "dominant_activity": "End credits scrolling against black background",
+   "mood": "neutral",
+   "summary": "The episode concludes with the complete cast and crew credits scroll.",
+   "opening_gist": "Director and title credits appear on black.",
+   "closing_gist": "Copyright notice appears at the end of the credits.",
+   "ends_on": "resolved",
+   "tags": [
+    "credits",
+    "cast",
+    "crew",
+    "title screen"
+   ],
+   "sensitive_themes": []
+  }
+ ],
+ "model": "gemini-3.8-flash",
+ "usage": {
+  "prompt_tokens": 141733,
+  "output_tokens": 6466,
+  "thinking_tokens": null
+ }
+}

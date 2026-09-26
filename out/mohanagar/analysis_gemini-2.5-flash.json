@@ -1,0 +1,351 @@
+{
+ "synopsis": "This drama episode follows multiple interconnected storylines involving a police officer, a reporter, a powerful politician, and a young woman. The police officer, Harun, is under pressure due to a news report by reporter Sukumar. Meanwhile, a man named Murubi is searching for a girl named Zara, leading him to a brothel and later to a drug dealer. A powerful politician, Madam, is pushing for a public toilet project, facing resistance from her MP's assistant, Titu. The episode culminates in the arrest of a young man named Masum, who is Zara's brother, and the police officer Harun is forced to detain him despite his innocence. The various characters navigate a complex web of corruption, power, and personal stakes.",
+ "scenes": [
+  {
+   "start": "00:00",
+   "end": "00:08",
+   "location": "On-screen text",
+   "characters": [],
+   "dominant_activity": "Displaying disclaimer and production logo",
+   "mood": "Informative, neutral",
+   "summary": "The scene displays a disclaimer about the fictional nature of the program, followed by the \"hoichoi Originals\" logo.",
+   "opening_gist": "Disclaimer text appears on screen.",
+   "closing_gist": "\"hoichoi Originals\" logo is displayed.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:08",
+   "end": "02:18",
+   "location": "Dark alleyway/street at night",
+   "characters": [
+    "Police Officer (Harun)",
+    "Reporter (Sukumar)"
+   ],
+   "dominant_activity": "Heated conversation between a police officer and a reporter about a news report.",
+   "mood": "Tense, confrontational, slightly humorous",
+   "summary": "A police officer confronts a reporter in a dark alley about a news article on his phone, implying the officer is being investigated. The officer, Harun, warns Sukumar to be careful, suggesting he knows more than he lets on.",
+   "opening_gist": "Two men are seen walking in an alley, then stop to talk. One is a police officer, the other a reporter.",
+   "closing_gist": "The police officer warns the reporter to be careful for his own good.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "02:18",
+   "end": "03:17",
+   "location": "Various cityscapes, markets, monuments, and indoor settings at night.",
+   "characters": [
+    "Various unnamed people",
+    "Actors' names appear"
+   ],
+   "dominant_activity": "Montage of city life and credits.",
+   "mood": "Dynamic, mysterious, urban",
+   "summary": "A fast-paced montage showcases various aspects of city life at night, including busy streets, markets, and monuments, interspersed with the opening credits and cast/crew names.",
+   "opening_gist": "A metal structure is shown at night, then transitions to busy city streets.",
+   "closing_gist": "The title \"Mohanagar 2\" appears, followed by \"Shonkher Korat\" and \"Ashfaque Nipun\".",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "03:17",
+   "end": "04:26",
+   "location": "Busy street at night, near an auto-rickshaw stand.",
+   "characters": [
+    "Auto-rickshaw driver (Ratan Mia)",
+    "Man in white jacket (Murubi)"
+   ],
+   "dominant_activity": "A man asks an auto-rickshaw driver to help him find someone using a photo on his phone.",
+   "mood": "Suspenseful, slightly informal",
+   "summary": "A man in a white jacket approaches an auto-rickshaw driver, Ratan Mia, asking for help to find someone from a photo on his phone. Ratan Mia recognizes the person and offers to take the man to a place where he might find her.",
+   "opening_gist": "An auto-rickshaw driver is smoking. A man in a white jacket walks up to him.",
+   "closing_gist": "The man in the white jacket gets into the auto-rickshaw, and they drive off quickly.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "smoking"
+   ]
+  },
+  {
+   "start": "04:26",
+   "end": "05:11",
+   "location": "Narrow alleyway inside a brothel",
+   "characters": [
+    "Man in white jacket (Murubi)",
+    "Auto-rickshaw driver (Ratan Mia)",
+    "Several women"
+   ],
+   "dominant_activity": "The man in the white jacket is taken to a brothel by the auto-rickshaw driver, looking for someone.",
+   "mood": "Seedy, uncomfortable, transactional",
+   "summary": "Ratan Mia takes the man in the white jacket to a brothel, claiming it's a famous place. The man is looking for a specific person, but Ratan Mia tries to convince him that there are \"top-class\" women there and offers a discount.",
+   "opening_gist": "The man in the white jacket and Ratan Mia are inside a narrow alley with several women sitting.",
+   "closing_gist": "Ratan Mia smiles, suggesting the man will enjoy his time there.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "sexual_content",
+    "poverty_or_financial_distress"
+   ]
+  },
+  {
+   "start": "05:11",
+   "end": "07:19",
+   "location": "Madam's office at night",
+   "characters": [
+    "Madam",
+    "Titu (MP's PS)",
+    "Assistant"
+   ],
+   "dominant_activity": "Madam discusses official matters with her assistant and Titu, the MP's PS.",
+   "mood": "Formal, tense, political",
+   "summary": "Madam is in her office at night, discussing her schedule with her assistant. Titu, the MP's PS, arrives for an appointment. They discuss a file about public toilets for women, which Titu implies is being held up due to hawkers. Madam asserts her plan will proceed and declines an invitation from \"Sir\" (the MP) to an event on her father's land.",
+   "opening_gist": "An exterior shot of a house at night, then inside Madam's office. Her assistant informs her about Titu's arrival.",
+   "closing_gist": "Madam states she will not attend the inauguration of the city shopping mall, as it's on her father's land.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "07:19",
+   "end": "09:57",
+   "location": "Restaurant",
+   "characters": [
+    "Afnan Chowdhury",
+    "Sukumar Borua (DB Officer)"
+   ],
+   "dominant_activity": "Afnan and Sukumar meet in a restaurant, discussing a past incident.",
+   "mood": "Tense, suspicious, threatening",
+   "summary": "Afnan Chowdhury is eating in a restaurant when Sukumar Borua, a DB officer, approaches him. Sukumar mentions seeing Afnan on TV, having been detained by police. He implies Afnan was framed. Afnan then reveals he knows Sukumar's name and that he is Harun's batchmate, subtly threatening him by stating he never forgets.",
+   "opening_gist": "Afnan is eating alone in a restaurant. Sukumar enters and approaches his table.",
+   "closing_gist": "Afnan makes a veiled threat, stating he never forgets anything.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "crime_theft_or_fraud",
+    "violence_or_fight"
+   ]
+  },
+  {
+   "start": "09:57",
+   "end": "11:42",
+   "location": "City streets at night, inside a car",
+   "characters": [
+    "Afnan Chowdhury",
+    "Sukumar Borua (on phone)"
+   ],
+   "dominant_activity": "Afnan drives while talking on the phone with Sukumar, who is looking for a girl named Zara.",
+   "mood": "Urgent, determined, mysterious",
+   "summary": "Afnan is driving at night, talking on the phone with Sukumar Borua. Sukumar is frustrated about not finding a girl and asks Afnan for help, providing a phone number. Afnan asks for the girl's name, Zara Hayat Khan, and states he is in the same city as her.",
+   "opening_gist": "Afnan is driving at night. He receives a call from Sukumar.",
+   "closing_gist": "Afnan learns the girl's name is Zara Hayat Khan and states he is in the same city as her.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "crime_theft_or_fraud"
+   ]
+  },
+  {
+   "start": "11:42",
+   "end": "12:20",
+   "location": "Zara's room",
+   "characters": [
+    "Zara Hayat Khan",
+    "Afnan Chowdhury"
+   ],
+   "dominant_activity": "Zara is distressed and confronted by Afnan.",
+   "mood": "Distressed, tense, confrontational",
+   "summary": "Zara is seen in her room, visibly distressed. Afnan enters and confronts her, grabbing her face and speaking intensely. Zara appears scared and overwhelmed.",
+   "opening_gist": "Zara is in her room, looking distressed and holding her head.",
+   "closing_gist": "Zara cries out in distress, hitting a wall, as if trying to escape.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "horror_or_fear",
+    "violence_or_fight"
+   ]
+  },
+  {
+   "start": "12:20",
+   "end": "13:50",
+   "location": "Street at night",
+   "characters": [
+    "Sukumar Borua",
+    "Drug dealer (Mohon)"
+   ],
+   "dominant_activity": "Sukumar Borua tries to get information from a drug dealer about Zara.",
+   "mood": "Tense, manipulative, threatening",
+   "summary": "Sukumar Borua approaches a drug dealer named Mohon, asking for drugs. He then subtly tries to extract information about Zara, implying he knows Mohon knows her whereabouts. Mohon denies knowing Zara, but Sukumar threatens him, stating he knows Mohon is involved in drug dealing and will face consequences if he doesn't cooperate.",
+   "opening_gist": "Sukumar Borua is on the street, talking on the phone, then approaches Mohon.",
+   "closing_gist": "Sukumar threatens Mohon, implying he will face severe consequences if he doesn't reveal Zara's location.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "drugs",
+    "violence_or_fight",
+    "crime_theft_or_fraud"
+   ]
+  },
+  {
+   "start": "13:50",
+   "end": "14:48",
+   "location": "Street at night",
+   "characters": [
+    "Sukumar Borua",
+    "Drug dealer (Mohon)"
+   ],
+   "dominant_activity": "Sukumar Borua threatens Mohon to reveal Zara's location.",
+   "mood": "Threatening, intense",
+   "summary": "Sukumar Borua continues to threaten Mohon, demanding to know Zara's location. He explicitly states that if Mohon doesn't cooperate, he will ensure Mohon's drug dealing activities are exposed, and he will face severe repercussions. Mohon eventually gives in and reveals Zara's location.",
+   "opening_gist": "Sukumar Borua is seen threatening Mohon, demanding information.",
+   "closing_gist": "Mohon reveals Zara's location and room number at a hotel, and Sukumar leaves.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "drugs",
+    "violence_or_fight",
+    "crime_theft_or_fraud"
+   ]
+  },
+  {
+   "start": "14:48",
+   "end": "15:12",
+   "location": "Hotel room",
+   "characters": [
+    "Afnan Chowdhury",
+    "Man (possibly hotel staff/associate)"
+   ],
+   "dominant_activity": "Afnan is sleeping and is woken up by a man.",
+   "mood": "Tense, abrupt",
+   "summary": "Afnan is seen sleeping on a couch in a hotel room. A man enters and wakes him up, asking why he's sleeping and telling him to sit up straight, implying urgency or a problem.",
+   "opening_gist": "Afnan is sleeping on a couch in a hotel room.",
+   "closing_gist": "Afnan is startled awake and sits up, looking confused.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "15:12",
+   "end": "16:42",
+   "location": "Dark alleyway/street at night",
+   "characters": [
+    "Police Officer (Harun)",
+    "Reporter (Sukumar)"
+   ],
+   "dominant_activity": "Harun and Sukumar discuss the arrest of a woman and the political implications.",
+   "mood": "Cynical, strategic, tense",
+   "summary": "Harun and Sukumar are smoking in the alley. Sukumar asks if the woman arrested is actually guilty, implying political pressure. Harun explains the immense pressure police face and reveals that his promotion is certain because the government can quickly resolve cases against opposition parties during elections, benefiting them politically.",
+   "opening_gist": "Harun and Sukumar are smoking and talking in the alley.",
+   "closing_gist": "Harun explains the political benefits of quickly resolving cases against opposition parties during elections.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "smoking",
+    "crime_theft_or_fraud"
+   ]
+  },
+  {
+   "start": "16:42",
+   "end": "16:58",
+   "location": "Police station",
+   "characters": [
+    "Zara Hayat Khan",
+    "Police officers"
+   ],
+   "dominant_activity": "Zara is detained at the police station, looking worried.",
+   "mood": "Anxious, tense",
+   "summary": "Zara is seen sitting alone in a police station, looking worried. Police officers are in the background, talking amongst themselves.",
+   "opening_gist": "Zara is sitting alone in the police station, looking worried.",
+   "closing_gist": "Police officers are seen talking in the background.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "crime_theft_or_fraud"
+   ]
+  },
+  {
+   "start": "16:58",
+   "end": "19:03",
+   "location": "Police station cell",
+   "characters": [
+    "Zara Hayat Khan",
+    "Masum (Zara's brother)"
+   ],
+   "dominant_activity": "Zara visits her brother Masum in a police cell, who is in distress.",
+   "mood": "Distressed, emotional, desperate",
+   "summary": "Zara is brought to a police cell where her brother, Masum, is detained. Masum is severely distressed, claiming he can't endure the interrogation any longer and feels like he's dying. Zara tries to comfort him, assuring him she has spoken to a lawyer and will get him out.",
+   "opening_gist": "Zara is led down a hallway in the police station and approaches a cell.",
+   "closing_gist": "Masum cries out in despair, saying he can't take it anymore, while Zara tries to comfort him.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "crime_theft_or_fraud",
+    "horror_or_fear",
+    "violence_or_fight"
+   ]
+  },
+  {
+   "start": "19:03",
+   "end": "20:15",
+   "location": "Police station office",
+   "characters": [
+    "Afnan Chowdhury",
+    "Police Officer (Harun)",
+    "Other police officers"
+   ],
+   "dominant_activity": "Afnan is interrogated by Harun and other officers.",
+   "mood": "Tense, accusatory, desperate",
+   "summary": "Afnan is being interrogated by Harun and other police officers. He denies any wrongdoing and asks Harun to inform his family about his situation. Harun then orders Afnan to come with them, ignoring his pleas.",
+   "opening_gist": "Afnan is sitting, holding his head, while Harun and another officer stand nearby.",
+   "closing_gist": "Afnan is forcibly taken away by police officers, pleading for help from Harun.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "crime_theft_or_fraud",
+    "violence_or_fight",
+    "horror_or_fear"
+   ]
+  },
+  {
+   "start": "20:15",
+   "end": "21:11",
+   "location": "Police station cell",
+   "characters": [
+    "Masum",
+    "Police officer"
+   ],
+   "dominant_activity": "Masum is in a cell, asking for water and to clean himself.",
+   "mood": "Distressed, uncomfortable",
+   "summary": "Masum is in a police cell, asking the officer for water and permission to clean himself, indicating he has soiled himself due to distress. The officer initially ignores him but eventually allows him to be taken out.",
+   "opening_gist": "Masum is in a cell, holding a bottle, looking distressed and asking for water.",
+   "closing_gist": "Masum is taken out of the cell by two officers.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "vomiting_or_disgust",
+    "poverty_or_financial_distress"
+   ]
+  },
+  {
+   "start": "21:11",
+   "end": "22:12",
+   "location": "Balcony of a building at night",
+   "characters": [
+    "Police Officer (Harun)",
+    "Other police officer"
+   ],
+   "dominant_activity": "Harun receives a phone call about Masum's disappearance.",
+   "mood": "Tense, urgent, shocked",
+   "summary": "Harun is on a balcony, talking on the phone, confirming that Masum has not confessed but they have enough evidence for a case. He then receives news that Masum cannot be found, causing him to react with shock and concern.",
+   "opening_gist": "Harun is on a balcony, talking on the phone, confirming evidence for a case.",
+   "closing_gist": "Harun reacts with shock and concern upon learning Masum is missing.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "crime_theft_or_fraud"
+   ]
+  },
+  {
+   "start": "22:12",
+   "end": "03:16",
+   "location": "On-screen text",
+   "characters": [],
+   "dominant_activity": "Displaying credits",
+   "mood": "Neutral",
+   "summary": "The scene displays the full credits for the episode.",
+   "opening_gist": "Credits begin to roll.",
+   "closing_gist": "The final production company logo is displayed.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  }
+ ],
+ "model": "gemini-2.5-flash",
+ "usage": {
+  "prompt_tokens": 144171,
+  "output_tokens": 4515,
+  "thinking_tokens": 2044
+ }
+}

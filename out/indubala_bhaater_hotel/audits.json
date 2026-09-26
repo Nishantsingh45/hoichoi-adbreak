@@ -1,0 +1,152 @@
+{
+ "516.280": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A woman is singing in Bengali. Her song is cut off at 00:05.",
+  "passed": false
+ },
+ "426.560": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A woman is singing a song. The song ends at 00:04. Then, a man starts speaking at 00:06.",
+  "passed": true
+ },
+ "1141.936": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man is speaking in Bengali, and a word is cut off at 00:04. Then, a woman is singing in Bengali, and a word is cut off at 00:05. Then, a man is speaking in Bengali at 00:06.",
+  "passed": false
+ },
+ "908.920": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man is speaking in Bengali, and his speech is cut off at 00:04. A woman then starts singing in Bengali at 00:06.",
+  "passed": false
+ },
+ "1290.194": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A sitar plays a melody.",
+  "passed": true
+ },
+ "1223.800": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A boy is heard making a 'shhh' sound, followed by a man asking 'Ma koi?' (Where is mother?)",
+  "passed": true
+ },
+ "1340.864": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A woman is sitting on the floor, looking down. A man is speaking in the background. There is also music playing.",
+  "passed": true
+ },
+ "736.560": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A woman is singing, and then a man speaks.",
+  "passed": false
+ },
+ "851.640": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A woman is sitting and looking to her right. There is no speech, only ambient sounds of rain and thunder. At 00:05, the scene cuts to a dark doorway, and a man enters, followed by a woman. The sounds of rain and thunder continue.",
+  "passed": true
+ },
+ "868.000": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A woman is singing a song in Bengali. The song is cut off at 00:05.",
+  "passed": false
+ },
+ "816.608": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A woman is singing a song in Bengali. The song is cut off at 00:05 and continues after it.",
+  "passed": false
+ },
+ "732.464": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A woman is singing a song in Bengali. The song is cut off at 00:05 and continues after it.",
+  "passed": false
+ },
+ "729.878": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A woman is heard singing a song in Bengali. The song starts at 00:05.",
+  "passed": false
+ },
+ "914.320": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A woman is singing a Bengali song.",
+  "passed": false
+ },
+ "823.426": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A woman is singing a song in Bengali. The song is cut off at 00:05 and continues after it.",
+  "passed": false
+ },
+ "768.640": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A woman is singing in Bengali. The song is not cut off at 00:05.",
+  "passed": true
+ },
+ "178.840": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man is speaking in Bengali, then there is a sound of thunder and rain.",
+  "passed": true
+ },
+ "1490.000": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "There is no speech between 00:04 and 00:06. The background music fades out at 00:04 and fades in again at 00:08.",
+  "passed": true
+ },
+ "709.222": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A woman is speaking in Bengali, then there is a pause, then she speaks again.",
+  "passed": true
+ },
+ "300.672": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A woman begins speaking a new Bengali dialogue ('Kochuta kemon...') shortly after the 5-second mark.",
+  "passed": false
+ },
+ "634.242": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A soft plucked string instrument melody plays over silence and atmospheric bass tones; speech does not start until around 00:07.",
+  "passed": true
+ },
+ "1134.960": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Rain ambient sounds, gentle singing/humming melody begins around 00:06, no spoken words between 00:04 and 00:06",
+  "passed": true
+ },
+ "1053.216": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A woman vocalizing/humming as part of the background score, with no spoken dialogue around the cut.",
+  "passed": true
+ },
+ "1188.040": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A vocalist singing a Bengali song continuously across the cut point",
+  "passed": false
+ },
+ "1491.840": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A soft acoustic guitar plucking melody with faint background noise, with no speech.",
+  "passed": true
+ }
+}

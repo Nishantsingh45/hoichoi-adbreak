@@ -1,0 +1,7 @@
+.venv
+.env
+.git
+__pycache__
+data/
+out/**/audio.wav
+out/**/proxy.mp4

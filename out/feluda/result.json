@@ -1,0 +1,3092 @@
+{
+ "video_id": "feluda",
+ "video_url": "/videos/feluda.mp4",
+ "duration": 1535.6,
+ "synopsis": "As militancy begins brewing in Kashmir following rigged elections, Feluda, Topshe, and Lalmohan Ganguly travel to Srinagar for a vacation, where Lalmohan seeks inspiration for his next novel. Upon arriving, they encounter retired judge Siddheshwar Mallik and his secretary Sushanto Som, unaware of the lurking dangers tied to the judge's past verdicts.",
+ "scenes": [
+  {
+   "start": "00:00",
+   "end": "00:10",
+   "location": "Graphic / Title Card",
+   "characters": [],
+   "dominant_activity": "Hoichoi branding and show disclaimer",
+   "mood": "neutral",
+   "summary": "Platform intro bumper followed by legal disclaimer regarding dramatization and non-promotion of violence or superstitions.",
+   "opening_gist": "Hoichoi logo animation.",
+   "closing_gist": "Disclaimer text displayed on black background.",
+   "ends_on": "transition",
+   "tags": [
+    "logo",
+    "disclaimer",
+    "text"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 0.58,
+   "display_end_s": 11.04
+  },
+  {
+   "start": "00:10",
+   "end": "01:25",
+   "location": "Kashmir interior / Valley view",
+   "characters": [
+    "Kashmiri operative / militant contact"
+   ],
+   "dominant_activity": "Watching news broadcast and placing a phone call",
+   "mood": "tense",
+   "summary": "A man listens to a Hindi news bulletin discussing the election results in Jammu and Kashmir and the alliance between JKNC and Congress. Looking agitated, he switches off the TV and places an urgent phone call asking to speak with the General.",
+   "opening_gist": "Television news anchor announcing election outcomes.",
+   "closing_gist": "The man dials a rotary phone and asks for the General.",
+   "ends_on": "transition",
+   "tags": [
+    "television",
+    "news",
+    "phone call",
+    "kashmir",
+    "politics"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 11.04,
+   "display_end_s": 84.72
+  },
+  {
+   "start": "01:25",
+   "end": "05:02",
+   "location": "Snowy mountain military camp",
+   "characters": [
+    "Pakistani Army Officer Nisar",
+    "Fellow Pakistani officers"
+   ],
+   "dominant_activity": "Military commanders strategizing proxy insurgency",
+   "mood": "calculating",
+   "summary": "Pakistani military commanders discuss exploiting public discontent over the elections to wage a proxy war in Kashmir. They plan to arm and train separatist groups to target Indian administrative figures, including army personnel, bureaucrats, and judges.",
+   "opening_gist": "Sweeping snowy Himalayan mountains zoom into an army outpost.",
+   "closing_gist": "An officer throws darts at a board as soldiers assemble outside.",
+   "ends_on": "transition",
+   "tags": [
+    "snow",
+    "military",
+    "tent",
+    "strategy",
+    "darts",
+    "insurgency",
+    "mountains"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 84.72,
+   "display_end_s": 302.04
+  },
+  {
+   "start": "05:02",
+   "end": "06:36",
+   "location": "Animated sequence / Opening credits",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Jatayu"
+   ],
+   "dominant_activity": "Opening title credits animation",
+   "mood": "adventurous",
+   "summary": "Illustrated title credits roll with thematic artwork representing classic Feluda mysteries, introducing Feludar Goyendagiri: Bhushawrogo Bhoyongkor.",
+   "opening_gist": "Hand-drawn animation of Feluda and friends on a mystery case.",
+   "closing_gist": "Show logo title card displayed in Bengali.",
+   "ends_on": "resolved",
+   "tags": [
+    "animation",
+    "credits",
+    "music",
+    "illustration"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 302.04,
+   "display_end_s": 396.0
+  },
+  {
+   "start": "06:36",
+   "end": "08:30",
+   "location": "Astrologer's chamber",
+   "characters": [
+    "Madhab Bhattacharya (Astrologer)",
+    "Lalmohan Ganguly (Jatayu)",
+    "Feluda",
+    "Topshe"
+   ],
+   "dominant_activity": "Consulting an astrologer for creative inspiration",
+   "mood": "humorous",
+   "summary": "Lalmohan explains his writer's block to an astrologer while Feluda and Topshe observe sceptically. The astrologer analyzes his palm and recommends a major journey to a place starting with the letter 'K' to revive his creative fortunes.",
+   "opening_gist": "Three people seated listening intently before the camera pans across the room.",
+   "closing_gist": "Astrologer insists Lalmohan travel to a place beginning with the Bengali letter 'Ko'.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "astrology",
+    "palmistry",
+    "office",
+    "desk",
+    "magnifying glass"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 396.0,
+   "display_end_s": 509.64
+  },
+  {
+   "start": "08:30",
+   "end": "09:05",
+   "location": "Kashmir street",
+   "characters": [
+    "Militants on motorcycle",
+    "Indian security personnel",
+    "Civilians"
+   ],
+   "dominant_activity": "Militant ambush and bombing on security forces",
+   "mood": "violent",
+   "summary": "In a town square in Kashmir, two armed insurgents on a motorcycle open fire on patrol vehicles and security forces. One militant tosses an explosive device into an army vehicle, triggering a deadly blast amidst chaos.",
+   "opening_gist": "A quiet town square with army jeeps parked.",
+   "closing_gist": "An army vehicle explodes into flames as smoke billows into the sky.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "ambush",
+    "gunfire",
+    "explosion",
+    "motorcycle",
+    "soldiers",
+    "smoke"
+   ],
+   "sensitive_themes": [
+    "violence_or_fight",
+    "crime_theft_or_fraud"
+   ],
+   "display_start_s": 509.64,
+   "display_end_s": 544.82
+  },
+  {
+   "start": "09:05",
+   "end": "11:24",
+   "location": "Ambassador car on rural road",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Driver"
+   ],
+   "dominant_activity": "Discussing travel destinations and vacation plans",
+   "mood": "cheerful",
+   "summary": "Riding in an Ambassador taxi, Lalmohan recounts previous successes inspired by astrological tips, while Feluda teases him about his superstitious beliefs. Feluda eventually suggests Kashmir, reciting Persian poetry about paradise on earth, and they finalize their itinerary.",
+   "opening_gist": "Aerial view of a green Ambassador driving along a tree-lined highway.",
+   "closing_gist": "Car drives away down the scenic road towards their adventure.",
+   "ends_on": "resolved",
+   "tags": [
+    "driving",
+    "car",
+    "travel",
+    "conversation",
+    "smoking",
+    "cigarette"
+   ],
+   "sensitive_themes": [
+    "smoking"
+   ],
+   "display_start_s": 544.82,
+   "display_end_s": 684.64
+  },
+  {
+   "start": "11:24",
+   "end": "11:36",
+   "location": "Feluda's living room",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly"
+   ],
+   "dominant_activity": "Packing luggage for the trip",
+   "mood": "enthusiastic",
+   "summary": "Lalmohan arrives fully packed and excited, asking if Feluda and Topshe are ready for their departure to Kashmir.",
+   "opening_gist": "Topshe closes his suitcase as Lalmohan walks into the room.",
+   "closing_gist": "The trio pick up their bags to leave.",
+   "ends_on": "transition",
+   "tags": [
+    "packing",
+    "luggage",
+    "living room",
+    "departure"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 684.64,
+   "display_end_s": 695.84
+  },
+  {
+   "start": "11:36",
+   "end": "14:12",
+   "location": "Hotel lounge / Dining room",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Sushanto Som",
+    "Siddheshwar Mallik"
+   ],
+   "dominant_activity": "Meeting a retired judge and his secretary",
+   "mood": "polite",
+   "summary": "Sushanto Som introduces himself as a fan of Feluda and brings his employer, retired judge Siddheshwar Mallik, to meet the detective. The judge shares details about his career in the judiciary, his retirement in Kashmir, and his plans to stay in a houseboat.",
+   "opening_gist": "Sushanto approaches the trio having tea in the hotel lounge.",
+   "closing_gist": "The judge excuses himself after arranging to cross paths again in Srinagar.",
+   "ends_on": "resolved",
+   "tags": [
+    "hotel",
+    "tea",
+    "meeting",
+    "conversation",
+    "judge"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 695.84,
+   "display_end_s": 851.6
+  },
+  {
+   "start": "14:12",
+   "end": "14:42",
+   "location": "Dal Lake scenic montage & Hotel road",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Driver",
+    "Boatmen"
+   ],
+   "dominant_activity": "Arriving at Dal Lake by taxi",
+   "mood": "scenic",
+   "summary": "The trio arrives by taxi in Srinagar and steps out near Hotel Nehru to board a shikara on Dal Lake.",
+   "opening_gist": "Picturesque views of rivers, mountain peaks, and serene waters of Dal Lake.",
+   "closing_gist": "The group gathers their bags outside the taxi near the lakeside.",
+   "ends_on": "resolved",
+   "tags": [
+    "dal lake",
+    "shikara",
+    "mountains",
+    "taxi",
+    "arrival"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 851.6,
+   "display_end_s": 882.68
+  },
+  {
+   "start": "14:42",
+   "end": "17:23",
+   "location": "Shikara on Dal Lake",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Boatman"
+   ],
+   "dominant_activity": "Riding a shikara across Dal Lake",
+   "mood": "relaxed",
+   "summary": "Boarding a boat towards the 'Water Lily' houseboat, Lalmohan breaks into song and recites praise of Kashmir, while Feluda corrects his literary attributions. They admire the lake scenery and absorb the unique atmosphere of Srinagar.",
+   "opening_gist": "The trio stepping into the decorated wooden shikara boat.",
+   "closing_gist": "Feluda smiles and leans back enjoying the water breeze.",
+   "ends_on": "transition",
+   "tags": [
+    "shikara",
+    "dal lake",
+    "boating",
+    "singing",
+    "scenery",
+    "poetry"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 882.68,
+   "display_end_s": 1044.24
+  },
+  {
+   "start": "17:23",
+   "end": "18:43",
+   "location": "Dal Lake near Char Chinar",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Flower seller (shikara)",
+    "Boatman"
+   ],
+   "dominant_activity": "Sightseeing and buying flowers on Dal Lake",
+   "mood": "cheerful",
+   "summary": "Feluda points out the famous Char Chinar island and the Shankaracharya Temple atop the mountain. A floating flower vendor pulls up beside their boat, and Lalmohan excitedly buys a colourful bouquet.",
+   "opening_gist": "Feluda describing the island of Char Chinar to Topshe.",
+   "closing_gist": "Lalmohan observes various houseboat names as they paddle further.",
+   "ends_on": "mid_conversation",
+   "tags": [
+    "shikara",
+    "dal lake",
+    "flowers",
+    "binoculars",
+    "floating market"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 1044.24,
+   "display_end_s": 1123.68
+  },
+  {
+   "start": "18:43",
+   "end": "21:32",
+   "location": "Houseboat 'Miranda' deck and exterior",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Sushanto Som",
+    "Bijoy Mallik",
+    "Bearer"
+   ],
+   "dominant_activity": "Tea and conversation about local unrest",
+   "mood": "intriguing",
+   "summary": "Arriving at the neighbouring houseboat 'Miranda', Sushanto welcomes them and serves kahwa. Sushanto explains the rise of political discontent and militancy in Kashmir following rigged elections, and expresses deep concern for Judge Mallik's philosophical, unprotected stance.",
+   "opening_gist": "Sushanto waves and calls out to Feluda from the deck of houseboat Miranda.",
+   "closing_gist": "Sushanto hints at unusual occurrences involving the judge late at night.",
+   "ends_on": "cliffhanger",
+   "tags": [
+    "houseboat",
+    "kahwa",
+    "tea",
+    "smoking",
+    "cigarette",
+    "politics",
+    "militancy"
+   ],
+   "sensitive_themes": [
+    "smoking"
+   ],
+   "display_start_s": 1123.68,
+   "display_end_s": 1292.48
+  },
+  {
+   "start": "21:32",
+   "end": "24:35",
+   "location": "Judge Mallik's study room",
+   "characters": [
+    "Judge Siddheshwar Mallik",
+    "Sushanto Som"
+   ],
+   "dominant_activity": "Confession of judicial guilt and plan for a seance",
+   "mood": "eerie",
+   "summary": "In a dimly lit study, Judge Mallik hands over his personal diaries to Sushanto, showing red crosses marked beside capital punishment verdicts with question marks beside doubtful ones. Haunted by the moral weight of executions he decreed, he reveals his intention to conduct a planchette seance to communicate with the deceased.",
+   "opening_gist": "Sushanto enters the dark study where Judge Mallik is reading by a desk lamp.",
+   "closing_gist": "Judge Mallik declares that a planchette is inevitable, leaving Sushanto unsettled.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "study",
+    "books",
+    "diaries",
+    "planchette",
+    "seance",
+    "guilt",
+    "capital punishment",
+    "cigar"
+   ],
+   "sensitive_themes": [
+    "smoking"
+   ],
+   "display_start_s": 1292.48,
+   "display_end_s": 1474.6
+  },
+  {
+   "start": "24:35",
+   "end": "25:35",
+   "location": "Credits screen",
+   "characters": [],
+   "dominant_activity": "Closing credits",
+   "mood": "neutral",
+   "summary": "Closing credits crawl accompanied by the series theme music, listing full cast, crew, and production credits.",
+   "opening_gist": "Visual effects and production company credits appear on black.",
+   "closing_gist": "Copyright notice for Hoichoi Technologies fades out to black.",
+   "ends_on": "resolved",
+   "tags": [
+    "credits",
+    "music",
+    "end"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 1474.6,
+   "display_end_s": 1533.88
+  }
+ ],
+ "breaks": [
+  {
+   "boundary_index": 6,
+   "gemini_boundary": 684.0,
+   "t": 686.52,
+   "kind": "shot_cut",
+   "shot_score": 0.399,
+   "silence_before_s": 4.44,
+   "silence_after_s": 2.03,
+   "alternatives": [],
+   "id": "c006",
+   "scene_before": {
+    "start": "09:05",
+    "end": "11:24",
+    "location": "Ambassador car on rural road",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly",
+     "Driver"
+    ],
+    "dominant_activity": "Discussing travel destinations and vacation plans",
+    "mood": "cheerful",
+    "summary": "Riding in an Ambassador taxi, Lalmohan recounts previous successes inspired by astrological tips, while Feluda teases him about his superstitious beliefs. Feluda eventually suggests Kashmir, reciting Persian poetry about paradise on earth, and they finalize their itinerary.",
+    "opening_gist": "Aerial view of a green Ambassador driving along a tree-lined highway.",
+    "closing_gist": "Car drives away down the scenic road towards their adventure.",
+    "ends_on": "resolved",
+    "tags": [
+     "driving",
+     "car",
+     "travel",
+     "conversation",
+     "smoking",
+     "cigarette"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "scene_after": {
+    "start": "11:24",
+    "end": "11:36",
+    "location": "Feluda's living room",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly"
+    ],
+    "dominant_activity": "Packing luggage for the trip",
+    "mood": "enthusiastic",
+    "summary": "Lalmohan arrives fully packed and excited, asking if Feluda and Topshe are ready for their departure to Kashmir.",
+    "opening_gist": "Topshe closes his suitcase as Lalmohan walks into the room.",
+    "closing_gist": "The trio pick up their bags to leave.",
+    "ends_on": "transition",
+    "tags": [
+     "packing",
+     "luggage",
+     "living room",
+     "departure"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.88,
+    "natural_break_confidence": 0.88,
+    "same_conversation": 0.09,
+    "emotional_peak": 0.02,
+    "input_tokens": 1114
+   },
+   "quality": 0.9515,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "There is no speech between 00:04 and 00:06. Only background music is heard.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_g",
+     "brand": "Brand G",
+     "p_forbidden_context": 0.05,
+     "fit": 2.98,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.05,
+      "fit": 2.98,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.05,
+      "fit": 2.81,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.05,
+      "fit": 1.82,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.05,
+      "fit": 0.23,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.05,
+      "fit": 0.22,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.07,
+      "fit": 0.1,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.06,
+      "fit": 0.1,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.05,
+      "fit": 0.05,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4206
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_g",
+    "name": "Brand G",
+    "category": "travel/hospitality",
+    "target_contexts": [
+     "travel",
+     "vacation",
+     "holiday",
+     "hotel",
+     "resort",
+     "tourism",
+     "train journey",
+     "airport",
+     "beach",
+     "mountains",
+     "sightseeing",
+     "road trip",
+     "weekend trip",
+     "family vacation"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "hospital",
+     "violence",
+     "accident",
+     "illness",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "g_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_g/g_20s_bn.mp4"
+     },
+     {
+      "id": "g_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_g/g_30s_bn.mp4"
+     }
+    ],
+    "color": "#962b8c"
+   },
+   "creative": {
+    "id": "g_30s_bn",
+    "duration_sec": 30,
+    "language": "bn",
+    "url": "ads/brand_g/g_30s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_g/g_30s_bn.mp4",
+   "media_url": "/ads/brand_g/g_30s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 686.52,
+     "cut_type": "shot_cut",
+     "gemini_scene_boundary_s": 684.0,
+     "silence_before_s": 4.44,
+     "silence_after_s": 2.03,
+     "audio_audit": "There is no speech between 00:04 and 00:06. Only background music is heard.",
+     "moved_from": []
+    },
+    "whether": {
+     "quality": 0.9515,
+     "jev_natural_break_0_to_3": 2.88,
+     "jev_p_same_conversation": 0.09,
+     "jev_p_emotional_peak": 0.02,
+     "creative_seconds": 30
+    },
+    "what": {
+     "brand": "Brand G",
+     "creative": "g_30s_bn",
+     "fit_0_to_3": 2.98,
+     "p_forbidden_context": 0.05,
+     "platform_floor": [],
+     "blocked_brands": [],
+     "brands_considered": 8
+    }
+   }
+  },
+  {
+   "boundary_index": 10,
+   "gemini_boundary": 1043.0,
+   "t": 1047.954,
+   "kind": "pause",
+   "shot_score": 0.0,
+   "silence_before_s": 1.05,
+   "silence_after_s": 2.13,
+   "alternatives": [
+    {
+     "t": 1047.954,
+     "kind": "pause",
+     "shot_score": 0.0,
+     "silence_before_s": 1.05,
+     "silence_after_s": 2.13
+    }
+   ],
+   "id": "c010",
+   "scene_before": {
+    "start": "14:42",
+    "end": "17:23",
+    "location": "Shikara on Dal Lake",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly",
+     "Boatman"
+    ],
+    "dominant_activity": "Riding a shikara across Dal Lake",
+    "mood": "relaxed",
+    "summary": "Boarding a boat towards the 'Water Lily' houseboat, Lalmohan breaks into song and recites praise of Kashmir, while Feluda corrects his literary attributions. They admire the lake scenery and absorb the unique atmosphere of Srinagar.",
+    "opening_gist": "The trio stepping into the decorated wooden shikara boat.",
+    "closing_gist": "Feluda smiles and leans back enjoying the water breeze.",
+    "ends_on": "transition",
+    "tags": [
+     "shikara",
+     "dal lake",
+     "boating",
+     "singing",
+     "scenery",
+     "poetry"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "17:23",
+    "end": "18:43",
+    "location": "Dal Lake near Char Chinar",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly",
+     "Flower seller (shikara)",
+     "Boatman"
+    ],
+    "dominant_activity": "Sightseeing and buying flowers on Dal Lake",
+    "mood": "cheerful",
+    "summary": "Feluda points out the famous Char Chinar island and the Shankaracharya Temple atop the mountain. A floating flower vendor pulls up beside their boat, and Lalmohan excitedly buys a colourful bouquet.",
+    "opening_gist": "Feluda describing the island of Char Chinar to Topshe.",
+    "closing_gist": "Lalmohan observes various houseboat names as they paddle further.",
+    "ends_on": "mid_conversation",
+    "tags": [
+     "shikara",
+     "dal lake",
+     "flowers",
+     "binoculars",
+     "floating market"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 1.85,
+    "natural_break_confidence": 0.3,
+    "same_conversation": 0.58,
+    "emotional_peak": 0.02,
+    "input_tokens": 1158
+   },
+   "quality": 0.6402,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "Silence with ambient water sounds between spoken lines",
+    "passed": true
+   },
+   "rejected_cuts": [
+    {
+     "t": 1041.344,
+     "heard": "A brief moment of water splashing ambient sounds until Feluda begins speaking around 00:05.5."
+    }
+   ],
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_g",
+     "brand": "Brand G",
+     "p_forbidden_context": 0.05,
+     "fit": 2.8,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.05,
+      "fit": 2.8,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.04,
+      "fit": 0.84,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.04,
+      "fit": 0.39,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.05,
+      "fit": 0.1,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.05,
+      "fit": 0.09,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.04,
+      "fit": 0.08,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.05,
+      "fit": 0.07,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.05,
+      "fit": 0.03,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4205
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_g",
+    "name": "Brand G",
+    "category": "travel/hospitality",
+    "target_contexts": [
+     "travel",
+     "vacation",
+     "holiday",
+     "hotel",
+     "resort",
+     "tourism",
+     "train journey",
+     "airport",
+     "beach",
+     "mountains",
+     "sightseeing",
+     "road trip",
+     "weekend trip",
+     "family vacation"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "hospital",
+     "violence",
+     "accident",
+     "illness",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "g_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_g/g_20s_bn.mp4"
+     },
+     {
+      "id": "g_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_g/g_30s_bn.mp4"
+     }
+    ],
+    "color": "#962b8c"
+   },
+   "creative": {
+    "id": "g_20s_bn",
+    "duration_sec": 20,
+    "language": "bn",
+    "url": "ads/brand_g/g_20s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_g/g_20s_bn.mp4",
+   "media_url": "/ads/brand_g/g_20s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 1047.954,
+     "cut_type": "pause",
+     "gemini_scene_boundary_s": 1043.0,
+     "silence_before_s": 1.05,
+     "silence_after_s": 2.13,
+     "audio_audit": "Silence with ambient water sounds between spoken lines",
+     "moved_from": [
+      {
+       "t": 1041.344,
+       "heard": "A brief moment of water splashing ambient sounds until Feluda begins speaking around 00:05.5."
+      }
+     ]
+    },
+    "whether": {
+     "quality": 0.6402,
+     "jev_natural_break_0_to_3": 1.85,
+     "jev_p_same_conversation": 0.58,
+     "jev_p_emotional_peak": 0.02,
+     "creative_seconds": 20
+    },
+    "what": {
+     "brand": "Brand G",
+     "creative": "g_20s_bn",
+     "fit_0_to_3": 2.8,
+     "p_forbidden_context": 0.05,
+     "platform_floor": [],
+     "blocked_brands": [],
+     "brands_considered": 8
+    }
+   }
+  }
+ ],
+ "candidates": [
+  {
+   "boundary_index": 2,
+   "gemini_boundary": 302.0,
+   "t": 306.28,
+   "kind": "shot_cut",
+   "shot_score": 0.164,
+   "silence_before_s": 12.24,
+   "silence_after_s": 5.82,
+   "alternatives": [],
+   "id": "c002",
+   "scene_before": {
+    "start": "01:25",
+    "end": "05:02",
+    "location": "Snowy mountain military camp",
+    "characters": [
+     "Pakistani Army Officer Nisar",
+     "Fellow Pakistani officers"
+    ],
+    "dominant_activity": "Military commanders strategizing proxy insurgency",
+    "mood": "calculating",
+    "summary": "Pakistani military commanders discuss exploiting public discontent over the elections to wage a proxy war in Kashmir. They plan to arm and train separatist groups to target Indian administrative figures, including army personnel, bureaucrats, and judges.",
+    "opening_gist": "Sweeping snowy Himalayan mountains zoom into an army outpost.",
+    "closing_gist": "An officer throws darts at a board as soldiers assemble outside.",
+    "ends_on": "transition",
+    "tags": [
+     "snow",
+     "military",
+     "tent",
+     "strategy",
+     "darts",
+     "insurgency",
+     "mountains"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "05:02",
+    "end": "06:36",
+    "location": "Animated sequence / Opening credits",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Jatayu"
+    ],
+    "dominant_activity": "Opening title credits animation",
+    "mood": "adventurous",
+    "summary": "Illustrated title credits roll with thematic artwork representing classic Feluda mysteries, introducing Feludar Goyendagiri: Bhushawrogo Bhoyongkor.",
+    "opening_gist": "Hand-drawn animation of Feluda and friends on a mystery case.",
+    "closing_gist": "Show logo title card displayed in Bengali.",
+    "ends_on": "resolved",
+    "tags": [
+     "animation",
+     "credits",
+     "music",
+     "illustration"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.86,
+    "natural_break_confidence": 0.86,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.05,
+    "input_tokens": 1105
+   },
+   "quality": 0.9593,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "Instrumental theme music plays with no speech around the 5-second mark.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": null,
+    "table": [
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.73,
+      "fit": 0.51,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.54,
+      "fit": 0.14,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.64,
+      "fit": 0.01,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.53,
+      "fit": 0.01,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.6,
+      "fit": 0.01,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.51,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.7,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.65,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4189
+   },
+   "decision": "rejected: no catalogue brand is safe and relevant here (8/8 blocked by negative contexts)"
+  },
+  {
+   "boundary_index": 3,
+   "gemini_boundary": 396.0,
+   "t": 395.216,
+   "kind": "pause",
+   "shot_score": 0.0,
+   "silence_before_s": 1.04,
+   "silence_after_s": 1.04,
+   "alternatives": [],
+   "id": "c003",
+   "scene_before": {
+    "start": "05:02",
+    "end": "06:36",
+    "location": "Animated sequence / Opening credits",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Jatayu"
+    ],
+    "dominant_activity": "Opening title credits animation",
+    "mood": "adventurous",
+    "summary": "Illustrated title credits roll with thematic artwork representing classic Feluda mysteries, introducing Feludar Goyendagiri: Bhushawrogo Bhoyongkor.",
+    "opening_gist": "Hand-drawn animation of Feluda and friends on a mystery case.",
+    "closing_gist": "Show logo title card displayed in Bengali.",
+    "ends_on": "resolved",
+    "tags": [
+     "animation",
+     "credits",
+     "music",
+     "illustration"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "06:36",
+    "end": "08:30",
+    "location": "Astrologer's chamber",
+    "characters": [
+     "Madhab Bhattacharya (Astrologer)",
+     "Lalmohan Ganguly (Jatayu)",
+     "Feluda",
+     "Topshe"
+    ],
+    "dominant_activity": "Consulting an astrologer for creative inspiration",
+    "mood": "humorous",
+    "summary": "Lalmohan explains his writer's block to an astrologer while Feluda and Topshe observe sceptically. The astrologer analyzes his palm and recommends a major journey to a place starting with the letter 'K' to revive his creative fortunes.",
+    "opening_gist": "Three people seated listening intently before the camera pans across the room.",
+    "closing_gist": "Astrologer insists Lalmohan travel to a place beginning with the Bengali letter 'Ko'.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "astrology",
+     "palmistry",
+     "office",
+     "desk",
+     "magnifying glass"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.87,
+    "natural_break_confidence": 0.87,
+    "same_conversation": 0.05,
+    "emotional_peak": 0.02,
+    "input_tokens": 1120
+   },
+   "quality": 0.9597,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "A song plays, then stops at 00:05. A man starts speaking at 00:06.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": null,
+    "table": [
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.12,
+      "fit": 0.07,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.07,
+      "fit": 0.06,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.06,
+      "fit": 0.05,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.08,
+      "fit": 0.03,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.07,
+      "fit": 0.02,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.16,
+      "fit": 0.01,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.07,
+      "fit": 0.01,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.13,
+      "fit": 0.01,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4155
+   },
+   "decision": "rejected: no catalogue brand is safe and relevant here (0/8 blocked by negative contexts)"
+  },
+  {
+   "boundary_index": 4,
+   "gemini_boundary": 510.0,
+   "t": 511.12,
+   "kind": "shot_cut",
+   "shot_score": 0.382,
+   "silence_before_s": 2.29,
+   "silence_after_s": 6.32,
+   "alternatives": [
+    {
+     "t": 514.44,
+     "kind": "shot_cut",
+     "shot_score": 0.419,
+     "silence_before_s": 5.61,
+     "silence_after_s": 3.0
+    }
+   ],
+   "id": "c004",
+   "scene_before": {
+    "start": "06:36",
+    "end": "08:30",
+    "location": "Astrologer's chamber",
+    "characters": [
+     "Madhab Bhattacharya (Astrologer)",
+     "Lalmohan Ganguly (Jatayu)",
+     "Feluda",
+     "Topshe"
+    ],
+    "dominant_activity": "Consulting an astrologer for creative inspiration",
+    "mood": "humorous",
+    "summary": "Lalmohan explains his writer's block to an astrologer while Feluda and Topshe observe sceptically. The astrologer analyzes his palm and recommends a major journey to a place starting with the letter 'K' to revive his creative fortunes.",
+    "opening_gist": "Three people seated listening intently before the camera pans across the room.",
+    "closing_gist": "Astrologer insists Lalmohan travel to a place beginning with the Bengali letter 'Ko'.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "astrology",
+     "palmistry",
+     "office",
+     "desk",
+     "magnifying glass"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "08:30",
+    "end": "09:05",
+    "location": "Kashmir street",
+    "characters": [
+     "Militants on motorcycle",
+     "Indian security personnel",
+     "Civilians"
+    ],
+    "dominant_activity": "Militant ambush and bombing on security forces",
+    "mood": "violent",
+    "summary": "In a town square in Kashmir, two armed insurgents on a motorcycle open fire on patrol vehicles and security forces. One militant tosses an explosive device into an army vehicle, triggering a deadly blast amidst chaos.",
+    "opening_gist": "A quiet town square with army jeeps parked.",
+    "closing_gist": "An army vehicle explodes into flames as smoke billows into the sky.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "ambush",
+     "gunfire",
+     "explosion",
+     "motorcycle",
+     "soldiers",
+     "smoke"
+    ],
+    "sensitive_themes": [
+     "violence_or_fight",
+     "crime_theft_or_fraud"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.79,
+    "natural_break_confidence": 0.79,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.04,
+    "input_tokens": 1173
+   },
+   "quality": 0.9485,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "A man says \"ko\" at 00:03. Then, there is the sound of a vehicle and a scooter.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": null,
+    "table": [
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.91,
+      "fit": 1.34,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.92,
+      "fit": 1.19,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.93,
+      "fit": 0.75,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.95,
+      "fit": 0.02,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.92,
+      "fit": 0.02,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.89,
+      "fit": 0.01,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.9,
+      "fit": 0.01,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.89,
+      "fit": 0.01,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4219
+   },
+   "decision": "rejected: no catalogue brand is safe and relevant here (8/8 blocked by negative contexts)"
+  },
+  {
+   "boundary_index": 5,
+   "gemini_boundary": 545.0,
+   "t": 544.82,
+   "kind": "fade_to_black",
+   "shot_score": 2.12,
+   "silence_before_s": 27.16,
+   "silence_after_s": 2.96,
+   "alternatives": [
+    {
+     "t": 543.76,
+     "kind": "shot_cut",
+     "shot_score": 0.952,
+     "silence_before_s": 26.1,
+     "silence_after_s": 4.02
+    }
+   ],
+   "id": "c005",
+   "scene_before": {
+    "start": "08:30",
+    "end": "09:05",
+    "location": "Kashmir street",
+    "characters": [
+     "Militants on motorcycle",
+     "Indian security personnel",
+     "Civilians"
+    ],
+    "dominant_activity": "Militant ambush and bombing on security forces",
+    "mood": "violent",
+    "summary": "In a town square in Kashmir, two armed insurgents on a motorcycle open fire on patrol vehicles and security forces. One militant tosses an explosive device into an army vehicle, triggering a deadly blast amidst chaos.",
+    "opening_gist": "A quiet town square with army jeeps parked.",
+    "closing_gist": "An army vehicle explodes into flames as smoke billows into the sky.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "ambush",
+     "gunfire",
+     "explosion",
+     "motorcycle",
+     "soldiers",
+     "smoke"
+    ],
+    "sensitive_themes": [
+     "violence_or_fight",
+     "crime_theft_or_fraud"
+    ]
+   },
+   "scene_after": {
+    "start": "09:05",
+    "end": "11:24",
+    "location": "Ambassador car on rural road",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly",
+     "Driver"
+    ],
+    "dominant_activity": "Discussing travel destinations and vacation plans",
+    "mood": "cheerful",
+    "summary": "Riding in an Ambassador taxi, Lalmohan recounts previous successes inspired by astrological tips, while Feluda teases him about his superstitious beliefs. Feluda eventually suggests Kashmir, reciting Persian poetry about paradise on earth, and they finalize their itinerary.",
+    "opening_gist": "Aerial view of a green Ambassador driving along a tree-lined highway.",
+    "closing_gist": "Car drives away down the scenic road towards their adventure.",
+    "ends_on": "resolved",
+    "tags": [
+     "driving",
+     "car",
+     "travel",
+     "conversation",
+     "smoking",
+     "cigarette"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.8,
+    "natural_break_confidence": 0.8,
+    "same_conversation": 0.03,
+    "emotional_peak": 0.75,
+    "input_tokens": 1168
+   },
+   "quality": 0.8058,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "Silence during the black screen transition around 00:05, followed by vehicle ambience.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": null,
+    "table": [
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.97,
+      "fit": 0.96,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "violence (matched 'violence')"
+      ]
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.97,
+      "fit": 0.17,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "violence (matched 'violence')"
+      ]
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.96,
+      "fit": 0.14,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "violence (matched 'violence')"
+      ]
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.96,
+      "fit": 0.01,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "violence (matched 'violence')"
+      ]
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.97,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "violence (matched 'violence')"
+      ]
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.96,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "violence (matched 'violence')"
+      ]
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.97,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "violence (matched 'violence')"
+      ]
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.97,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "violence (matched 'violence')"
+      ]
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4207
+   },
+   "decision": "rejected: no catalogue brand is safe and relevant here (8/8 blocked by negative contexts)"
+  },
+  {
+   "boundary_index": 6,
+   "gemini_boundary": 684.0,
+   "t": 686.52,
+   "kind": "shot_cut",
+   "shot_score": 0.399,
+   "silence_before_s": 4.44,
+   "silence_after_s": 2.03,
+   "alternatives": [],
+   "id": "c006",
+   "scene_before": {
+    "start": "09:05",
+    "end": "11:24",
+    "location": "Ambassador car on rural road",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly",
+     "Driver"
+    ],
+    "dominant_activity": "Discussing travel destinations and vacation plans",
+    "mood": "cheerful",
+    "summary": "Riding in an Ambassador taxi, Lalmohan recounts previous successes inspired by astrological tips, while Feluda teases him about his superstitious beliefs. Feluda eventually suggests Kashmir, reciting Persian poetry about paradise on earth, and they finalize their itinerary.",
+    "opening_gist": "Aerial view of a green Ambassador driving along a tree-lined highway.",
+    "closing_gist": "Car drives away down the scenic road towards their adventure.",
+    "ends_on": "resolved",
+    "tags": [
+     "driving",
+     "car",
+     "travel",
+     "conversation",
+     "smoking",
+     "cigarette"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "scene_after": {
+    "start": "11:24",
+    "end": "11:36",
+    "location": "Feluda's living room",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly"
+    ],
+    "dominant_activity": "Packing luggage for the trip",
+    "mood": "enthusiastic",
+    "summary": "Lalmohan arrives fully packed and excited, asking if Feluda and Topshe are ready for their departure to Kashmir.",
+    "opening_gist": "Topshe closes his suitcase as Lalmohan walks into the room.",
+    "closing_gist": "The trio pick up their bags to leave.",
+    "ends_on": "transition",
+    "tags": [
+     "packing",
+     "luggage",
+     "living room",
+     "departure"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.88,
+    "natural_break_confidence": 0.88,
+    "same_conversation": 0.09,
+    "emotional_peak": 0.02,
+    "input_tokens": 1114
+   },
+   "quality": 0.9515,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "There is no speech between 00:04 and 00:06. Only background music is heard.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_g",
+     "brand": "Brand G",
+     "p_forbidden_context": 0.05,
+     "fit": 2.98,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.05,
+      "fit": 2.98,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.05,
+      "fit": 2.81,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.05,
+      "fit": 1.82,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.05,
+      "fit": 0.23,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.05,
+      "fit": 0.22,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.07,
+      "fit": 0.1,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.06,
+      "fit": 0.1,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.05,
+      "fit": 0.05,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4206
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_g",
+    "name": "Brand G",
+    "category": "travel/hospitality",
+    "target_contexts": [
+     "travel",
+     "vacation",
+     "holiday",
+     "hotel",
+     "resort",
+     "tourism",
+     "train journey",
+     "airport",
+     "beach",
+     "mountains",
+     "sightseeing",
+     "road trip",
+     "weekend trip",
+     "family vacation"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "hospital",
+     "violence",
+     "accident",
+     "illness",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "g_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_g/g_20s_bn.mp4"
+     },
+     {
+      "id": "g_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_g/g_30s_bn.mp4"
+     }
+    ],
+    "color": "#962b8c"
+   },
+   "creative": {
+    "id": "g_30s_bn",
+    "duration_sec": 30,
+    "language": "bn",
+    "url": "ads/brand_g/g_30s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_g/g_30s_bn.mp4",
+   "media_url": "/ads/brand_g/g_30s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 686.52,
+     "cut_type": "shot_cut",
+     "gemini_scene_boundary_s": 684.0,
+     "silence_before_s": 4.44,
+     "silence_after_s": 2.03,
+     "audio_audit": "There is no speech between 00:04 and 00:06. Only background music is heard.",
+     "moved_from": []
+    },
+    "whether": {
+     "quality": 0.9515,
+     "jev_natural_break_0_to_3": 2.88,
+     "jev_p_same_conversation": 0.09,
+     "jev_p_emotional_peak": 0.02,
+     "creative_seconds": 30
+    },
+    "what": {
+     "brand": "Brand G",
+     "creative": "g_30s_bn",
+     "fit_0_to_3": 2.98,
+     "p_forbidden_context": 0.05,
+     "platform_floor": [],
+     "blocked_brands": [],
+     "brands_considered": 8
+    }
+   }
+  },
+  {
+   "boundary_index": 8,
+   "gemini_boundary": 852.0,
+   "t": 856.76,
+   "kind": "shot_cut",
+   "shot_score": 0.355,
+   "silence_before_s": 1.98,
+   "silence_after_s": 13.64,
+   "alternatives": [
+    {
+     "t": 857.96,
+     "kind": "shot_cut",
+     "shot_score": 0.154,
+     "silence_before_s": 3.18,
+     "silence_after_s": 12.44
+    }
+   ],
+   "id": "c008",
+   "scene_before": {
+    "start": "11:36",
+    "end": "14:12",
+    "location": "Hotel lounge / Dining room",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly",
+     "Sushanto Som",
+     "Siddheshwar Mallik"
+    ],
+    "dominant_activity": "Meeting a retired judge and his secretary",
+    "mood": "polite",
+    "summary": "Sushanto Som introduces himself as a fan of Feluda and brings his employer, retired judge Siddheshwar Mallik, to meet the detective. The judge shares details about his career in the judiciary, his retirement in Kashmir, and his plans to stay in a houseboat.",
+    "opening_gist": "Sushanto approaches the trio having tea in the hotel lounge.",
+    "closing_gist": "The judge excuses himself after arranging to cross paths again in Srinagar.",
+    "ends_on": "resolved",
+    "tags": [
+     "hotel",
+     "tea",
+     "meeting",
+     "conversation",
+     "judge"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "14:12",
+    "end": "14:42",
+    "location": "Dal Lake scenic montage & Hotel road",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly",
+     "Driver",
+     "Boatmen"
+    ],
+    "dominant_activity": "Arriving at Dal Lake by taxi",
+    "mood": "scenic",
+    "summary": "The trio arrives by taxi in Srinagar and steps out near Hotel Nehru to board a shikara on Dal Lake.",
+    "opening_gist": "Picturesque views of rivers, mountain peaks, and serene waters of Dal Lake.",
+    "closing_gist": "The group gathers their bags outside the taxi near the lakeside.",
+    "ends_on": "resolved",
+    "tags": [
+     "dal lake",
+     "shikara",
+     "mountains",
+     "taxi",
+     "arrival"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.94,
+    "natural_break_confidence": 0.94,
+    "same_conversation": 0.05,
+    "emotional_peak": 0.02,
+    "input_tokens": 1139
+   },
+   "quality": 0.9725,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 9,
+   "gemini_boundary": 882.0,
+   "t": 882.68,
+   "kind": "shot_cut",
+   "shot_score": 0.461,
+   "silence_before_s": 10.49,
+   "silence_after_s": 59.37,
+   "alternatives": [
+    {
+     "t": 886.84,
+     "kind": "shot_cut",
+     "shot_score": 0.54,
+     "silence_before_s": 14.65,
+     "silence_after_s": 55.21
+    }
+   ],
+   "id": "c009",
+   "scene_before": {
+    "start": "14:12",
+    "end": "14:42",
+    "location": "Dal Lake scenic montage & Hotel road",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly",
+     "Driver",
+     "Boatmen"
+    ],
+    "dominant_activity": "Arriving at Dal Lake by taxi",
+    "mood": "scenic",
+    "summary": "The trio arrives by taxi in Srinagar and steps out near Hotel Nehru to board a shikara on Dal Lake.",
+    "opening_gist": "Picturesque views of rivers, mountain peaks, and serene waters of Dal Lake.",
+    "closing_gist": "The group gathers their bags outside the taxi near the lakeside.",
+    "ends_on": "resolved",
+    "tags": [
+     "dal lake",
+     "shikara",
+     "mountains",
+     "taxi",
+     "arrival"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "14:42",
+    "end": "17:23",
+    "location": "Shikara on Dal Lake",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly",
+     "Boatman"
+    ],
+    "dominant_activity": "Riding a shikara across Dal Lake",
+    "mood": "relaxed",
+    "summary": "Boarding a boat towards the 'Water Lily' houseboat, Lalmohan breaks into song and recites praise of Kashmir, while Feluda corrects his literary attributions. They admire the lake scenery and absorb the unique atmosphere of Srinagar.",
+    "opening_gist": "The trio stepping into the decorated wooden shikara boat.",
+    "closing_gist": "Feluda smiles and leans back enjoying the water breeze.",
+    "ends_on": "transition",
+    "tags": [
+     "shikara",
+     "dal lake",
+     "boating",
+     "singing",
+     "scenery",
+     "poetry"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.62,
+    "natural_break_confidence": 0.62,
+    "same_conversation": 0.67,
+    "emotional_peak": 0.02,
+    "input_tokens": 1132
+   },
+   "quality": 0.7588,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 10,
+   "gemini_boundary": 1043.0,
+   "t": 1047.954,
+   "kind": "pause",
+   "shot_score": 0.0,
+   "silence_before_s": 1.05,
+   "silence_after_s": 2.13,
+   "alternatives": [
+    {
+     "t": 1047.954,
+     "kind": "pause",
+     "shot_score": 0.0,
+     "silence_before_s": 1.05,
+     "silence_after_s": 2.13
+    }
+   ],
+   "id": "c010",
+   "scene_before": {
+    "start": "14:42",
+    "end": "17:23",
+    "location": "Shikara on Dal Lake",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly",
+     "Boatman"
+    ],
+    "dominant_activity": "Riding a shikara across Dal Lake",
+    "mood": "relaxed",
+    "summary": "Boarding a boat towards the 'Water Lily' houseboat, Lalmohan breaks into song and recites praise of Kashmir, while Feluda corrects his literary attributions. They admire the lake scenery and absorb the unique atmosphere of Srinagar.",
+    "opening_gist": "The trio stepping into the decorated wooden shikara boat.",
+    "closing_gist": "Feluda smiles and leans back enjoying the water breeze.",
+    "ends_on": "transition",
+    "tags": [
+     "shikara",
+     "dal lake",
+     "boating",
+     "singing",
+     "scenery",
+     "poetry"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "17:23",
+    "end": "18:43",
+    "location": "Dal Lake near Char Chinar",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly",
+     "Flower seller (shikara)",
+     "Boatman"
+    ],
+    "dominant_activity": "Sightseeing and buying flowers on Dal Lake",
+    "mood": "cheerful",
+    "summary": "Feluda points out the famous Char Chinar island and the Shankaracharya Temple atop the mountain. A floating flower vendor pulls up beside their boat, and Lalmohan excitedly buys a colourful bouquet.",
+    "opening_gist": "Feluda describing the island of Char Chinar to Topshe.",
+    "closing_gist": "Lalmohan observes various houseboat names as they paddle further.",
+    "ends_on": "mid_conversation",
+    "tags": [
+     "shikara",
+     "dal lake",
+     "flowers",
+     "binoculars",
+     "floating market"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 1.85,
+    "natural_break_confidence": 0.3,
+    "same_conversation": 0.58,
+    "emotional_peak": 0.02,
+    "input_tokens": 1158
+   },
+   "quality": 0.6402,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "Silence with ambient water sounds between spoken lines",
+    "passed": true
+   },
+   "rejected_cuts": [
+    {
+     "t": 1041.344,
+     "heard": "A brief moment of water splashing ambient sounds until Feluda begins speaking around 00:05.5."
+    }
+   ],
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_g",
+     "brand": "Brand G",
+     "p_forbidden_context": 0.05,
+     "fit": 2.8,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.05,
+      "fit": 2.8,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.04,
+      "fit": 0.84,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.04,
+      "fit": 0.39,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.05,
+      "fit": 0.1,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.05,
+      "fit": 0.09,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.04,
+      "fit": 0.08,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.05,
+      "fit": 0.07,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.05,
+      "fit": 0.03,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4205
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_g",
+    "name": "Brand G",
+    "category": "travel/hospitality",
+    "target_contexts": [
+     "travel",
+     "vacation",
+     "holiday",
+     "hotel",
+     "resort",
+     "tourism",
+     "train journey",
+     "airport",
+     "beach",
+     "mountains",
+     "sightseeing",
+     "road trip",
+     "weekend trip",
+     "family vacation"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "hospital",
+     "violence",
+     "accident",
+     "illness",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "g_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_g/g_20s_bn.mp4"
+     },
+     {
+      "id": "g_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_g/g_30s_bn.mp4"
+     }
+    ],
+    "color": "#962b8c"
+   },
+   "creative": {
+    "id": "g_20s_bn",
+    "duration_sec": 20,
+    "language": "bn",
+    "url": "ads/brand_g/g_20s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_g/g_20s_bn.mp4",
+   "media_url": "/ads/brand_g/g_20s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 1047.954,
+     "cut_type": "pause",
+     "gemini_scene_boundary_s": 1043.0,
+     "silence_before_s": 1.05,
+     "silence_after_s": 2.13,
+     "audio_audit": "Silence with ambient water sounds between spoken lines",
+     "moved_from": [
+      {
+       "t": 1041.344,
+       "heard": "A brief moment of water splashing ambient sounds until Feluda begins speaking around 00:05.5."
+      }
+     ]
+    },
+    "whether": {
+     "quality": 0.6402,
+     "jev_natural_break_0_to_3": 1.85,
+     "jev_p_same_conversation": 0.58,
+     "jev_p_emotional_peak": 0.02,
+     "creative_seconds": 20
+    },
+    "what": {
+     "brand": "Brand G",
+     "creative": "g_20s_bn",
+     "fit_0_to_3": 2.8,
+     "p_forbidden_context": 0.05,
+     "platform_floor": [],
+     "blocked_brands": [],
+     "brands_considered": 8
+    }
+   }
+  },
+  {
+   "boundary_index": 11,
+   "gemini_boundary": 1123.0,
+   "t": 1117.36,
+   "kind": "shot_cut",
+   "shot_score": 0.461,
+   "silence_before_s": 39.83,
+   "silence_after_s": 0.76,
+   "alternatives": [],
+   "id": "c011",
+   "scene_before": {
+    "start": "17:23",
+    "end": "18:43",
+    "location": "Dal Lake near Char Chinar",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly",
+     "Flower seller (shikara)",
+     "Boatman"
+    ],
+    "dominant_activity": "Sightseeing and buying flowers on Dal Lake",
+    "mood": "cheerful",
+    "summary": "Feluda points out the famous Char Chinar island and the Shankaracharya Temple atop the mountain. A floating flower vendor pulls up beside their boat, and Lalmohan excitedly buys a colourful bouquet.",
+    "opening_gist": "Feluda describing the island of Char Chinar to Topshe.",
+    "closing_gist": "Lalmohan observes various houseboat names as they paddle further.",
+    "ends_on": "mid_conversation",
+    "tags": [
+     "shikara",
+     "dal lake",
+     "flowers",
+     "binoculars",
+     "floating market"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "18:43",
+    "end": "21:32",
+    "location": "Houseboat 'Miranda' deck and exterior",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly",
+     "Sushanto Som",
+     "Bijoy Mallik",
+     "Bearer"
+    ],
+    "dominant_activity": "Tea and conversation about local unrest",
+    "mood": "intriguing",
+    "summary": "Arriving at the neighbouring houseboat 'Miranda', Sushanto welcomes them and serves kahwa. Sushanto explains the rise of political discontent and militancy in Kashmir following rigged elections, and expresses deep concern for Judge Mallik's philosophical, unprotected stance.",
+    "opening_gist": "Sushanto waves and calls out to Feluda from the deck of houseboat Miranda.",
+    "closing_gist": "Sushanto hints at unusual occurrences involving the judge late at night.",
+    "ends_on": "cliffhanger",
+    "tags": [
+     "houseboat",
+     "kahwa",
+     "tea",
+     "smoking",
+     "cigarette",
+     "politics",
+     "militancy"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.42,
+    "natural_break_confidence": 0.42,
+    "same_conversation": 0.11,
+    "emotional_peak": 0.02,
+    "input_tokens": 1202
+   },
+   "quality": 0.8622,
+   "audit": {
+    "speech_near_cut": true,
+    "sentence_spans_cut": false,
+    "what_is_heard": "A male character begins speaking right after 00:05 over ambient music.",
+    "passed": false
+   },
+   "decision": "rejected: Gemini audit heard dialogue at every clean cut here (A male character begins speaking right after 00:05 over ambient music.)"
+  },
+  {
+   "boundary_index": 12,
+   "gemini_boundary": 1292.0,
+   "t": 1287.504,
+   "kind": "pause",
+   "shot_score": 0.0,
+   "silence_before_s": 0.98,
+   "silence_after_s": 0.98,
+   "alternatives": [
+    {
+     "t": 1287.504,
+     "kind": "pause",
+     "shot_score": 0.0,
+     "silence_before_s": 0.98,
+     "silence_after_s": 0.98
+    }
+   ],
+   "id": "c012",
+   "scene_before": {
+    "start": "18:43",
+    "end": "21:32",
+    "location": "Houseboat 'Miranda' deck and exterior",
+    "characters": [
+     "Feluda",
+     "Topshe",
+     "Lalmohan Ganguly",
+     "Sushanto Som",
+     "Bijoy Mallik",
+     "Bearer"
+    ],
+    "dominant_activity": "Tea and conversation about local unrest",
+    "mood": "intriguing",
+    "summary": "Arriving at the neighbouring houseboat 'Miranda', Sushanto welcomes them and serves kahwa. Sushanto explains the rise of political discontent and militancy in Kashmir following rigged elections, and expresses deep concern for Judge Mallik's philosophical, unprotected stance.",
+    "opening_gist": "Sushanto waves and calls out to Feluda from the deck of houseboat Miranda.",
+    "closing_gist": "Sushanto hints at unusual occurrences involving the judge late at night.",
+    "ends_on": "cliffhanger",
+    "tags": [
+     "houseboat",
+     "kahwa",
+     "tea",
+     "smoking",
+     "cigarette",
+     "politics",
+     "militancy"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "scene_after": {
+    "start": "21:32",
+    "end": "24:35",
+    "location": "Judge Mallik's study room",
+    "characters": [
+     "Judge Siddheshwar Mallik",
+     "Sushanto Som"
+    ],
+    "dominant_activity": "Confession of judicial guilt and plan for a seance",
+    "mood": "eerie",
+    "summary": "In a dimly lit study, Judge Mallik hands over his personal diaries to Sushanto, showing red crosses marked beside capital punishment verdicts with question marks beside doubtful ones. Haunted by the moral weight of executions he decreed, he reveals his intention to conduct a planchette seance to communicate with the deceased.",
+    "opening_gist": "Sushanto enters the dark study where Judge Mallik is reading by a desk lamp.",
+    "closing_gist": "Judge Mallik declares that a planchette is inevitable, leaving Sushanto unsettled.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "study",
+     "books",
+     "diaries",
+     "planchette",
+     "seance",
+     "guilt",
+     "capital punishment",
+     "cigar"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.34,
+    "natural_break_confidence": 0.34,
+    "same_conversation": 0.12,
+    "emotional_peak": 0.12,
+    "input_tokens": 1221
+   },
+   "quality": 0.825,
+   "audit": {
+    "speech_near_cut": true,
+    "sentence_spans_cut": false,
+    "what_is_heard": "A soft exclamation/sigh ('hm') occurs around 00:04, followed by silence at 00:05 before an 'oh' sigh around 00:06.",
+    "passed": false
+   },
+   "rejected_cuts": [
+    {
+     "t": 1289.968,
+     "heard": "A man is speaking, and his sentence is cut off by the ad break."
+    }
+   ],
+   "decision": "rejected: Gemini audit heard dialogue at every clean cut here (A soft exclamation/sigh ('hm') occurs around 00:04, followed by silence at 00:05 before an 'oh' sigh around 00:06.)"
+  },
+  {
+   "boundary_index": 13,
+   "gemini_boundary": 1475.0,
+   "t": 1478.1,
+   "kind": "fade_to_black",
+   "shot_score": 2.6,
+   "silence_before_s": 7.8,
+   "silence_after_s": 5.3,
+   "alternatives": [
+    {
+     "t": 1474.6,
+     "kind": "shot_cut",
+     "shot_score": 0.229,
+     "silence_before_s": 4.3,
+     "silence_after_s": 8.8
+    }
+   ],
+   "id": "c013",
+   "scene_before": {
+    "start": "21:32",
+    "end": "24:35",
+    "location": "Judge Mallik's study room",
+    "characters": [
+     "Judge Siddheshwar Mallik",
+     "Sushanto Som"
+    ],
+    "dominant_activity": "Confession of judicial guilt and plan for a seance",
+    "mood": "eerie",
+    "summary": "In a dimly lit study, Judge Mallik hands over his personal diaries to Sushanto, showing red crosses marked beside capital punishment verdicts with question marks beside doubtful ones. Haunted by the moral weight of executions he decreed, he reveals his intention to conduct a planchette seance to communicate with the deceased.",
+    "opening_gist": "Sushanto enters the dark study where Judge Mallik is reading by a desk lamp.",
+    "closing_gist": "Judge Mallik declares that a planchette is inevitable, leaving Sushanto unsettled.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "study",
+     "books",
+     "diaries",
+     "planchette",
+     "seance",
+     "guilt",
+     "capital punishment",
+     "cigar"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "scene_after": {
+    "start": "24:35",
+    "end": "25:35",
+    "location": "Credits screen",
+    "characters": [],
+    "dominant_activity": "Closing credits",
+    "mood": "neutral",
+    "summary": "Closing credits crawl accompanied by the series theme music, listing full cast, crew, and production credits.",
+    "opening_gist": "Visual effects and production company credits appear on black.",
+    "closing_gist": "Copyright notice for Hoichoi Technologies fades out to black.",
+    "ends_on": "resolved",
+    "tags": [
+     "credits",
+     "music",
+     "end"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.72,
+    "natural_break_confidence": 0.72,
+    "same_conversation": 0.04,
+    "emotional_peak": 0.28,
+    "input_tokens": 1094
+   },
+   "quality": 0.8827,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "Ending credits background music plays uninterrupted; no speech is present.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": null,
+    "table": [
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.48,
+      "fit": 0.09,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.77,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.74,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.7,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.69,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.71,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.68,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.73,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4220
+   },
+   "decision": "rejected: no catalogue brand is safe and relevant here (8/8 blocked by negative contexts)"
+  }
+ ],
+ "rejected_boundaries": [
+  {
+   "boundary_index": 0,
+   "gemini_boundary": 10.0,
+   "reason": "inside protected opening/ending window"
+  },
+  {
+   "boundary_index": 1,
+   "gemini_boundary": 85.0,
+   "reason": "inside protected opening/ending window"
+  },
+  {
+   "boundary_index": 7,
+   "gemini_boundary": 696.0,
+   "reason": "speech continues across the whole boundary region (would cut mid-dialogue)"
+  }
+ ],
+ "brands": [
+  {
+   "id": "brand_a",
+   "name": "Brand A",
+   "category": "food/spices/cooking",
+   "target_contexts": [
+    "cooking",
+    "kitchen",
+    "eating",
+    "family meal",
+    "recipe",
+    "food preparation",
+    "spices",
+    "seasoning",
+    "frying",
+    "boiling",
+    "homemade food",
+    "lunch",
+    "dinner",
+    "festival food"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "illness",
+    "bathroom",
+    "accident",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "a_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_a/a_15s_bn.mp4"
+    },
+    {
+     "id": "a_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_a/a_20s_bn.mp4"
+    },
+    {
+     "id": "a_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_a/a_30s_bn.mp4"
+    }
+   ],
+   "color": "#8a2b96"
+  },
+  {
+   "id": "brand_b",
+   "name": "Brand B",
+   "category": "personal care/skincare",
+   "target_contexts": [
+    "face wash",
+    "skincare",
+    "bathroom",
+    "morning routine",
+    "hair care",
+    "sweating",
+    "heat",
+    "shower",
+    "washing face",
+    "moisturizer",
+    "cream",
+    "personal hygiene",
+    "self care",
+    "getting ready"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "violence",
+    "eating",
+    "accident",
+    "hospital",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "b_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_b/b_15s_bn.mp4"
+    },
+    {
+     "id": "b_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_b/b_20s_bn.mp4"
+    },
+    {
+     "id": "b_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_b/b_30s_bn.mp4"
+    }
+   ],
+   "color": "#962b8e"
+  },
+  {
+   "id": "brand_c",
+   "name": "Brand C",
+   "category": "beauty/cosmetics",
+   "target_contexts": [
+    "make-up",
+    "getting ready",
+    "wedding",
+    "party",
+    "mirror",
+    "fashion",
+    "salon",
+    "lipstick",
+    "foundation",
+    "eyeliner",
+    "beauty",
+    "dressing",
+    "celebration",
+    "special occasion"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "violence",
+    "illness",
+    "accident",
+    "hospital",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "c_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_c/c_15s_bn.mp4"
+    },
+    {
+     "id": "c_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_c/c_20s_bn.mp4"
+    },
+    {
+     "id": "c_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_c/c_30s_bn.mp4"
+    }
+   ],
+   "color": "#302b96"
+  },
+  {
+   "id": "brand_d",
+   "name": "Brand D",
+   "category": "telecom/connectivity",
+   "target_contexts": [
+    "phone",
+    "mobile",
+    "calling",
+    "video call",
+    "messaging",
+    "internet",
+    "wifi",
+    "streaming",
+    "social media",
+    "working remotely",
+    "online meeting",
+    "travel",
+    "communication",
+    "family conversation"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "medical emergency",
+    "violence"
+   ],
+   "creatives": [
+    {
+     "id": "d_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_d/d_20s_bn.mp4"
+    },
+    {
+     "id": "d_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_d/d_30s_bn.mp4"
+    }
+   ],
+   "color": "#964c2b"
+  },
+  {
+   "id": "brand_e",
+   "name": "Brand E",
+   "category": "automotive/mobility",
+   "target_contexts": [
+    "car",
+    "automobile",
+    "driving",
+    "road trip",
+    "commuting",
+    "traffic",
+    "parking",
+    "highway",
+    "motorcycle",
+    "vehicle",
+    "road",
+    "journey",
+    "travel by car",
+    "family trip"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "accident",
+    "injury",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "e_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_e/e_20s_bn.mp4"
+    },
+    {
+     "id": "e_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_e/e_30s_bn.mp4"
+    }
+   ],
+   "color": "#2b9660"
+  },
+  {
+   "id": "brand_f",
+   "name": "Brand F",
+   "category": "fintech/digital payments",
+   "target_contexts": [
+    "shopping",
+    "payment",
+    "mobile payment",
+    "digital wallet",
+    "banking",
+    "money transfer",
+    "bill payment",
+    "online shopping",
+    "checkout",
+    "merchant",
+    "salary",
+    "personal finance",
+    "transaction"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "financial distress",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "f_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_f/f_15s_bn.mp4"
+    },
+    {
+     "id": "f_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_f/f_20s_bn.mp4"
+    },
+    {
+     "id": "f_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_f/f_30s_bn.mp4"
+    }
+   ],
+   "color": "#952b96"
+  },
+  {
+   "id": "brand_g",
+   "name": "Brand G",
+   "category": "travel/hospitality",
+   "target_contexts": [
+    "travel",
+    "vacation",
+    "holiday",
+    "hotel",
+    "resort",
+    "tourism",
+    "train journey",
+    "airport",
+    "beach",
+    "mountains",
+    "sightseeing",
+    "road trip",
+    "weekend trip",
+    "family vacation"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "accident",
+    "illness",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "g_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_g/g_20s_bn.mp4"
+    },
+    {
+     "id": "g_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_g/g_30s_bn.mp4"
+    }
+   ],
+   "color": "#962b8c"
+  },
+  {
+   "id": "brand_h",
+   "name": "Brand H",
+   "category": "e-commerce/online shopping",
+   "target_contexts": [
+    "online shopping",
+    "shopping",
+    "delivery",
+    "package",
+    "parcel",
+    "e-commerce",
+    "mobile shopping",
+    "product browsing",
+    "checkout",
+    "fashion shopping",
+    "home shopping",
+    "electronics shopping",
+    "gift",
+    "purchase"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "accident",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "h_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_h/h_15s_bn.mp4"
+    },
+    {
+     "id": "h_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_h/h_20s_bn.mp4"
+    },
+    {
+     "id": "h_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_h/h_30s_bn.mp4"
+    }
+   ],
+   "color": "#2b3496"
+  }
+ ],
+ "policy": {
+  "BOUNDARY_SEARCH_WINDOW_S": 6.0,
+  "BRAND_BLOCK_THRESHOLD": 0.25,
+  "CREATIVE_BASE_URL": "/",
+  "CUT_MAX_SPEECH_PROB": 0.15,
+  "GEMINI_MODEL": "gemini-3.8-flash",
+  "JEV_MODEL": "jev-latest",
+  "LONG_CREATIVE_MIN_QUALITY": 0.85,
+  "MAX_AD_LOAD_PCT": 6.0,
+  "MAX_BREAKS_PER_HOUR": 6,
+  "MIN_BRAND_FIT": 0.35,
+  "MIN_BREAK_QUALITY": 0.55,
+  "MIN_GAP_BETWEEN_BREAKS_S": 240,
+  "MIN_SOFT_GAP_S": 1.2,
+  "MIN_SPEECH_CLEARANCE_S": 0.35,
+  "NO_BREAK_BEFORE_S": 120,
+  "NO_BREAK_IN_LAST_S": 60,
+  "PREFERRED_CREATIVE_S": 20,
+  "SAME_CONVERSATION_REJECT": 0.7,
+  "UNSAFE_SLOT_POLICY": "move",
+  "VAD_THRESHOLD": 0.4
+ },
+ "pacing": {
+  "max_breaks_for_runtime": 3,
+  "ad_budget_s": 92.1,
+  "ad_seconds_used": 50,
+  "ad_load_pct": 3.26
+ },
+ "analysis_model": "gemini-3.8-flash",
+ "analysed_at": "2026-09-26 16:33:36",
+ "timings": {
+  "understand_s": 0.0,
+  "signals_s": 0.0,
+  "judge_s": 1.7,
+  "select_s": 13.2,
+  "total_s": 14.9
+ },
+ "vmap_url": "/out/feluda/vmap.xml"
+}

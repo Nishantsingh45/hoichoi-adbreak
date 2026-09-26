@@ -1,0 +1,1540 @@
+{
+ "synopsis": "This episode delves into the lives of people in a coastal village, exploring themes of power, corruption, and personal struggles. A police officer investigates a mysterious death on the beach, while a local strongman asserts his control over the fishing community. Personal stories of love, loss, and resilience intertwine with the larger narrative of social injustice and the fight for survival.",
+ "scenes": [
+  {
+   "start": "00:00",
+   "end": "00:09",
+   "location": "Black screen",
+   "characters": [],
+   "dominant_activity": "Displaying a disclaimer about the program's fictional nature and content warnings.",
+   "mood": "Informative, serious",
+   "summary": "A disclaimer is shown, stating that the program is fictional and may contain strong language, violence, and mature scenes. It also mentions that no animals were harmed and warns about the health risks of smoking, alcohol, and tobacco.",
+   "opening_gist": "The screen displays a disclaimer with text about the program's content and fictional nature.",
+   "closing_gist": "The disclaimer text remains on screen until the transition.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:09",
+   "end": "00:14",
+   "location": "Black screen",
+   "characters": [],
+   "dominant_activity": "Displaying the production company's logo and 'Originals' title.",
+   "mood": "Neutral, introductory",
+   "summary": "The 'hoichoi Originals' logo is displayed on a black screen, accompanied by a dramatic sound effect.",
+   "opening_gist": "The 'hoichoi Originals' logo appears on a black screen with a dramatic sound.",
+   "closing_gist": "The logo fades out as the scene transitions to the next shot.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:14",
+   "end": "00:28",
+   "location": "Beach",
+   "characters": [
+    "Two elderly men",
+    "A young man",
+    "A body"
+   ],
+   "dominant_activity": "Two men observing a body being pulled from the sea by others.",
+   "mood": "Somber, mysterious",
+   "summary": "Two elderly men sit on a beach, observing as a body is pulled from the water by several individuals. The body is then carried away on a cart, suggesting a grim discovery.",
+   "opening_gist": "Two elderly men are seen on a beach, looking intently at something in the distance.",
+   "closing_gist": "The body is placed on a cart and taken away, leaving the two men on the beach.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "death"
+   ]
+  },
+  {
+   "start": "00:28",
+   "end": "00:37",
+   "location": "Beach",
+   "characters": [
+    "Two elderly men"
+   ],
+   "dominant_activity": "Two men sitting on the beach, looking out at the vast, empty expanse.",
+   "mood": "Pensive, quiet",
+   "summary": "The two elderly men from the previous scene are still sitting on the beach, now looking out at the vast, empty expanse of sand and sea. A white car is visible in the far distance.",
+   "opening_gist": "The two elderly men are seen from behind, sitting on the beach and gazing into the distance.",
+   "closing_gist": "The scene holds on the men looking out, with the distant car visible.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:37",
+   "end": "01:30",
+   "location": "Beach",
+   "characters": [
+    "Police officer",
+    "Two elderly men",
+    "Young boy",
+    "Body"
+   ],
+   "dominant_activity": "Police investigating a body on the beach, while a boy plays nearby.",
+   "mood": "Investigative, eerie",
+   "summary": "A police officer arrives at the beach to investigate the body, which is now covered on a cart. He questions the two elderly men. Meanwhile, a young boy plays with a hoop in the water, seemingly oblivious to the grim scene, creating an eerie contrast.",
+   "opening_gist": "A police officer arrives in a jeep and approaches the covered body on the beach, while the two elderly men watch.",
+   "closing_gist": "The boy runs into the sea with his hoop, as the police officer watches him with a thoughtful expression.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "death"
+   ]
+  },
+  {
+   "start": "01:30",
+   "end": "01:33",
+   "location": "Abstract",
+   "characters": [],
+   "dominant_activity": "A brief, abstract shot with swirling colors.",
+   "mood": "Mysterious, unsettling",
+   "summary": "A short, abstract shot features swirling, indistinct colors, creating a momentary visual break before the next scene.",
+   "opening_gist": "The screen shows swirling, abstract colors.",
+   "closing_gist": "The colors fade out as the scene transitions.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "01:33",
+   "end": "02:49",
+   "location": "Beach",
+   "characters": [
+    "Old woman",
+    "Young boy",
+    "Police officer",
+    "Man in red"
+   ],
+   "dominant_activity": "An old woman with a spear, a boy playing in the water, and a police officer observing, followed by a man in red.",
+   "mood": "Mysterious, unsettling",
+   "summary": "An old woman with a spear sits by a tree on the beach, muttering ominously. The young boy continues to play in the water, seemingly possessed, as the police officer observes. A man in red then appears, watching the boy, suggesting a deeper connection to the unfolding events.",
+   "opening_gist": "An old woman with long white hair and a spear sits by a fallen tree on the beach, muttering to herself.",
+   "closing_gist": "The man in red looks intently at the boy, who is now facing the police officer, before the scene cuts to a title card.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "horror_or_fear"
+   ]
+  },
+  {
+   "start": "02:49",
+   "end": "02:55",
+   "location": "Black screen",
+   "characters": [],
+   "dominant_activity": "Displaying the Bengali title of the episode.",
+   "mood": "Neutral, impactful",
+   "summary": "The Bengali title of the episode, 'Mondar', appears in white text on a black screen, accompanied by dramatic sound effects.",
+   "opening_gist": "The Bengali title 'Mondar' appears on a black screen.",
+   "closing_gist": "The title fades out, transitioning to the next scene.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "02:55",
+   "end": "03:00",
+   "location": "Beach",
+   "characters": [],
+   "dominant_activity": "Displaying the English title of the episode over a beach scene.",
+   "mood": "Eerie, mysterious",
+   "summary": "The English title 'Blood Will Have Blood' is displayed over a wide shot of the beach, with a decorated bed frame visible near the water. Eerie music plays in the background.",
+   "opening_gist": "The English title 'Blood Will Have Blood' appears over a misty beach scene with a bed frame.",
+   "closing_gist": "The title fades out, leaving the beach scene.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "03:00",
+   "end": "04:53",
+   "location": "Beach",
+   "characters": [
+    "Man in red",
+    "Woman in red",
+    "Old woman"
+   ],
+   "dominant_activity": "A man in red approaches a decorated bed on the beach where a woman is sitting, leading to a ritual and an old woman's menacing laughter.",
+   "mood": "Eerie, ritualistic, disturbing",
+   "summary": "A man in a red kurta approaches a decorated bed on the beach where a woman in a red sari is sitting. He performs a ritual, touching her feet and arm, while an old woman with painted red hair watches and laughs menacingly. The man then drives away, leaving the old woman laughing as the car is engulfed by the sea.",
+   "opening_gist": "A man in a red kurta gets out of a black car on the beach and walks towards a decorated bed frame.",
+   "closing_gist": "The old woman laughs maniacally as the black car drives into the sea and is swallowed by the waves.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "romance_or_intimacy",
+    "horror_or_fear"
+   ]
+  },
+  {
+   "start": "04:53",
+   "end": "05:39",
+   "location": "Man's room",
+   "characters": [
+    "Man in blue vest"
+   ],
+   "dominant_activity": "A man exercising intensely in a dimly lit room.",
+   "mood": "Intense, determined",
+   "summary": "A man in a blue vest is seen in a dimly lit room, performing intense exercises. He uses a wooden block to punch and repeatedly hits his head against the wall, showing extreme determination and possibly self-punishment.",
+   "opening_gist": "A man in a blue vest is seen in a room, punching a wooden block and hitting his head against the wall.",
+   "closing_gist": "The man continues his intense exercise, hitting his head against the wall.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "05:39",
+   "end": "06:08",
+   "location": "Balcony overlooking city",
+   "characters": [
+    "Man in blue vest"
+   ],
+   "dominant_activity": "A man walking out onto a balcony and looking at the city below.",
+   "mood": "Pensive, observant",
+   "summary": "The man from the previous scene walks out of his room onto a balcony. He looks out at the bustling city below, his expression thoughtful and observant, contrasting with his earlier intense activity.",
+   "opening_gist": "The man walks out of a doorway onto a balcony.",
+   "closing_gist": "The man stands on the balcony, looking out at the city.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "06:08",
+   "end": "06:50",
+   "location": "Man's room",
+   "characters": [
+    "Man in blue vest"
+   ],
+   "dominant_activity": "A man exercising intensely in his room, smoking a cigarette.",
+   "mood": "Intense, gritty",
+   "summary": "The man is back in his room, continuing his rigorous exercise routine. He is seen smoking a cigarette while performing push-ups and other bodyweight exercises, highlighting a raw and determined character.",
+   "opening_gist": "The man walks back into his room and starts exercising, then lights a cigarette.",
+   "closing_gist": "The man performs push-ups, his reflection visible in a mirror.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "smoking"
+   ]
+  },
+  {
+   "start": "06:50",
+   "end": "07:10",
+   "location": "Fish pond area",
+   "characters": [
+    "Group of villagers",
+    "Man in yellow shirt"
+   ],
+   "dominant_activity": "A group of villagers gathered by a fish pond, holding protest signs.",
+   "mood": "Tense, protesting",
+   "summary": "A group of villagers are gathered by a fish pond, some sitting, some standing, holding protest signs written in Bengali. A man in a yellow shirt stands prominently among them, seemingly leading the protest.",
+   "opening_gist": "A man carries a tray of fried fish past a group of villagers gathered by a fish pond.",
+   "closing_gist": "The man in the yellow shirt looks at the protest signs on the ground.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "poverty_or_financial_distress"
+   ]
+  },
+  {
+   "start": "07:10",
+   "end": "08:59",
+   "location": "Shed by fish pond",
+   "characters": [
+    "Police officer",
+    "Man in pink shirt",
+    "Man serving food"
+   ],
+   "dominant_activity": "A police officer and a man in a pink shirt eating fried fish and discussing local issues.",
+   "mood": "Conversational, slightly tense",
+   "summary": "A police officer and a man in a pink shirt sit under a shed by the fish pond, eating fried fish. They discuss local matters, including the police officer's past posting and the man's involvement in the fish pond business, with the man in pink appearing overly friendly and talkative.",
+   "opening_gist": "The man in pink asks the police officer if he had his phone number, then mentions a previous conversation about the officer.",
+   "closing_gist": "The man in pink explains he came to resolve a 'problem' and everything is now 'under control'.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "08:59",
+   "end": "09:34",
+   "location": "Road by fish pond",
+   "characters": [
+    "Man on motorcycle",
+    "Police officer",
+    "Man in pink shirt"
+   ],
+   "dominant_activity": "A man on a motorcycle arrives at the fish pond area.",
+   "mood": "Intrusive, slightly aggressive",
+   "summary": "A man on a motorcycle, wearing headphones, arrives at the fish pond area. He drives past the shed where the police officer and the man in pink are sitting, then parks his bike and walks towards the protesting villagers.",
+   "opening_gist": "A man on a motorcycle drives down a dirt road towards the fish pond area.",
+   "closing_gist": "The man on the motorcycle walks towards the gathered villagers, his back to the camera.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "09:34",
+   "end": "10:17",
+   "location": "Fish pond area",
+   "characters": [
+    "Man on motorcycle",
+    "Villagers",
+    "Man in yellow shirt"
+   ],
+   "dominant_activity": "A man on a motorcycle confronts protesting villagers, leading to a physical altercation.",
+   "mood": "Aggressive, violent",
+   "summary": "The man on the motorcycle confronts the protesting villagers, demanding to know why they have stopped working. He gets into a heated argument with the man in the yellow shirt, which quickly escalates into a physical fight, with other villagers trying to intervene.",
+   "opening_gist": "The man on the motorcycle asks the villagers why they stopped working.",
+   "closing_gist": "The villagers are seen fighting, with some trying to pull others apart, near the fish pond.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "violence_or_fight"
+   ]
+  },
+  {
+   "start": "10:17",
+   "end": "11:43",
+   "location": "Shed by fish pond",
+   "characters": [
+    "Police officer",
+    "Man in pink shirt",
+    "Man on motorcycle",
+    "Villagers"
+   ],
+   "dominant_activity": "The police officer and the man in pink continue their conversation while the fight escalates.",
+   "mood": "Tense, unsettling",
+   "summary": "The police officer and the man in pink continue their conversation, seemingly undisturbed by the escalating fight in the background. The man in pink becomes agitated and eventually joins the brawl, leaving the police officer to observe the chaos.",
+   "opening_gist": "The police officer is seen eating, while the man in pink talks about the problems.",
+   "closing_gist": "The man in pink joins the fight, shouting at the villagers, while the police officer watches from a distance.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "violence_or_fight"
+   ]
+  },
+  {
+   "start": "11:43",
+   "end": "12:04",
+   "location": "Tea stall",
+   "characters": [
+    "Man in brown shirt"
+   ],
+   "dominant_activity": "A man in a tea stall looking at various posters on the wall.",
+   "mood": "Pensive, observant",
+   "summary": "A man in a brown shirt is seen inside a small tea stall, looking at numerous posters plastered on the wall. The posters appear to be advertisements or political messages, reflecting the local environment.",
+   "opening_gist": "A man in a brown shirt is seen inside a tea stall, looking at posters on the wall.",
+   "closing_gist": "The man continues to look at the posters on the wall.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "12:04",
+   "end": "12:18",
+   "location": "Tea stall",
+   "characters": [
+    "Man in brown shirt"
+   ],
+   "dominant_activity": "A man in a tea stall spitting betel juice and looking at posters.",
+   "mood": "Reflective, local",
+   "summary": "The man in the tea stall spits betel juice, then continues to look at the posters on the wall. The posters include advertisements for a 'Gupta Clinic' and messages about marital issues.",
+   "opening_gist": "The man in the tea stall spits betel juice onto the ground.",
+   "closing_gist": "The man looks at the posters, which include advertisements for a clinic.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "12:18",
+   "end": "13:33",
+   "location": "Tea stall",
+   "characters": [
+    "Man in brown shirt"
+   ],
+   "dominant_activity": "A man in a tea stall closing his shop.",
+   "mood": "Routine, quiet",
+   "summary": "The man in the brown shirt proceeds to close his tea stall. He locks the doors and secures the premises, with the various posters still visible on the exterior walls.",
+   "opening_gist": "The man in the brown shirt is seen closing the doors of his tea stall.",
+   "closing_gist": "The man finishes locking the shop, and the camera focuses on the posters on the door.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "13:33",
+   "end": "13:53",
+   "location": "Road and harbor",
+   "characters": [
+    "Man on motorcycle"
+   ],
+   "dominant_activity": "A man on a motorcycle driving on a road and arriving at a busy harbor.",
+   "mood": "Journey, anticipation",
+   "summary": "The man on the motorcycle drives along a tree-lined road, then arrives at a bustling harbor filled with fishing boats. He parks his motorcycle and dismounts, preparing to enter the busy port area.",
+   "opening_gist": "A man on a motorcycle drives down a road with trees on either side.",
+   "closing_gist": "The man parks his motorcycle and walks away, with many fishing boats in the background.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "13:53",
+   "end": "14:49",
+   "location": "Harbor office",
+   "characters": [
+    "Man on motorcycle",
+    "Older man in white shirt",
+    "Police officer"
+   ],
+   "dominant_activity": "A man on a motorcycle confronts an older man in a harbor office, leading to a heated argument.",
+   "mood": "Confrontational, tense",
+   "summary": "The man on the motorcycle walks into a harbor office and confronts an older man in a white shirt, who is sitting at a desk. He accuses the older man of disrespecting him and threatens to shut down the business, leading to a tense argument with the police officer present.",
+   "opening_gist": "The man on the motorcycle walks towards a man carrying a blue bag, then enters a harbor office.",
+   "closing_gist": "The older man in the office looks at the man on the motorcycle with a stern expression.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "violence_or_fight"
+   ]
+  },
+  {
+   "start": "14:49",
+   "end": "15:00",
+   "location": "Harbor office",
+   "characters": [
+    "Older man in white shirt",
+    "Worker",
+    "Police officer"
+   ],
+   "dominant_activity": "An older man in a harbor office gives a worker a clinic card.",
+   "mood": "Authoritative, subtle",
+   "summary": "The older man in the harbor office, now alone with a worker, gives him a clinic card. The worker, carrying a rope, looks at the card with a somber expression, hinting at underlying issues.",
+   "opening_gist": "A worker with a rope on his shoulder looks at the older man in the office.",
+   "closing_gist": "The older man gives the worker a clinic card, which the worker takes with a serious expression.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "15:00",
+   "end": "15:25",
+   "location": "Street",
+   "characters": [
+    "Man in brown shirt"
+   ],
+   "dominant_activity": "A man on the street smoking and talking on the phone, looking at a clinic card.",
+   "mood": "Pensive, concerned",
+   "summary": "The man in the brown shirt is seen on a busy street, smoking a cigarette and talking on his phone. He looks at the clinic card he received earlier, his expression indicating concern or contemplation.",
+   "opening_gist": "A clinic card for 'Gupta Clinic' is seen on the ground.",
+   "closing_gist": "The man talks on the phone, looking at the clinic card with a worried expression.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "smoking"
+   ]
+  },
+  {
+   "start": "15:25",
+   "end": "15:40",
+   "location": "Small room",
+   "characters": [
+    "Woman in green sari"
+   ],
+   "dominant_activity": "A woman washing clothes in a small room, talking on the phone.",
+   "mood": "Domestic, conversational",
+   "summary": "A woman in a green sari is seen in a small, corrugated iron room, washing clothes. She is talking on the phone, her conversation seemingly about daily chores and her husband's activities.",
+   "opening_gist": "A woman in a green sari is washing clothes in a small room.",
+   "closing_gist": "The woman talks on the phone, asking what the other person is doing.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "15:40",
+   "end": "15:53",
+   "location": "Street",
+   "characters": [
+    "Man in brown shirt"
+   ],
+   "dominant_activity": "A man on the street talking on the phone, looking at a clinic card.",
+   "mood": "Concerned, pensive",
+   "summary": "The man in the brown shirt is still on the street, talking on the phone. He looks at the clinic card, his expression suggesting he is worried about something related to it.",
+   "opening_gist": "The man on the street talks on the phone, confirming he is washing clothes.",
+   "closing_gist": "The man looks at the clinic card, his expression serious.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "15:53",
+   "end": "16:02",
+   "location": "Small room",
+   "characters": [
+    "Woman in green sari"
+   ],
+   "dominant_activity": "A woman talking on the phone, looking sad.",
+   "mood": "Sad, worried",
+   "summary": "The woman in the small room continues her phone conversation, her face showing sadness and worry. She asks why the other person is at home, hinting at a problem.",
+   "opening_gist": "The woman on the phone asks why the other person is at home.",
+   "closing_gist": "The woman looks sad and worried while on the phone.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "16:02",
+   "end": "16:14",
+   "location": "Street",
+   "characters": [
+    "Man in brown shirt"
+   ],
+   "dominant_activity": "A man on the street talking on the phone, looking serious.",
+   "mood": "Serious, determined",
+   "summary": "The man on the street continues his phone call, his expression serious and determined. He promises to call back later, suggesting he has something important to do or think about.",
+   "opening_gist": "The man on the phone is told to call back when he gets home.",
+   "closing_gist": "The man hangs up the phone, looking serious and walks away.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "16:14",
+   "end": "16:35",
+   "location": "Street market",
+   "characters": [
+    "Man in brown shirt",
+    "Vendor"
+   ],
+   "dominant_activity": "A man buying sunglasses from a street vendor.",
+   "mood": "Casual, transactional",
+   "summary": "The man in the brown shirt approaches a street vendor selling sunglasses and small statues. He tries on a pair of red sunglasses, which the vendor praises, suggesting a change in his demeanor or identity.",
+   "opening_gist": "A man in a brown shirt approaches a street vendor selling sunglasses.",
+   "closing_gist": "The man tries on red sunglasses, which the vendor says suit him.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "16:35",
+   "end": "17:00",
+   "location": "Road by fish pond",
+   "characters": [
+    "Older man in white shirt",
+    "Man in pink shirt"
+   ],
+   "dominant_activity": "An older man in a car, listening to music, while the man in pink throws away protest signs.",
+   "mood": "Triumphant, dismissive",
+   "summary": "The older man from the harbor is seen driving in his car, listening to loud, upbeat music. He passes the man in pink, who is now tearing down and throwing away the protest signs, indicating a shift in power or the suppression of the protest.",
+   "opening_gist": "The older man in a white shirt is in his car, listening to loud music and wearing sunglasses.",
+   "closing_gist": "The man in pink throws the torn protest signs on the ground as the older man's car drives away.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "17:00",
+   "end": "17:41",
+   "location": "Road by fish pond",
+   "characters": [
+    "Older man in white shirt",
+    "Man in pink shirt",
+    "Young man"
+   ],
+   "dominant_activity": "An older man in a car talks to the man in pink and a young man.",
+   "mood": "Authoritative, manipulative",
+   "summary": "The older man in the car stops to talk to the man in pink and a young man. He praises the young man for managing the situation and subtly manipulates him, offering him a new role, while the man in pink looks on, seemingly pleased.",
+   "opening_gist": "The older man in the car asks the man in pink if everyone has gone to work.",
+   "closing_gist": "The older man tells the young man he will be in charge of the fish pond from tomorrow.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "17:41",
+   "end": "18:09",
+   "location": "Road by fish pond",
+   "characters": [
+    "Older man in white shirt",
+    "Man in pink shirt",
+    "Young man"
+   ],
+   "dominant_activity": "An older man in a car talks to a young man, offering him a job.",
+   "mood": "Manipulative, opportunistic",
+   "summary": "The older man in the car continues to talk to the young man, offering him the responsibility of the fish pond, implying that if he performs well, he will get more work. The young man seems hesitant but the man in pink encourages him, seeing an opportunity.",
+   "opening_gist": "The older man asks the young man if he can handle the work.",
+   "closing_gist": "The man in pink points to the police officer sitting under the shed, indicating he is keeping an eye on things.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "18:09",
+   "end": "18:34",
+   "location": "Road by fish pond",
+   "characters": [
+    "Older man in white shirt",
+    "Man in pink shirt",
+    "Young man"
+   ],
+   "dominant_activity": "An older man in a car talks to the man in pink and the young man, then drives away.",
+   "mood": "Authoritative, triumphant",
+   "summary": "The older man in the car gives final instructions to the man in pink and the young man, asserting his authority. He then drives away, leaving the two men standing by the fish pond, looking up at the sky, contemplating the new arrangement.",
+   "opening_gist": "The older man in the car says the police officer has left.",
+   "closing_gist": "The older man drives away, leaving the man in pink and the young man standing by the fish pond, looking up.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "18:34",
+   "end": "18:38",
+   "location": "Dirt path by dry pond",
+   "characters": [
+    "Two women"
+   ],
+   "dominant_activity": "Two women walking on a dirt path next to a dry pond.",
+   "mood": "Quiet, observational",
+   "summary": "Two women are seen walking along a dirt path next to a dry pond, their figures small against the desolate landscape. The scene is quiet, focusing on their journey.",
+   "opening_gist": "Two women walk along a dirt path next to a dry pond.",
+   "closing_gist": "The women continue walking on the path.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "18:38",
+   "end": "19:00",
+   "location": "Rooftop",
+   "characters": [
+    "Three men",
+    "Man on phone"
+   ],
+   "dominant_activity": "Three men playing cards on a rooftop, one talks on the phone.",
+   "mood": "Casual, conversational",
+   "summary": "Three men are playing cards on a rooftop, while a fourth man stands nearby, talking on his phone. The conversation on the phone seems to be about the fish pond and the new responsibilities.",
+   "opening_gist": "Three men are playing cards on a rooftop, while another man stands talking on his phone.",
+   "closing_gist": "The man on the phone is told that the fish pond is now his responsibility.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "19:00",
+   "end": "19:08",
+   "location": "Fish pond area",
+   "characters": [
+    "Young man on phone"
+   ],
+   "dominant_activity": "A young man talking on the phone by the fish pond.",
+   "mood": "Surprised, concerned",
+   "summary": "The young man who was given responsibility for the fish pond is seen talking on his phone. He looks surprised and concerned by the news he is receiving, possibly about the new arrangement.",
+   "opening_gist": "The young man on the phone looks surprised, with a slight blood stain on his lip.",
+   "closing_gist": "The young man looks worried while on the phone.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "injury_or_blood"
+   ]
+  },
+  {
+   "start": "19:08",
+   "end": "19:14",
+   "location": "Rooftop",
+   "characters": [
+    "Man on phone"
+   ],
+   "dominant_activity": "A man on a rooftop talking on the phone.",
+   "mood": "Concerned, serious",
+   "summary": "The man on the rooftop continues his phone conversation, his expression serious. He asks when the other person was told about the new arrangement, indicating his concern.",
+   "opening_gist": "The man on the rooftop talks on the phone, asking when he was told.",
+   "closing_gist": "The man on the phone looks serious, listening intently.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "19:14",
+   "end": "19:23",
+   "location": "Rooftop overlooking temple",
+   "characters": [
+    "Man on phone"
+   ],
+   "dominant_activity": "A man on a rooftop talking on the phone, looking at a temple.",
+   "mood": "Pensive, concerned",
+   "summary": "The man on the rooftop continues his phone conversation, his gaze fixed on a nearby temple. He relays information about the new responsibilities at the fish pond, his expression reflecting a mix of contemplation and concern.",
+   "opening_gist": "The man on the rooftop talks on the phone, saying he was told this morning.",
+   "closing_gist": "The man looks at the temple while talking on the phone.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "19:23",
+   "end": "19:33",
+   "location": "Rooftop",
+   "characters": [
+    "Man on phone"
+   ],
+   "dominant_activity": "A man on a rooftop talking on the phone.",
+   "mood": "Serious, questioning",
+   "summary": "The man on the rooftop continues his phone conversation, asking if anyone else was present during the discussion about the new responsibilities. His tone is serious, seeking more information.",
+   "opening_gist": "The man on the rooftop asks if anyone else was there.",
+   "closing_gist": "The man looks serious, listening to the phone call.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "19:33",
+   "end": "19:56",
+   "location": "Fish pond area and rooftop",
+   "characters": [
+    "Young man on phone",
+    "Man on rooftop"
+   ],
+   "dominant_activity": "A young man by the fish pond and a man on the rooftop talking on the phone.",
+   "mood": "Concerned, cautious",
+   "summary": "The young man by the fish pond talks on the phone, looking worried. The man on the rooftop advises him to work well and be careful, indicating a sense of caution and potential danger in the new situation.",
+   "opening_gist": "The young man on the phone is told to work well.",
+   "closing_gist": "The man on the rooftop looks serious after ending the call, as another man calls out to him.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "19:56",
+   "end": "20:09",
+   "location": "Man's room",
+   "characters": [
+    "Man in blue vest"
+   ],
+   "dominant_activity": "A man exercising in front of a mirror.",
+   "mood": "Intense, focused",
+   "summary": "The man in the blue vest is seen in his room, exercising in front of a mirror. He punches a wooden block, his movements precise and powerful, reflecting his intense focus.",
+   "opening_gist": "The man in the blue vest punches a wooden block in front of a mirror.",
+   "closing_gist": "The man continues to punch the wooden block, his reflection visible.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "20:09",
+   "end": "20:19",
+   "location": "Rooftop",
+   "characters": [
+    "Three men",
+    "Man on phone"
+   ],
+   "dominant_activity": "Three men playing cards on a rooftop, one talks on the phone.",
+   "mood": "Casual, conversational",
+   "summary": "Three men are playing cards on a rooftop, while one of them talks on the phone. The conversation seems to be about the young man and the fish pond, with a sense of casual discussion.",
+   "opening_gist": "Three men are playing cards on a rooftop, one talks on the phone.",
+   "closing_gist": "The man on the phone listens intently, while the others continue playing cards.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "20:19",
+   "end": "20:28",
+   "location": "Man's room",
+   "characters": [
+    "Man in blue vest"
+   ],
+   "dominant_activity": "A man exercising in front of a mirror, talking on the phone.",
+   "mood": "Intense, focused",
+   "summary": "The man in the blue vest is in his room, exercising in front of a mirror while talking on the phone. He is informed about the young man taking over the fish pond, but his focus remains on his workout.",
+   "opening_gist": "The man in the blue vest is exercising in front of a mirror, talking on the phone.",
+   "closing_gist": "The man continues to exercise while on the phone, listening to the news.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "20:28",
+   "end": "20:46",
+   "location": "Rooftop",
+   "characters": [
+    "Man on phone"
+   ],
+   "dominant_activity": "A man on a rooftop talking on the phone.",
+   "mood": "Concerned, serious",
+   "summary": "The man on the rooftop continues his phone conversation, discussing the new arrangement at the fish pond. He expresses concern about how long this new situation will last, hinting at instability.",
+   "opening_gist": "The man on the rooftop talks on the phone, saying the young man is taking over the fish pond.",
+   "closing_gist": "The man looks serious, listening to the phone call.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "20:46",
+   "end": "21:03",
+   "location": "Man's room",
+   "characters": [
+    "Man in blue vest"
+   ],
+   "dominant_activity": "A man exercising in front of a mirror, talking on the phone.",
+   "mood": "Intense, determined",
+   "summary": "The man in the blue vest continues his intense exercise in front of a mirror, talking on the phone. He is informed that the young man is taking over the fish pond, and he reacts with a determined expression, suggesting he has a plan.",
+   "opening_gist": "The man in the blue vest is exercising in front of a mirror, talking on the phone, and is told about the fish pond.",
+   "closing_gist": "The man looks at his reflection with a determined expression while on the phone.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "21:03",
+   "end": "21:21",
+   "location": "Rooftop",
+   "characters": [
+    "Man on phone"
+   ],
+   "dominant_activity": "A man on a rooftop talking on the phone.",
+   "mood": "Serious, questioning",
+   "summary": "The man on the rooftop continues his phone conversation, asking what the other person is doing. His tone is serious, indicating a need for information or a plan of action.",
+   "opening_gist": "The man on the rooftop talks on the phone, asking what the other person is doing.",
+   "closing_gist": "The man looks serious, listening to the phone call.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "21:21",
+   "end": "21:38",
+   "location": "Man's room",
+   "characters": [
+    "Man in blue vest"
+   ],
+   "dominant_activity": "A man breaking a mirror while exercising.",
+   "mood": "Violent, frustrated",
+   "summary": "The man in the blue vest, in a fit of rage or frustration, smashes the mirror in his room with a wooden block while exercising. The act is violent and sudden, reflecting his inner turmoil.",
+   "opening_gist": "The man in the blue vest is exercising in front of a mirror, then smashes it with a wooden block.",
+   "closing_gist": "The man continues to hit the broken mirror, his reflection shattered.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "violence_or_fight"
+   ]
+  },
+  {
+   "start": "21:38",
+   "end": "22:02",
+   "location": "House exterior and interior",
+   "characters": [
+    "Older man in white shirt",
+    "Woman in red sari",
+    "Child"
+   ],
+   "dominant_activity": "An older man gets out of his car and walks into his house, seeing a mess and a woman and child on the floor.",
+   "mood": "Shocked, distressed",
+   "summary": "An older man in a white shirt gets out of his car and walks into his house. He is shocked to find vomit on the floor and a woman in a red sari and a child lying motionless, suggesting a tragic event has occurred.",
+   "opening_gist": "An older man gets out of his car and walks towards his house.",
+   "closing_gist": "The older man sees the woman and child lying on the floor, looking distressed.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "vomiting_or_disgust",
+    "death"
+   ]
+  },
+  {
+   "start": "22:02",
+   "end": "22:19",
+   "location": "House interior",
+   "characters": [
+    "Older man in white shirt",
+    "Woman in red sari",
+    "Child"
+   ],
+   "dominant_activity": "An older man talks on the phone, looking at the mess and the woman and child on the floor.",
+   "mood": "Distressed, urgent",
+   "summary": "The older man is seen talking on his phone, his expression filled with distress as he looks at the mess on the floor and the motionless woman and child. He seems to be calling for help or reporting the tragic incident.",
+   "opening_gist": "The older man talks on the phone, looking at the mess and the woman and child on the floor.",
+   "closing_gist": "The older man continues to talk on the phone, his face showing deep concern.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "death"
+   ]
+  },
+  {
+   "start": "22:19",
+   "end": "22:27",
+   "location": "House interior",
+   "characters": [
+    "Older man in white shirt",
+    "Woman in red sari",
+    "Child"
+   ],
+   "dominant_activity": "An older man shouts at the mess and the woman and child on the floor.",
+   "mood": "Angry, distressed",
+   "summary": "The older man shouts in anger and distress, looking at the vomit on the floor and the woman and child. His outburst reflects his shock and frustration at the tragic scene.",
+   "opening_gist": "The older man shouts, looking at the vomit on the floor.",
+   "closing_gist": "The older man continues to shout, looking at the woman and child on the floor.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "vomiting_or_disgust",
+    "death"
+   ]
+  },
+  {
+   "start": "22:27",
+   "end": "23:10",
+   "location": "House interior",
+   "characters": [
+    "Older man in white shirt",
+    "Woman in red sari",
+    "Child"
+   ],
+   "dominant_activity": "An older man looks at the woman and child on the floor, then walks away.",
+   "mood": "Grief, despair",
+   "summary": "The older man looks at the motionless woman and child on the floor, his face filled with grief and despair. He then slowly walks away, unable to cope with the tragic sight.",
+   "opening_gist": "The older man looks at the woman and child on the floor, his face full of grief.",
+   "closing_gist": "The older man walks away from the scene, his back to the camera.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "death"
+   ]
+  },
+  {
+   "start": "23:10",
+   "end": "23:39",
+   "location": "House interior and exterior",
+   "characters": [
+    "Older man in white shirt",
+    "Woman in red sari"
+   ],
+   "dominant_activity": "An older man talks on the phone, looking distressed, while a woman watches him.",
+   "mood": "Distressed, secretive",
+   "summary": "An older man talks on the phone, his face showing distress, while a woman in a red sari watches him from a distance. He mentions a bottle in the car and says he won't eat at home, hinting at a secret or a plan.",
+   "opening_gist": "An older man talks on the phone, looking distressed.",
+   "closing_gist": "The woman watches the man from a distance, her expression unreadable.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "23:39",
+   "end": "23:53",
+   "location": "Road",
+   "characters": [
+    "Woman in green sari"
+   ],
+   "dominant_activity": "A woman in a green sari sitting on a cart, looking at her phone.",
+   "mood": "Pensive, concerned",
+   "summary": "A woman in a green sari is sitting on a cart by the side of a road, looking at her phone. Her expression is pensive, suggesting she is worried or contemplating something important.",
+   "opening_gist": "A woman in a green sari sits on a cart, looking at her phone.",
+   "closing_gist": "The woman looks up from her phone, her expression serious.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "23:53",
+   "end": "24:04",
+   "location": "Schoolyard",
+   "characters": [
+    "Woman in red sari",
+    "Children"
+   ],
+   "dominant_activity": "A woman in a red sari looking at children playing in a schoolyard.",
+   "mood": "Pensive, observant",
+   "summary": "A woman in a red sari stands in a schoolyard, observing children playing. Her expression is pensive, as if she is lost in thought or reflecting on something while watching the innocent play.",
+   "opening_gist": "A woman in a red sari looks at children playing in a schoolyard.",
+   "closing_gist": "The woman continues to watch the children play, her expression thoughtful.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "24:04",
+   "end": "24:20",
+   "location": "Road",
+   "characters": [
+    "Woman in red sari",
+    "Children",
+    "Woman with baby"
+   ],
+   "dominant_activity": "A woman in a red sari looking at children and a woman with a baby.",
+   "mood": "Pensive, concerned",
+   "summary": "A woman in a red sari looks intently at children playing and a woman holding a baby. Her gaze is fixed, suggesting deep thought or concern related to the children and the baby.",
+   "opening_gist": "A woman in a red sari looks at children and a woman holding a baby.",
+   "closing_gist": "The woman looks at the baby with a concerned expression.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "24:20",
+   "end": "24:34",
+   "location": "Road",
+   "characters": [
+    "Woman in green sari",
+    "Man driving cart"
+   ],
+   "dominant_activity": "A man driving a motorized cart with a woman in a green sari sitting on it.",
+   "mood": "Journey, routine",
+   "summary": "A man is seen driving a motorized cart, with a woman in a green sari sitting on the back. They are traveling along a rural road, suggesting a routine journey or commute.",
+   "opening_gist": "A man starts a motorized cart, with a woman in a green sari sitting on it.",
+   "closing_gist": "The cart drives away, with the woman's feet dangling from the back.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "24:34",
+   "end": "24:55",
+   "location": "Small room",
+   "characters": [
+    "Woman in red top",
+    "Man in white vest"
+   ],
+   "dominant_activity": "A woman in a red top crying and a man in a white vest lying in bed.",
+   "mood": "Distressed, somber",
+   "summary": "A woman in a red top is seen crying, while a man in a white vest lies in bed, seemingly unwell or unconscious. The scene is dimly lit, adding to the somber and distressed mood.",
+   "opening_gist": "A woman in a red top is crying, while a man in a white vest lies in bed.",
+   "closing_gist": "The woman continues to cry, looking at the man in bed.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "illness_or_hospital"
+   ]
+  },
+  {
+   "start": "24:55",
+   "end": "25:28",
+   "location": "Small room",
+   "characters": [
+    "Woman in red top",
+    "Man in white vest"
+   ],
+   "dominant_activity": "A woman in a red top talking to a man in a white vest in bed.",
+   "mood": "Emotional, pleading",
+   "summary": "A woman in a red top talks to a man in a white vest who is lying in bed. She pleads with him to give her a child, expressing her deep desire and emotional distress, while the man looks at her with a somber expression.",
+   "opening_gist": "The woman talks to the man in bed, asking him to give her a child.",
+   "closing_gist": "The woman continues to plead with the man, her voice filled with emotion.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ]
+  },
+  {
+   "start": "25:28",
+   "end": "26:15",
+   "location": "Small room",
+   "characters": [
+    "Woman in red top",
+    "Man in white vest"
+   ],
+   "dominant_activity": "A woman in a red top crying and a man in a white vest looking distressed.",
+   "mood": "Distressed, despairing",
+   "summary": "A woman in a red top cries uncontrollably, her face contorted in despair. The man in the white vest looks at her with a distressed expression, unable to offer comfort or solutions, highlighting their shared pain.",
+   "opening_gist": "The woman cries, asking for a child, while the man looks distressed.",
+   "closing_gist": "The woman cries, her face filled with despair, as the man watches her.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "illness_or_hospital"
+   ]
+  },
+  {
+   "start": "26:15",
+   "end": "26:38",
+   "location": "Small room",
+   "characters": [
+    "Man in white vest"
+   ],
+   "dominant_activity": "A man in a white vest looking distressed and putting on a green cloth.",
+   "mood": "Distressed, resigned",
+   "summary": "A man in a white vest looks distressed, then slowly puts on a green cloth. His movements are slow and deliberate, reflecting a sense of resignation or a heavy burden he carries.",
+   "opening_gist": "A man in a white vest looks distressed, then slowly puts on a green cloth.",
+   "closing_gist": "The man looks around the room with a heavy expression.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "26:38",
+   "end": "27:00",
+   "location": "Small room",
+   "characters": [
+    "Woman in red top",
+    "Child",
+    "Man in white vest"
+   ],
+   "dominant_activity": "A woman and child sleeping, while a man looks at them with despair.",
+   "mood": "Despair, somber",
+   "summary": "A woman and child are seen sleeping peacefully on a bed, while the man in the white vest looks at them with an expression of deep despair. He questions what will happen to them, highlighting his profound worry and helplessness.",
+   "opening_gist": "A woman and child are sleeping on a bed, while the man looks at them with despair.",
+   "closing_gist": "The man looks at the sleeping woman and child, his face filled with despair.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "poverty_or_financial_distress"
+   ]
+  },
+  {
+   "start": "27:00",
+   "end": "27:19",
+   "location": "Small room",
+   "characters": [
+    "Hands pouring alcohol"
+   ],
+   "dominant_activity": "Hands pouring alcohol into a glass.",
+   "mood": "Somber, self-destructive",
+   "summary": "Hands are seen pouring alcohol from a bottle into a glass, suggesting a moment of self-medication or despair. The act is quiet and deliberate, emphasizing the somber mood.",
+   "opening_gist": "Hands pour alcohol from a bottle into a glass.",
+   "closing_gist": "More alcohol is poured into the glass, filling it up.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "alcohol"
+   ]
+  },
+  {
+   "start": "27:19",
+   "end": "28:03",
+   "location": "Small room",
+   "characters": [
+    "Man in blue vest"
+   ],
+   "dominant_activity": "A man drinking alcohol in a dimly lit room.",
+   "mood": "Somber, self-destructive",
+   "summary": "A man in a blue vest is seen in a dimly lit room, drinking alcohol. He takes a long sip, his expression somber, indicating he is trying to drown his sorrows or escape from his problems.",
+   "opening_gist": "A man in a blue vest is seen drinking alcohol in a dimly lit room.",
+   "closing_gist": "The man finishes his drink, his expression still somber.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "alcohol"
+   ]
+  },
+  {
+   "start": "28:03",
+   "end": "28:28",
+   "location": "Small room",
+   "characters": [
+    "Man in blue vest"
+   ],
+   "dominant_activity": "A man taking out money from his wallet in a dimly lit room.",
+   "mood": "Pensive, concerned",
+   "summary": "A man in a blue vest is seen in a dimly lit room, taking out money from his wallet. His expression is pensive, suggesting he is worried about his finances or planning something that requires money.",
+   "opening_gist": "A man in a blue vest takes out money from his wallet.",
+   "closing_gist": "The man puts the money back in his wallet, looking concerned.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "poverty_or_financial_distress"
+   ]
+  },
+  {
+   "start": "28:28",
+   "end": "28:42",
+   "location": "Small room",
+   "characters": [
+    "Man in blue vest"
+   ],
+   "dominant_activity": "A man looking at a wedding photo in his wallet.",
+   "mood": "Nostalgic, wistful",
+   "summary": "A man in a blue vest looks at a wedding photo in his wallet, his expression wistful and nostalgic. The photo shows him and his wife on their wedding day, evoking memories of a happier time.",
+   "opening_gist": "A man in a blue vest looks at a wedding photo in his wallet.",
+   "closing_gist": "The man looks at the wedding photo with a wistful expression.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ]
+  },
+  {
+   "start": "28:42",
+   "end": "29:01",
+   "location": "Wedding ceremony",
+   "characters": [
+    "Man",
+    "Woman",
+    "Guests"
+   ],
+   "dominant_activity": "A wedding ceremony with a smiling couple and guests.",
+   "mood": "Joyful, celebratory",
+   "summary": "A joyful wedding ceremony is shown, with a smiling couple exchanging garlands and surrounded by happy guests. The scene is vibrant and celebratory, contrasting with the man's current somber mood.",
+   "opening_gist": "A man and woman are seen smiling at their wedding ceremony, exchanging garlands.",
+   "closing_gist": "The woman smiles brightly, her face adorned with traditional wedding makeup.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "romance_or_intimacy",
+    "religious_ritual"
+   ]
+  },
+  {
+   "start": "29:01",
+   "end": "29:14",
+   "location": "Kitchen",
+   "characters": [
+    "Older man in white shirt",
+    "Woman in red top"
+   ],
+   "dominant_activity": "An older man walking into a kitchen where a woman is cooking.",
+   "mood": "Tense, domestic",
+   "summary": "An older man in a white shirt walks into a dimly lit kitchen where a woman in a red top is cooking. He tells her he is leaving and that he checked on the man, creating a tense domestic atmosphere.",
+   "opening_gist": "An older man walks into a kitchen where a woman is cooking.",
+   "closing_gist": "The older man tells the woman he checked on the man and is leaving.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "29:14",
+   "end": "29:24",
+   "location": "Kitchen",
+   "characters": [
+    "Older man in white shirt",
+    "Woman in red top"
+   ],
+   "dominant_activity": "An older man standing in a kitchen, looking at a woman cooking.",
+   "mood": "Tense, domestic",
+   "summary": "An older man stands in the kitchen, looking at the woman cooking. He seems to be waiting or observing, contributing to the tense and quiet atmosphere in the small, rustic kitchen.",
+   "opening_gist": "An older man stands in the kitchen, looking at the woman cooking.",
+   "closing_gist": "The older man looks at the woman, who continues cooking.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "29:24",
+   "end": "29:58",
+   "location": "Kitchen",
+   "characters": [
+    "Older man in white shirt",
+    "Woman in red top"
+   ],
+   "dominant_activity": "An older man talking to a woman in a kitchen, looking at a photo.",
+   "mood": "Tense, philosophical",
+   "summary": "An older man talks to a woman in the kitchen, looking at a framed photo of a man. He makes a philosophical statement about destiny and how things unfold, suggesting a deeper meaning behind the events.",
+   "opening_gist": "An older man looks at a framed photo of a man, then talks to the woman.",
+   "closing_gist": "The older man looks at the woman, then walks away, making a philosophical statement.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "29:58",
+   "end": "30:25",
+   "location": "House exterior",
+   "characters": [
+    "Older man in white shirt",
+    "Two men"
+   ],
+   "dominant_activity": "An older man gets into his car, accompanied by two other men.",
+   "mood": "Authoritative, secretive",
+   "summary": "An older man in a white shirt gets into his car, accompanied by two other men. They seem to be leaving for a secretive or important task, as the car drives away into the dim, early morning light.",
+   "opening_gist": "An older man gets into his car, accompanied by two other men.",
+   "closing_gist": "The car drives away, leaving the house behind.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "30:25",
+   "end": "30:49",
+   "location": "House exterior",
+   "characters": [
+    "Woman in green sari"
+   ],
+   "dominant_activity": "A woman in a green sari standing outside a house, eating.",
+   "mood": "Pensive, observant",
+   "summary": "A woman in a green sari stands outside a house, eating. She looks around, her expression pensive, as if observing her surroundings or contemplating something.",
+   "opening_gist": "A woman in a green sari stands outside a house, eating.",
+   "closing_gist": "The woman looks around, her expression pensive.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "30:49",
+   "end": "31:09",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top"
+   ],
+   "dominant_activity": "A woman in a red top sitting on a bed, looking distressed.",
+   "mood": "Distressed, worried",
+   "summary": "A woman in a red top is sitting on a bed in a dimly lit room, looking distressed and worried. She seems to be contemplating something serious, her face reflecting inner turmoil.",
+   "opening_gist": "A woman in a red top sits on a bed, looking distressed.",
+   "closing_gist": "The woman looks worried, her face showing distress.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "31:09",
+   "end": "31:18",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top"
+   ],
+   "dominant_activity": "A woman in a red top talking on the phone, looking angry.",
+   "mood": "Angry, confrontational",
+   "summary": "A woman in a red top talks on the phone, her expression angry and confrontational. She threatens to 'drag' the other person if they don't come, indicating a heated argument.",
+   "opening_gist": "A woman in a red top talks on the phone, looking angry.",
+   "closing_gist": "The woman looks angry, threatening the person on the phone.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "violence_or_fight"
+   ]
+  },
+  {
+   "start": "31:18",
+   "end": "31:34",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top"
+   ],
+   "dominant_activity": "A woman in a red top sitting on a bed, looking distressed.",
+   "mood": "Distressed, worried",
+   "summary": "A woman in a red top is sitting on a bed in a dimly lit room, looking distressed and worried. She seems to be contemplating something serious, her face reflecting inner turmoil.",
+   "opening_gist": "A woman in a red top sits on a bed, looking distressed.",
+   "closing_gist": "The woman looks worried, her face showing distress.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "31:34",
+   "end": "31:52",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top"
+   ],
+   "dominant_activity": "A woman in a red top sitting on a bed, looking distressed.",
+   "mood": "Distressed, worried",
+   "summary": "A woman in a red top is sitting on a bed in a dimly lit room, looking distressed and worried. She seems to be contemplating something serious, her face reflecting inner turmoil.",
+   "opening_gist": "A woman in a red top sits on a bed, looking distressed.",
+   "closing_gist": "The woman looks worried, her face showing distress.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "31:52",
+   "end": "32:51",
+   "location": "House exterior",
+   "characters": [
+    "Mannequin",
+    "Man in brown shirt"
+   ],
+   "dominant_activity": "A man in a brown shirt looking at a mannequin.",
+   "mood": "Pensive, observant",
+   "summary": "A man in a brown shirt stands outside a shop, looking at a mannequin. He seems to be observing it intently, perhaps reflecting on his own identity or situation.",
+   "opening_gist": "A man in a brown shirt stands outside a shop, looking at a mannequin.",
+   "closing_gist": "The man looks at the mannequin with a pensive expression.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "32:51",
+   "end": "33:34",
+   "location": "House exterior",
+   "characters": [
+    "Man in brown shirt"
+   ],
+   "dominant_activity": "A man in a brown shirt walking up and down stairs.",
+   "mood": "Pensive, restless",
+   "summary": "A man in a brown shirt is seen walking up and down a set of outdoor stairs. His movements are restless, suggesting he is deep in thought or troubled by something.",
+   "opening_gist": "A man in a brown shirt walks up a set of outdoor stairs.",
+   "closing_gist": "The man walks down the stairs and enters a room.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "33:34",
+   "end": "34:47",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top"
+   ],
+   "dominant_activity": "A woman in a red top sitting on a swing, looking at her phone.",
+   "mood": "Pensive, domestic",
+   "summary": "A woman in a red top is sitting on a swing inside a dimly lit room, looking at her phone. Her expression is pensive, suggesting she is lost in thought or waiting for something.",
+   "opening_gist": "A woman in a red top sits on a swing, looking at her phone.",
+   "closing_gist": "The woman looks at her phone, then gets up from the swing.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "34:47",
+   "end": "35:00",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top",
+    "Woman in pink sari"
+   ],
+   "dominant_activity": "A woman in a red top talking to a woman in a pink sari.",
+   "mood": "Tense, confrontational",
+   "summary": "A woman in a red top confronts a woman in a pink sari at her doorstep. The woman in red holds a small bowl, her expression tense, as she prepares to speak to the other woman.",
+   "opening_gist": "A woman in a red top opens the door, holding a small bowl, and looks at a woman in a pink sari.",
+   "closing_gist": "The woman in red looks at the woman in pink with a tense expression.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "35:00",
+   "end": "35:11",
+   "location": "House exterior",
+   "characters": [
+    "Woman in pink sari"
+   ],
+   "dominant_activity": "A woman in a pink sari standing outside a house.",
+   "mood": "Serious, determined",
+   "summary": "A woman in a pink sari stands outside a house, her expression serious and determined. She seems to be waiting to have a conversation, her posture indicating resolve.",
+   "opening_gist": "A woman in a pink sari stands outside a house, looking serious.",
+   "closing_gist": "The woman looks serious, her expression determined.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "35:11",
+   "end": "35:21",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top",
+    "Woman in pink sari"
+   ],
+   "dominant_activity": "A woman in a red top talking to a woman in a pink sari.",
+   "mood": "Tense, questioning",
+   "summary": "A woman in a red top talks to a woman in a pink sari, asking her why she is there. The conversation is tense, with the woman in red appearing guarded and questioning.",
+   "opening_gist": "A woman in a red top asks a woman in a pink sari why she is there.",
+   "closing_gist": "The woman in red looks at the woman in pink with a questioning expression.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "35:21",
+   "end": "35:47",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top",
+    "Woman in pink sari"
+   ],
+   "dominant_activity": "A woman in a red top talking to a woman in a pink sari.",
+   "mood": "Tense, confrontational",
+   "summary": "A woman in a red top talks to a woman in a pink sari, her expression tense. She asks about a child, hinting at a sensitive topic that creates a confrontational atmosphere.",
+   "opening_gist": "A woman in a red top talks to a woman in a pink sari, asking about a child.",
+   "closing_gist": "The woman in red looks at the woman in pink with a tense expression.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "35:47",
+   "end": "36:11",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top",
+    "Woman in pink sari"
+   ],
+   "dominant_activity": "A woman in a red top talking to a woman in a pink sari.",
+   "mood": "Tense, emotional",
+   "summary": "A woman in a red top talks to a woman in a pink sari, her voice filled with emotion. She asks for a child, expressing her deep desire and emotional distress, while the woman in pink listens intently.",
+   "opening_gist": "A woman in a red top talks to a woman in a pink sari, asking for a child.",
+   "closing_gist": "The woman in red looks at the woman in pink with an emotional expression.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ]
+  },
+  {
+   "start": "36:11",
+   "end": "36:30",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top",
+    "Woman in pink sari"
+   ],
+   "dominant_activity": "A woman in a red top talking to a woman in a pink sari.",
+   "mood": "Tense, emotional",
+   "summary": "A woman in a red top talks to a woman in a pink sari, her voice filled with emotion. She asks for a child, expressing her deep desire and emotional distress, while the woman in pink listens intently.",
+   "opening_gist": "A woman in a red top talks to a woman in a pink sari, asking for a child.",
+   "closing_gist": "The woman in red looks at the woman in pink with an emotional expression.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ]
+  },
+  {
+   "start": "36:30",
+   "end": "37:03",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top",
+    "Woman in pink sari"
+   ],
+   "dominant_activity": "A woman in a red top talking to a woman in a pink sari.",
+   "mood": "Tense, emotional",
+   "summary": "A woman in a red top talks to a woman in a pink sari, her voice filled with emotion. She asks for a child, expressing her deep desire and emotional distress, while the woman in pink listens intently.",
+   "opening_gist": "A woman in a red top talks to a woman in a pink sari, asking for a child.",
+   "closing_gist": "The woman in red looks at the woman in pink with an emotional expression.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ]
+  },
+  {
+   "start": "37:03",
+   "end": "37:21",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top",
+    "Woman in pink sari"
+   ],
+   "dominant_activity": "A woman in a red top talking to a woman in a pink sari.",
+   "mood": "Tense, emotional",
+   "summary": "A woman in a red top talks to a woman in a pink sari, her voice filled with emotion. She asks for a child, expressing her deep desire and emotional distress, while the woman in pink listens intently.",
+   "opening_gist": "A woman in a red top talks to a woman in a pink sari, asking for a child.",
+   "closing_gist": "The woman in red looks at the woman in pink with an emotional expression.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ]
+  },
+  {
+   "start": "37:21",
+   "end": "37:40",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top",
+    "Woman in pink sari"
+   ],
+   "dominant_activity": "A woman in a red top talking to a woman in a pink sari.",
+   "mood": "Tense, emotional",
+   "summary": "A woman in a red top talks to a woman in a pink sari, her voice filled with emotion. She asks for a child, expressing her deep desire and emotional distress, while the woman in pink listens intently.",
+   "opening_gist": "A woman in a red top talks to a woman in a pink sari, asking for a child.",
+   "closing_gist": "The woman in red looks at the woman in pink with an emotional expression.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ]
+  },
+  {
+   "start": "37:40",
+   "end": "38:03",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top",
+    "Woman in pink sari"
+   ],
+   "dominant_activity": "A woman in a red top talking to a woman in a pink sari.",
+   "mood": "Tense, emotional",
+   "summary": "A woman in a red top talks to a woman in a pink sari, her voice filled with emotion. She asks for a child, expressing her deep desire and emotional distress, while the woman in pink listens intently.",
+   "opening_gist": "A woman in a red top talks to a woman in a pink sari, asking for a child.",
+   "closing_gist": "The woman in red looks at the woman in pink with an emotional expression.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ]
+  },
+  {
+   "start": "38:03",
+   "end": "38:27",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top",
+    "Woman in pink sari"
+   ],
+   "dominant_activity": "A woman in a red top talking to a woman in a pink sari.",
+   "mood": "Tense, emotional",
+   "summary": "A woman in a red top talks to a woman in a pink sari, her voice filled with emotion. She asks for a child, expressing her deep desire and emotional distress, while the woman in pink listens intently.",
+   "opening_gist": "A woman in a red top talks to a woman in a pink sari, asking for a child.",
+   "closing_gist": "The woman in red looks at the woman in pink with an emotional expression.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ]
+  },
+  {
+   "start": "38:27",
+   "end": "38:55",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top",
+    "Woman in pink sari"
+   ],
+   "dominant_activity": "A woman in a red top talking to a woman in a pink sari.",
+   "mood": "Tense, emotional",
+   "summary": "A woman in a red top talks to a woman in a pink sari, her voice filled with emotion. She asks for a child, expressing her deep desire and emotional distress, while the woman in pink listens intently.",
+   "opening_gist": "A woman in a red top talks to a woman in a pink sari, asking for a child.",
+   "closing_gist": "The woman in red looks at the woman in pink with an emotional expression.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ]
+  },
+  {
+   "start": "38:55",
+   "end": "39:03",
+   "location": "House interior",
+   "characters": [
+    "Woman in red top",
+    "Woman in pink sari"
+   ],
+   "dominant_activity": "A woman in a red top talking to a woman in a pink sari.",
+   "mood": "Tense, emotional",
+   "summary": "A woman in a red top talks to a woman in a pink sari, her voice filled with emotion. She asks for a child, expressing her deep desire and emotional distress, while the woman in pink listens intently.",
+   "opening_gist": "A woman in a red top talks to a woman in a pink sari, asking for a child.",
+   "closing_gist": "The woman in red looks at the woman in pink with an emotional expression.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ]
+  },
+  {
+   "start": "39:03",
+   "end": "39:14",
+   "location": "Black screen",
+   "characters": [],
+   "dominant_activity": "Displaying the production company's logo.",
+   "mood": "Neutral, concluding",
+   "summary": "The production company's logo is displayed on a black screen, marking the end of the episode.",
+   "opening_gist": "The screen is black, then the production company's logo appears.",
+   "closing_gist": "The logo fades out, leaving a black screen.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  }
+ ],
+ "model": "gemini-2.5-flash",
+ "usage": {
+  "prompt_tokens": 242330,
+  "output_tokens": 18944,
+  "thinking_tokens": 2048
+ }
+}

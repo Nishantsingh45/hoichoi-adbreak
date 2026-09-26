@@ -1,0 +1,176 @@
+{
+ "428.000": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A man is speaking in Bengali, and his speech is cut off at 00:05.",
+  "passed": false
+ },
+ "409.833": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man is doing push-ups, then the scene changes to a man holding a tray of food.",
+  "passed": true
+ },
+ "174.333": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A loud, high-pitched sound, like a whistle or a siren, is heard, followed by a short, sharp sound, like a click or a snap. The sounds are accompanied by a low, rumbling sound, like a distant thunder.",
+  "passed": true
+ },
+ "367.500": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man is heard grunting as he struggles to lift something heavy. The scene changes to a man walking into a room.",
+  "passed": true
+ },
+ "989.686": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man is speaking in Bengali, and his speech is cut off at 00:05. After the cut, a song starts playing.",
+  "passed": false
+ },
+ "812.375": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A rhythmic, metallic clanking sound is heard, followed by the sound of a vehicle driving on a road.",
+  "passed": true
+ },
+ "1460.000": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A child is crying, and a vehicle is heard driving by.",
+  "passed": true
+ },
+ "1824.833": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A car door closes, then the car drives away.",
+  "passed": true
+ },
+ "973.667": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "The sound of a vehicle passing by is heard, followed by ambient street noise.",
+  "passed": true
+ },
+ "724.833": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "ambient outdoor sounds and faint tea stall noise with no spoken dialogue",
+  "passed": true
+ },
+ "562.583": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A motorcycle skidding and crashing on a dirt path with background sound effects",
+  "passed": true
+ },
+ "293.292": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A musical bell/instrument chime tone plays during the transition, with no speech heard.",
+  "passed": true
+ },
+ "989.424": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A musical whistle cue starts around 00:04, followed by upbeat music and singing starting after 00:05; no spoken dialogue occurs at the 00:05 mark.",
+  "passed": true
+ },
+ "900.042": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "No speech is heard; only ambient sounds transition into background instrumental music.",
+  "passed": true
+ },
+ "1117.958": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Flute background music fades as the scene cuts to men playing cards, with street ambience and voices beginning right after the cut.",
+  "passed": false
+ },
+ "1113.875": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A flute melody begins playing after earlier dialogue finished around 00:04.",
+  "passed": true
+ },
+ "1419.917": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Ambient outdoor traffic and motorized vehicle sounds across the cut, with no speech.",
+  "passed": true
+ },
+ "1473.625": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A woman's groaning and heavy breathing spans across the cut point at 00:05 as the scene transitions.",
+  "passed": false
+ },
+ "1390.375": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Silence with ambient room sounds and faint footsteps/movement.",
+  "passed": true
+ },
+ "1638.958": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Ambient background sound with no dialogue",
+  "passed": true
+ },
+ "1721.792": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A male voice begins saying 'Stupid rascal' just after the cut point at 00:05.",
+  "passed": false
+ },
+ "1726.750": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A playful spoken or sung voice utters the word 'patkel' bridging across 00:05 accompanied by light background music.",
+  "passed": false
+ },
+ "1730.917": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A vocalist finishes singing a phrase around 00:04.5, followed by a brief breath/pause, and then begins singing the next line just after 00:05 over gentle background instrumentation.",
+  "passed": false
+ },
+ "1740.625": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A male voice sings 'I love you' which ends just around 00:04-00:05, followed by physical grunts and ambient noise around 00:05-00:06.",
+  "passed": false
+ },
+ "1850.125": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Ambient background tones and birds chirping, with no dialogue.",
+  "passed": true
+ },
+ "1963.792": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A suspenseful rhythmic beat/percussion sound effect playing with no speech present.",
+  "passed": true
+ },
+ "1930.417": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Ambient background sound with rhythmic metallic clicking or creaking; no speech is heard.",
+  "passed": true
+ },
+ "2014.167": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Ambient background sound and instrumental music with no dialogue spoken.",
+  "passed": true
+ },
+ "2222.625": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A phone ringing tone followed by silence and atmospheric street sounds as the man hangs up",
+  "passed": true
+ }
+}

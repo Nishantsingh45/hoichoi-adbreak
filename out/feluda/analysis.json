@@ -1,0 +1,384 @@
+{
+ "synopsis": "As militancy begins brewing in Kashmir following rigged elections, Feluda, Topshe, and Lalmohan Ganguly travel to Srinagar for a vacation, where Lalmohan seeks inspiration for his next novel. Upon arriving, they encounter retired judge Siddheshwar Mallik and his secretary Sushanto Som, unaware of the lurking dangers tied to the judge's past verdicts.",
+ "scenes": [
+  {
+   "start": "00:00",
+   "end": "00:10",
+   "location": "Graphic / Title Card",
+   "characters": [],
+   "dominant_activity": "Hoichoi branding and show disclaimer",
+   "mood": "neutral",
+   "summary": "Platform intro bumper followed by legal disclaimer regarding dramatization and non-promotion of violence or superstitions.",
+   "opening_gist": "Hoichoi logo animation.",
+   "closing_gist": "Disclaimer text displayed on black background.",
+   "ends_on": "transition",
+   "tags": [
+    "logo",
+    "disclaimer",
+    "text"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:10",
+   "end": "01:25",
+   "location": "Kashmir interior / Valley view",
+   "characters": [
+    "Kashmiri operative / militant contact"
+   ],
+   "dominant_activity": "Watching news broadcast and placing a phone call",
+   "mood": "tense",
+   "summary": "A man listens to a Hindi news bulletin discussing the election results in Jammu and Kashmir and the alliance between JKNC and Congress. Looking agitated, he switches off the TV and places an urgent phone call asking to speak with the General.",
+   "opening_gist": "Television news anchor announcing election outcomes.",
+   "closing_gist": "The man dials a rotary phone and asks for the General.",
+   "ends_on": "transition",
+   "tags": [
+    "television",
+    "news",
+    "phone call",
+    "kashmir",
+    "politics"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "01:25",
+   "end": "05:02",
+   "location": "Snowy mountain military camp",
+   "characters": [
+    "Pakistani Army Officer Nisar",
+    "Fellow Pakistani officers"
+   ],
+   "dominant_activity": "Military commanders strategizing proxy insurgency",
+   "mood": "calculating",
+   "summary": "Pakistani military commanders discuss exploiting public discontent over the elections to wage a proxy war in Kashmir. They plan to arm and train separatist groups to target Indian administrative figures, including army personnel, bureaucrats, and judges.",
+   "opening_gist": "Sweeping snowy Himalayan mountains zoom into an army outpost.",
+   "closing_gist": "An officer throws darts at a board as soldiers assemble outside.",
+   "ends_on": "transition",
+   "tags": [
+    "snow",
+    "military",
+    "tent",
+    "strategy",
+    "darts",
+    "insurgency",
+    "mountains"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "05:02",
+   "end": "06:36",
+   "location": "Animated sequence / Opening credits",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Jatayu"
+   ],
+   "dominant_activity": "Opening title credits animation",
+   "mood": "adventurous",
+   "summary": "Illustrated title credits roll with thematic artwork representing classic Feluda mysteries, introducing Feludar Goyendagiri: Bhushawrogo Bhoyongkor.",
+   "opening_gist": "Hand-drawn animation of Feluda and friends on a mystery case.",
+   "closing_gist": "Show logo title card displayed in Bengali.",
+   "ends_on": "resolved",
+   "tags": [
+    "animation",
+    "credits",
+    "music",
+    "illustration"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "06:36",
+   "end": "08:30",
+   "location": "Astrologer's chamber",
+   "characters": [
+    "Madhab Bhattacharya (Astrologer)",
+    "Lalmohan Ganguly (Jatayu)",
+    "Feluda",
+    "Topshe"
+   ],
+   "dominant_activity": "Consulting an astrologer for creative inspiration",
+   "mood": "humorous",
+   "summary": "Lalmohan explains his writer's block to an astrologer while Feluda and Topshe observe sceptically. The astrologer analyzes his palm and recommends a major journey to a place starting with the letter 'K' to revive his creative fortunes.",
+   "opening_gist": "Three people seated listening intently before the camera pans across the room.",
+   "closing_gist": "Astrologer insists Lalmohan travel to a place beginning with the Bengali letter 'Ko'.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "astrology",
+    "palmistry",
+    "office",
+    "desk",
+    "magnifying glass"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "08:30",
+   "end": "09:05",
+   "location": "Kashmir street",
+   "characters": [
+    "Militants on motorcycle",
+    "Indian security personnel",
+    "Civilians"
+   ],
+   "dominant_activity": "Militant ambush and bombing on security forces",
+   "mood": "violent",
+   "summary": "In a town square in Kashmir, two armed insurgents on a motorcycle open fire on patrol vehicles and security forces. One militant tosses an explosive device into an army vehicle, triggering a deadly blast amidst chaos.",
+   "opening_gist": "A quiet town square with army jeeps parked.",
+   "closing_gist": "An army vehicle explodes into flames as smoke billows into the sky.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "ambush",
+    "gunfire",
+    "explosion",
+    "motorcycle",
+    "soldiers",
+    "smoke"
+   ],
+   "sensitive_themes": [
+    "violence_or_fight",
+    "crime_theft_or_fraud"
+   ]
+  },
+  {
+   "start": "09:05",
+   "end": "11:24",
+   "location": "Ambassador car on rural road",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Driver"
+   ],
+   "dominant_activity": "Discussing travel destinations and vacation plans",
+   "mood": "cheerful",
+   "summary": "Riding in an Ambassador taxi, Lalmohan recounts previous successes inspired by astrological tips, while Feluda teases him about his superstitious beliefs. Feluda eventually suggests Kashmir, reciting Persian poetry about paradise on earth, and they finalize their itinerary.",
+   "opening_gist": "Aerial view of a green Ambassador driving along a tree-lined highway.",
+   "closing_gist": "Car drives away down the scenic road towards their adventure.",
+   "ends_on": "resolved",
+   "tags": [
+    "driving",
+    "car",
+    "travel",
+    "conversation",
+    "smoking",
+    "cigarette"
+   ],
+   "sensitive_themes": [
+    "smoking"
+   ]
+  },
+  {
+   "start": "11:24",
+   "end": "11:36",
+   "location": "Feluda's living room",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly"
+   ],
+   "dominant_activity": "Packing luggage for the trip",
+   "mood": "enthusiastic",
+   "summary": "Lalmohan arrives fully packed and excited, asking if Feluda and Topshe are ready for their departure to Kashmir.",
+   "opening_gist": "Topshe closes his suitcase as Lalmohan walks into the room.",
+   "closing_gist": "The trio pick up their bags to leave.",
+   "ends_on": "transition",
+   "tags": [
+    "packing",
+    "luggage",
+    "living room",
+    "departure"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "11:36",
+   "end": "14:12",
+   "location": "Hotel lounge / Dining room",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Sushanto Som",
+    "Siddheshwar Mallik"
+   ],
+   "dominant_activity": "Meeting a retired judge and his secretary",
+   "mood": "polite",
+   "summary": "Sushanto Som introduces himself as a fan of Feluda and brings his employer, retired judge Siddheshwar Mallik, to meet the detective. The judge shares details about his career in the judiciary, his retirement in Kashmir, and his plans to stay in a houseboat.",
+   "opening_gist": "Sushanto approaches the trio having tea in the hotel lounge.",
+   "closing_gist": "The judge excuses himself after arranging to cross paths again in Srinagar.",
+   "ends_on": "resolved",
+   "tags": [
+    "hotel",
+    "tea",
+    "meeting",
+    "conversation",
+    "judge"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "14:12",
+   "end": "14:42",
+   "location": "Dal Lake scenic montage & Hotel road",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Driver",
+    "Boatmen"
+   ],
+   "dominant_activity": "Arriving at Dal Lake by taxi",
+   "mood": "scenic",
+   "summary": "The trio arrives by taxi in Srinagar and steps out near Hotel Nehru to board a shikara on Dal Lake.",
+   "opening_gist": "Picturesque views of rivers, mountain peaks, and serene waters of Dal Lake.",
+   "closing_gist": "The group gathers their bags outside the taxi near the lakeside.",
+   "ends_on": "resolved",
+   "tags": [
+    "dal lake",
+    "shikara",
+    "mountains",
+    "taxi",
+    "arrival"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "14:42",
+   "end": "17:23",
+   "location": "Shikara on Dal Lake",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Boatman"
+   ],
+   "dominant_activity": "Riding a shikara across Dal Lake",
+   "mood": "relaxed",
+   "summary": "Boarding a boat towards the 'Water Lily' houseboat, Lalmohan breaks into song and recites praise of Kashmir, while Feluda corrects his literary attributions. They admire the lake scenery and absorb the unique atmosphere of Srinagar.",
+   "opening_gist": "The trio stepping into the decorated wooden shikara boat.",
+   "closing_gist": "Feluda smiles and leans back enjoying the water breeze.",
+   "ends_on": "transition",
+   "tags": [
+    "shikara",
+    "dal lake",
+    "boating",
+    "singing",
+    "scenery",
+    "poetry"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "17:23",
+   "end": "18:43",
+   "location": "Dal Lake near Char Chinar",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Flower seller (shikara)",
+    "Boatman"
+   ],
+   "dominant_activity": "Sightseeing and buying flowers on Dal Lake",
+   "mood": "cheerful",
+   "summary": "Feluda points out the famous Char Chinar island and the Shankaracharya Temple atop the mountain. A floating flower vendor pulls up beside their boat, and Lalmohan excitedly buys a colourful bouquet.",
+   "opening_gist": "Feluda describing the island of Char Chinar to Topshe.",
+   "closing_gist": "Lalmohan observes various houseboat names as they paddle further.",
+   "ends_on": "mid_conversation",
+   "tags": [
+    "shikara",
+    "dal lake",
+    "flowers",
+    "binoculars",
+    "floating market"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "18:43",
+   "end": "21:32",
+   "location": "Houseboat 'Miranda' deck and exterior",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Sushanto Som",
+    "Bijoy Mallik",
+    "Bearer"
+   ],
+   "dominant_activity": "Tea and conversation about local unrest",
+   "mood": "intriguing",
+   "summary": "Arriving at the neighbouring houseboat 'Miranda', Sushanto welcomes them and serves kahwa. Sushanto explains the rise of political discontent and militancy in Kashmir following rigged elections, and expresses deep concern for Judge Mallik's philosophical, unprotected stance.",
+   "opening_gist": "Sushanto waves and calls out to Feluda from the deck of houseboat Miranda.",
+   "closing_gist": "Sushanto hints at unusual occurrences involving the judge late at night.",
+   "ends_on": "cliffhanger",
+   "tags": [
+    "houseboat",
+    "kahwa",
+    "tea",
+    "smoking",
+    "cigarette",
+    "politics",
+    "militancy"
+   ],
+   "sensitive_themes": [
+    "smoking"
+   ]
+  },
+  {
+   "start": "21:32",
+   "end": "24:35",
+   "location": "Judge Mallik's study room",
+   "characters": [
+    "Judge Siddheshwar Mallik",
+    "Sushanto Som"
+   ],
+   "dominant_activity": "Confession of judicial guilt and plan for a seance",
+   "mood": "eerie",
+   "summary": "In a dimly lit study, Judge Mallik hands over his personal diaries to Sushanto, showing red crosses marked beside capital punishment verdicts with question marks beside doubtful ones. Haunted by the moral weight of executions he decreed, he reveals his intention to conduct a planchette seance to communicate with the deceased.",
+   "opening_gist": "Sushanto enters the dark study where Judge Mallik is reading by a desk lamp.",
+   "closing_gist": "Judge Mallik declares that a planchette is inevitable, leaving Sushanto unsettled.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "study",
+    "books",
+    "diaries",
+    "planchette",
+    "seance",
+    "guilt",
+    "capital punishment",
+    "cigar"
+   ],
+   "sensitive_themes": [
+    "smoking"
+   ]
+  },
+  {
+   "start": "24:35",
+   "end": "25:35",
+   "location": "Credits screen",
+   "characters": [],
+   "dominant_activity": "Closing credits",
+   "mood": "neutral",
+   "summary": "Closing credits crawl accompanied by the series theme music, listing full cast, crew, and production credits.",
+   "opening_gist": "Visual effects and production company credits appear on black.",
+   "closing_gist": "Copyright notice for Hoichoi Technologies fades out to black.",
+   "ends_on": "resolved",
+   "tags": [
+    "credits",
+    "music",
+    "end"
+   ],
+   "sensitive_themes": []
+  }
+ ],
+ "model": "gemini-3.8-flash",
+ "usage": {
+  "prompt_tokens": 140086,
+  "output_tokens": 3384,
+  "thinking_tokens": null
+ }
+}

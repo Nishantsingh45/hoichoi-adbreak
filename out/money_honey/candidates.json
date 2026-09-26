@@ -1,0 +1,908 @@
+{
+ "candidates": [
+  {
+   "boundary_index": 2,
+   "gemini_boundary": 124.0,
+   "t": 124.84,
+   "kind": "shot_cut",
+   "shot_score": 0.394,
+   "silence_before_s": 99.79,
+   "silence_after_s": 3.04,
+   "alternatives": [
+    {
+     "t": 120.52,
+     "kind": "shot_cut",
+     "shot_score": 0.088,
+     "silence_before_s": 95.47,
+     "silence_after_s": 7.36
+    },
+    {
+     "t": 120.24,
+     "kind": "shot_cut",
+     "shot_score": 0.175,
+     "silence_before_s": 95.19,
+     "silence_after_s": 7.64
+    }
+   ],
+   "id": "c002",
+   "scene_before": {
+    "start": "01:05",
+    "end": "02:04",
+    "location": "Studio",
+    "characters": [],
+    "dominant_activity": "Opening credits montage",
+    "mood": "Dark, suspenseful",
+    "summary": "Opening theme sequence featuring inkblot imagery, character snapshots, and main title credits for Money Honey Director's Cut.",
+    "opening_gist": "Stylized inkblot animations begin with title credits.",
+    "closing_gist": "Series title card displays against black screen.",
+    "ends_on": "transition",
+    "tags": [
+     "credits",
+     "montage"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "02:04",
+    "end": "03:51",
+    "location": "Bar / Lounge",
+    "characters": [
+     "Shahriar",
+     "Gangster boss",
+     "Patrons"
+    ],
+    "dominant_activity": "Gambling and tense discussion",
+    "mood": "Tense",
+    "summary": "Shahriar participates in betting on a cricket match in a club lounge. The local underworld boss reminds him of his mounting debts and warns him against foul play, but Shahriar confidently insists his stock market expertise will pay off soon.",
+    "opening_gist": "Men place bets on a televised cricket match.",
+    "closing_gist": "Shahriar boasts that no one understands the stock market better than him.",
+    "ends_on": "transition",
+    "tags": [
+     "bar",
+     "gambling",
+     "drinking",
+     "smoking",
+     "money"
+    ],
+    "sensitive_themes": [
+     "alcohol",
+     "smoking",
+     "crime_theft_or_fraud",
+     "poverty_or_financial_distress"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.75,
+    "natural_break_confidence": 0.75,
+    "same_conversation": 0.03,
+    "emotional_peak": 0.03,
+    "input_tokens": 1046
+   },
+   "quality": 0.9407
+  },
+  {
+   "boundary_index": 3,
+   "gemini_boundary": 231.0,
+   "t": 233.858,
+   "kind": "pause",
+   "shot_score": 0.0,
+   "silence_before_s": 3.14,
+   "silence_after_s": 6.47,
+   "alternatives": [],
+   "id": "c003",
+   "scene_before": {
+    "start": "02:04",
+    "end": "03:51",
+    "location": "Bar / Lounge",
+    "characters": [
+     "Shahriar",
+     "Gangster boss",
+     "Patrons"
+    ],
+    "dominant_activity": "Gambling and tense discussion",
+    "mood": "Tense",
+    "summary": "Shahriar participates in betting on a cricket match in a club lounge. The local underworld boss reminds him of his mounting debts and warns him against foul play, but Shahriar confidently insists his stock market expertise will pay off soon.",
+    "opening_gist": "Men place bets on a televised cricket match.",
+    "closing_gist": "Shahriar boasts that no one understands the stock market better than him.",
+    "ends_on": "transition",
+    "tags": [
+     "bar",
+     "gambling",
+     "drinking",
+     "smoking",
+     "money"
+    ],
+    "sensitive_themes": [
+     "alcohol",
+     "smoking",
+     "crime_theft_or_fraud",
+     "poverty_or_financial_distress"
+    ]
+   },
+   "scene_after": {
+    "start": "03:51",
+    "end": "04:10",
+    "location": "Living room",
+    "characters": [
+     "Shahriar",
+     "Wife"
+    ],
+    "dominant_activity": "Coming home to sleeping family",
+    "mood": "Somber",
+    "summary": "Shahriar returns home late to find his family asleep on the sofa. He quietly sits beside his wife, who gently asks him about dinner before they rest together.",
+    "opening_gist": "Shahriar quietly enters his dimly lit home.",
+    "closing_gist": "Shahriar rests his head against his wife on the couch.",
+    "ends_on": "transition",
+    "tags": [
+     "home",
+     "family",
+     "night"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.76,
+    "natural_break_confidence": 0.76,
+    "same_conversation": 0.04,
+    "emotional_peak": 0.14,
+    "input_tokens": 1077
+   },
+   "quality": 0.918
+  },
+  {
+   "boundary_index": 4,
+   "gemini_boundary": 250.0,
+   "t": 250.28,
+   "kind": "shot_cut",
+   "shot_score": 0.448,
+   "silence_before_s": 6.09,
+   "silence_after_s": 2.04,
+   "alternatives": [],
+   "id": "c004",
+   "scene_before": {
+    "start": "03:51",
+    "end": "04:10",
+    "location": "Living room",
+    "characters": [
+     "Shahriar",
+     "Wife"
+    ],
+    "dominant_activity": "Coming home to sleeping family",
+    "mood": "Somber",
+    "summary": "Shahriar returns home late to find his family asleep on the sofa. He quietly sits beside his wife, who gently asks him about dinner before they rest together.",
+    "opening_gist": "Shahriar quietly enters his dimly lit home.",
+    "closing_gist": "Shahriar rests his head against his wife on the couch.",
+    "ends_on": "transition",
+    "tags": [
+     "home",
+     "family",
+     "night"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "04:10",
+    "end": "05:54",
+    "location": "Suburban residential home",
+    "characters": [
+     "Returnee worker",
+     "Mother",
+     "Sister"
+    ],
+    "dominant_activity": "Returning home and talking with family",
+    "mood": "Warm, uneasy",
+    "summary": "A worker returns home with luggage and is joyfully received by his family. His mother serves him dessert while expressing deep suspicion that his uncle has taken off with the massive sums of money sent home over the years.",
+    "opening_gist": "A man arrives outside calling out to his mother.",
+    "closing_gist": "The mother feeds her son while questioning his business partnership with his uncle.",
+    "ends_on": "transition",
+    "tags": [
+     "family",
+     "home",
+     "reunion",
+     "eating",
+     "money"
+    ],
+    "sensitive_themes": [
+     "poverty_or_financial_distress"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.82,
+    "natural_break_confidence": 0.82,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.05,
+    "input_tokens": 1047
+   },
+   "quality": 0.952
+  },
+  {
+   "boundary_index": 8,
+   "gemini_boundary": 515.0,
+   "t": 514.96,
+   "kind": "shot_cut",
+   "shot_score": 0.272,
+   "silence_before_s": 1.59,
+   "silence_after_s": 3.48,
+   "alternatives": [
+    {
+     "t": 510.68,
+     "kind": "shot_cut",
+     "shot_score": 0.393,
+     "silence_before_s": 0.51,
+     "silence_after_s": 0.52
+    }
+   ],
+   "id": "c008",
+   "scene_before": {
+    "start": "07:22",
+    "end": "08:35",
+    "location": "Bank office",
+    "characters": [
+     "Akbar",
+     "Bank manager",
+     "Kashem"
+    ],
+    "dominant_activity": "Bargaining over property mortgage",
+    "mood": "Cold, pressured",
+    "summary": "Akbar negotiates with the bank manager and Kashem to settle pending legal issues over his mortgaged house before auction. They strike an uneasy deal involving an advance payment of cash, though Akbar warns Kashem about trusting the opportunistic manager.",
+    "opening_gist": "Akbar asks the bank official why he was summoned.",
+    "closing_gist": "Akbar bids goodbye and leaves the office.",
+    "ends_on": "transition",
+    "tags": [
+     "office",
+     "bank",
+     "negotiation",
+     "money",
+     "contracts"
+    ],
+    "sensitive_themes": [
+     "poverty_or_financial_distress",
+     "crime_theft_or_fraud"
+    ]
+   },
+   "scene_after": {
+    "start": "08:35",
+    "end": "09:19",
+    "location": "Outside bank / Street",
+    "characters": [
+     "Akbar",
+     "Returnee worker"
+    ],
+    "dominant_activity": "Phone conversation",
+    "mood": "Uneasy",
+    "summary": "Standing outside the Ruposhi Bangla Bank, Akbar receives an anxious phone call from his nephew demanding his hard-earned savings. Akbar stalls and tells him to come meet him in Kushtia tonight.",
+    "opening_gist": "The nephew greets Akbar on the phone as Akbar stands outside the bank.",
+    "closing_gist": "Akbar hangs up and scratches his head nervously.",
+    "ends_on": "transition",
+    "tags": [
+     "bank exterior",
+     "phone call",
+     "street"
+    ],
+    "sensitive_themes": [
+     "poverty_or_financial_distress"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.26,
+    "natural_break_confidence": 0.52,
+    "same_conversation": 0.1,
+    "emotional_peak": 0.1,
+    "input_tokens": 1090
+   },
+   "quality": 0.8193
+  },
+  {
+   "boundary_index": 9,
+   "gemini_boundary": 559.0,
+   "t": 559.2,
+   "kind": "shot_cut",
+   "shot_score": 0.771,
+   "silence_before_s": 5.92,
+   "silence_after_s": 0.8,
+   "alternatives": [],
+   "id": "c009",
+   "scene_before": {
+    "start": "08:35",
+    "end": "09:19",
+    "location": "Outside bank / Street",
+    "characters": [
+     "Akbar",
+     "Returnee worker"
+    ],
+    "dominant_activity": "Phone conversation",
+    "mood": "Uneasy",
+    "summary": "Standing outside the Ruposhi Bangla Bank, Akbar receives an anxious phone call from his nephew demanding his hard-earned savings. Akbar stalls and tells him to come meet him in Kushtia tonight.",
+    "opening_gist": "The nephew greets Akbar on the phone as Akbar stands outside the bank.",
+    "closing_gist": "Akbar hangs up and scratches his head nervously.",
+    "ends_on": "transition",
+    "tags": [
+     "bank exterior",
+     "phone call",
+     "street"
+    ],
+    "sensitive_themes": [
+     "poverty_or_financial_distress"
+    ]
+   },
+   "scene_after": {
+    "start": "09:19",
+    "end": "11:53",
+    "location": "Ferry boat",
+    "characters": [
+     "Shahriar",
+     "Returnee worker",
+     "Ferry security guard"
+    ],
+    "dominant_activity": "Smoking and intervening in an altercation",
+    "mood": "Tense then relieved",
+    "summary": "Aboard a night ferry, the worker asks Shahriar for a cigarette and strikes up a conversation. When a security officer confronts the worker for smoking in a restricted area, Shahriar intervenes smoothly and de-escalates the situation.",
+    "opening_gist": "A night ferry carrying buses prepares to dock.",
+    "closing_gist": "The guards leave after Shahriar resolves the incident.",
+    "ends_on": "transition",
+    "tags": [
+     "ferry",
+     "night",
+     "smoking",
+     "confrontation"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.81,
+    "natural_break_confidence": 0.81,
+    "same_conversation": 0.04,
+    "emotional_peak": 0.13,
+    "input_tokens": 1074
+   },
+   "quality": 0.9292
+  },
+  {
+   "boundary_index": 10,
+   "gemini_boundary": 713.0,
+   "t": 713.4,
+   "kind": "shot_cut",
+   "shot_score": 0.236,
+   "silence_before_s": 1.88,
+   "silence_after_s": 1.0,
+   "alternatives": [],
+   "id": "c010",
+   "scene_before": {
+    "start": "09:19",
+    "end": "11:53",
+    "location": "Ferry boat",
+    "characters": [
+     "Shahriar",
+     "Returnee worker",
+     "Ferry security guard"
+    ],
+    "dominant_activity": "Smoking and intervening in an altercation",
+    "mood": "Tense then relieved",
+    "summary": "Aboard a night ferry, the worker asks Shahriar for a cigarette and strikes up a conversation. When a security officer confronts the worker for smoking in a restricted area, Shahriar intervenes smoothly and de-escalates the situation.",
+    "opening_gist": "A night ferry carrying buses prepares to dock.",
+    "closing_gist": "The guards leave after Shahriar resolves the incident.",
+    "ends_on": "transition",
+    "tags": [
+     "ferry",
+     "night",
+     "smoking",
+     "confrontation"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "scene_after": {
+    "start": "11:53",
+    "end": "12:37",
+    "location": "Tea stall on ferry",
+    "characters": [
+     "Shahriar",
+     "Returnee worker"
+    ],
+    "dominant_activity": "Drinking tea and discussing money",
+    "mood": "Casual, opportunistic",
+    "summary": "Over tea at the ferry stall, the worker asks Shahriar about his profession in the stock market. Shahriar lures him with promises of quick riches, prompting the worker to consider investing his savings and sharing contact details.",
+    "opening_gist": "The two men sit together at a tea stall on the ferry.",
+    "closing_gist": "Shahriar asks the worker for his phone number.",
+    "ends_on": "transition",
+    "tags": [
+     "tea stall",
+     "tea",
+     "conversation",
+     "investment"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.57,
+    "natural_break_confidence": 0.57,
+    "same_conversation": 0.41,
+    "emotional_peak": 0.08,
+    "input_tokens": 1079
+   },
+   "quality": 0.8027
+  },
+  {
+   "boundary_index": 11,
+   "gemini_boundary": 757.0,
+   "t": 758.736,
+   "kind": "pause",
+   "shot_score": 0.0,
+   "silence_before_s": 2.29,
+   "silence_after_s": 2.29,
+   "alternatives": [],
+   "id": "c011",
+   "scene_before": {
+    "start": "11:53",
+    "end": "12:37",
+    "location": "Tea stall on ferry",
+    "characters": [
+     "Shahriar",
+     "Returnee worker"
+    ],
+    "dominant_activity": "Drinking tea and discussing money",
+    "mood": "Casual, opportunistic",
+    "summary": "Over tea at the ferry stall, the worker asks Shahriar about his profession in the stock market. Shahriar lures him with promises of quick riches, prompting the worker to consider investing his savings and sharing contact details.",
+    "opening_gist": "The two men sit together at a tea stall on the ferry.",
+    "closing_gist": "Shahriar asks the worker for his phone number.",
+    "ends_on": "transition",
+    "tags": [
+     "tea stall",
+     "tea",
+     "conversation",
+     "investment"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "12:37",
+    "end": "14:44",
+    "location": "Balcony / Veranda at night",
+    "characters": [
+     "Akbar",
+     "Returnee worker"
+    ],
+    "dominant_activity": "Emotional confrontation and secret proposal",
+    "mood": "Melodramatic, conspiratorial",
+    "summary": "The worker breaks down in tears confronting Akbar for losing all his foreign savings in failed ventures. To recover the money, Akbar proposes an audacious scheme to tunnel into a bank, leveraging his nephew's mining experience.",
+    "opening_gist": "Akbar tries to console his weeping nephew through the window grill.",
+    "closing_gist": "Akbar tells his nephew they need to plan a bank heist.",
+    "ends_on": "transition",
+    "tags": [
+     "night",
+     "balcony",
+     "crying",
+     "scheme",
+     "robbery proposal"
+    ],
+    "sensitive_themes": [
+     "poverty_or_financial_distress",
+     "crime_theft_or_fraud"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.49,
+    "natural_break_confidence": 0.49,
+    "same_conversation": 0.04,
+    "emotional_peak": 0.05,
+    "input_tokens": 1094
+   },
+   "quality": 0.8865
+  },
+  {
+   "boundary_index": 12,
+   "gemini_boundary": 884.0,
+   "t": 884.88,
+   "kind": "shot_cut",
+   "shot_score": 0.423,
+   "silence_before_s": 1.14,
+   "silence_after_s": 0.72,
+   "alternatives": [],
+   "id": "c012",
+   "scene_before": {
+    "start": "12:37",
+    "end": "14:44",
+    "location": "Balcony / Veranda at night",
+    "characters": [
+     "Akbar",
+     "Returnee worker"
+    ],
+    "dominant_activity": "Emotional confrontation and secret proposal",
+    "mood": "Melodramatic, conspiratorial",
+    "summary": "The worker breaks down in tears confronting Akbar for losing all his foreign savings in failed ventures. To recover the money, Akbar proposes an audacious scheme to tunnel into a bank, leveraging his nephew's mining experience.",
+    "opening_gist": "Akbar tries to console his weeping nephew through the window grill.",
+    "closing_gist": "Akbar tells his nephew they need to plan a bank heist.",
+    "ends_on": "transition",
+    "tags": [
+     "night",
+     "balcony",
+     "crying",
+     "scheme",
+     "robbery proposal"
+    ],
+    "sensitive_themes": [
+     "poverty_or_financial_distress",
+     "crime_theft_or_fraud"
+    ]
+   },
+   "scene_after": {
+    "start": "14:44",
+    "end": "16:29",
+    "location": "Lakeside / Bridge view",
+    "characters": [
+     "Shahriar",
+     "Returnee worker"
+    ],
+    "dominant_activity": "Smoking and discussing bank robbery",
+    "mood": "Incredulous, cynical",
+    "summary": "By a riverbank, the worker discloses to Shahriar that his bankrupt uncle suggested robbing a bank to recover the lost funds. Shahriar finds the idea ridiculous and mocks the absurdity of such a plan before they leave for tea.",
+    "opening_gist": "The two men stand smoking by the water.",
+    "closing_gist": "The two men walk away together towards a tea vendor.",
+    "ends_on": "transition",
+    "tags": [
+     "outdoors",
+     "riverbank",
+     "smoking",
+     "conversation"
+    ],
+    "sensitive_themes": [
+     "smoking",
+     "crime_theft_or_fraud"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.19,
+    "natural_break_confidence": 0.19,
+    "same_conversation": 0.07,
+    "emotional_peak": 0.66,
+    "input_tokens": 1114
+   },
+   "quality": 0.702
+  },
+  {
+   "boundary_index": 13,
+   "gemini_boundary": 989.0,
+   "t": 989.4,
+   "kind": "shot_cut",
+   "shot_score": 0.266,
+   "silence_before_s": 2.52,
+   "silence_after_s": 0.52,
+   "alternatives": [],
+   "id": "c013",
+   "scene_before": {
+    "start": "14:44",
+    "end": "16:29",
+    "location": "Lakeside / Bridge view",
+    "characters": [
+     "Shahriar",
+     "Returnee worker"
+    ],
+    "dominant_activity": "Smoking and discussing bank robbery",
+    "mood": "Incredulous, cynical",
+    "summary": "By a riverbank, the worker discloses to Shahriar that his bankrupt uncle suggested robbing a bank to recover the lost funds. Shahriar finds the idea ridiculous and mocks the absurdity of such a plan before they leave for tea.",
+    "opening_gist": "The two men stand smoking by the water.",
+    "closing_gist": "The two men walk away together towards a tea vendor.",
+    "ends_on": "transition",
+    "tags": [
+     "outdoors",
+     "riverbank",
+     "smoking",
+     "conversation"
+    ],
+    "sensitive_themes": [
+     "smoking",
+     "crime_theft_or_fraud"
+    ]
+   },
+   "scene_after": {
+    "start": "16:29",
+    "end": "17:46",
+    "location": "Bathroom / Streets",
+    "characters": [
+     "Shahriar",
+     "Gangster boss",
+     "Shahriar's brother"
+    ],
+    "dominant_activity": "Frantic phone calls and chasing a hostage",
+    "mood": "Panic, dread",
+    "summary": "Desperate for funds, Shahriar begs a friend over the phone while hiding in the bathroom, only to learn his mentally disabled brother is missing. The ruthless lender calls and orders Shahriar to run through the streets to a football field where his brother is being held hostage in his underwear.",
+    "opening_gist": "Shahriar sits on the toilet pleading on a phone call.",
+    "closing_gist": "Shahriar spots his shivering brother standing alone on a playing field.",
+    "ends_on": "cliffhanger",
+    "tags": [
+     "bathroom",
+     "phone call",
+     "running",
+     "hostage",
+     "field"
+    ],
+    "sensitive_themes": [
+     "smoking",
+     "kidnapping",
+     "violence_or_fight",
+     "poverty_or_financial_distress"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.48,
+    "natural_break_confidence": 0.48,
+    "same_conversation": 0.04,
+    "emotional_peak": 0.06,
+    "input_tokens": 1144
+   },
+   "quality": 0.8827
+  },
+  {
+   "boundary_index": 14,
+   "gemini_boundary": 1066.0,
+   "t": 1065.64,
+   "kind": "shot_cut",
+   "shot_score": 0.93,
+   "silence_before_s": 12.01,
+   "silence_after_s": 13.92,
+   "alternatives": [
+    {
+     "t": 1062.48,
+     "kind": "shot_cut",
+     "shot_score": 0.669,
+     "silence_before_s": 8.85,
+     "silence_after_s": 17.08
+    }
+   ],
+   "id": "c014",
+   "scene_before": {
+    "start": "16:29",
+    "end": "17:46",
+    "location": "Bathroom / Streets",
+    "characters": [
+     "Shahriar",
+     "Gangster boss",
+     "Shahriar's brother"
+    ],
+    "dominant_activity": "Frantic phone calls and chasing a hostage",
+    "mood": "Panic, dread",
+    "summary": "Desperate for funds, Shahriar begs a friend over the phone while hiding in the bathroom, only to learn his mentally disabled brother is missing. The ruthless lender calls and orders Shahriar to run through the streets to a football field where his brother is being held hostage in his underwear.",
+    "opening_gist": "Shahriar sits on the toilet pleading on a phone call.",
+    "closing_gist": "Shahriar spots his shivering brother standing alone on a playing field.",
+    "ends_on": "cliffhanger",
+    "tags": [
+     "bathroom",
+     "phone call",
+     "running",
+     "hostage",
+     "field"
+    ],
+    "sensitive_themes": [
+     "smoking",
+     "kidnapping",
+     "violence_or_fight",
+     "poverty_or_financial_distress"
+    ]
+   },
+   "scene_after": {
+    "start": "17:46",
+    "end": "19:15",
+    "location": "Dim hallway / Lounge room",
+    "characters": [
+     "Gangster boss",
+     "Enforcers",
+     "Debtor"
+    ],
+    "dominant_activity": "Brutal assault and extortion",
+    "mood": "Violent, terrifying",
+    "summary": "In a neon-lit corridor, the gang leader and his henchmen brutally beat a terrified debtor who cannot repay his debt. The boss grants a final six-month extension but threatens to murder his family if payment fails, then seizes his car keys.",
+    "opening_gist": "Enforcers beat a bleeding man against a wall in red light.",
+    "closing_gist": "The boss and thugs assault the man one last time before departing.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "violence",
+     "extortion",
+     "beating",
+     "gangsters"
+    ],
+    "sensitive_themes": [
+     "violence_or_fight",
+     "injury_or_blood",
+     "crime_theft_or_fraud"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.2,
+    "natural_break_confidence": 0.2,
+    "same_conversation": 0.05,
+    "emotional_peak": 0.83,
+    "input_tokens": 1171
+   },
+   "quality": 0.6748
+  },
+  {
+   "boundary_index": 15,
+   "gemini_boundary": 1155.0,
+   "t": 1155.632,
+   "kind": "pause",
+   "shot_score": 0.0,
+   "silence_before_s": 0.92,
+   "silence_after_s": 0.92,
+   "alternatives": [
+    {
+     "t": 1152.624,
+     "kind": "pause",
+     "shot_score": 0.0,
+     "silence_before_s": 0.79,
+     "silence_after_s": 0.79
+    },
+    {
+     "t": 1160.178,
+     "kind": "pause",
+     "shot_score": 0.0,
+     "silence_before_s": 0.82,
+     "silence_after_s": 1.91
+    }
+   ],
+   "id": "c015",
+   "scene_before": {
+    "start": "17:46",
+    "end": "19:15",
+    "location": "Dim hallway / Lounge room",
+    "characters": [
+     "Gangster boss",
+     "Enforcers",
+     "Debtor"
+    ],
+    "dominant_activity": "Brutal assault and extortion",
+    "mood": "Violent, terrifying",
+    "summary": "In a neon-lit corridor, the gang leader and his henchmen brutally beat a terrified debtor who cannot repay his debt. The boss grants a final six-month extension but threatens to murder his family if payment fails, then seizes his car keys.",
+    "opening_gist": "Enforcers beat a bleeding man against a wall in red light.",
+    "closing_gist": "The boss and thugs assault the man one last time before departing.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "violence",
+     "extortion",
+     "beating",
+     "gangsters"
+    ],
+    "sensitive_themes": [
+     "violence_or_fight",
+     "injury_or_blood",
+     "crime_theft_or_fraud"
+    ]
+   },
+   "scene_after": {
+    "start": "19:15",
+    "end": "20:06",
+    "location": "Bedroom",
+    "characters": [
+     "Shahriar",
+     "Returnee worker"
+    ],
+    "dominant_activity": "Desperate job discussion",
+    "mood": "Despondent, ambitious",
+    "summary": "The worker reveals he has accepted an 8,000 taka security guard job, which Shahriar angrily dismisses before tearing up the employment paper. Obsessed with making millions fast to clear his debts, Shahriar proposes joining the bank heist plan.",
+    "opening_gist": "Shahriar examines the worker's employment papers.",
+    "closing_gist": "Shahriar asks if they should go to his uncle.",
+    "ends_on": "cliffhanger",
+    "tags": [
+     "bedroom",
+     "papers",
+     "unemployment",
+     "poverty",
+     "scheme"
+    ],
+    "sensitive_themes": [
+     "poverty_or_financial_distress",
+     "crime_theft_or_fraud"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.46,
+    "natural_break_confidence": 0.46,
+    "same_conversation": 0.06,
+    "emotional_peak": 0.86,
+    "input_tokens": 1138
+   },
+   "quality": 0.714
+  },
+  {
+   "boundary_index": 16,
+   "gemini_boundary": 1206.0,
+   "t": 1203.392,
+   "kind": "pause",
+   "shot_score": 0.0,
+   "silence_before_s": 2.24,
+   "silence_after_s": 2.24,
+   "alternatives": [],
+   "id": "c016",
+   "scene_before": {
+    "start": "19:15",
+    "end": "20:06",
+    "location": "Bedroom",
+    "characters": [
+     "Shahriar",
+     "Returnee worker"
+    ],
+    "dominant_activity": "Desperate job discussion",
+    "mood": "Despondent, ambitious",
+    "summary": "The worker reveals he has accepted an 8,000 taka security guard job, which Shahriar angrily dismisses before tearing up the employment paper. Obsessed with making millions fast to clear his debts, Shahriar proposes joining the bank heist plan.",
+    "opening_gist": "Shahriar examines the worker's employment papers.",
+    "closing_gist": "Shahriar asks if they should go to his uncle.",
+    "ends_on": "cliffhanger",
+    "tags": [
+     "bedroom",
+     "papers",
+     "unemployment",
+     "poverty",
+     "scheme"
+    ],
+    "sensitive_themes": [
+     "poverty_or_financial_distress",
+     "crime_theft_or_fraud"
+    ]
+   },
+   "scene_after": {
+    "start": "20:06",
+    "end": "21:42",
+    "location": "Akbar's home / Veranda",
+    "characters": [
+     "Akbar",
+     "Returnee worker",
+     "Shahriar"
+    ],
+    "dominant_activity": "Confrontation and partnership formation",
+    "mood": "Hostile, suspenseful",
+    "summary": "Akbar furiously refuses to collaborate with an outsider and insults his nephew, refusing to return the debt. Shahriar steps forward, reminding Akbar that pulling off the scheme without educated help is impossible, and prepares to initiate the heist plot.",
+    "opening_gist": "Akbar angrily berates his nephew for bringing a stranger.",
+    "closing_gist": "Akbar quietly listens as a tense cut to black occurs.",
+    "ends_on": "cliffhanger",
+    "tags": [
+     "house",
+     "veranda",
+     "argument",
+     "partnership",
+     "heist planning"
+    ],
+    "sensitive_themes": [
+     "crime_theft_or_fraud",
+     "poverty_or_financial_distress"
+    ]
+   },
+   "jev": {
+    "natural_break": 1.2,
+    "natural_break_confidence": 0.52,
+    "same_conversation": 0.28,
+    "emotional_peak": 0.39,
+    "input_tokens": 1143
+   },
+   "quality": 0.522
+  }
+ ],
+ "rejected": [
+  {
+   "boundary_index": 0,
+   "gemini_boundary": 23.0,
+   "reason": "inside protected opening/ending window"
+  },
+  {
+   "boundary_index": 1,
+   "gemini_boundary": 65.0,
+   "reason": "inside protected opening/ending window"
+  },
+  {
+   "boundary_index": 5,
+   "gemini_boundary": 354.0,
+   "reason": "speech continues across the whole boundary region (would cut mid-dialogue)"
+  },
+  {
+   "boundary_index": 6,
+   "gemini_boundary": 402.0,
+   "reason": "speech continues across the whole boundary region (would cut mid-dialogue)"
+  },
+  {
+   "boundary_index": 7,
+   "gemini_boundary": 442.0,
+   "reason": "speech continues across the whole boundary region (would cut mid-dialogue)"
+  }
+ ]
+}

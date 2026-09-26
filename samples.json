@@ -1,0 +1,11 @@
+{
+  "note": "Sample episodes from the hackathon assets folder, fetched on first boot when data/videos is empty.",
+  "videos": {
+    "bhojon_bilashi": "1E7VuKgpNvoDXW7L2jzgKJKgJ92JatNu-",
+    "feluda": "1dyRiN464U6OeTiC5lij7WJtnxlXDJBi_",
+    "indubala_bhaater_hotel": "1l9B4leJ9p3UYkACvevIgdAjOlUYW5fhw",
+    "mandaar": "1W1xOslyrfHm0NMon4nJ9b4SrPf6Um-l8",
+    "mohanagar": "1euta8ouTGPHFnWGEFw7ZdemUIo5PjyjI",
+    "money_honey": "1gBjeVEVZ0NDTivNwcjiyz9NlPQiojXKv"
+  }
+}

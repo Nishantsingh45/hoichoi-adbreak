@@ -1,0 +1,44 @@
+{
+ "378.840": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A man is speaking in Bengali, and his speech is cut off by the ad-break.",
+  "passed": false
+ },
+ "211.880": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A short musical jingle ends at 00:04, followed by a car driving past a building. No speech is heard.",
+  "passed": true
+ },
+ "920.920": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "There is no speech, only music and sound effects.",
+  "passed": true
+ },
+ "581.160": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man starts speaking at 00:05, saying \"Achha, ei je amra ekta...\"",
+  "passed": false
+ },
+ "891.320": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A woman is speaking in Bengali, then there is a sound of chopping and cooking.",
+  "passed": true
+ },
+ "375.880": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "There is no speech, only music is heard.",
+  "passed": true
+ },
+ "578.840": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Only upbeat dramatic background music is playing, with no dialogue.",
+  "passed": true
+ }
+}

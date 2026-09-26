@@ -1,0 +1,2371 @@
+{
+ "video_id": "bhojon_bilashi",
+ "video_url": "/videos/bhojon_bilashi.mp4",
+ "duration": 1227.413333,
+ "synopsis": "In this culinary travelogue episode, host Somak Ghosh follows clues across Serampore to uncover the identity of his secret guest, revealed to be actress Parno Mittra. At the historic Serampore College campus, they participate in a spice-guessing game and savor delicious regional dishes, Chhanar Paturi and Railway Mutton Curry, prepared with Sunrise spices, before Somak receives another mysterious clue leading to his next destination.",
+ "scenes": [
+  {
+   "start": "00:00",
+   "end": "00:15",
+   "location": "Graphic Screen",
+   "characters": [],
+   "dominant_activity": "Showing platform logo and disclaimer",
+   "mood": "neutral",
+   "summary": "The episode opens with the streaming platform logo sequence followed by a standard viewer disclaimer.",
+   "opening_gist": "The Hoichoi animated logo is displayed on screen.",
+   "closing_gist": "The disclaimer screen fades out before the program starts.",
+   "ends_on": "transition",
+   "tags": [
+    "logo",
+    "disclaimer",
+    "title screen",
+    "opening"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 0.82,
+   "display_end_s": 15.0
+  },
+  {
+   "start": "00:15",
+   "end": "00:46",
+   "location": "Street / Outside building",
+   "characters": [
+    "Somak Ghosh"
+   ],
+   "dominant_activity": "Reading a clue card outside a colorful house",
+   "mood": "intrigued",
+   "summary": "Somak reads a poetic clue card describing a historic town along the Hooghly river known as a print capital. He puzzles over the riddle, trying to guess which town he is supposed to visit.",
+   "opening_gist": "Somak stands outside a colorful wall reading a note.",
+   "closing_gist": "Somak ponders the clue and wonders where it will lead him.",
+   "ends_on": "transition",
+   "tags": [
+    "street",
+    "letter",
+    "riddle",
+    "travel",
+    "walking"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 15.0,
+   "display_end_s": 47.96
+  },
+  {
+   "start": "00:46",
+   "end": "01:40",
+   "location": "Riverside / Walkway / Park",
+   "characters": [
+    "Parno Mittra"
+   ],
+   "dominant_activity": "Walking, snacking, and giving clues to the camera",
+   "mood": "playful",
+   "summary": "Parno Mittra enjoys snacks and walks along a footbridge and promenade, speaking directly to the audience. She teases Somak's intellect with playful clues about her name and Bengal's foreign colonial connections, checking her watch as she waits.",
+   "opening_gist": "Parno Mittra eats a crispy street food snack while smiling at the camera.",
+   "closing_gist": "Parno checks her watch and predicts Somak will arrive in five minutes.",
+   "ends_on": "transition",
+   "tags": [
+    "eating",
+    "street food",
+    "river",
+    "park",
+    "sari",
+    "walking",
+    "bridge"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 47.96,
+   "display_end_s": 100.72
+  },
+  {
+   "start": "01:40",
+   "end": "02:53",
+   "location": "Street / Beside food truck",
+   "characters": [
+    "Somak Ghosh"
+   ],
+   "dominant_activity": "Deducing the town name from clues beside his food truck",
+   "mood": "humorous",
+   "summary": "Standing beside his food truck, Somak breaks down the clues about printing presses, the Hooghly river, and capitals. After running through possible towns, he realizes the destination is Serampore.",
+   "opening_gist": "Somak addresses the audience complaining humorously about the game-like invitation.",
+   "closing_gist": "Somak joyfully exclaims the answer is Serampore.",
+   "ends_on": "resolved",
+   "tags": [
+    "food truck",
+    "street",
+    "riddle",
+    "monologue"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 100.72,
+   "display_end_s": 173.72
+  },
+  {
+   "start": "02:53",
+   "end": "03:31",
+   "location": "Serampore town (Aerial montage)",
+   "characters": [],
+   "dominant_activity": "Showcasing scenic town aerials and title animation",
+   "mood": "energetic",
+   "summary": "A dynamic aerial montage showcases Serampore's riverfront, historic churches, temples, and streets. The show title animation for Sunrise Pure Bhojon Bilashi Season 2 introduces the episode.",
+   "opening_gist": "Aerial views of the Hooghly riverbank and historic buildings of Serampore.",
+   "closing_gist": "The title card animation for the show plays out cheerfully.",
+   "ends_on": "transition",
+   "tags": [
+    "aerial",
+    "river",
+    "church",
+    "temple",
+    "title animation",
+    "food truck"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 173.72,
+   "display_end_s": 211.88
+  },
+  {
+   "start": "03:31",
+   "end": "04:24",
+   "location": "Outside St. Olav's Church, Serampore",
+   "characters": [
+    "Somak Ghosh"
+   ],
+   "dominant_activity": "Presenting the colonial history of Serampore",
+   "mood": "enthusiastic",
+   "summary": "Somak parks his food truck outside the grand church and introduces Serampore's Danish colonial heritage. He notes that the Danish established Frederiksnagore here and that it was once celebrated as the print capital of Bengal, before setting off to find his guest.",
+   "opening_gist": "The red food truck pulls up in front of the historic church.",
+   "closing_gist": "Somak pockets the clue and walks off to find the mystery host.",
+   "ends_on": "transition",
+   "tags": [
+    "church",
+    "food truck",
+    "colonial history",
+    "host monologue"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 211.88,
+   "display_end_s": 265.16
+  },
+  {
+   "start": "04:24",
+   "end": "05:06",
+   "location": "Serampore marketplace / street",
+   "characters": [
+    "Somak Ghosh",
+    "Shopkeeper",
+    "Female Fan"
+   ],
+   "dominant_activity": "Asking locals questions and taking a fan selfie",
+   "mood": "amusing",
+   "summary": "Somak wanders the Serampore market asking strangers for clues, but receives no useful answers. An enthusiastic fan spots him, expressing her excitement and taking a selfie before he moves on.",
+   "opening_gist": "Somak approaches a street vendor stall asking who walks on leaves.",
+   "closing_gist": "The fan walks away smiling after taking a photo with Somak.",
+   "ends_on": "transition",
+   "tags": [
+    "marketplace",
+    "stall",
+    "selfie",
+    "phone call",
+    "fan interaction",
+    "street"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 265.16,
+   "display_end_s": 306.76
+  },
+  {
+   "start": "05:06",
+   "end": "06:12",
+   "location": "Ghat Pavilion / Historic riverfront building",
+   "characters": [
+    "Somak Ghosh",
+    "Local Man",
+    "Parno Mittra"
+   ],
+   "dominant_activity": "Meeting and greeting at the river pavilion",
+   "mood": "cheerful",
+   "summary": "Frustrated after asking a busy passerby for clues, Somak is called out from a balcony above by Parno Mittra. Somak rushes upstairs, delightfully realizing that 'Pata' and 'Mitro' were puns on her name, and she warmly welcomes him to the episode.",
+   "opening_gist": "Somak tries asking a man near the ghat archway if anyone is friend or foe.",
+   "closing_gist": "Parno and Somak wave towards the camera as an aerial view of the ghat unfolds.",
+   "ends_on": "resolved",
+   "tags": [
+    "ghat",
+    "balcony",
+    "reunion",
+    "pun",
+    "sari",
+    "greetings"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 306.76,
+   "display_end_s": 371.84
+  },
+  {
+   "start": "06:12",
+   "end": "07:54",
+   "location": "Serampore College courtyard lawn",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra",
+    "Chef Prasanta Dawn"
+   ],
+   "dominant_activity": "Chatting outside Serampore College and meeting the chef",
+   "mood": "relaxed",
+   "summary": "Somak and Parno sit at a table facing the grand neoclassical facade of Serampore College, discussing the institution's historic status. Parno calls Chef Prasanta, who arrives with a tray of Sunrise spices to prepare the day's special colonial-inspired feast.",
+   "opening_gist": "Aerial view gliding over Serampore College courtyard where Somak and Parno walk.",
+   "closing_gist": "Parno announces that she is going to start the clue game for the first dish.",
+   "ends_on": "mid_conversation",
+   "tags": [
+    "college",
+    "campus",
+    "chef",
+    "table",
+    "food truck",
+    "spices"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 371.84,
+   "display_end_s": 474.32
+  },
+  {
+   "start": "07:54",
+   "end": "09:41",
+   "location": "Serampore College courtyard lawn / Food truck kitchen",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra",
+    "Chef Prasanta Dawn"
+   ],
+   "dominant_activity": "Guessing the first dish while the chef cooks Chhanar Paturi",
+   "mood": "playful",
+   "summary": "Parno gives clues regarding a vegetarian steamed delicacy wrapped in banana leaves, prompting Somak to pick various spice packets. Although Somak guesses Doi Bhapa, Parno reveals it is Chhanar Paturi as Chef Prasanta cooks the dish inside the food truck kitchen.",
+   "opening_gist": "Parno reveals the first clue: the dish is wrapped in banana leaves.",
+   "closing_gist": "Chef Prasanta adds mustard oil and wraps the paturi pouches for steaming.",
+   "ends_on": "resolved",
+   "tags": [
+    "cooking",
+    "banana leaf",
+    "paneer",
+    "paturi",
+    "spices",
+    "guessing game",
+    "food truck"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 474.32,
+   "display_end_s": 581.16
+  },
+  {
+   "start": "09:41",
+   "end": "12:49",
+   "location": "Serampore College courtyard lawn",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra"
+   ],
+   "dominant_activity": "Conversing about school, career choices, and early acting days",
+   "mood": "nostalgic",
+   "summary": "Sitting in the historic college yard, Somak asks Parno about entering showbiz at an early age without completing traditional schooling. Parno reflects candidly on school trauma, the intense support from her parents, moving to Mumbai, and training under Veena Mehta for voice and diction.",
+   "opening_gist": "Somak asks Parno about starting her professional career unusually early.",
+   "closing_gist": "Parno laughs as they wrap up their deep chat to begin the next game round.",
+   "ends_on": "mid_conversation",
+   "tags": [
+    "interview",
+    "nostalgia",
+    "career",
+    "acting",
+    "mumbai",
+    "family",
+    "education"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 581.16,
+   "display_end_s": 768.52
+  },
+  {
+   "start": "12:49",
+   "end": "15:23",
+   "location": "Serampore College courtyard lawn / Food truck kitchen",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra",
+    "Chef Prasanta Dawn"
+   ],
+   "dominant_activity": "Playing the second clue game while Chef cooks Railway Mutton Curry",
+   "mood": "lively",
+   "summary": "Parno gives clues related to trains, potatoes, spices, and Sunday Bengali staples. Somak successfully deduces that the dish is the historic Railway Mutton Curry, while Chef Prasanta prepares the fragrant meat dish inside the truck using Sunrise spices.",
+   "opening_gist": "Parno shares the first clue for the second dish involving trains.",
+   "closing_gist": "Chef garnishes the cooked Railway Mutton Curry in a traditional brass bowl.",
+   "ends_on": "resolved",
+   "tags": [
+    "cooking",
+    "mutton",
+    "curry",
+    "spices",
+    "guessing game",
+    "meat"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 768.52,
+   "display_end_s": 924.16
+  },
+  {
+   "start": "15:23",
+   "end": "17:13",
+   "location": "Serampore College courtyard lawn",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra"
+   ],
+   "dominant_activity": "Discussing cooking skills and personal recipes",
+   "mood": "warm",
+   "summary": "Parno shares her culinary interests with Somak, detailing her specialty dishes like Yakhni Pulao, three-dal tadka, miso soup, and festive bhog preparations for Ganesh Puja. She reflects on learning dishes from her mother and YouTube, before calling the chef to serve lunch.",
+   "opening_gist": "Somak jokes about the name of the show and asks if Parno cooks.",
+   "closing_gist": "Parno calls out to Chef Prasanta to bring their cooked meal to the table.",
+   "ends_on": "resolved",
+   "tags": [
+    "cooking",
+    "recipes",
+    "family",
+    "illness_or_hospital",
+    "conversation",
+    "table"
+   ],
+   "sensitive_themes": [
+    "illness_or_hospital"
+   ],
+   "display_start_s": 924.16,
+   "display_end_s": 1033.0
+  },
+  {
+   "start": "17:13",
+   "end": "19:37",
+   "location": "Serampore College courtyard lawn",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra",
+    "Chef Prasanta Dawn"
+   ],
+   "dominant_activity": "Tasting and enjoying the prepared feast",
+   "mood": "joyful",
+   "summary": "Chef Prasanta presents the royal brass thali containing rice, dal, Chhanar Paturi, and Railway Mutton Curry. Somak and Parno savor every bite, praising the unique flavors of the paneer paturi and the melt-in-the-mouth mutton curry enhanced by Sunrise spices.",
+   "opening_gist": "Close-up shots of rice and piping hot Chhanar Paturi being plated on brassware.",
+   "closing_gist": "Parno receives a notification on her phone and prepares to hand it over to Somak.",
+   "ends_on": "transition",
+   "tags": [
+    "eating",
+    "food tasting",
+    "paturi",
+    "mutton",
+    "rice",
+    "brassware",
+    "lunch"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 1033.0,
+   "display_end_s": 1177.04
+  },
+  {
+   "start": "19:37",
+   "end": "19:53",
+   "location": "Serampore College courtyard lawn",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra"
+   ],
+   "dominant_activity": "Listening to a mysterious voice note clue",
+   "mood": "mysterious",
+   "summary": "Parno hands her smartphone to Somak, who plays a deep voice note instructing him to prepare for the next chapter of his journey where someone awaits him. Somak listens with a stunned expression, realizing another puzzle has begun.",
+   "opening_gist": "Somak asks if it is a voice note and holds the phone to his ear.",
+   "closing_gist": "Parno asks if it is another clue as Somak stares wide-eyed into the distance.",
+   "ends_on": "cliffhanger",
+   "tags": [
+    "phone call",
+    "voice message",
+    "mystery",
+    "cliffhanger",
+    "table"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 1177.04,
+   "display_end_s": 1193.08
+  },
+  {
+   "start": "19:53",
+   "end": "20:27",
+   "location": "Black Screen",
+   "characters": [],
+   "dominant_activity": "Displaying end credits",
+   "mood": "neutral",
+   "summary": "The rolling end credits roll over music, detailing the cast, crew, production partners, and copyright information.",
+   "opening_gist": "White rolling credit text appears on a black screen.",
+   "closing_gist": "The copyright notice is shown as the screen fades out completely.",
+   "ends_on": "resolved",
+   "tags": [
+    "end credits",
+    "credits",
+    "production"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 1193.08,
+   "display_end_s": 1227.2
+  }
+ ],
+ "breaks": [
+  {
+   "boundary_index": 7,
+   "gemini_boundary": 372.0,
+   "t": 375.88,
+   "kind": "shot_cut",
+   "shot_score": 0.133,
+   "silence_before_s": 2.96,
+   "silence_after_s": 1.37,
+   "alternatives": [],
+   "id": "c007",
+   "scene_before": {
+    "start": "05:06",
+    "end": "06:12",
+    "location": "Ghat Pavilion / Historic riverfront building",
+    "characters": [
+     "Somak Ghosh",
+     "Local Man",
+     "Parno Mittra"
+    ],
+    "dominant_activity": "Meeting and greeting at the river pavilion",
+    "mood": "cheerful",
+    "summary": "Frustrated after asking a busy passerby for clues, Somak is called out from a balcony above by Parno Mittra. Somak rushes upstairs, delightfully realizing that 'Pata' and 'Mitro' were puns on her name, and she warmly welcomes him to the episode.",
+    "opening_gist": "Somak tries asking a man near the ghat archway if anyone is friend or foe.",
+    "closing_gist": "Parno and Somak wave towards the camera as an aerial view of the ghat unfolds.",
+    "ends_on": "resolved",
+    "tags": [
+     "ghat",
+     "balcony",
+     "reunion",
+     "pun",
+     "sari",
+     "greetings"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "06:12",
+    "end": "07:54",
+    "location": "Serampore College courtyard lawn",
+    "characters": [
+     "Somak Ghosh",
+     "Parno Mittra",
+     "Chef Prasanta Dawn"
+    ],
+    "dominant_activity": "Chatting outside Serampore College and meeting the chef",
+    "mood": "relaxed",
+    "summary": "Somak and Parno sit at a table facing the grand neoclassical facade of Serampore College, discussing the institution's historic status. Parno calls Chef Prasanta, who arrives with a tray of Sunrise spices to prepare the day's special colonial-inspired feast.",
+    "opening_gist": "Aerial view gliding over Serampore College courtyard where Somak and Parno walk.",
+    "closing_gist": "Parno announces that she is going to start the clue game for the first dish.",
+    "ends_on": "mid_conversation",
+    "tags": [
+     "college",
+     "campus",
+     "chef",
+     "table",
+     "food truck",
+     "spices"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.94,
+    "natural_break_confidence": 0.94,
+    "same_conversation": 0.11,
+    "emotional_peak": 0.02,
+    "input_tokens": 1188
+   },
+   "quality": 0.9575,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "There is no speech, only music is heard.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_g",
+     "brand": "Brand G",
+     "p_forbidden_context": 0.05,
+     "fit": 1.76,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.05,
+      "fit": 1.76,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.05,
+      "fit": 0.99,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.04,
+      "fit": 0.6,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.05,
+      "fit": 0.09,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.05,
+      "fit": 0.09,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.05,
+      "fit": 0.07,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.11,
+      "fit": 0.06,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.05,
+      "fit": 0.06,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4227
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_g",
+    "name": "Brand G",
+    "category": "travel/hospitality",
+    "target_contexts": [
+     "travel",
+     "vacation",
+     "holiday",
+     "hotel",
+     "resort",
+     "tourism",
+     "train journey",
+     "airport",
+     "beach",
+     "mountains",
+     "sightseeing",
+     "road trip",
+     "weekend trip",
+     "family vacation"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "hospital",
+     "violence",
+     "accident",
+     "illness",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "g_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_g/g_20s_bn.mp4"
+     },
+     {
+      "id": "g_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_g/g_30s_bn.mp4"
+     }
+    ],
+    "color": "#962b8c"
+   },
+   "creative": {
+    "id": "g_30s_bn",
+    "duration_sec": 30,
+    "language": "bn",
+    "url": "ads/brand_g/g_30s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_g/g_30s_bn.mp4",
+   "media_url": "/ads/brand_g/g_30s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 375.88,
+     "cut_type": "shot_cut",
+     "gemini_scene_boundary_s": 372.0,
+     "silence_before_s": 2.96,
+     "silence_after_s": 1.37,
+     "audio_audit": "There is no speech, only music is heard.",
+     "moved_from": []
+    },
+    "whether": {
+     "quality": 0.9575,
+     "jev_natural_break_0_to_3": 2.94,
+     "jev_p_same_conversation": 0.11,
+     "jev_p_emotional_peak": 0.02,
+     "creative_seconds": 30
+    },
+    "what": {
+     "brand": "Brand G",
+     "creative": "g_30s_bn",
+     "fit_0_to_3": 1.76,
+     "p_forbidden_context": 0.05,
+     "platform_floor": [],
+     "blocked_brands": [],
+     "brands_considered": 8
+    }
+   }
+  },
+  {
+   "boundary_index": 11,
+   "gemini_boundary": 923.0,
+   "t": 920.92,
+   "kind": "shot_cut",
+   "shot_score": 0.344,
+   "silence_before_s": 6.75,
+   "silence_after_s": 3.28,
+   "alternatives": [
+    {
+     "t": 919.52,
+     "kind": "shot_cut",
+     "shot_score": 0.377,
+     "silence_before_s": 5.35,
+     "silence_after_s": 4.68
+    },
+    {
+     "t": 917.0,
+     "kind": "shot_cut",
+     "shot_score": 0.344,
+     "silence_before_s": 2.83,
+     "silence_after_s": 7.2
+    }
+   ],
+   "id": "c011",
+   "scene_before": {
+    "start": "12:49",
+    "end": "15:23",
+    "location": "Serampore College courtyard lawn / Food truck kitchen",
+    "characters": [
+     "Somak Ghosh",
+     "Parno Mittra",
+     "Chef Prasanta Dawn"
+    ],
+    "dominant_activity": "Playing the second clue game while Chef cooks Railway Mutton Curry",
+    "mood": "lively",
+    "summary": "Parno gives clues related to trains, potatoes, spices, and Sunday Bengali staples. Somak successfully deduces that the dish is the historic Railway Mutton Curry, while Chef Prasanta prepares the fragrant meat dish inside the truck using Sunrise spices.",
+    "opening_gist": "Parno shares the first clue for the second dish involving trains.",
+    "closing_gist": "Chef garnishes the cooked Railway Mutton Curry in a traditional brass bowl.",
+    "ends_on": "resolved",
+    "tags": [
+     "cooking",
+     "mutton",
+     "curry",
+     "spices",
+     "guessing game",
+     "meat"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "15:23",
+    "end": "17:13",
+    "location": "Serampore College courtyard lawn",
+    "characters": [
+     "Somak Ghosh",
+     "Parno Mittra"
+    ],
+    "dominant_activity": "Discussing cooking skills and personal recipes",
+    "mood": "warm",
+    "summary": "Parno shares her culinary interests with Somak, detailing her specialty dishes like Yakhni Pulao, three-dal tadka, miso soup, and festive bhog preparations for Ganesh Puja. She reflects on learning dishes from her mother and YouTube, before calling the chef to serve lunch.",
+    "opening_gist": "Somak jokes about the name of the show and asks if Parno cooks.",
+    "closing_gist": "Parno calls out to Chef Prasanta to bring their cooked meal to the table.",
+    "ends_on": "resolved",
+    "tags": [
+     "cooking",
+     "recipes",
+     "family",
+     "illness_or_hospital",
+     "conversation",
+     "table"
+    ],
+    "sensitive_themes": [
+     "illness_or_hospital"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.67,
+    "natural_break_confidence": 0.67,
+    "same_conversation": 0.45,
+    "emotional_peak": 0.02,
+    "input_tokens": 1184
+   },
+   "quality": 0.823,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "There is no speech, only music and sound effects.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_a",
+     "brand": "Brand A",
+     "p_forbidden_context": 0.05,
+     "fit": 2.65,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.05,
+      "fit": 2.65,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.05,
+      "fit": 0.87,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.05,
+      "fit": 0.32,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.05,
+      "fit": 0.1,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.05,
+      "fit": 0.05,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.05,
+      "fit": 0.03,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.05,
+      "fit": 0.01,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.88,
+      "fit": 0.03,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4212
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_a",
+    "name": "Brand A",
+    "category": "food/spices/cooking",
+    "target_contexts": [
+     "cooking",
+     "kitchen",
+     "eating",
+     "family meal",
+     "recipe",
+     "food preparation",
+     "spices",
+     "seasoning",
+     "frying",
+     "boiling",
+     "homemade food",
+     "lunch",
+     "dinner",
+     "festival food"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "hospital",
+     "violence",
+     "illness",
+     "bathroom",
+     "accident",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "a_15s_bn",
+      "duration_sec": 15,
+      "language": "bn",
+      "url": "ads/brand_a/a_15s_bn.mp4"
+     },
+     {
+      "id": "a_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_a/a_20s_bn.mp4"
+     },
+     {
+      "id": "a_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_a/a_30s_bn.mp4"
+     }
+    ],
+    "color": "#8a2b96"
+   },
+   "creative": {
+    "id": "a_20s_bn",
+    "duration_sec": 20,
+    "language": "bn",
+    "url": "ads/brand_a/a_20s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_a/a_20s_bn.mp4",
+   "media_url": "/ads/brand_a/a_20s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 920.92,
+     "cut_type": "shot_cut",
+     "gemini_scene_boundary_s": 923.0,
+     "silence_before_s": 6.75,
+     "silence_after_s": 3.28,
+     "audio_audit": "There is no speech, only music and sound effects.",
+     "moved_from": []
+    },
+    "whether": {
+     "quality": 0.823,
+     "jev_natural_break_0_to_3": 2.67,
+     "jev_p_same_conversation": 0.45,
+     "jev_p_emotional_peak": 0.02,
+     "creative_seconds": 20
+    },
+    "what": {
+     "brand": "Brand A",
+     "creative": "a_20s_bn",
+     "fit_0_to_3": 2.65,
+     "p_forbidden_context": 0.05,
+     "platform_floor": [],
+     "blocked_brands": [
+      {
+       "brand": "Brand B",
+       "blocked_by": [
+        "jev"
+       ],
+       "evidence": [],
+       "p_forbidden_context": 0.88
+      }
+     ],
+     "brands_considered": 8
+    }
+   }
+  }
+ ],
+ "candidates": [
+  {
+   "boundary_index": 3,
+   "gemini_boundary": 173.0,
+   "t": 176.16,
+   "kind": "shot_cut",
+   "shot_score": 0.342,
+   "silence_before_s": 1.67,
+   "silence_after_s": 45.6,
+   "alternatives": [
+    {
+     "t": 177.56,
+     "kind": "shot_cut",
+     "shot_score": 0.168,
+     "silence_before_s": 3.07,
+     "silence_after_s": 44.2
+    }
+   ],
+   "id": "c003",
+   "scene_before": {
+    "start": "01:40",
+    "end": "02:53",
+    "location": "Street / Beside food truck",
+    "characters": [
+     "Somak Ghosh"
+    ],
+    "dominant_activity": "Deducing the town name from clues beside his food truck",
+    "mood": "humorous",
+    "summary": "Standing beside his food truck, Somak breaks down the clues about printing presses, the Hooghly river, and capitals. After running through possible towns, he realizes the destination is Serampore.",
+    "opening_gist": "Somak addresses the audience complaining humorously about the game-like invitation.",
+    "closing_gist": "Somak joyfully exclaims the answer is Serampore.",
+    "ends_on": "resolved",
+    "tags": [
+     "food truck",
+     "street",
+     "riddle",
+     "monologue"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "02:53",
+    "end": "03:31",
+    "location": "Serampore town (Aerial montage)",
+    "characters": [],
+    "dominant_activity": "Showcasing scenic town aerials and title animation",
+    "mood": "energetic",
+    "summary": "A dynamic aerial montage showcases Serampore's riverfront, historic churches, temples, and streets. The show title animation for Sunrise Pure Bhojon Bilashi Season 2 introduces the episode.",
+    "opening_gist": "Aerial views of the Hooghly riverbank and historic buildings of Serampore.",
+    "closing_gist": "The title card animation for the show plays out cheerfully.",
+    "ends_on": "transition",
+    "tags": [
+     "aerial",
+     "river",
+     "church",
+     "temple",
+     "title animation",
+     "food truck"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.97,
+    "natural_break_confidence": 0.97,
+    "same_conversation": 0.05,
+    "emotional_peak": 0.02,
+    "input_tokens": 1105
+   },
+   "quality": 0.978,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 4,
+   "gemini_boundary": 211.0,
+   "t": 211.88,
+   "kind": "shot_cut",
+   "shot_score": 0.499,
+   "silence_before_s": 37.39,
+   "silence_after_s": 9.88,
+   "alternatives": [
+    {
+     "t": 206.84,
+     "kind": "shot_cut",
+     "shot_score": 0.377,
+     "silence_before_s": 32.35,
+     "silence_after_s": 14.92
+    },
+    {
+     "t": 215.32,
+     "kind": "shot_cut",
+     "shot_score": 0.377,
+     "silence_before_s": 40.83,
+     "silence_after_s": 6.44
+    }
+   ],
+   "id": "c004",
+   "scene_before": {
+    "start": "02:53",
+    "end": "03:31",
+    "location": "Serampore town (Aerial montage)",
+    "characters": [],
+    "dominant_activity": "Showcasing scenic town aerials and title animation",
+    "mood": "energetic",
+    "summary": "A dynamic aerial montage showcases Serampore's riverfront, historic churches, temples, and streets. The show title animation for Sunrise Pure Bhojon Bilashi Season 2 introduces the episode.",
+    "opening_gist": "Aerial views of the Hooghly riverbank and historic buildings of Serampore.",
+    "closing_gist": "The title card animation for the show plays out cheerfully.",
+    "ends_on": "transition",
+    "tags": [
+     "aerial",
+     "river",
+     "church",
+     "temple",
+     "title animation",
+     "food truck"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "03:31",
+    "end": "04:24",
+    "location": "Outside St. Olav's Church, Serampore",
+    "characters": [
+     "Somak Ghosh"
+    ],
+    "dominant_activity": "Presenting the colonial history of Serampore",
+    "mood": "enthusiastic",
+    "summary": "Somak parks his food truck outside the grand church and introduces Serampore's Danish colonial heritage. He notes that the Danish established Frederiksnagore here and that it was once celebrated as the print capital of Bengal, before setting off to find his guest.",
+    "opening_gist": "The red food truck pulls up in front of the historic church.",
+    "closing_gist": "Somak pockets the clue and walks off to find the mystery host.",
+    "ends_on": "transition",
+    "tags": [
+     "church",
+     "food truck",
+     "colonial history",
+     "host monologue"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.89,
+    "natural_break_confidence": 0.89,
+    "same_conversation": 0.08,
+    "emotional_peak": 0.02,
+    "input_tokens": 1116
+   },
+   "quality": 0.9558,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 5,
+   "gemini_boundary": 264.0,
+   "t": 265.16,
+   "kind": "shot_cut",
+   "shot_score": 0.432,
+   "silence_before_s": 3.37,
+   "silence_after_s": 1.28,
+   "alternatives": [
+    {
+     "t": 260.2,
+     "kind": "shot_cut",
+     "shot_score": 0.373,
+     "silence_before_s": 1.32,
+     "silence_after_s": 0.92
+    }
+   ],
+   "id": "c005",
+   "scene_before": {
+    "start": "03:31",
+    "end": "04:24",
+    "location": "Outside St. Olav's Church, Serampore",
+    "characters": [
+     "Somak Ghosh"
+    ],
+    "dominant_activity": "Presenting the colonial history of Serampore",
+    "mood": "enthusiastic",
+    "summary": "Somak parks his food truck outside the grand church and introduces Serampore's Danish colonial heritage. He notes that the Danish established Frederiksnagore here and that it was once celebrated as the print capital of Bengal, before setting off to find his guest.",
+    "opening_gist": "The red food truck pulls up in front of the historic church.",
+    "closing_gist": "Somak pockets the clue and walks off to find the mystery host.",
+    "ends_on": "transition",
+    "tags": [
+     "church",
+     "food truck",
+     "colonial history",
+     "host monologue"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "04:24",
+    "end": "05:06",
+    "location": "Serampore marketplace / street",
+    "characters": [
+     "Somak Ghosh",
+     "Shopkeeper",
+     "Female Fan"
+    ],
+    "dominant_activity": "Asking locals questions and taking a fan selfie",
+    "mood": "amusing",
+    "summary": "Somak wanders the Serampore market asking strangers for clues, but receives no useful answers. An enthusiastic fan spots him, expressing her excitement and taking a selfie before he moves on.",
+    "opening_gist": "Somak approaches a street vendor stall asking who walks on leaves.",
+    "closing_gist": "The fan walks away smiling after taking a photo with Somak.",
+    "ends_on": "transition",
+    "tags": [
+     "marketplace",
+     "stall",
+     "selfie",
+     "phone call",
+     "fan interaction",
+     "street"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.66,
+    "natural_break_confidence": 0.66,
+    "same_conversation": 0.11,
+    "emotional_peak": 0.02,
+    "input_tokens": 1127
+   },
+   "quality": 0.9062,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 6,
+   "gemini_boundary": 306.0,
+   "t": 306.24,
+   "kind": "pause",
+   "shot_score": 0.0,
+   "silence_before_s": 0.77,
+   "silence_after_s": 0.77,
+   "alternatives": [],
+   "id": "c006",
+   "scene_before": {
+    "start": "04:24",
+    "end": "05:06",
+    "location": "Serampore marketplace / street",
+    "characters": [
+     "Somak Ghosh",
+     "Shopkeeper",
+     "Female Fan"
+    ],
+    "dominant_activity": "Asking locals questions and taking a fan selfie",
+    "mood": "amusing",
+    "summary": "Somak wanders the Serampore market asking strangers for clues, but receives no useful answers. An enthusiastic fan spots him, expressing her excitement and taking a selfie before he moves on.",
+    "opening_gist": "Somak approaches a street vendor stall asking who walks on leaves.",
+    "closing_gist": "The fan walks away smiling after taking a photo with Somak.",
+    "ends_on": "transition",
+    "tags": [
+     "marketplace",
+     "stall",
+     "selfie",
+     "phone call",
+     "fan interaction",
+     "street"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "05:06",
+    "end": "06:12",
+    "location": "Ghat Pavilion / Historic riverfront building",
+    "characters": [
+     "Somak Ghosh",
+     "Local Man",
+     "Parno Mittra"
+    ],
+    "dominant_activity": "Meeting and greeting at the river pavilion",
+    "mood": "cheerful",
+    "summary": "Frustrated after asking a busy passerby for clues, Somak is called out from a balcony above by Parno Mittra. Somak rushes upstairs, delightfully realizing that 'Pata' and 'Mitro' were puns on her name, and she warmly welcomes him to the episode.",
+    "opening_gist": "Somak tries asking a man near the ghat archway if anyone is friend or foe.",
+    "closing_gist": "Parno and Somak wave towards the camera as an aerial view of the ghat unfolds.",
+    "ends_on": "resolved",
+    "tags": [
+     "ghat",
+     "balcony",
+     "reunion",
+     "pun",
+     "sari",
+     "greetings"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 1.78,
+    "natural_break_confidence": 0.27,
+    "same_conversation": 0.12,
+    "emotional_peak": 0.02,
+    "input_tokens": 1162
+   },
+   "quality": 0.7423,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 7,
+   "gemini_boundary": 372.0,
+   "t": 375.88,
+   "kind": "shot_cut",
+   "shot_score": 0.133,
+   "silence_before_s": 2.96,
+   "silence_after_s": 1.37,
+   "alternatives": [],
+   "id": "c007",
+   "scene_before": {
+    "start": "05:06",
+    "end": "06:12",
+    "location": "Ghat Pavilion / Historic riverfront building",
+    "characters": [
+     "Somak Ghosh",
+     "Local Man",
+     "Parno Mittra"
+    ],
+    "dominant_activity": "Meeting and greeting at the river pavilion",
+    "mood": "cheerful",
+    "summary": "Frustrated after asking a busy passerby for clues, Somak is called out from a balcony above by Parno Mittra. Somak rushes upstairs, delightfully realizing that 'Pata' and 'Mitro' were puns on her name, and she warmly welcomes him to the episode.",
+    "opening_gist": "Somak tries asking a man near the ghat archway if anyone is friend or foe.",
+    "closing_gist": "Parno and Somak wave towards the camera as an aerial view of the ghat unfolds.",
+    "ends_on": "resolved",
+    "tags": [
+     "ghat",
+     "balcony",
+     "reunion",
+     "pun",
+     "sari",
+     "greetings"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "06:12",
+    "end": "07:54",
+    "location": "Serampore College courtyard lawn",
+    "characters": [
+     "Somak Ghosh",
+     "Parno Mittra",
+     "Chef Prasanta Dawn"
+    ],
+    "dominant_activity": "Chatting outside Serampore College and meeting the chef",
+    "mood": "relaxed",
+    "summary": "Somak and Parno sit at a table facing the grand neoclassical facade of Serampore College, discussing the institution's historic status. Parno calls Chef Prasanta, who arrives with a tray of Sunrise spices to prepare the day's special colonial-inspired feast.",
+    "opening_gist": "Aerial view gliding over Serampore College courtyard where Somak and Parno walk.",
+    "closing_gist": "Parno announces that she is going to start the clue game for the first dish.",
+    "ends_on": "mid_conversation",
+    "tags": [
+     "college",
+     "campus",
+     "chef",
+     "table",
+     "food truck",
+     "spices"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.94,
+    "natural_break_confidence": 0.94,
+    "same_conversation": 0.11,
+    "emotional_peak": 0.02,
+    "input_tokens": 1188
+   },
+   "quality": 0.9575,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "There is no speech, only music is heard.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_g",
+     "brand": "Brand G",
+     "p_forbidden_context": 0.05,
+     "fit": 1.76,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.05,
+      "fit": 1.76,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.05,
+      "fit": 0.99,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.04,
+      "fit": 0.6,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.05,
+      "fit": 0.09,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.05,
+      "fit": 0.09,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.05,
+      "fit": 0.07,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.11,
+      "fit": 0.06,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.05,
+      "fit": 0.06,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4227
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_g",
+    "name": "Brand G",
+    "category": "travel/hospitality",
+    "target_contexts": [
+     "travel",
+     "vacation",
+     "holiday",
+     "hotel",
+     "resort",
+     "tourism",
+     "train journey",
+     "airport",
+     "beach",
+     "mountains",
+     "sightseeing",
+     "road trip",
+     "weekend trip",
+     "family vacation"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "hospital",
+     "violence",
+     "accident",
+     "illness",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "g_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_g/g_20s_bn.mp4"
+     },
+     {
+      "id": "g_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_g/g_30s_bn.mp4"
+     }
+    ],
+    "color": "#962b8c"
+   },
+   "creative": {
+    "id": "g_30s_bn",
+    "duration_sec": 30,
+    "language": "bn",
+    "url": "ads/brand_g/g_30s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_g/g_30s_bn.mp4",
+   "media_url": "/ads/brand_g/g_30s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 375.88,
+     "cut_type": "shot_cut",
+     "gemini_scene_boundary_s": 372.0,
+     "silence_before_s": 2.96,
+     "silence_after_s": 1.37,
+     "audio_audit": "There is no speech, only music is heard.",
+     "moved_from": []
+    },
+    "whether": {
+     "quality": 0.9575,
+     "jev_natural_break_0_to_3": 2.94,
+     "jev_p_same_conversation": 0.11,
+     "jev_p_emotional_peak": 0.02,
+     "creative_seconds": 30
+    },
+    "what": {
+     "brand": "Brand G",
+     "creative": "g_30s_bn",
+     "fit_0_to_3": 1.76,
+     "p_forbidden_context": 0.05,
+     "platform_floor": [],
+     "blocked_brands": [],
+     "brands_considered": 8
+    }
+   }
+  },
+  {
+   "boundary_index": 9,
+   "gemini_boundary": 581.0,
+   "t": 581.16,
+   "kind": "shot_cut",
+   "shot_score": 0.534,
+   "silence_before_s": 18.76,
+   "silence_after_s": 0.44,
+   "alternatives": [
+    {
+     "t": 578.84,
+     "kind": "shot_cut",
+     "shot_score": 0.44,
+     "silence_before_s": 16.44,
+     "silence_after_s": 2.76
+    },
+    {
+     "t": 577.32,
+     "kind": "shot_cut",
+     "shot_score": 0.455,
+     "silence_before_s": 14.92,
+     "silence_after_s": 4.28
+    }
+   ],
+   "id": "c009",
+   "scene_before": {
+    "start": "07:54",
+    "end": "09:41",
+    "location": "Serampore College courtyard lawn / Food truck kitchen",
+    "characters": [
+     "Somak Ghosh",
+     "Parno Mittra",
+     "Chef Prasanta Dawn"
+    ],
+    "dominant_activity": "Guessing the first dish while the chef cooks Chhanar Paturi",
+    "mood": "playful",
+    "summary": "Parno gives clues regarding a vegetarian steamed delicacy wrapped in banana leaves, prompting Somak to pick various spice packets. Although Somak guesses Doi Bhapa, Parno reveals it is Chhanar Paturi as Chef Prasanta cooks the dish inside the food truck kitchen.",
+    "opening_gist": "Parno reveals the first clue: the dish is wrapped in banana leaves.",
+    "closing_gist": "Chef Prasanta adds mustard oil and wraps the paturi pouches for steaming.",
+    "ends_on": "resolved",
+    "tags": [
+     "cooking",
+     "banana leaf",
+     "paneer",
+     "paturi",
+     "spices",
+     "guessing game",
+     "food truck"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "09:41",
+    "end": "12:49",
+    "location": "Serampore College courtyard lawn",
+    "characters": [
+     "Somak Ghosh",
+     "Parno Mittra"
+    ],
+    "dominant_activity": "Conversing about school, career choices, and early acting days",
+    "mood": "nostalgic",
+    "summary": "Sitting in the historic college yard, Somak asks Parno about entering showbiz at an early age without completing traditional schooling. Parno reflects candidly on school trauma, the intense support from her parents, moving to Mumbai, and training under Veena Mehta for voice and diction.",
+    "opening_gist": "Somak asks Parno about starting her professional career unusually early.",
+    "closing_gist": "Parno laughs as they wrap up their deep chat to begin the next game round.",
+    "ends_on": "mid_conversation",
+    "tags": [
+     "interview",
+     "nostalgia",
+     "career",
+     "acting",
+     "mumbai",
+     "family",
+     "education"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.81,
+    "natural_break_confidence": 0.81,
+    "same_conversation": 0.14,
+    "emotional_peak": 0.02,
+    "input_tokens": 1199
+   },
+   "quality": 0.9262,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 11,
+   "gemini_boundary": 923.0,
+   "t": 920.92,
+   "kind": "shot_cut",
+   "shot_score": 0.344,
+   "silence_before_s": 6.75,
+   "silence_after_s": 3.28,
+   "alternatives": [
+    {
+     "t": 919.52,
+     "kind": "shot_cut",
+     "shot_score": 0.377,
+     "silence_before_s": 5.35,
+     "silence_after_s": 4.68
+    },
+    {
+     "t": 917.0,
+     "kind": "shot_cut",
+     "shot_score": 0.344,
+     "silence_before_s": 2.83,
+     "silence_after_s": 7.2
+    }
+   ],
+   "id": "c011",
+   "scene_before": {
+    "start": "12:49",
+    "end": "15:23",
+    "location": "Serampore College courtyard lawn / Food truck kitchen",
+    "characters": [
+     "Somak Ghosh",
+     "Parno Mittra",
+     "Chef Prasanta Dawn"
+    ],
+    "dominant_activity": "Playing the second clue game while Chef cooks Railway Mutton Curry",
+    "mood": "lively",
+    "summary": "Parno gives clues related to trains, potatoes, spices, and Sunday Bengali staples. Somak successfully deduces that the dish is the historic Railway Mutton Curry, while Chef Prasanta prepares the fragrant meat dish inside the truck using Sunrise spices.",
+    "opening_gist": "Parno shares the first clue for the second dish involving trains.",
+    "closing_gist": "Chef garnishes the cooked Railway Mutton Curry in a traditional brass bowl.",
+    "ends_on": "resolved",
+    "tags": [
+     "cooking",
+     "mutton",
+     "curry",
+     "spices",
+     "guessing game",
+     "meat"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "15:23",
+    "end": "17:13",
+    "location": "Serampore College courtyard lawn",
+    "characters": [
+     "Somak Ghosh",
+     "Parno Mittra"
+    ],
+    "dominant_activity": "Discussing cooking skills and personal recipes",
+    "mood": "warm",
+    "summary": "Parno shares her culinary interests with Somak, detailing her specialty dishes like Yakhni Pulao, three-dal tadka, miso soup, and festive bhog preparations for Ganesh Puja. She reflects on learning dishes from her mother and YouTube, before calling the chef to serve lunch.",
+    "opening_gist": "Somak jokes about the name of the show and asks if Parno cooks.",
+    "closing_gist": "Parno calls out to Chef Prasanta to bring their cooked meal to the table.",
+    "ends_on": "resolved",
+    "tags": [
+     "cooking",
+     "recipes",
+     "family",
+     "illness_or_hospital",
+     "conversation",
+     "table"
+    ],
+    "sensitive_themes": [
+     "illness_or_hospital"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.67,
+    "natural_break_confidence": 0.67,
+    "same_conversation": 0.45,
+    "emotional_peak": 0.02,
+    "input_tokens": 1184
+   },
+   "quality": 0.823,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "There is no speech, only music and sound effects.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_a",
+     "brand": "Brand A",
+     "p_forbidden_context": 0.05,
+     "fit": 2.65,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.05,
+      "fit": 2.65,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.05,
+      "fit": 0.87,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.05,
+      "fit": 0.32,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.05,
+      "fit": 0.1,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.05,
+      "fit": 0.05,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.05,
+      "fit": 0.03,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.05,
+      "fit": 0.01,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.88,
+      "fit": 0.03,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4212
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_a",
+    "name": "Brand A",
+    "category": "food/spices/cooking",
+    "target_contexts": [
+     "cooking",
+     "kitchen",
+     "eating",
+     "family meal",
+     "recipe",
+     "food preparation",
+     "spices",
+     "seasoning",
+     "frying",
+     "boiling",
+     "homemade food",
+     "lunch",
+     "dinner",
+     "festival food"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "hospital",
+     "violence",
+     "illness",
+     "bathroom",
+     "accident",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "a_15s_bn",
+      "duration_sec": 15,
+      "language": "bn",
+      "url": "ads/brand_a/a_15s_bn.mp4"
+     },
+     {
+      "id": "a_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_a/a_20s_bn.mp4"
+     },
+     {
+      "id": "a_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_a/a_30s_bn.mp4"
+     }
+    ],
+    "color": "#8a2b96"
+   },
+   "creative": {
+    "id": "a_20s_bn",
+    "duration_sec": 20,
+    "language": "bn",
+    "url": "ads/brand_a/a_20s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_a/a_20s_bn.mp4",
+   "media_url": "/ads/brand_a/a_20s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 920.92,
+     "cut_type": "shot_cut",
+     "gemini_scene_boundary_s": 923.0,
+     "silence_before_s": 6.75,
+     "silence_after_s": 3.28,
+     "audio_audit": "There is no speech, only music and sound effects.",
+     "moved_from": []
+    },
+    "whether": {
+     "quality": 0.823,
+     "jev_natural_break_0_to_3": 2.67,
+     "jev_p_same_conversation": 0.45,
+     "jev_p_emotional_peak": 0.02,
+     "creative_seconds": 20
+    },
+    "what": {
+     "brand": "Brand A",
+     "creative": "a_20s_bn",
+     "fit_0_to_3": 2.65,
+     "p_forbidden_context": 0.05,
+     "platform_floor": [],
+     "blocked_brands": [
+      {
+       "brand": "Brand B",
+       "blocked_by": [
+        "jev"
+       ],
+       "evidence": [],
+       "p_forbidden_context": 0.88
+      }
+     ],
+     "brands_considered": 8
+    }
+   }
+  },
+  {
+   "boundary_index": 12,
+   "gemini_boundary": 1033.0,
+   "t": 1035.0,
+   "kind": "shot_cut",
+   "shot_score": 0.135,
+   "silence_before_s": 0.83,
+   "silence_after_s": 13.16,
+   "alternatives": [
+    {
+     "t": 1036.08,
+     "kind": "shot_cut",
+     "shot_score": 0.269,
+     "silence_before_s": 1.91,
+     "silence_after_s": 12.08
+    },
+    {
+     "t": 1037.44,
+     "kind": "shot_cut",
+     "shot_score": 0.243,
+     "silence_before_s": 3.27,
+     "silence_after_s": 10.72
+    }
+   ],
+   "id": "c012",
+   "scene_before": {
+    "start": "15:23",
+    "end": "17:13",
+    "location": "Serampore College courtyard lawn",
+    "characters": [
+     "Somak Ghosh",
+     "Parno Mittra"
+    ],
+    "dominant_activity": "Discussing cooking skills and personal recipes",
+    "mood": "warm",
+    "summary": "Parno shares her culinary interests with Somak, detailing her specialty dishes like Yakhni Pulao, three-dal tadka, miso soup, and festive bhog preparations for Ganesh Puja. She reflects on learning dishes from her mother and YouTube, before calling the chef to serve lunch.",
+    "opening_gist": "Somak jokes about the name of the show and asks if Parno cooks.",
+    "closing_gist": "Parno calls out to Chef Prasanta to bring their cooked meal to the table.",
+    "ends_on": "resolved",
+    "tags": [
+     "cooking",
+     "recipes",
+     "family",
+     "illness_or_hospital",
+     "conversation",
+     "table"
+    ],
+    "sensitive_themes": [
+     "illness_or_hospital"
+    ]
+   },
+   "scene_after": {
+    "start": "17:13",
+    "end": "19:37",
+    "location": "Serampore College courtyard lawn",
+    "characters": [
+     "Somak Ghosh",
+     "Parno Mittra",
+     "Chef Prasanta Dawn"
+    ],
+    "dominant_activity": "Tasting and enjoying the prepared feast",
+    "mood": "joyful",
+    "summary": "Chef Prasanta presents the royal brass thali containing rice, dal, Chhanar Paturi, and Railway Mutton Curry. Somak and Parno savor every bite, praising the unique flavors of the paneer paturi and the melt-in-the-mouth mutton curry enhanced by Sunrise spices.",
+    "opening_gist": "Close-up shots of rice and piping hot Chhanar Paturi being plated on brassware.",
+    "closing_gist": "Parno receives a notification on her phone and prepares to hand it over to Somak.",
+    "ends_on": "transition",
+    "tags": [
+     "eating",
+     "food tasting",
+     "paturi",
+     "mutton",
+     "rice",
+     "brassware",
+     "lunch"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.24,
+    "natural_break_confidence": 0.24,
+    "same_conversation": 0.61,
+    "emotional_peak": 0.02,
+    "input_tokens": 1194
+   },
+   "quality": 0.7042,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  }
+ ],
+ "rejected_boundaries": [
+  {
+   "boundary_index": 0,
+   "gemini_boundary": 15.0,
+   "reason": "inside protected opening/ending window"
+  },
+  {
+   "boundary_index": 1,
+   "gemini_boundary": 46.0,
+   "reason": "inside protected opening/ending window"
+  },
+  {
+   "boundary_index": 2,
+   "gemini_boundary": 100.0,
+   "reason": "inside protected opening/ending window"
+  },
+  {
+   "boundary_index": 8,
+   "gemini_boundary": 474.0,
+   "reason": "speech continues across the whole boundary region (would cut mid-dialogue)"
+  },
+  {
+   "boundary_index": 10,
+   "gemini_boundary": 769.0,
+   "reason": "speech continues across the whole boundary region (would cut mid-dialogue)"
+  },
+  {
+   "boundary_index": 13,
+   "gemini_boundary": 1177.0,
+   "reason": "inside protected opening/ending window"
+  },
+  {
+   "boundary_index": 14,
+   "gemini_boundary": 1193.0,
+   "reason": "inside protected opening/ending window"
+  }
+ ],
+ "brands": [
+  {
+   "id": "brand_a",
+   "name": "Brand A",
+   "category": "food/spices/cooking",
+   "target_contexts": [
+    "cooking",
+    "kitchen",
+    "eating",
+    "family meal",
+    "recipe",
+    "food preparation",
+    "spices",
+    "seasoning",
+    "frying",
+    "boiling",
+    "homemade food",
+    "lunch",
+    "dinner",
+    "festival food"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "illness",
+    "bathroom",
+    "accident",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "a_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_a/a_15s_bn.mp4"
+    },
+    {
+     "id": "a_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_a/a_20s_bn.mp4"
+    },
+    {
+     "id": "a_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_a/a_30s_bn.mp4"
+    }
+   ],
+   "color": "#8a2b96"
+  },
+  {
+   "id": "brand_b",
+   "name": "Brand B",
+   "category": "personal care/skincare",
+   "target_contexts": [
+    "face wash",
+    "skincare",
+    "bathroom",
+    "morning routine",
+    "hair care",
+    "sweating",
+    "heat",
+    "shower",
+    "washing face",
+    "moisturizer",
+    "cream",
+    "personal hygiene",
+    "self care",
+    "getting ready"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "violence",
+    "eating",
+    "accident",
+    "hospital",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "b_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_b/b_15s_bn.mp4"
+    },
+    {
+     "id": "b_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_b/b_20s_bn.mp4"
+    },
+    {
+     "id": "b_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_b/b_30s_bn.mp4"
+    }
+   ],
+   "color": "#962b8e"
+  },
+  {
+   "id": "brand_c",
+   "name": "Brand C",
+   "category": "beauty/cosmetics",
+   "target_contexts": [
+    "make-up",
+    "getting ready",
+    "wedding",
+    "party",
+    "mirror",
+    "fashion",
+    "salon",
+    "lipstick",
+    "foundation",
+    "eyeliner",
+    "beauty",
+    "dressing",
+    "celebration",
+    "special occasion"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "violence",
+    "illness",
+    "accident",
+    "hospital",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "c_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_c/c_15s_bn.mp4"
+    },
+    {
+     "id": "c_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_c/c_20s_bn.mp4"
+    },
+    {
+     "id": "c_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_c/c_30s_bn.mp4"
+    }
+   ],
+   "color": "#302b96"
+  },
+  {
+   "id": "brand_d",
+   "name": "Brand D",
+   "category": "telecom/connectivity",
+   "target_contexts": [
+    "phone",
+    "mobile",
+    "calling",
+    "video call",
+    "messaging",
+    "internet",
+    "wifi",
+    "streaming",
+    "social media",
+    "working remotely",
+    "online meeting",
+    "travel",
+    "communication",
+    "family conversation"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "medical emergency",
+    "violence"
+   ],
+   "creatives": [
+    {
+     "id": "d_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_d/d_20s_bn.mp4"
+    },
+    {
+     "id": "d_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_d/d_30s_bn.mp4"
+    }
+   ],
+   "color": "#964c2b"
+  },
+  {
+   "id": "brand_e",
+   "name": "Brand E",
+   "category": "automotive/mobility",
+   "target_contexts": [
+    "car",
+    "automobile",
+    "driving",
+    "road trip",
+    "commuting",
+    "traffic",
+    "parking",
+    "highway",
+    "motorcycle",
+    "vehicle",
+    "road",
+    "journey",
+    "travel by car",
+    "family trip"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "accident",
+    "injury",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "e_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_e/e_20s_bn.mp4"
+    },
+    {
+     "id": "e_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_e/e_30s_bn.mp4"
+    }
+   ],
+   "color": "#2b9660"
+  },
+  {
+   "id": "brand_f",
+   "name": "Brand F",
+   "category": "fintech/digital payments",
+   "target_contexts": [
+    "shopping",
+    "payment",
+    "mobile payment",
+    "digital wallet",
+    "banking",
+    "money transfer",
+    "bill payment",
+    "online shopping",
+    "checkout",
+    "merchant",
+    "salary",
+    "personal finance",
+    "transaction"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "financial distress",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "f_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_f/f_15s_bn.mp4"
+    },
+    {
+     "id": "f_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_f/f_20s_bn.mp4"
+    },
+    {
+     "id": "f_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_f/f_30s_bn.mp4"
+    }
+   ],
+   "color": "#952b96"
+  },
+  {
+   "id": "brand_g",
+   "name": "Brand G",
+   "category": "travel/hospitality",
+   "target_contexts": [
+    "travel",
+    "vacation",
+    "holiday",
+    "hotel",
+    "resort",
+    "tourism",
+    "train journey",
+    "airport",
+    "beach",
+    "mountains",
+    "sightseeing",
+    "road trip",
+    "weekend trip",
+    "family vacation"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "accident",
+    "illness",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "g_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_g/g_20s_bn.mp4"
+    },
+    {
+     "id": "g_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_g/g_30s_bn.mp4"
+    }
+   ],
+   "color": "#962b8c"
+  },
+  {
+   "id": "brand_h",
+   "name": "Brand H",
+   "category": "e-commerce/online shopping",
+   "target_contexts": [
+    "online shopping",
+    "shopping",
+    "delivery",
+    "package",
+    "parcel",
+    "e-commerce",
+    "mobile shopping",
+    "product browsing",
+    "checkout",
+    "fashion shopping",
+    "home shopping",
+    "electronics shopping",
+    "gift",
+    "purchase"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "accident",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "h_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_h/h_15s_bn.mp4"
+    },
+    {
+     "id": "h_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_h/h_20s_bn.mp4"
+    },
+    {
+     "id": "h_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_h/h_30s_bn.mp4"
+    }
+   ],
+   "color": "#2b3496"
+  }
+ ],
+ "policy": {
+  "BOUNDARY_SEARCH_WINDOW_S": 6.0,
+  "BRAND_BLOCK_THRESHOLD": 0.25,
+  "CREATIVE_BASE_URL": "/",
+  "CUT_MAX_SPEECH_PROB": 0.15,
+  "GEMINI_MODEL": "gemini-3.8-flash",
+  "JEV_MODEL": "jev-latest",
+  "LONG_CREATIVE_MIN_QUALITY": 0.85,
+  "MAX_AD_LOAD_PCT": 6.0,
+  "MAX_BREAKS_PER_HOUR": 6,
+  "MIN_BRAND_FIT": 0.35,
+  "MIN_BREAK_QUALITY": 0.55,
+  "MIN_GAP_BETWEEN_BREAKS_S": 240,
+  "MIN_SOFT_GAP_S": 1.2,
+  "MIN_SPEECH_CLEARANCE_S": 0.35,
+  "NO_BREAK_BEFORE_S": 120,
+  "NO_BREAK_IN_LAST_S": 60,
+  "PREFERRED_CREATIVE_S": 20,
+  "SAME_CONVERSATION_REJECT": 0.7,
+  "UNSAFE_SLOT_POLICY": "move",
+  "VAD_THRESHOLD": 0.4
+ },
+ "pacing": {
+  "max_breaks_for_runtime": 2,
+  "ad_budget_s": 73.6,
+  "ad_seconds_used": 50,
+  "ad_load_pct": 4.07
+ },
+ "analysis_model": "gemini-3.8-flash",
+ "analysed_at": "2026-09-26 17:12:21",
+ "timings": {
+  "signals_s": 0.0,
+  "understand_s": 71.2,
+  "judge_s": 1.5,
+  "select_s": 1.6,
+  "total_s": 74.3
+ },
+ "vmap_url": "/out/bhojon_bilashi/vmap.xml"
+}

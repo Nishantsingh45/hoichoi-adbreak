@@ -1,0 +1,12 @@
+google-genai
+typesafe-sdk
+python-dotenv
+pillow
+numpy
+fastapi
+uvicorn[standard]
+python-multipart
+httpx
+silero-vad
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch

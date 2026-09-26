@@ -1,0 +1,33 @@
+[
+  {
+    "brand_id": "brand_i",
+    "display_name": "Brand I",
+    "category": "beverages/tea & coffee",
+    "target_contexts": [
+      "tea",
+      "coffee",
+      "adda",
+      "chatting with friends",
+      "morning",
+      "rainy day",
+      "office break",
+      "guests at home",
+      "kitchen",
+      "relaxing",
+      "tea stall",
+      "conversation"
+    ],
+    "negative_contexts": [
+      "funeral",
+      "hospital",
+      "violence",
+      "grief",
+      "smoking",
+      "alcohol"
+    ],
+    "creatives": [
+      { "id": "i_15s_bn", "duration_sec": 15, "language": "bn", "url": "ads/brand_i/i_15s_bn.mp4" },
+      { "id": "i_20s_bn", "duration_sec": 20, "language": "bn", "url": "ads/brand_i/i_20s_bn.mp4" }
+    ]
+  }
+]

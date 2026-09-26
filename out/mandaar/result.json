@@ -1,0 +1,5385 @@
+{
+ "video_id": "mandaar",
+ "video_url": "/videos/mandaar.mp4",
+ "duration": 2349.375,
+ "synopsis": "Investigating a coastal corpse discovery, Inspector Debashis Mondal navigates local tensions and crime boss Dablu Bhai's corrupt grip over the fisheries. Meanwhile, Mander grapples with his feelings of sexual inadequacy, turning to a quack doctor while his lover Laili manipulates Dablu and seethes with growing vengeance.",
+ "scenes": [
+  {
+   "start": "00:00",
+   "end": "00:14",
+   "location": "Studio / Graphics",
+   "characters": [],
+   "dominant_activity": "Disclaimer text displayed on screen",
+   "mood": "neutral",
+   "summary": "The episode opens with standard legal disclaimers stating that the show contains mature themes and depictions, followed by the Hoichoi Originals production logo.",
+   "opening_gist": "Disclaimer warning text appears.",
+   "closing_gist": "The Hoichoi Originals title card is displayed.",
+   "ends_on": "transition",
+   "tags": [
+    "disclaimer",
+    "logo",
+    "text"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 0.0,
+   "display_end_s": 14.0
+  },
+  {
+   "start": "00:14",
+   "end": "01:32",
+   "location": "Sandy beach",
+   "characters": [
+    "Debashis Mondal",
+    "Fishermen",
+    "Madan Halder's minion"
+   ],
+   "dominant_activity": "Police inspecting a washed-up dead body on the beach",
+   "mood": "grim",
+   "summary": "Fishermen pull a bloated dead body out of the surf onto a motorized cart on an empty beach. Sub-Inspector Debashis Mondal arrives in a police vehicle, examines the corpse, and is surprised when a local boy rolls up with a bicycle tire and hands him a hotel room key retrieved from the sea. Mondal immediately calls Madan Babu to report the development.",
+   "opening_gist": "Fishermen pull a body from the sea onto a cart.",
+   "closing_gist": "A boy reveals a key from his fist, and Mondal makes a phone call.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "beach",
+    "sea",
+    "corpse",
+    "police",
+    "investigation",
+    "phone call",
+    "crab",
+    "key"
+   ],
+   "sensitive_themes": [
+    "death",
+    "crime_theft_or_fraud"
+   ],
+   "display_start_s": 14.0,
+   "display_end_s": 92.292
+  },
+  {
+   "start": "01:32",
+   "end": "02:54",
+   "location": "Beach / Seashore",
+   "characters": [
+    "Crazed woman/witch",
+    "Fisher boy"
+   ],
+   "dominant_activity": "Witch reciting a prophetic curse on the beach",
+   "mood": "eerie",
+   "summary": "A haggard, ash-smeared woman sitting beneath a weathered seaside tree mutters ominous prophecies about sea rising and drowning them all. The young boy frolics in the ocean waves before running directly toward the camera with a sinister grin. The main title card 'Mandar' slams onto the screen.",
+   "opening_gist": "A strange wild woman mutters by a dried tree.",
+   "closing_gist": "The title card 'Mandar' is revealed against a black screen.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "beach",
+    "prophecy",
+    "witch",
+    "ocean waves",
+    "creepy",
+    "title card"
+   ],
+   "sensitive_themes": [
+    "horror_or_fear"
+   ],
+   "display_start_s": 92.292,
+   "display_end_s": 174.333
+  },
+  {
+   "start": "02:54",
+   "end": "04:53",
+   "location": "Sandy beach",
+   "characters": [
+    "Mandar",
+    "Laili"
+   ],
+   "dominant_activity": "Surreal decorated bed scene on the beach",
+   "mood": "surreal",
+   "summary": "Episode title 'Blood Will Have Blood' displays over an empty beach where a bridal canopy bed sits. Mandar walks across the sand dressed in festive red garb, approaching a veiled bride holding a black cat. When he tries to touch her, the veil reveals the creepy witch laughing hysterically, sending Mandar running away in terror as an SUV splashes into the sea.",
+   "opening_gist": "A flower-decorated bridal canopy bed stands on the desolate beach.",
+   "closing_gist": "An SUV races away through the shallow ocean water.",
+   "ends_on": "transition",
+   "tags": [
+    "beach",
+    "dream sequence",
+    "hallucination",
+    "bride",
+    "wedding bed",
+    "car",
+    "ocean"
+   ],
+   "sensitive_themes": [
+    "horror_or_fear"
+   ],
+   "display_start_s": 174.333,
+   "display_end_s": 293.292
+  },
+  {
+   "start": "04:53",
+   "end": "06:49",
+   "location": "Mandar's bedroom",
+   "characters": [
+    "Mandar"
+   ],
+   "dominant_activity": "Mandar waking up and doing pushups",
+   "mood": "frustrated",
+   "summary": "Mandar wakes abruptly in his dimly lit room, agitated and restless. He looks at himself in the mirror, smokes a cigarette, and begins doing rigorous push-ups on the floor to vent his frustration.",
+   "opening_gist": "Mandar sits up in bed sweating and anxious.",
+   "closing_gist": "Mandar aggressively does pushups facing his reflection.",
+   "ends_on": "transition",
+   "tags": [
+    "bedroom",
+    "smoking",
+    "exercise",
+    "pushups",
+    "mirror",
+    "restlessness"
+   ],
+   "sensitive_themes": [
+    "smoking"
+   ],
+   "display_start_s": 293.292,
+   "display_end_s": 409.833
+  },
+  {
+   "start": "06:49",
+   "end": "09:22",
+   "location": "Fish farm embankment / Tea stall",
+   "characters": [
+    "Debashis Mondal",
+    "Madan Halder"
+   ],
+   "dominant_activity": "Eating fried fish and discussing local politics",
+   "mood": "tense",
+   "summary": "Mondal sits at a roadside bamboo shack overlooking the fishery ponds, eating freshly fried fish with local political operative Madan Halder. Madan flatters him, drops hints about Mondal's past transfer troubles involving a lady constable, and promises him full support in Geonkhali while hinting at tensions surrounding Mokai Das.",
+   "opening_gist": "A plate of hot fried fish is served at a small outdoor table.",
+   "closing_gist": "Mondal eats fish silently while contemplating Madan's words.",
+   "ends_on": "mid_conversation",
+   "tags": [
+    "eating",
+    "fried fish",
+    "fishery",
+    "police officer",
+    "political gossip",
+    "bribery"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 409.833,
+   "display_end_s": 562.583
+  },
+  {
+   "start": "09:22",
+   "end": "10:17",
+   "location": "Fishery pond embankment",
+   "characters": [
+    "Fontus",
+    "Fish farm workers",
+    "Madan's henchman"
+   ],
+   "dominant_activity": "Fishermen protesting and clashing with a young thug",
+   "mood": "aggressive",
+   "summary": "Fontus speeds in on a motorbike and confront the striking fishermen holding posters demanding justice for Mokai Das's death. When Fontus arrogant insults them, a brawl breaks out, and Madan's men jump in to physically clash with the striking workers.",
+   "opening_gist": "Fontus rides his motorcycle along the dirt embankment.",
+   "closing_gist": "A chaotic fight erupts between Fontus, the workers, and Madan's men.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "motorcycle",
+    "protest",
+    "strike",
+    "fistfight",
+    "brawl",
+    "fishery"
+   ],
+   "sensitive_themes": [
+    "violence_or_fight"
+   ],
+   "display_start_s": 562.583,
+   "display_end_s": 618.125
+  },
+  {
+   "start": "10:17",
+   "end": "12:04",
+   "location": "Fish farm embankment / Tea stall",
+   "characters": [
+    "Debashis Mondal",
+    "Madan Halder"
+   ],
+   "dominant_activity": "Observing the brawl and continuing their discussion",
+   "mood": "cynical",
+   "summary": "Madan rushes out to break up the scuffle among the laborers while Debashis watches nonchalantly from the table, enjoying his fish. Madan scolds the rowdy youth and ushers everyone back to work before returning to reassure the officer.",
+   "opening_gist": "Madan Halder notices the shouting and rises from his seat.",
+   "closing_gist": "Debashis smirks and cleans his teeth as Fontus rides away.",
+   "ends_on": "transition",
+   "tags": [
+    "tea stall",
+    "police",
+    "observation",
+    "rural",
+    "eating"
+   ],
+   "sensitive_themes": [
+    "violence_or_fight"
+   ],
+   "display_start_s": 618.125,
+   "display_end_s": 724.833
+  },
+  {
+   "start": "12:04",
+   "end": "13:32",
+   "location": "Village alley / Clinic exterior",
+   "characters": [
+    "Mandar"
+   ],
+   "dominant_activity": "Mandar secretly visiting a sexology clinic",
+   "mood": "humiliated",
+   "summary": "Mandar walks through town, stops outside a closed shop covered in illicit clinic posters, and rips off a flyer advertising Dr. Haradhan Gupta's clinic for sexual disorders. He hides the slip inside his clothes, deeply conscious of anyone noticing.",
+   "opening_gist": "Mandar sits quietly at a tea stall looking lost.",
+   "closing_gist": "Mandar tears a flyer from the closed green doorway.",
+   "ends_on": "resolved",
+   "tags": [
+    "street",
+    "alley",
+    "clinic flyer",
+    "secrecy",
+    "shame"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 724.833,
+   "display_end_s": 812.375
+  },
+  {
+   "start": "13:32",
+   "end": "14:59",
+   "location": "Fish harbor / Dablu Bhai's office boat",
+   "characters": [
+    "Fontus",
+    "Dablu Bhai",
+    "Harbor workers"
+   ],
+   "dominant_activity": "Fontus reporting the strike to Dablu Bhai",
+   "mood": "tense",
+   "summary": "Fontus arrives at the bustling fishing harbor and confronts crime boss Dablu Bhai on his moored boat office, complaining bitterly about Madan Halder undermining him. Dablu firmly puts Fontus in his place, warning him not to disrupt business operations and ordering him to leave.",
+   "opening_gist": "Fontus rides through the busy fishing harbor.",
+   "closing_gist": "Dablu Bhai shouts at an old laborer while sending Fontus away.",
+   "ends_on": "resolved",
+   "tags": [
+    "harbor",
+    "boats",
+    "crime boss",
+    "argument",
+    "fishing industry"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 812.375,
+   "display_end_s": 900.042
+  },
+  {
+   "start": "14:59",
+   "end": "16:29",
+   "location": "Village market street",
+   "characters": [
+    "Mandar",
+    "Sunglasses vendor"
+   ],
+   "dominant_activity": "Mandar buying red sunglasses in the market",
+   "mood": "somber",
+   "summary": "Standing near the clinic flyer he took, Mandar smokes thoughtfully on the street before noticing a roadside stall selling cheap novelty sunglasses. The vendor enthusiastically persuades him to try on a pair of bright red sunglasses, saying they suit him like a boss.",
+   "opening_gist": "Mandar holds the torn clinic slip while standing near a dusty road.",
+   "closing_gist": "Mandar holds up the red sunglasses in front of his face.",
+   "ends_on": "resolved",
+   "tags": [
+    "market",
+    "shopping",
+    "sunglasses",
+    "smoking",
+    "street"
+   ],
+   "sensitive_themes": [
+    "smoking"
+   ],
+   "display_start_s": 900.042,
+   "display_end_s": 986.083
+  },
+  {
+   "start": "16:29",
+   "end": "18:37",
+   "location": "Rural road / Embankment",
+   "characters": [
+    "Dablu Bhai",
+    "Madan Halder",
+    "Bhalka"
+   ],
+   "dominant_activity": "Dablu Bhai handing over management of the fishery",
+   "mood": "calculating",
+   "summary": "Dablu Bhai's car cruises down a scenic coastal road where Madan Halder flags him down alongside Bhalka. Dablu praises Bhalka for handling the dispute earlier and appoints him to oversee the Jorabheri fishery starting tomorrow, to Madan's delight, while inquiring if the new police officer has arrived.",
+   "opening_gist": "Dablu Bhai listens to music in the back of his luxury SUV.",
+   "closing_gist": "Dablu Bhai's car drives off leaving Madan and Bhalka on the road.",
+   "ends_on": "transition",
+   "tags": [
+    "luxury car",
+    "rural road",
+    "crime boss",
+    "appointment",
+    "corrupt politics"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 986.083,
+   "display_end_s": 1117.958
+  },
+  {
+   "start": "18:37",
+   "end": "19:55",
+   "location": "Rooftop in village / Embankment",
+   "characters": [
+    "Bonka",
+    "Bhalka",
+    "Local card players"
+   ],
+   "dominant_activity": "Phone conversation regarding the Jorabheri fishery handover",
+   "mood": "suspicious",
+   "summary": "While playing cards on a village rooftop, Bonka receives a phone call from Bhalka informing him that Dablu Bhai gave him charge of Jorabheri following Mokai Das's death. Bonka advises him to handle the job carefully and promises to return soon.",
+   "opening_gist": "Men sit cross-legged on a cot on a rooftop playing cards.",
+   "closing_gist": "Bonka looks thoughtful after ending the call.",
+   "ends_on": "transition",
+   "tags": [
+    "cards",
+    "gambling",
+    "rooftop",
+    "phone call",
+    "rural"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 1117.958,
+   "display_end_s": 1196.125
+  },
+  {
+   "start": "19:55",
+   "end": "22:01",
+   "location": "Mandar's room / Rooftop",
+   "characters": [
+    "Mandar",
+    "Bonka"
+   ],
+   "dominant_activity": "Mandar raging after hearing news of Fontus and Dablu",
+   "mood": "rageful",
+   "summary": "Bonka calls Mandar to pass along the news about Fontus and Dablu Bhai assigning Jorabheri. Infuriated by his perceived lack of respect and impotence, Mandar hangs up and smashes his bedroom mirror with a heavy brick in a violent fit of anger.",
+   "opening_gist": "Mandar prepares a brick in his room while looking into the mirror.",
+   "closing_gist": "Mandar repeatedly smashes his mirror with a brick.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "bedroom",
+    "mirror",
+    "phone call",
+    "violent outburst",
+    "brick"
+   ],
+   "sensitive_themes": [
+    "violence_or_fight"
+   ],
+   "display_start_s": 1196.125,
+   "display_end_s": 1321.333
+  },
+  {
+   "start": "22:01",
+   "end": "23:09",
+   "location": "Dablu Bhai's mansion",
+   "characters": [
+    "Dablu Bhai",
+    "Dablu's wife",
+    "Fontus"
+   ],
+   "dominant_activity": "Dablu Bhai berating Fontus at home",
+   "mood": "hostile",
+   "summary": "Dablu arrives at his lavish home, stepping over vomit near the entrance. He discovers Fontus slumped intoxicated on the sofa and screams at him furiously, cursing him for being useless and a disgrace.",
+   "opening_gist": "Dablu Bhai steps out of his car and enters his house.",
+   "closing_gist": "Dablu continues yelling at Fontus before storming up the stairs.",
+   "ends_on": "transition",
+   "tags": [
+    "mansion",
+    "family dispute",
+    "shouting",
+    "vomit",
+    "intoxication"
+   ],
+   "sensitive_themes": [
+    "alcohol",
+    "vomiting_or_disgust"
+   ],
+   "display_start_s": 1321.333,
+   "display_end_s": 1390.375
+  },
+  {
+   "start": "23:09",
+   "end": "23:39",
+   "location": "Dablu's hallway / Balcony",
+   "characters": [
+    "Dablu Bhai",
+    "Dablu's wife"
+   ],
+   "dominant_activity": "Dablu taking a secretive phone call",
+   "mood": "deceptive",
+   "summary": "Upstairs, Dablu takes a phone call from a woman asking if he is arriving. He confirms he is bringing a bottle in the car and tells his wife, who watches from the balcony, not to cook for him as he won't be eating at home.",
+   "opening_gist": "Dablu checks his phone and answers a call in the hallway.",
+   "closing_gist": "Dablu's wife stares coldly as he finishes his conversation.",
+   "ends_on": "transition",
+   "tags": [
+    "phone call",
+    "infidelity",
+    "mansion",
+    "marriage"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 1390.375,
+   "display_end_s": 1419.917
+  },
+  {
+   "start": "23:39",
+   "end": "24:34",
+   "location": "Rural road / Community center",
+   "characters": [
+    "Laili",
+    "Mothers and children"
+   ],
+   "dominant_activity": "Laili watching children and mothers at a health camp",
+   "mood": "melancholic",
+   "summary": "Laili sits on the back of a motorized van on a country road, gazing wistfully at mothers with infants gathering outside a rural polio and health clinic. Her expression is pained and envious as she observes the joyful children.",
+   "opening_gist": "Laili sits quietly on a parked motorized cart looking at her phone.",
+   "closing_gist": "The cart drives away while Laili watches the babies.",
+   "ends_on": "transition",
+   "tags": [
+    "rural road",
+    "health clinic",
+    "infants",
+    "longing",
+    "cart"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 1419.917,
+   "display_end_s": 1473.625
+  },
+  {
+   "start": "24:34",
+   "end": "26:38",
+   "location": "Laili's bedroom",
+   "characters": [
+    "Laili",
+    "Dablu Bhai"
+   ],
+   "dominant_activity": "Intimacy followed by a heated demand for a child",
+   "mood": "passionate",
+   "summary": "Laili and Dablu Bhai engage in intimate lovemaking in her shack. Afterwards, she gently caresses his necklace and tearfully pleads with him to father a child with her, but Dablu pushes her hands away, reminding her that he already has a family.",
+   "opening_gist": "Dablu Bhai and Laili are seen in bed during intimate passion.",
+   "closing_gist": "Dablu gets dressed and mutters dismissively to Laili.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "bedroom",
+    "lovemaking",
+    "intimacy",
+    "pregnancy request",
+    "rejection"
+   ],
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ],
+   "display_start_s": 1473.625,
+   "display_end_s": 1598.125
+  },
+  {
+   "start": "26:38",
+   "end": "27:19",
+   "location": "Laili's bedroom / Kitchen area",
+   "characters": [
+    "Laili",
+    "Dablu Bhai"
+   ],
+   "dominant_activity": "Dablu demanding alcohol before leaving",
+   "mood": "callous",
+   "summary": "Dablu tells Laili that he only came because her illness was an excuse, laughing that nobody can stand in his way. He orders her to pour him a drink of country liquor, which she does in silence.",
+   "opening_gist": "Dablu lies back on the bed talking arrogantly.",
+   "closing_gist": "Laili pours alcohol into a metal tumbler.",
+   "ends_on": "transition",
+   "tags": [
+    "drinking",
+    "alcohol",
+    "bedroom",
+    "shack",
+    "chauvinism"
+   ],
+   "sensitive_themes": [
+    "alcohol"
+   ],
+   "display_start_s": 1598.125,
+   "display_end_s": 1638.958
+  },
+  {
+   "start": "27:19",
+   "end": "28:42",
+   "location": "Mandar's room",
+   "characters": [
+    "Mandar"
+   ],
+   "dominant_activity": "Mandar drinking liquor and reminiscing about Laili",
+   "mood": "heartbroken",
+   "summary": "Sitting alone in his dark room, Mandar downs a glass of alcohol. He takes a photo from a secret pouch in his clothes and gazes lovingly at a picture of him and Laili together in wedding attire, heartbroken by their separation.",
+   "opening_gist": "Mandar sits on the edge of his bed drinking liquor.",
+   "closing_gist": "Mandar stares at the photograph inside his wallet.",
+   "ends_on": "transition",
+   "tags": [
+    "drinking",
+    "alcohol",
+    "photograph",
+    "heartache",
+    "bedroom"
+   ],
+   "sensitive_themes": [
+    "alcohol"
+   ],
+   "display_start_s": 1638.958,
+   "display_end_s": 1721.792
+  },
+  {
+   "start": "28:42",
+   "end": "28:55",
+   "location": "Wedding memory / Fantasy",
+   "characters": [
+    "Mandar",
+    "Laili",
+    "Wedding guests"
+   ],
+   "dominant_activity": "Flashback to Mandar and Laili exchanging wedding garlands",
+   "mood": "joyful",
+   "summary": "A brief, blissful memory shows Mandar and Laili dressed as bride and groom, joyfully exchanging floral garlands during a Bengali wedding ceremony surrounded by smiling relatives.",
+   "opening_gist": "Laili places a garland around Mandar's neck.",
+   "closing_gist": "Laili laughs radiantly in bridal makeup.",
+   "ends_on": "resolved",
+   "tags": [
+    "wedding",
+    "flashback",
+    "garland exchange",
+    "love",
+    "memory"
+   ],
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ],
+   "display_start_s": 1721.792,
+   "display_end_s": 1735.917
+  },
+  {
+   "start": "28:55",
+   "end": "30:49",
+   "location": "Laili's shack / Kitchen / Yard",
+   "characters": [
+    "Laili",
+    "Dablu Bhai",
+    "Driver"
+   ],
+   "dominant_activity": "Dablu leaving Laili's house while a neighbor watches",
+   "mood": "tense",
+   "summary": "Laili heats tea on a gas stove as Dablu finishes his drink and prepares to depart, mocking Mandar's manhood on his way out. As Dablu gets into his car, a nosy female neighbor watches suspiciously from across the lane, noticing Laili standing at her door.",
+   "opening_gist": "Blue flames lick the bottom of a tea pan on the stove.",
+   "closing_gist": "Dablu's car speeds away as the neighbor sneers.",
+   "ends_on": "resolved",
+   "tags": [
+    "kitchen",
+    "car departure",
+    "gossip",
+    "neighbor",
+    "shack"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 1735.917,
+   "display_end_s": 1850.125
+  },
+  {
+   "start": "30:49",
+   "end": "32:10",
+   "location": "Mandar's bedroom",
+   "characters": [
+    "Mandar",
+    "Laili"
+   ],
+   "dominant_activity": "Laili berating Mandar over the phone",
+   "mood": "hostile",
+   "summary": "Mandar answers a phone call from Laili, who explodes in fury at his failure to stand up to Dablu Bhai and cure his sexual impotence. She screams that if he doesn't see a doctor and become a real man, she will see Dablu destroyed and take matters into her own hands.",
+   "opening_gist": "Mandar lies on the bed before his phone rings.",
+   "closing_gist": "Laili furiously hangs up on Mandar.",
+   "ends_on": "cliffhanger",
+   "tags": [
+    "bedroom",
+    "phone call",
+    "screaming",
+    "impotence",
+    "ultimatum"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 1850.125,
+   "display_end_s": 1930.417
+  },
+  {
+   "start": "32:10",
+   "end": "32:44",
+   "location": "Laili's shack",
+   "characters": [
+    "Laili"
+   ],
+   "dominant_activity": "Laili washing herself with cold water",
+   "mood": "frustrated",
+   "summary": "Distraught and disgusted, Laili walks into her dark bathroom wash area and pours bucket after bucket of cold water over her head, attempting to wash away the feeling of Dablu's touch.",
+   "opening_gist": "Laili enters the dimly lit bathroom stall.",
+   "closing_gist": "Laili sits panting under the splash of water.",
+   "ends_on": "transition",
+   "tags": [
+    "bathing",
+    "water bucket",
+    "wash area",
+    "disgust",
+    "frustration"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 1930.417,
+   "display_end_s": 1963.792
+  },
+  {
+   "start": "32:44",
+   "end": "33:34",
+   "location": "Village square / Market",
+   "characters": [
+    "Mandar",
+    "Villagers"
+   ],
+   "dominant_activity": "Mandar walking toward Dr. Gupta's clinic",
+   "mood": "determined",
+   "summary": "Having reached his breaking point, Mandar walks through the busy town market wearing his red sunglasses. He spots the sign for Dr. Haradhan Gupta's clinic and ascends the exterior staircase to seek treatment.",
+   "opening_gist": "A mannequin stands outside a shopping store.",
+   "closing_gist": "Mandar climbs the stairs leading to the sex clinic.",
+   "ends_on": "resolved",
+   "tags": [
+    "market",
+    "street",
+    "stairs",
+    "sunglasses",
+    "clinic"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 1963.792,
+   "display_end_s": 2014.167
+  },
+  {
+   "start": "33:34",
+   "end": "37:02",
+   "location": "Laili's home",
+   "characters": [
+    "Laili",
+    "Dablu's wife"
+   ],
+   "dominant_activity": "Dablu's wife confronting and threatening Laili",
+   "mood": "menacing",
+   "summary": "Dablu's wife arrives at Laili's home under the guise of casual conversation and eating plum pickle. She subtly reveals she knows about Laili's affair with Dablu, warning her not to reach above her station or she will personally mutilate her lower belly, before leaving with a chilling parting smile.",
+   "opening_gist": "Laili sits in her room eating sour pickles from a bowl.",
+   "closing_gist": "Dablu's wife exits the house after finishing her warning.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "house visit",
+    "confrontation",
+    "veiled threat",
+    "pickle eating",
+    "infidelity"
+   ],
+   "sensitive_themes": [
+    "violence_or_fight"
+   ],
+   "display_start_s": 2014.167,
+   "display_end_s": 2222.625
+  },
+  {
+   "start": "37:02",
+   "end": "39:10",
+   "location": "Town market / Laili's bedroom",
+   "characters": [
+    "Mandar",
+    "Laili",
+    "Stray cat"
+   ],
+   "dominant_activity": "Mandar reporting his medical visit while Laili plans revenge",
+   "mood": "sinister",
+   "summary": "Mandar calls Laili from the street, revealing he saw the doctor, took an injection, and bought medicines to cure his condition. In the dim room, Laili hears a cat meowing at her window and listens with an intense, vengeful glare, resolute in her dark ambitions as dramatic music swells to a close.",
+   "opening_gist": "Mandar paces outside a medical pharmacy calling Laili.",
+   "closing_gist": "Extreme close-up on Laili's enraged, calculating face.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "phone call",
+    "clinic",
+    "medicine",
+    "vengeance",
+    "cat",
+    "menacing look"
+   ],
+   "sensitive_themes": [],
+   "display_start_s": 2222.625,
+   "display_end_s": 2349.062
+  }
+ ],
+ "breaks": [
+  {
+   "boundary_index": 4,
+   "gemini_boundary": 409.0,
+   "t": 409.833,
+   "kind": "shot_cut",
+   "shot_score": 0.636,
+   "silence_before_s": 245.33,
+   "silence_after_s": 20.35,
+   "alternatives": [
+    {
+     "t": 405.125,
+     "kind": "shot_cut",
+     "shot_score": 0.358,
+     "silence_before_s": 240.62,
+     "silence_after_s": 25.06
+    }
+   ],
+   "id": "c004",
+   "scene_before": {
+    "start": "04:53",
+    "end": "06:49",
+    "location": "Mandar's bedroom",
+    "characters": [
+     "Mandar"
+    ],
+    "dominant_activity": "Mandar waking up and doing pushups",
+    "mood": "frustrated",
+    "summary": "Mandar wakes abruptly in his dimly lit room, agitated and restless. He looks at himself in the mirror, smokes a cigarette, and begins doing rigorous push-ups on the floor to vent his frustration.",
+    "opening_gist": "Mandar sits up in bed sweating and anxious.",
+    "closing_gist": "Mandar aggressively does pushups facing his reflection.",
+    "ends_on": "transition",
+    "tags": [
+     "bedroom",
+     "smoking",
+     "exercise",
+     "pushups",
+     "mirror",
+     "restlessness"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "scene_after": {
+    "start": "06:49",
+    "end": "09:22",
+    "location": "Fish farm embankment / Tea stall",
+    "characters": [
+     "Debashis Mondal",
+     "Madan Halder"
+    ],
+    "dominant_activity": "Eating fried fish and discussing local politics",
+    "mood": "tense",
+    "summary": "Mondal sits at a roadside bamboo shack overlooking the fishery ponds, eating freshly fried fish with local political operative Madan Halder. Madan flatters him, drops hints about Mondal's past transfer troubles involving a lady constable, and promises him full support in Geonkhali while hinting at tensions surrounding Mokai Das.",
+    "opening_gist": "A plate of hot fried fish is served at a small outdoor table.",
+    "closing_gist": "Mondal eats fish silently while contemplating Madan's words.",
+    "ends_on": "mid_conversation",
+    "tags": [
+     "eating",
+     "fried fish",
+     "fishery",
+     "police officer",
+     "political gossip",
+     "bribery"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.88,
+    "natural_break_confidence": 0.88,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.19,
+    "input_tokens": 1131
+   },
+   "quality": 0.935,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "A man is doing push-ups, then the scene changes to a man holding a tray of food.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_c",
+     "brand": "Brand C",
+     "p_forbidden_context": 0.08,
+     "fit": 0.95,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.08,
+      "fit": 0.95,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.18,
+      "fit": 0.12,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.1,
+      "fit": 0.06,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.11,
+      "fit": 0.03,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.13,
+      "fit": 0.02,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.11,
+      "fit": 0.02,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.11,
+      "fit": 0.01,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.96,
+      "fit": 1.44,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "eating (matched 'eating')"
+      ]
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4173
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_c",
+    "name": "Brand C",
+    "category": "beauty/cosmetics",
+    "target_contexts": [
+     "make-up",
+     "getting ready",
+     "wedding",
+     "party",
+     "mirror",
+     "fashion",
+     "salon",
+     "lipstick",
+     "foundation",
+     "eyeliner",
+     "beauty",
+     "dressing",
+     "celebration",
+     "special occasion"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "violence",
+     "illness",
+     "accident",
+     "hospital",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "c_15s_bn",
+      "duration_sec": 15,
+      "language": "bn",
+      "url": "ads/brand_c/c_15s_bn.mp4"
+     },
+     {
+      "id": "c_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_c/c_20s_bn.mp4"
+     },
+     {
+      "id": "c_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_c/c_30s_bn.mp4"
+     }
+    ],
+    "color": "#302b96"
+   },
+   "creative": {
+    "id": "c_30s_bn",
+    "duration_sec": 30,
+    "language": "bn",
+    "url": "ads/brand_c/c_30s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_c/c_30s_bn.mp4",
+   "media_url": "/ads/brand_c/c_30s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 409.833,
+     "cut_type": "shot_cut",
+     "gemini_scene_boundary_s": 409.0,
+     "silence_before_s": 245.33,
+     "silence_after_s": 20.35,
+     "audio_audit": "A man is doing push-ups, then the scene changes to a man holding a tray of food.",
+     "moved_from": []
+    },
+    "whether": {
+     "quality": 0.935,
+     "jev_natural_break_0_to_3": 2.88,
+     "jev_p_same_conversation": 0.02,
+     "jev_p_emotional_peak": 0.19,
+     "creative_seconds": 30
+    },
+    "what": {
+     "brand": "Brand C",
+     "creative": "c_30s_bn",
+     "fit_0_to_3": 0.95,
+     "p_forbidden_context": 0.08,
+     "platform_floor": [],
+     "blocked_brands": [
+      {
+       "brand": "Brand B",
+       "blocked_by": [
+        "lexical",
+        "jev"
+       ],
+       "evidence": [
+        "eating (matched 'eating')"
+       ],
+       "p_forbidden_context": 0.96
+      }
+     ],
+     "brands_considered": 8
+    }
+   }
+  },
+  {
+   "boundary_index": 11,
+   "gemini_boundary": 1117.0,
+   "t": 1113.875,
+   "kind": "shot_cut",
+   "shot_score": 0.363,
+   "silence_before_s": 1.37,
+   "silence_after_s": 26.13,
+   "alternatives": [
+    {
+     "t": 1113.875,
+     "kind": "shot_cut",
+     "shot_score": 0.363,
+     "silence_before_s": 1.37,
+     "silence_after_s": 26.13
+    }
+   ],
+   "id": "c011",
+   "scene_before": {
+    "start": "16:29",
+    "end": "18:37",
+    "location": "Rural road / Embankment",
+    "characters": [
+     "Dablu Bhai",
+     "Madan Halder",
+     "Bhalka"
+    ],
+    "dominant_activity": "Dablu Bhai handing over management of the fishery",
+    "mood": "calculating",
+    "summary": "Dablu Bhai's car cruises down a scenic coastal road where Madan Halder flags him down alongside Bhalka. Dablu praises Bhalka for handling the dispute earlier and appoints him to oversee the Jorabheri fishery starting tomorrow, to Madan's delight, while inquiring if the new police officer has arrived.",
+    "opening_gist": "Dablu Bhai listens to music in the back of his luxury SUV.",
+    "closing_gist": "Dablu Bhai's car drives off leaving Madan and Bhalka on the road.",
+    "ends_on": "transition",
+    "tags": [
+     "luxury car",
+     "rural road",
+     "crime boss",
+     "appointment",
+     "corrupt politics"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "18:37",
+    "end": "19:55",
+    "location": "Rooftop in village / Embankment",
+    "characters": [
+     "Bonka",
+     "Bhalka",
+     "Local card players"
+    ],
+    "dominant_activity": "Phone conversation regarding the Jorabheri fishery handover",
+    "mood": "suspicious",
+    "summary": "While playing cards on a village rooftop, Bonka receives a phone call from Bhalka informing him that Dablu Bhai gave him charge of Jorabheri following Mokai Das's death. Bonka advises him to handle the job carefully and promises to return soon.",
+    "opening_gist": "Men sit cross-legged on a cot on a rooftop playing cards.",
+    "closing_gist": "Bonka looks thoughtful after ending the call.",
+    "ends_on": "transition",
+    "tags": [
+     "cards",
+     "gambling",
+     "rooftop",
+     "phone call",
+     "rural"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.39,
+    "natural_break_confidence": 0.39,
+    "same_conversation": 0.11,
+    "emotional_peak": 0.04,
+    "input_tokens": 1167
+   },
+   "quality": 0.8527,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "A flute melody begins playing after earlier dialogue finished around 00:04.",
+    "passed": true
+   },
+   "rejected_cuts": [
+    {
+     "t": 1117.958,
+     "heard": "Flute background music fades as the scene cuts to men playing cards, with street ambience and voices beginning right after the cut."
+    }
+   ],
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_e",
+     "brand": "Brand E",
+     "p_forbidden_context": 0.11,
+     "fit": 1.9,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.11,
+      "fit": 1.9,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.11,
+      "fit": 0.68,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.1,
+      "fit": 0.55,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.13,
+      "fit": 0.11,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.11,
+      "fit": 0.01,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.12,
+      "fit": 0.01,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.1,
+      "fit": 0.0,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.1,
+      "fit": 0.0,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4231
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_e",
+    "name": "Brand E",
+    "category": "automotive/mobility",
+    "target_contexts": [
+     "car",
+     "automobile",
+     "driving",
+     "road trip",
+     "commuting",
+     "traffic",
+     "parking",
+     "highway",
+     "motorcycle",
+     "vehicle",
+     "road",
+     "journey",
+     "travel by car",
+     "family trip"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "hospital",
+     "violence",
+     "accident",
+     "injury",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "e_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_e/e_20s_bn.mp4"
+     },
+     {
+      "id": "e_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_e/e_30s_bn.mp4"
+     }
+    ],
+    "color": "#2b9660"
+   },
+   "creative": {
+    "id": "e_30s_bn",
+    "duration_sec": 30,
+    "language": "bn",
+    "url": "ads/brand_e/e_30s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_e/e_30s_bn.mp4",
+   "media_url": "/ads/brand_e/e_30s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 1113.875,
+     "cut_type": "shot_cut",
+     "gemini_scene_boundary_s": 1117.0,
+     "silence_before_s": 1.37,
+     "silence_after_s": 26.13,
+     "audio_audit": "A flute melody begins playing after earlier dialogue finished around 00:04.",
+     "moved_from": [
+      {
+       "t": 1117.958,
+       "heard": "Flute background music fades as the scene cuts to men playing cards, with street ambience and voices beginning right after the cut."
+      }
+     ]
+    },
+    "whether": {
+     "quality": 0.8527,
+     "jev_natural_break_0_to_3": 2.39,
+     "jev_p_same_conversation": 0.11,
+     "jev_p_emotional_peak": 0.04,
+     "creative_seconds": 30
+    },
+    "what": {
+     "brand": "Brand E",
+     "creative": "e_30s_bn",
+     "fit_0_to_3": 1.9,
+     "p_forbidden_context": 0.11,
+     "platform_floor": [],
+     "blocked_brands": [],
+     "brands_considered": 8
+    }
+   }
+  },
+  {
+   "boundary_index": 15,
+   "gemini_boundary": 1419.0,
+   "t": 1419.917,
+   "kind": "shot_cut",
+   "shot_score": 0.708,
+   "silence_before_s": 0.98,
+   "silence_after_s": 87.86,
+   "alternatives": [],
+   "id": "c015",
+   "scene_before": {
+    "start": "23:09",
+    "end": "23:39",
+    "location": "Dablu's hallway / Balcony",
+    "characters": [
+     "Dablu Bhai",
+     "Dablu's wife"
+    ],
+    "dominant_activity": "Dablu taking a secretive phone call",
+    "mood": "deceptive",
+    "summary": "Upstairs, Dablu takes a phone call from a woman asking if he is arriving. He confirms he is bringing a bottle in the car and tells his wife, who watches from the balcony, not to cook for him as he won't be eating at home.",
+    "opening_gist": "Dablu checks his phone and answers a call in the hallway.",
+    "closing_gist": "Dablu's wife stares coldly as he finishes his conversation.",
+    "ends_on": "transition",
+    "tags": [
+     "phone call",
+     "infidelity",
+     "mansion",
+     "marriage"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "23:39",
+    "end": "24:34",
+    "location": "Rural road / Community center",
+    "characters": [
+     "Laili",
+     "Mothers and children"
+    ],
+    "dominant_activity": "Laili watching children and mothers at a health camp",
+    "mood": "melancholic",
+    "summary": "Laili sits on the back of a motorized van on a country road, gazing wistfully at mothers with infants gathering outside a rural polio and health clinic. Her expression is pained and envious as she observes the joyful children.",
+    "opening_gist": "Laili sits quietly on a parked motorized cart looking at her phone.",
+    "closing_gist": "The cart drives away while Laili watches the babies.",
+    "ends_on": "transition",
+    "tags": [
+     "rural road",
+     "health clinic",
+     "infants",
+     "longing",
+     "cart"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.86,
+    "natural_break_confidence": 0.86,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.15,
+    "input_tokens": 1123
+   },
+   "quality": 0.9393,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "Ambient outdoor traffic and motorized vehicle sounds across the cut, with no speech.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_e",
+     "brand": "Brand E",
+     "p_forbidden_context": 0.15,
+     "fit": 1.32,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.15,
+      "fit": 1.32,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.2,
+      "fit": 0.14,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.18,
+      "fit": 0.14,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.3,
+      "fit": 2.89,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.37,
+      "fit": 0.36,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.36,
+      "fit": 0.16,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.35,
+      "fit": 0.03,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.32,
+      "fit": 0.01,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4196
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_e",
+    "name": "Brand E",
+    "category": "automotive/mobility",
+    "target_contexts": [
+     "car",
+     "automobile",
+     "driving",
+     "road trip",
+     "commuting",
+     "traffic",
+     "parking",
+     "highway",
+     "motorcycle",
+     "vehicle",
+     "road",
+     "journey",
+     "travel by car",
+     "family trip"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "hospital",
+     "violence",
+     "accident",
+     "injury",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "e_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_e/e_20s_bn.mp4"
+     },
+     {
+      "id": "e_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_e/e_30s_bn.mp4"
+     }
+    ],
+    "color": "#2b9660"
+   },
+   "creative": {
+    "id": "e_30s_bn",
+    "duration_sec": 30,
+    "language": "bn",
+    "url": "ads/brand_e/e_30s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_e/e_30s_bn.mp4",
+   "media_url": "/ads/brand_e/e_30s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 1419.917,
+     "cut_type": "shot_cut",
+     "gemini_scene_boundary_s": 1419.0,
+     "silence_before_s": 0.98,
+     "silence_after_s": 87.86,
+     "audio_audit": "Ambient outdoor traffic and motorized vehicle sounds across the cut, with no speech.",
+     "moved_from": []
+    },
+    "whether": {
+     "quality": 0.9393,
+     "jev_natural_break_0_to_3": 2.86,
+     "jev_p_same_conversation": 0.02,
+     "jev_p_emotional_peak": 0.15,
+     "creative_seconds": 30
+    },
+    "what": {
+     "brand": "Brand E",
+     "creative": "e_30s_bn",
+     "fit_0_to_3": 1.32,
+     "p_forbidden_context": 0.15,
+     "platform_floor": [],
+     "blocked_brands": [
+      {
+       "brand": "Brand D",
+       "blocked_by": [
+        "jev"
+       ],
+       "evidence": [],
+       "p_forbidden_context": 0.3
+      },
+      {
+       "brand": "Brand A",
+       "blocked_by": [
+        "jev"
+       ],
+       "evidence": [],
+       "p_forbidden_context": 0.37
+      },
+      {
+       "brand": "Brand G",
+       "blocked_by": [
+        "jev"
+       ],
+       "evidence": [],
+       "p_forbidden_context": 0.36
+      },
+      {
+       "brand": "Brand C",
+       "blocked_by": [
+        "jev"
+       ],
+       "evidence": [],
+       "p_forbidden_context": 0.35
+      },
+      {
+       "brand": "Brand B",
+       "blocked_by": [
+        "jev"
+       ],
+       "evidence": [],
+       "p_forbidden_context": 0.32
+      }
+     ],
+     "brands_considered": 8
+    }
+   }
+  },
+  {
+   "boundary_index": 21,
+   "gemini_boundary": 1849.0,
+   "t": 1850.125,
+   "kind": "shot_cut",
+   "shot_score": 0.354,
+   "silence_before_s": 67.18,
+   "silence_after_s": 18.52,
+   "alternatives": [],
+   "id": "c021",
+   "scene_before": {
+    "start": "28:55",
+    "end": "30:49",
+    "location": "Laili's shack / Kitchen / Yard",
+    "characters": [
+     "Laili",
+     "Dablu Bhai",
+     "Driver"
+    ],
+    "dominant_activity": "Dablu leaving Laili's house while a neighbor watches",
+    "mood": "tense",
+    "summary": "Laili heats tea on a gas stove as Dablu finishes his drink and prepares to depart, mocking Mandar's manhood on his way out. As Dablu gets into his car, a nosy female neighbor watches suspiciously from across the lane, noticing Laili standing at her door.",
+    "opening_gist": "Blue flames lick the bottom of a tea pan on the stove.",
+    "closing_gist": "Dablu's car speeds away as the neighbor sneers.",
+    "ends_on": "resolved",
+    "tags": [
+     "kitchen",
+     "car departure",
+     "gossip",
+     "neighbor",
+     "shack"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "30:49",
+    "end": "32:10",
+    "location": "Mandar's bedroom",
+    "characters": [
+     "Mandar",
+     "Laili"
+    ],
+    "dominant_activity": "Laili berating Mandar over the phone",
+    "mood": "hostile",
+    "summary": "Mandar answers a phone call from Laili, who explodes in fury at his failure to stand up to Dablu Bhai and cure his sexual impotence. She screams that if he doesn't see a doctor and become a real man, she will see Dablu destroyed and take matters into her own hands.",
+    "opening_gist": "Mandar lies on the bed before his phone rings.",
+    "closing_gist": "Laili furiously hangs up on Mandar.",
+    "ends_on": "cliffhanger",
+    "tags": [
+     "bedroom",
+     "phone call",
+     "screaming",
+     "impotence",
+     "ultimatum"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.46,
+    "natural_break_confidence": 0.46,
+    "same_conversation": 0.05,
+    "emotional_peak": 0.11,
+    "input_tokens": 1147
+   },
+   "quality": 0.8665,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "Ambient background tones and birds chirping, with no dialogue.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_e",
+     "brand": "Brand E",
+     "p_forbidden_context": 0.07,
+     "fit": 2.54,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.07,
+      "fit": 2.54,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.09,
+      "fit": 1.75,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.08,
+      "fit": 0.48,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.08,
+      "fit": 0.15,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.1,
+      "fit": 0.05,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.08,
+      "fit": 0.03,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.08,
+      "fit": 0.02,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.37,
+      "fit": 0.07,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4203
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_e",
+    "name": "Brand E",
+    "category": "automotive/mobility",
+    "target_contexts": [
+     "car",
+     "automobile",
+     "driving",
+     "road trip",
+     "commuting",
+     "traffic",
+     "parking",
+     "highway",
+     "motorcycle",
+     "vehicle",
+     "road",
+     "journey",
+     "travel by car",
+     "family trip"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "hospital",
+     "violence",
+     "accident",
+     "injury",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "e_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_e/e_20s_bn.mp4"
+     },
+     {
+      "id": "e_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_e/e_30s_bn.mp4"
+     }
+    ],
+    "color": "#2b9660"
+   },
+   "creative": {
+    "id": "e_30s_bn",
+    "duration_sec": 30,
+    "language": "bn",
+    "url": "ads/brand_e/e_30s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_e/e_30s_bn.mp4",
+   "media_url": "/ads/brand_e/e_30s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 1850.125,
+     "cut_type": "shot_cut",
+     "gemini_scene_boundary_s": 1849.0,
+     "silence_before_s": 67.18,
+     "silence_after_s": 18.52,
+     "audio_audit": "Ambient background tones and birds chirping, with no dialogue.",
+     "moved_from": []
+    },
+    "whether": {
+     "quality": 0.8665,
+     "jev_natural_break_0_to_3": 2.46,
+     "jev_p_same_conversation": 0.05,
+     "jev_p_emotional_peak": 0.11,
+     "creative_seconds": 30
+    },
+    "what": {
+     "brand": "Brand E",
+     "creative": "e_30s_bn",
+     "fit_0_to_3": 2.54,
+     "p_forbidden_context": 0.07,
+     "platform_floor": [],
+     "blocked_brands": [
+      {
+       "brand": "Brand B",
+       "blocked_by": [
+        "jev"
+       ],
+       "evidence": [],
+       "p_forbidden_context": 0.37
+      }
+     ],
+     "brands_considered": 8
+    }
+   }
+  }
+ ],
+ "candidates": [
+  {
+   "boundary_index": 2,
+   "gemini_boundary": 174.0,
+   "t": 174.333,
+   "kind": "shot_cut",
+   "shot_score": 1.0,
+   "silence_before_s": 9.82,
+   "silence_after_s": 255.85,
+   "alternatives": [
+    {
+     "t": 179.208,
+     "kind": "shot_cut",
+     "shot_score": 0.55,
+     "silence_before_s": 14.7,
+     "silence_after_s": 250.97
+    },
+    {
+     "t": 168.333,
+     "kind": "shot_cut",
+     "shot_score": 1.0,
+     "silence_before_s": 3.82,
+     "silence_after_s": 261.85
+    }
+   ],
+   "id": "c002",
+   "scene_before": {
+    "start": "01:32",
+    "end": "02:54",
+    "location": "Beach / Seashore",
+    "characters": [
+     "Crazed woman/witch",
+     "Fisher boy"
+    ],
+    "dominant_activity": "Witch reciting a prophetic curse on the beach",
+    "mood": "eerie",
+    "summary": "A haggard, ash-smeared woman sitting beneath a weathered seaside tree mutters ominous prophecies about sea rising and drowning them all. The young boy frolics in the ocean waves before running directly toward the camera with a sinister grin. The main title card 'Mandar' slams onto the screen.",
+    "opening_gist": "A strange wild woman mutters by a dried tree.",
+    "closing_gist": "The title card 'Mandar' is revealed against a black screen.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "beach",
+     "prophecy",
+     "witch",
+     "ocean waves",
+     "creepy",
+     "title card"
+    ],
+    "sensitive_themes": [
+     "horror_or_fear"
+    ]
+   },
+   "scene_after": {
+    "start": "02:54",
+    "end": "04:53",
+    "location": "Sandy beach",
+    "characters": [
+     "Mandar",
+     "Laili"
+    ],
+    "dominant_activity": "Surreal decorated bed scene on the beach",
+    "mood": "surreal",
+    "summary": "Episode title 'Blood Will Have Blood' displays over an empty beach where a bridal canopy bed sits. Mandar walks across the sand dressed in festive red garb, approaching a veiled bride holding a black cat. When he tries to touch her, the veil reveals the creepy witch laughing hysterically, sending Mandar running away in terror as an SUV splashes into the sea.",
+    "opening_gist": "A flower-decorated bridal canopy bed stands on the desolate beach.",
+    "closing_gist": "An SUV races away through the shallow ocean water.",
+    "ends_on": "transition",
+    "tags": [
+     "beach",
+     "dream sequence",
+     "hallucination",
+     "bride",
+     "wedding bed",
+     "car",
+     "ocean"
+    ],
+    "sensitive_themes": [
+     "horror_or_fear"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.85,
+    "natural_break_confidence": 0.85,
+    "same_conversation": 0.04,
+    "emotional_peak": 0.19,
+    "input_tokens": 1194
+   },
+   "quality": 0.9245,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 3,
+   "gemini_boundary": 293.0,
+   "t": 293.292,
+   "kind": "shot_cut",
+   "shot_score": 0.218,
+   "silence_before_s": 128.78,
+   "silence_after_s": 136.89,
+   "alternatives": [
+    {
+     "t": 291.875,
+     "kind": "shot_cut",
+     "shot_score": 0.147,
+     "silence_before_s": 127.37,
+     "silence_after_s": 138.31
+    },
+    {
+     "t": 290.75,
+     "kind": "shot_cut",
+     "shot_score": 0.27,
+     "silence_before_s": 126.24,
+     "silence_after_s": 139.43
+    }
+   ],
+   "id": "c003",
+   "scene_before": {
+    "start": "02:54",
+    "end": "04:53",
+    "location": "Sandy beach",
+    "characters": [
+     "Mandar",
+     "Laili"
+    ],
+    "dominant_activity": "Surreal decorated bed scene on the beach",
+    "mood": "surreal",
+    "summary": "Episode title 'Blood Will Have Blood' displays over an empty beach where a bridal canopy bed sits. Mandar walks across the sand dressed in festive red garb, approaching a veiled bride holding a black cat. When he tries to touch her, the veil reveals the creepy witch laughing hysterically, sending Mandar running away in terror as an SUV splashes into the sea.",
+    "opening_gist": "A flower-decorated bridal canopy bed stands on the desolate beach.",
+    "closing_gist": "An SUV races away through the shallow ocean water.",
+    "ends_on": "transition",
+    "tags": [
+     "beach",
+     "dream sequence",
+     "hallucination",
+     "bride",
+     "wedding bed",
+     "car",
+     "ocean"
+    ],
+    "sensitive_themes": [
+     "horror_or_fear"
+    ]
+   },
+   "scene_after": {
+    "start": "04:53",
+    "end": "06:49",
+    "location": "Mandar's bedroom",
+    "characters": [
+     "Mandar"
+    ],
+    "dominant_activity": "Mandar waking up and doing pushups",
+    "mood": "frustrated",
+    "summary": "Mandar wakes abruptly in his dimly lit room, agitated and restless. He looks at himself in the mirror, smokes a cigarette, and begins doing rigorous push-ups on the floor to vent his frustration.",
+    "opening_gist": "Mandar sits up in bed sweating and anxious.",
+    "closing_gist": "Mandar aggressively does pushups facing his reflection.",
+    "ends_on": "transition",
+    "tags": [
+     "bedroom",
+     "smoking",
+     "exercise",
+     "pushups",
+     "mirror",
+     "restlessness"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.59,
+    "natural_break_confidence": 0.59,
+    "same_conversation": 0.1,
+    "emotional_peak": 0.43,
+    "input_tokens": 1139
+   },
+   "quality": 0.8138,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 4,
+   "gemini_boundary": 409.0,
+   "t": 409.833,
+   "kind": "shot_cut",
+   "shot_score": 0.636,
+   "silence_before_s": 245.33,
+   "silence_after_s": 20.35,
+   "alternatives": [
+    {
+     "t": 405.125,
+     "kind": "shot_cut",
+     "shot_score": 0.358,
+     "silence_before_s": 240.62,
+     "silence_after_s": 25.06
+    }
+   ],
+   "id": "c004",
+   "scene_before": {
+    "start": "04:53",
+    "end": "06:49",
+    "location": "Mandar's bedroom",
+    "characters": [
+     "Mandar"
+    ],
+    "dominant_activity": "Mandar waking up and doing pushups",
+    "mood": "frustrated",
+    "summary": "Mandar wakes abruptly in his dimly lit room, agitated and restless. He looks at himself in the mirror, smokes a cigarette, and begins doing rigorous push-ups on the floor to vent his frustration.",
+    "opening_gist": "Mandar sits up in bed sweating and anxious.",
+    "closing_gist": "Mandar aggressively does pushups facing his reflection.",
+    "ends_on": "transition",
+    "tags": [
+     "bedroom",
+     "smoking",
+     "exercise",
+     "pushups",
+     "mirror",
+     "restlessness"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "scene_after": {
+    "start": "06:49",
+    "end": "09:22",
+    "location": "Fish farm embankment / Tea stall",
+    "characters": [
+     "Debashis Mondal",
+     "Madan Halder"
+    ],
+    "dominant_activity": "Eating fried fish and discussing local politics",
+    "mood": "tense",
+    "summary": "Mondal sits at a roadside bamboo shack overlooking the fishery ponds, eating freshly fried fish with local political operative Madan Halder. Madan flatters him, drops hints about Mondal's past transfer troubles involving a lady constable, and promises him full support in Geonkhali while hinting at tensions surrounding Mokai Das.",
+    "opening_gist": "A plate of hot fried fish is served at a small outdoor table.",
+    "closing_gist": "Mondal eats fish silently while contemplating Madan's words.",
+    "ends_on": "mid_conversation",
+    "tags": [
+     "eating",
+     "fried fish",
+     "fishery",
+     "police officer",
+     "political gossip",
+     "bribery"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.88,
+    "natural_break_confidence": 0.88,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.19,
+    "input_tokens": 1131
+   },
+   "quality": 0.935,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "A man is doing push-ups, then the scene changes to a man holding a tray of food.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_c",
+     "brand": "Brand C",
+     "p_forbidden_context": 0.08,
+     "fit": 0.95,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.08,
+      "fit": 0.95,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.18,
+      "fit": 0.12,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.1,
+      "fit": 0.06,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.11,
+      "fit": 0.03,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.13,
+      "fit": 0.02,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.11,
+      "fit": 0.02,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.11,
+      "fit": 0.01,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.96,
+      "fit": 1.44,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "eating (matched 'eating')"
+      ]
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4173
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_c",
+    "name": "Brand C",
+    "category": "beauty/cosmetics",
+    "target_contexts": [
+     "make-up",
+     "getting ready",
+     "wedding",
+     "party",
+     "mirror",
+     "fashion",
+     "salon",
+     "lipstick",
+     "foundation",
+     "eyeliner",
+     "beauty",
+     "dressing",
+     "celebration",
+     "special occasion"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "violence",
+     "illness",
+     "accident",
+     "hospital",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "c_15s_bn",
+      "duration_sec": 15,
+      "language": "bn",
+      "url": "ads/brand_c/c_15s_bn.mp4"
+     },
+     {
+      "id": "c_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_c/c_20s_bn.mp4"
+     },
+     {
+      "id": "c_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_c/c_30s_bn.mp4"
+     }
+    ],
+    "color": "#302b96"
+   },
+   "creative": {
+    "id": "c_30s_bn",
+    "duration_sec": 30,
+    "language": "bn",
+    "url": "ads/brand_c/c_30s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_c/c_30s_bn.mp4",
+   "media_url": "/ads/brand_c/c_30s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 409.833,
+     "cut_type": "shot_cut",
+     "gemini_scene_boundary_s": 409.0,
+     "silence_before_s": 245.33,
+     "silence_after_s": 20.35,
+     "audio_audit": "A man is doing push-ups, then the scene changes to a man holding a tray of food.",
+     "moved_from": []
+    },
+    "whether": {
+     "quality": 0.935,
+     "jev_natural_break_0_to_3": 2.88,
+     "jev_p_same_conversation": 0.02,
+     "jev_p_emotional_peak": 0.19,
+     "creative_seconds": 30
+    },
+    "what": {
+     "brand": "Brand C",
+     "creative": "c_30s_bn",
+     "fit_0_to_3": 0.95,
+     "p_forbidden_context": 0.08,
+     "platform_floor": [],
+     "blocked_brands": [
+      {
+       "brand": "Brand B",
+       "blocked_by": [
+        "lexical",
+        "jev"
+       ],
+       "evidence": [
+        "eating (matched 'eating')"
+       ],
+       "p_forbidden_context": 0.96
+      }
+     ],
+     "brands_considered": 8
+    }
+   }
+  },
+  {
+   "boundary_index": 5,
+   "gemini_boundary": 562.0,
+   "t": 562.583,
+   "kind": "shot_cut",
+   "shot_score": 0.408,
+   "silence_before_s": 11.96,
+   "silence_after_s": 14.86,
+   "alternatives": [
+    {
+     "t": 558.125,
+     "kind": "shot_cut",
+     "shot_score": 0.748,
+     "silence_before_s": 7.5,
+     "silence_after_s": 19.32
+    }
+   ],
+   "id": "c005",
+   "scene_before": {
+    "start": "06:49",
+    "end": "09:22",
+    "location": "Fish farm embankment / Tea stall",
+    "characters": [
+     "Debashis Mondal",
+     "Madan Halder"
+    ],
+    "dominant_activity": "Eating fried fish and discussing local politics",
+    "mood": "tense",
+    "summary": "Mondal sits at a roadside bamboo shack overlooking the fishery ponds, eating freshly fried fish with local political operative Madan Halder. Madan flatters him, drops hints about Mondal's past transfer troubles involving a lady constable, and promises him full support in Geonkhali while hinting at tensions surrounding Mokai Das.",
+    "opening_gist": "A plate of hot fried fish is served at a small outdoor table.",
+    "closing_gist": "Mondal eats fish silently while contemplating Madan's words.",
+    "ends_on": "mid_conversation",
+    "tags": [
+     "eating",
+     "fried fish",
+     "fishery",
+     "police officer",
+     "political gossip",
+     "bribery"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "09:22",
+    "end": "10:17",
+    "location": "Fishery pond embankment",
+    "characters": [
+     "Fontus",
+     "Fish farm workers",
+     "Madan's henchman"
+    ],
+    "dominant_activity": "Fishermen protesting and clashing with a young thug",
+    "mood": "aggressive",
+    "summary": "Fontus speeds in on a motorbike and confront the striking fishermen holding posters demanding justice for Mokai Das's death. When Fontus arrogant insults them, a brawl breaks out, and Madan's men jump in to physically clash with the striking workers.",
+    "opening_gist": "Fontus rides his motorcycle along the dirt embankment.",
+    "closing_gist": "A chaotic fight erupts between Fontus, the workers, and Madan's men.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "motorcycle",
+     "protest",
+     "strike",
+     "fistfight",
+     "brawl",
+     "fishery"
+    ],
+    "sensitive_themes": [
+     "violence_or_fight"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.33,
+    "natural_break_confidence": 0.44,
+    "same_conversation": 0.05,
+    "emotional_peak": 0.08,
+    "input_tokens": 1172
+   },
+   "quality": 0.8487,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 6,
+   "gemini_boundary": 617.0,
+   "t": 618.125,
+   "kind": "shot_cut",
+   "shot_score": 0.513,
+   "silence_before_s": 3.57,
+   "silence_after_s": 0.82,
+   "alternatives": [],
+   "id": "c006",
+   "scene_before": {
+    "start": "09:22",
+    "end": "10:17",
+    "location": "Fishery pond embankment",
+    "characters": [
+     "Fontus",
+     "Fish farm workers",
+     "Madan's henchman"
+    ],
+    "dominant_activity": "Fishermen protesting and clashing with a young thug",
+    "mood": "aggressive",
+    "summary": "Fontus speeds in on a motorbike and confront the striking fishermen holding posters demanding justice for Mokai Das's death. When Fontus arrogant insults them, a brawl breaks out, and Madan's men jump in to physically clash with the striking workers.",
+    "opening_gist": "Fontus rides his motorcycle along the dirt embankment.",
+    "closing_gist": "A chaotic fight erupts between Fontus, the workers, and Madan's men.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "motorcycle",
+     "protest",
+     "strike",
+     "fistfight",
+     "brawl",
+     "fishery"
+    ],
+    "sensitive_themes": [
+     "violence_or_fight"
+    ]
+   },
+   "scene_after": {
+    "start": "10:17",
+    "end": "12:04",
+    "location": "Fish farm embankment / Tea stall",
+    "characters": [
+     "Debashis Mondal",
+     "Madan Halder"
+    ],
+    "dominant_activity": "Observing the brawl and continuing their discussion",
+    "mood": "cynical",
+    "summary": "Madan rushes out to break up the scuffle among the laborers while Debashis watches nonchalantly from the table, enjoying his fish. Madan scolds the rowdy youth and ushers everyone back to work before returning to reassure the officer.",
+    "opening_gist": "Madan Halder notices the shouting and rises from his seat.",
+    "closing_gist": "Debashis smirks and cleans his teeth as Fontus rides away.",
+    "ends_on": "transition",
+    "tags": [
+     "tea stall",
+     "police",
+     "observation",
+     "rural",
+     "eating"
+    ],
+    "sensitive_themes": [
+     "violence_or_fight"
+    ]
+   },
+   "jev": {
+    "natural_break": 1.47,
+    "natural_break_confidence": 0.22,
+    "same_conversation": 0.44,
+    "emotional_peak": 0.66,
+    "input_tokens": 1166
+   },
+   "quality": 0.4775,
+   "decision": "rejected: quality 0.48 below 0.55"
+  },
+  {
+   "boundary_index": 7,
+   "gemini_boundary": 724.0,
+   "t": 724.833,
+   "kind": "shot_cut",
+   "shot_score": 0.673,
+   "silence_before_s": 62.12,
+   "silence_after_s": 120.07,
+   "alternatives": [],
+   "id": "c007",
+   "scene_before": {
+    "start": "10:17",
+    "end": "12:04",
+    "location": "Fish farm embankment / Tea stall",
+    "characters": [
+     "Debashis Mondal",
+     "Madan Halder"
+    ],
+    "dominant_activity": "Observing the brawl and continuing their discussion",
+    "mood": "cynical",
+    "summary": "Madan rushes out to break up the scuffle among the laborers while Debashis watches nonchalantly from the table, enjoying his fish. Madan scolds the rowdy youth and ushers everyone back to work before returning to reassure the officer.",
+    "opening_gist": "Madan Halder notices the shouting and rises from his seat.",
+    "closing_gist": "Debashis smirks and cleans his teeth as Fontus rides away.",
+    "ends_on": "transition",
+    "tags": [
+     "tea stall",
+     "police",
+     "observation",
+     "rural",
+     "eating"
+    ],
+    "sensitive_themes": [
+     "violence_or_fight"
+    ]
+   },
+   "scene_after": {
+    "start": "12:04",
+    "end": "13:32",
+    "location": "Village alley / Clinic exterior",
+    "characters": [
+     "Mandar"
+    ],
+    "dominant_activity": "Mandar secretly visiting a sexology clinic",
+    "mood": "humiliated",
+    "summary": "Mandar walks through town, stops outside a closed shop covered in illicit clinic posters, and rips off a flyer advertising Dr. Haradhan Gupta's clinic for sexual disorders. He hides the slip inside his clothes, deeply conscious of anyone noticing.",
+    "opening_gist": "Mandar sits quietly at a tea stall looking lost.",
+    "closing_gist": "Mandar tears a flyer from the closed green doorway.",
+    "ends_on": "resolved",
+    "tags": [
+     "street",
+     "alley",
+     "clinic flyer",
+     "secrecy",
+     "shame"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.89,
+    "natural_break_confidence": 0.89,
+    "same_conversation": 0.03,
+    "emotional_peak": 0.06,
+    "input_tokens": 1124
+   },
+   "quality": 0.9603,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "ambient outdoor sounds and faint tea stall noise with no spoken dialogue",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": null,
+    "table": [
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.93,
+      "fit": 1.77,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')",
+       "violence (matched 'violence')"
+      ]
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.93,
+      "fit": 0.33,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')",
+       "violence (matched 'violence')"
+      ]
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.93,
+      "fit": 0.23,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')",
+       "violence (matched 'violence')"
+      ]
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.96,
+      "fit": 0.21,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "violence (matched 'violence')",
+       "eating (matched 'eating')",
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.93,
+      "fit": 0.16,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')",
+       "violence (matched 'violence')"
+      ]
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.94,
+      "fit": 0.05,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')",
+       "violence (matched 'violence')"
+      ]
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.93,
+      "fit": 0.03,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')",
+       "violence (matched 'violence')"
+      ]
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.93,
+      "fit": 0.01,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "violence (matched 'violence')",
+       "hospital (matched 'clinic')"
+      ]
+     }
+    ],
+    "floor": [
+     "jev 0.28"
+    ],
+    "input_tokens": 4203
+   },
+   "decision": "rejected: platform brand-safety floor (jev 0.28)"
+  },
+  {
+   "boundary_index": 8,
+   "gemini_boundary": 812.0,
+   "t": 812.375,
+   "kind": "shot_cut",
+   "shot_score": 0.367,
+   "silence_before_s": 149.66,
+   "silence_after_s": 32.52,
+   "alternatives": [],
+   "id": "c008",
+   "scene_before": {
+    "start": "12:04",
+    "end": "13:32",
+    "location": "Village alley / Clinic exterior",
+    "characters": [
+     "Mandar"
+    ],
+    "dominant_activity": "Mandar secretly visiting a sexology clinic",
+    "mood": "humiliated",
+    "summary": "Mandar walks through town, stops outside a closed shop covered in illicit clinic posters, and rips off a flyer advertising Dr. Haradhan Gupta's clinic for sexual disorders. He hides the slip inside his clothes, deeply conscious of anyone noticing.",
+    "opening_gist": "Mandar sits quietly at a tea stall looking lost.",
+    "closing_gist": "Mandar tears a flyer from the closed green doorway.",
+    "ends_on": "resolved",
+    "tags": [
+     "street",
+     "alley",
+     "clinic flyer",
+     "secrecy",
+     "shame"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "13:32",
+    "end": "14:59",
+    "location": "Fish harbor / Dablu Bhai's office boat",
+    "characters": [
+     "Fontus",
+     "Dablu Bhai",
+     "Harbor workers"
+    ],
+    "dominant_activity": "Fontus reporting the strike to Dablu Bhai",
+    "mood": "tense",
+    "summary": "Fontus arrives at the bustling fishing harbor and confronts crime boss Dablu Bhai on his moored boat office, complaining bitterly about Madan Halder undermining him. Dablu firmly puts Fontus in his place, warning him not to disrupt business operations and ordering him to leave.",
+    "opening_gist": "Fontus rides through the busy fishing harbor.",
+    "closing_gist": "Dablu Bhai shouts at an old laborer while sending Fontus away.",
+    "ends_on": "resolved",
+    "tags": [
+     "harbor",
+     "boats",
+     "crime boss",
+     "argument",
+     "fishing industry"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.94,
+    "natural_break_confidence": 0.94,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.13,
+    "input_tokens": 1122
+   },
+   "quality": 0.958,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "A rhythmic, metallic clanking sound is heard, followed by the sound of a vehicle driving on a road.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": null,
+    "table": [
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.35,
+      "fit": 0.1,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.54,
+      "fit": 0.04,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.51,
+      "fit": 0.03,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.46,
+      "fit": 0.02,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.47,
+      "fit": 0.02,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.65,
+      "fit": 0.01,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.64,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.62,
+      "fit": 0.0,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     }
+    ],
+    "floor": [
+     "jev 0.56"
+    ],
+    "input_tokens": 4175
+   },
+   "decision": "rejected: platform brand-safety floor (jev 0.56)"
+  },
+  {
+   "boundary_index": 9,
+   "gemini_boundary": 899.0,
+   "t": 900.042,
+   "kind": "shot_cut",
+   "shot_score": 0.434,
+   "silence_before_s": 7.09,
+   "silence_after_s": 42.94,
+   "alternatives": [],
+   "id": "c009",
+   "scene_before": {
+    "start": "13:32",
+    "end": "14:59",
+    "location": "Fish harbor / Dablu Bhai's office boat",
+    "characters": [
+     "Fontus",
+     "Dablu Bhai",
+     "Harbor workers"
+    ],
+    "dominant_activity": "Fontus reporting the strike to Dablu Bhai",
+    "mood": "tense",
+    "summary": "Fontus arrives at the bustling fishing harbor and confronts crime boss Dablu Bhai on his moored boat office, complaining bitterly about Madan Halder undermining him. Dablu firmly puts Fontus in his place, warning him not to disrupt business operations and ordering him to leave.",
+    "opening_gist": "Fontus rides through the busy fishing harbor.",
+    "closing_gist": "Dablu Bhai shouts at an old laborer while sending Fontus away.",
+    "ends_on": "resolved",
+    "tags": [
+     "harbor",
+     "boats",
+     "crime boss",
+     "argument",
+     "fishing industry"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "14:59",
+    "end": "16:29",
+    "location": "Village market street",
+    "characters": [
+     "Mandar",
+     "Sunglasses vendor"
+    ],
+    "dominant_activity": "Mandar buying red sunglasses in the market",
+    "mood": "somber",
+    "summary": "Standing near the clinic flyer he took, Mandar smokes thoughtfully on the street before noticing a roadside stall selling cheap novelty sunglasses. The vendor enthusiastically persuades him to try on a pair of bright red sunglasses, saying they suit him like a boss.",
+    "opening_gist": "Mandar holds the torn clinic slip while standing near a dusty road.",
+    "closing_gist": "Mandar holds up the red sunglasses in front of his face.",
+    "ends_on": "resolved",
+    "tags": [
+     "market",
+     "shopping",
+     "sunglasses",
+     "smoking",
+     "street"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.94,
+    "natural_break_confidence": 0.94,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.35,
+    "input_tokens": 1145
+   },
+   "quality": 0.914,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "No speech is heard; only ambient sounds transition into background instrumental music.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": null,
+    "table": [
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.6,
+      "fit": 0.23,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.55,
+      "fit": 0.12,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.48,
+      "fit": 0.07,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.55,
+      "fit": 0.07,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.69,
+      "fit": 0.03,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.71,
+      "fit": 0.03,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.65,
+      "fit": 0.01,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.75,
+      "fit": 0.01,
+      "blocked": true,
+      "blocked_by": [
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4212
+   },
+   "decision": "rejected: no catalogue brand is safe and relevant here (8/8 blocked by negative contexts)"
+  },
+  {
+   "boundary_index": 10,
+   "gemini_boundary": 989.0,
+   "t": 989.424,
+   "kind": "pause",
+   "shot_score": 0.0,
+   "silence_before_s": 0.95,
+   "silence_after_s": 0.95,
+   "alternatives": [],
+   "id": "c010",
+   "scene_before": {
+    "start": "14:59",
+    "end": "16:29",
+    "location": "Village market street",
+    "characters": [
+     "Mandar",
+     "Sunglasses vendor"
+    ],
+    "dominant_activity": "Mandar buying red sunglasses in the market",
+    "mood": "somber",
+    "summary": "Standing near the clinic flyer he took, Mandar smokes thoughtfully on the street before noticing a roadside stall selling cheap novelty sunglasses. The vendor enthusiastically persuades him to try on a pair of bright red sunglasses, saying they suit him like a boss.",
+    "opening_gist": "Mandar holds the torn clinic slip while standing near a dusty road.",
+    "closing_gist": "Mandar holds up the red sunglasses in front of his face.",
+    "ends_on": "resolved",
+    "tags": [
+     "market",
+     "shopping",
+     "sunglasses",
+     "smoking",
+     "street"
+    ],
+    "sensitive_themes": [
+     "smoking"
+    ]
+   },
+   "scene_after": {
+    "start": "16:29",
+    "end": "18:37",
+    "location": "Rural road / Embankment",
+    "characters": [
+     "Dablu Bhai",
+     "Madan Halder",
+     "Bhalka"
+    ],
+    "dominant_activity": "Dablu Bhai handing over management of the fishery",
+    "mood": "calculating",
+    "summary": "Dablu Bhai's car cruises down a scenic coastal road where Madan Halder flags him down alongside Bhalka. Dablu praises Bhalka for handling the dispute earlier and appoints him to oversee the Jorabheri fishery starting tomorrow, to Madan's delight, while inquiring if the new police officer has arrived.",
+    "opening_gist": "Dablu Bhai listens to music in the back of his luxury SUV.",
+    "closing_gist": "Dablu Bhai's car drives off leaving Madan and Bhalka on the road.",
+    "ends_on": "transition",
+    "tags": [
+     "luxury car",
+     "rural road",
+     "crime boss",
+     "appointment",
+     "corrupt politics"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.91,
+    "natural_break_confidence": 0.91,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.05,
+    "input_tokens": 1151
+   },
+   "quality": 0.9685,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "A musical whistle cue starts around 00:04, followed by upbeat music and singing starting after 00:05; no spoken dialogue occurs at the 00:05 mark.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": null,
+    "table": [
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.38,
+      "fit": 2.29,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.33,
+      "fit": 2.06,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.41,
+      "fit": 0.58,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.3,
+      "fit": 0.21,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.42,
+      "fit": 0.06,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.45,
+      "fit": 0.04,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.36,
+      "fit": 0.03,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.39,
+      "fit": 0.02,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4193
+   },
+   "decision": "rejected: no catalogue brand is safe and relevant here (8/8 blocked by negative contexts)"
+  },
+  {
+   "boundary_index": 11,
+   "gemini_boundary": 1117.0,
+   "t": 1113.875,
+   "kind": "shot_cut",
+   "shot_score": 0.363,
+   "silence_before_s": 1.37,
+   "silence_after_s": 26.13,
+   "alternatives": [
+    {
+     "t": 1113.875,
+     "kind": "shot_cut",
+     "shot_score": 0.363,
+     "silence_before_s": 1.37,
+     "silence_after_s": 26.13
+    }
+   ],
+   "id": "c011",
+   "scene_before": {
+    "start": "16:29",
+    "end": "18:37",
+    "location": "Rural road / Embankment",
+    "characters": [
+     "Dablu Bhai",
+     "Madan Halder",
+     "Bhalka"
+    ],
+    "dominant_activity": "Dablu Bhai handing over management of the fishery",
+    "mood": "calculating",
+    "summary": "Dablu Bhai's car cruises down a scenic coastal road where Madan Halder flags him down alongside Bhalka. Dablu praises Bhalka for handling the dispute earlier and appoints him to oversee the Jorabheri fishery starting tomorrow, to Madan's delight, while inquiring if the new police officer has arrived.",
+    "opening_gist": "Dablu Bhai listens to music in the back of his luxury SUV.",
+    "closing_gist": "Dablu Bhai's car drives off leaving Madan and Bhalka on the road.",
+    "ends_on": "transition",
+    "tags": [
+     "luxury car",
+     "rural road",
+     "crime boss",
+     "appointment",
+     "corrupt politics"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "18:37",
+    "end": "19:55",
+    "location": "Rooftop in village / Embankment",
+    "characters": [
+     "Bonka",
+     "Bhalka",
+     "Local card players"
+    ],
+    "dominant_activity": "Phone conversation regarding the Jorabheri fishery handover",
+    "mood": "suspicious",
+    "summary": "While playing cards on a village rooftop, Bonka receives a phone call from Bhalka informing him that Dablu Bhai gave him charge of Jorabheri following Mokai Das's death. Bonka advises him to handle the job carefully and promises to return soon.",
+    "opening_gist": "Men sit cross-legged on a cot on a rooftop playing cards.",
+    "closing_gist": "Bonka looks thoughtful after ending the call.",
+    "ends_on": "transition",
+    "tags": [
+     "cards",
+     "gambling",
+     "rooftop",
+     "phone call",
+     "rural"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.39,
+    "natural_break_confidence": 0.39,
+    "same_conversation": 0.11,
+    "emotional_peak": 0.04,
+    "input_tokens": 1167
+   },
+   "quality": 0.8527,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "A flute melody begins playing after earlier dialogue finished around 00:04.",
+    "passed": true
+   },
+   "rejected_cuts": [
+    {
+     "t": 1117.958,
+     "heard": "Flute background music fades as the scene cuts to men playing cards, with street ambience and voices beginning right after the cut."
+    }
+   ],
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_e",
+     "brand": "Brand E",
+     "p_forbidden_context": 0.11,
+     "fit": 1.9,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.11,
+      "fit": 1.9,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.11,
+      "fit": 0.68,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.1,
+      "fit": 0.55,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.13,
+      "fit": 0.11,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.11,
+      "fit": 0.01,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.12,
+      "fit": 0.01,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.1,
+      "fit": 0.0,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.1,
+      "fit": 0.0,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4231
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_e",
+    "name": "Brand E",
+    "category": "automotive/mobility",
+    "target_contexts": [
+     "car",
+     "automobile",
+     "driving",
+     "road trip",
+     "commuting",
+     "traffic",
+     "parking",
+     "highway",
+     "motorcycle",
+     "vehicle",
+     "road",
+     "journey",
+     "travel by car",
+     "family trip"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "hospital",
+     "violence",
+     "accident",
+     "injury",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "e_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_e/e_20s_bn.mp4"
+     },
+     {
+      "id": "e_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_e/e_30s_bn.mp4"
+     }
+    ],
+    "color": "#2b9660"
+   },
+   "creative": {
+    "id": "e_30s_bn",
+    "duration_sec": 30,
+    "language": "bn",
+    "url": "ads/brand_e/e_30s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_e/e_30s_bn.mp4",
+   "media_url": "/ads/brand_e/e_30s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 1113.875,
+     "cut_type": "shot_cut",
+     "gemini_scene_boundary_s": 1117.0,
+     "silence_before_s": 1.37,
+     "silence_after_s": 26.13,
+     "audio_audit": "A flute melody begins playing after earlier dialogue finished around 00:04.",
+     "moved_from": [
+      {
+       "t": 1117.958,
+       "heard": "Flute background music fades as the scene cuts to men playing cards, with street ambience and voices beginning right after the cut."
+      }
+     ]
+    },
+    "whether": {
+     "quality": 0.8527,
+     "jev_natural_break_0_to_3": 2.39,
+     "jev_p_same_conversation": 0.11,
+     "jev_p_emotional_peak": 0.04,
+     "creative_seconds": 30
+    },
+    "what": {
+     "brand": "Brand E",
+     "creative": "e_30s_bn",
+     "fit_0_to_3": 1.9,
+     "p_forbidden_context": 0.11,
+     "platform_floor": [],
+     "blocked_brands": [],
+     "brands_considered": 8
+    }
+   }
+  },
+  {
+   "boundary_index": 12,
+   "gemini_boundary": 1195.0,
+   "t": 1196.125,
+   "kind": "shot_cut",
+   "shot_score": 0.677,
+   "silence_before_s": 0.7,
+   "silence_after_s": 1.61,
+   "alternatives": [],
+   "id": "c012",
+   "scene_before": {
+    "start": "18:37",
+    "end": "19:55",
+    "location": "Rooftop in village / Embankment",
+    "characters": [
+     "Bonka",
+     "Bhalka",
+     "Local card players"
+    ],
+    "dominant_activity": "Phone conversation regarding the Jorabheri fishery handover",
+    "mood": "suspicious",
+    "summary": "While playing cards on a village rooftop, Bonka receives a phone call from Bhalka informing him that Dablu Bhai gave him charge of Jorabheri following Mokai Das's death. Bonka advises him to handle the job carefully and promises to return soon.",
+    "opening_gist": "Men sit cross-legged on a cot on a rooftop playing cards.",
+    "closing_gist": "Bonka looks thoughtful after ending the call.",
+    "ends_on": "transition",
+    "tags": [
+     "cards",
+     "gambling",
+     "rooftop",
+     "phone call",
+     "rural"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "19:55",
+    "end": "22:01",
+    "location": "Mandar's room / Rooftop",
+    "characters": [
+     "Mandar",
+     "Bonka"
+    ],
+    "dominant_activity": "Mandar raging after hearing news of Fontus and Dablu",
+    "mood": "rageful",
+    "summary": "Bonka calls Mandar to pass along the news about Fontus and Dablu Bhai assigning Jorabheri. Infuriated by his perceived lack of respect and impotence, Mandar hangs up and smashes his bedroom mirror with a heavy brick in a violent fit of anger.",
+    "opening_gist": "Mandar prepares a brick in his room while looking into the mirror.",
+    "closing_gist": "Mandar repeatedly smashes his mirror with a brick.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "bedroom",
+     "mirror",
+     "phone call",
+     "violent outburst",
+     "brick"
+    ],
+    "sensitive_themes": [
+     "violence_or_fight"
+    ]
+   },
+   "jev": {
+    "natural_break": 1.54,
+    "natural_break_confidence": 0.26,
+    "same_conversation": 0.21,
+    "emotional_peak": 0.06,
+    "input_tokens": 1139
+   },
+   "quality": 0.6678,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 13,
+   "gemini_boundary": 1321.0,
+   "t": 1321.333,
+   "kind": "shot_cut",
+   "shot_score": 0.455,
+   "silence_before_s": 29.18,
+   "silence_after_s": 30.41,
+   "alternatives": [],
+   "id": "c013",
+   "scene_before": {
+    "start": "19:55",
+    "end": "22:01",
+    "location": "Mandar's room / Rooftop",
+    "characters": [
+     "Mandar",
+     "Bonka"
+    ],
+    "dominant_activity": "Mandar raging after hearing news of Fontus and Dablu",
+    "mood": "rageful",
+    "summary": "Bonka calls Mandar to pass along the news about Fontus and Dablu Bhai assigning Jorabheri. Infuriated by his perceived lack of respect and impotence, Mandar hangs up and smashes his bedroom mirror with a heavy brick in a violent fit of anger.",
+    "opening_gist": "Mandar prepares a brick in his room while looking into the mirror.",
+    "closing_gist": "Mandar repeatedly smashes his mirror with a brick.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "bedroom",
+     "mirror",
+     "phone call",
+     "violent outburst",
+     "brick"
+    ],
+    "sensitive_themes": [
+     "violence_or_fight"
+    ]
+   },
+   "scene_after": {
+    "start": "22:01",
+    "end": "23:09",
+    "location": "Dablu Bhai's mansion",
+    "characters": [
+     "Dablu Bhai",
+     "Dablu's wife",
+     "Fontus"
+    ],
+    "dominant_activity": "Dablu Bhai berating Fontus at home",
+    "mood": "hostile",
+    "summary": "Dablu arrives at his lavish home, stepping over vomit near the entrance. He discovers Fontus slumped intoxicated on the sofa and screams at him furiously, cursing him for being useless and a disgrace.",
+    "opening_gist": "Dablu Bhai steps out of his car and enters his house.",
+    "closing_gist": "Dablu continues yelling at Fontus before storming up the stairs.",
+    "ends_on": "transition",
+    "tags": [
+     "mansion",
+     "family dispute",
+     "shouting",
+     "vomit",
+     "intoxication"
+    ],
+    "sensitive_themes": [
+     "alcohol",
+     "vomiting_or_disgust"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.75,
+    "natural_break_confidence": 0.75,
+    "same_conversation": 0.03,
+    "emotional_peak": 0.87,
+    "input_tokens": 1162
+   },
+   "quality": 0.7727,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 14,
+   "gemini_boundary": 1389.0,
+   "t": 1390.375,
+   "kind": "shot_cut",
+   "shot_score": 0.507,
+   "silence_before_s": 20.84,
+   "silence_after_s": 10.46,
+   "alternatives": [],
+   "id": "c014",
+   "scene_before": {
+    "start": "22:01",
+    "end": "23:09",
+    "location": "Dablu Bhai's mansion",
+    "characters": [
+     "Dablu Bhai",
+     "Dablu's wife",
+     "Fontus"
+    ],
+    "dominant_activity": "Dablu Bhai berating Fontus at home",
+    "mood": "hostile",
+    "summary": "Dablu arrives at his lavish home, stepping over vomit near the entrance. He discovers Fontus slumped intoxicated on the sofa and screams at him furiously, cursing him for being useless and a disgrace.",
+    "opening_gist": "Dablu Bhai steps out of his car and enters his house.",
+    "closing_gist": "Dablu continues yelling at Fontus before storming up the stairs.",
+    "ends_on": "transition",
+    "tags": [
+     "mansion",
+     "family dispute",
+     "shouting",
+     "vomit",
+     "intoxication"
+    ],
+    "sensitive_themes": [
+     "alcohol",
+     "vomiting_or_disgust"
+    ]
+   },
+   "scene_after": {
+    "start": "23:09",
+    "end": "23:39",
+    "location": "Dablu's hallway / Balcony",
+    "characters": [
+     "Dablu Bhai",
+     "Dablu's wife"
+    ],
+    "dominant_activity": "Dablu taking a secretive phone call",
+    "mood": "deceptive",
+    "summary": "Upstairs, Dablu takes a phone call from a woman asking if he is arriving. He confirms he is bringing a bottle in the car and tells his wife, who watches from the balcony, not to cook for him as he won't be eating at home.",
+    "opening_gist": "Dablu checks his phone and answers a call in the hallway.",
+    "closing_gist": "Dablu's wife stares coldly as he finishes his conversation.",
+    "ends_on": "transition",
+    "tags": [
+     "phone call",
+     "infidelity",
+     "mansion",
+     "marriage"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.4,
+    "natural_break_confidence": 0.4,
+    "same_conversation": 0.13,
+    "emotional_peak": 0.61,
+    "input_tokens": 1149
+   },
+   "quality": 0.7355,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 15,
+   "gemini_boundary": 1419.0,
+   "t": 1419.917,
+   "kind": "shot_cut",
+   "shot_score": 0.708,
+   "silence_before_s": 0.98,
+   "silence_after_s": 87.86,
+   "alternatives": [],
+   "id": "c015",
+   "scene_before": {
+    "start": "23:09",
+    "end": "23:39",
+    "location": "Dablu's hallway / Balcony",
+    "characters": [
+     "Dablu Bhai",
+     "Dablu's wife"
+    ],
+    "dominant_activity": "Dablu taking a secretive phone call",
+    "mood": "deceptive",
+    "summary": "Upstairs, Dablu takes a phone call from a woman asking if he is arriving. He confirms he is bringing a bottle in the car and tells his wife, who watches from the balcony, not to cook for him as he won't be eating at home.",
+    "opening_gist": "Dablu checks his phone and answers a call in the hallway.",
+    "closing_gist": "Dablu's wife stares coldly as he finishes his conversation.",
+    "ends_on": "transition",
+    "tags": [
+     "phone call",
+     "infidelity",
+     "mansion",
+     "marriage"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "23:39",
+    "end": "24:34",
+    "location": "Rural road / Community center",
+    "characters": [
+     "Laili",
+     "Mothers and children"
+    ],
+    "dominant_activity": "Laili watching children and mothers at a health camp",
+    "mood": "melancholic",
+    "summary": "Laili sits on the back of a motorized van on a country road, gazing wistfully at mothers with infants gathering outside a rural polio and health clinic. Her expression is pained and envious as she observes the joyful children.",
+    "opening_gist": "Laili sits quietly on a parked motorized cart looking at her phone.",
+    "closing_gist": "The cart drives away while Laili watches the babies.",
+    "ends_on": "transition",
+    "tags": [
+     "rural road",
+     "health clinic",
+     "infants",
+     "longing",
+     "cart"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.86,
+    "natural_break_confidence": 0.86,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.15,
+    "input_tokens": 1123
+   },
+   "quality": 0.9393,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "Ambient outdoor traffic and motorized vehicle sounds across the cut, with no speech.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_e",
+     "brand": "Brand E",
+     "p_forbidden_context": 0.15,
+     "fit": 1.32,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.15,
+      "fit": 1.32,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.2,
+      "fit": 0.14,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.18,
+      "fit": 0.14,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.3,
+      "fit": 2.89,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.37,
+      "fit": 0.36,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.36,
+      "fit": 0.16,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.35,
+      "fit": 0.03,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.32,
+      "fit": 0.01,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4196
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_e",
+    "name": "Brand E",
+    "category": "automotive/mobility",
+    "target_contexts": [
+     "car",
+     "automobile",
+     "driving",
+     "road trip",
+     "commuting",
+     "traffic",
+     "parking",
+     "highway",
+     "motorcycle",
+     "vehicle",
+     "road",
+     "journey",
+     "travel by car",
+     "family trip"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "hospital",
+     "violence",
+     "accident",
+     "injury",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "e_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_e/e_20s_bn.mp4"
+     },
+     {
+      "id": "e_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_e/e_30s_bn.mp4"
+     }
+    ],
+    "color": "#2b9660"
+   },
+   "creative": {
+    "id": "e_30s_bn",
+    "duration_sec": 30,
+    "language": "bn",
+    "url": "ads/brand_e/e_30s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_e/e_30s_bn.mp4",
+   "media_url": "/ads/brand_e/e_30s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 1419.917,
+     "cut_type": "shot_cut",
+     "gemini_scene_boundary_s": 1419.0,
+     "silence_before_s": 0.98,
+     "silence_after_s": 87.86,
+     "audio_audit": "Ambient outdoor traffic and motorized vehicle sounds across the cut, with no speech.",
+     "moved_from": []
+    },
+    "whether": {
+     "quality": 0.9393,
+     "jev_natural_break_0_to_3": 2.86,
+     "jev_p_same_conversation": 0.02,
+     "jev_p_emotional_peak": 0.15,
+     "creative_seconds": 30
+    },
+    "what": {
+     "brand": "Brand E",
+     "creative": "e_30s_bn",
+     "fit_0_to_3": 1.32,
+     "p_forbidden_context": 0.15,
+     "platform_floor": [],
+     "blocked_brands": [
+      {
+       "brand": "Brand D",
+       "blocked_by": [
+        "jev"
+       ],
+       "evidence": [],
+       "p_forbidden_context": 0.3
+      },
+      {
+       "brand": "Brand A",
+       "blocked_by": [
+        "jev"
+       ],
+       "evidence": [],
+       "p_forbidden_context": 0.37
+      },
+      {
+       "brand": "Brand G",
+       "blocked_by": [
+        "jev"
+       ],
+       "evidence": [],
+       "p_forbidden_context": 0.36
+      },
+      {
+       "brand": "Brand C",
+       "blocked_by": [
+        "jev"
+       ],
+       "evidence": [],
+       "p_forbidden_context": 0.35
+      },
+      {
+       "brand": "Brand B",
+       "blocked_by": [
+        "jev"
+       ],
+       "evidence": [],
+       "p_forbidden_context": 0.32
+      }
+     ],
+     "brands_considered": 8
+    }
+   }
+  },
+  {
+   "boundary_index": 16,
+   "gemini_boundary": 1474.0,
+   "t": 1473.625,
+   "kind": "shot_cut",
+   "shot_score": 1.0,
+   "silence_before_s": 54.68,
+   "silence_after_s": 34.15,
+   "alternatives": [],
+   "id": "c016",
+   "scene_before": {
+    "start": "23:39",
+    "end": "24:34",
+    "location": "Rural road / Community center",
+    "characters": [
+     "Laili",
+     "Mothers and children"
+    ],
+    "dominant_activity": "Laili watching children and mothers at a health camp",
+    "mood": "melancholic",
+    "summary": "Laili sits on the back of a motorized van on a country road, gazing wistfully at mothers with infants gathering outside a rural polio and health clinic. Her expression is pained and envious as she observes the joyful children.",
+    "opening_gist": "Laili sits quietly on a parked motorized cart looking at her phone.",
+    "closing_gist": "The cart drives away while Laili watches the babies.",
+    "ends_on": "transition",
+    "tags": [
+     "rural road",
+     "health clinic",
+     "infants",
+     "longing",
+     "cart"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "24:34",
+    "end": "26:38",
+    "location": "Laili's bedroom",
+    "characters": [
+     "Laili",
+     "Dablu Bhai"
+    ],
+    "dominant_activity": "Intimacy followed by a heated demand for a child",
+    "mood": "passionate",
+    "summary": "Laili and Dablu Bhai engage in intimate lovemaking in her shack. Afterwards, she gently caresses his necklace and tearfully pleads with him to father a child with her, but Dablu pushes her hands away, reminding her that he already has a family.",
+    "opening_gist": "Dablu Bhai and Laili are seen in bed during intimate passion.",
+    "closing_gist": "Dablu gets dressed and mutters dismissively to Laili.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "bedroom",
+     "lovemaking",
+     "intimacy",
+     "pregnancy request",
+     "rejection"
+    ],
+    "sensitive_themes": [
+     "romance_or_intimacy"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.62,
+    "natural_break_confidence": 0.62,
+    "same_conversation": 0.03,
+    "emotional_peak": 0.21,
+    "input_tokens": 1138
+   },
+   "quality": 0.8808,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 17,
+   "gemini_boundary": 1598.0,
+   "t": 1598.125,
+   "kind": "shot_cut",
+   "shot_score": 0.311,
+   "silence_before_s": 56.46,
+   "silence_after_s": 0.98,
+   "alternatives": [],
+   "id": "c017",
+   "scene_before": {
+    "start": "24:34",
+    "end": "26:38",
+    "location": "Laili's bedroom",
+    "characters": [
+     "Laili",
+     "Dablu Bhai"
+    ],
+    "dominant_activity": "Intimacy followed by a heated demand for a child",
+    "mood": "passionate",
+    "summary": "Laili and Dablu Bhai engage in intimate lovemaking in her shack. Afterwards, she gently caresses his necklace and tearfully pleads with him to father a child with her, but Dablu pushes her hands away, reminding her that he already has a family.",
+    "opening_gist": "Dablu Bhai and Laili are seen in bed during intimate passion.",
+    "closing_gist": "Dablu gets dressed and mutters dismissively to Laili.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "bedroom",
+     "lovemaking",
+     "intimacy",
+     "pregnancy request",
+     "rejection"
+    ],
+    "sensitive_themes": [
+     "romance_or_intimacy"
+    ]
+   },
+   "scene_after": {
+    "start": "26:38",
+    "end": "27:19",
+    "location": "Laili's bedroom / Kitchen area",
+    "characters": [
+     "Laili",
+     "Dablu Bhai"
+    ],
+    "dominant_activity": "Dablu demanding alcohol before leaving",
+    "mood": "callous",
+    "summary": "Dablu tells Laili that he only came because her illness was an excuse, laughing that nobody can stand in his way. He orders her to pour him a drink of country liquor, which she does in silence.",
+    "opening_gist": "Dablu lies back on the bed talking arrogantly.",
+    "closing_gist": "Laili pours alcohol into a metal tumbler.",
+    "ends_on": "transition",
+    "tags": [
+     "drinking",
+     "alcohol",
+     "bedroom",
+     "shack",
+     "chauvinism"
+    ],
+    "sensitive_themes": [
+     "alcohol"
+    ]
+   },
+   "jev": {
+    "natural_break": 1.49,
+    "natural_break_confidence": 0.08,
+    "same_conversation": 0.52,
+    "emotional_peak": 0.41,
+    "input_tokens": 1143
+   },
+   "quality": 0.5112,
+   "decision": "rejected: quality 0.51 below 0.55"
+  },
+  {
+   "boundary_index": 18,
+   "gemini_boundary": 1639.0,
+   "t": 1638.958,
+   "kind": "shot_cut",
+   "shot_score": 0.192,
+   "silence_before_s": 19.92,
+   "silence_after_s": 84.63,
+   "alternatives": [],
+   "id": "c018",
+   "scene_before": {
+    "start": "26:38",
+    "end": "27:19",
+    "location": "Laili's bedroom / Kitchen area",
+    "characters": [
+     "Laili",
+     "Dablu Bhai"
+    ],
+    "dominant_activity": "Dablu demanding alcohol before leaving",
+    "mood": "callous",
+    "summary": "Dablu tells Laili that he only came because her illness was an excuse, laughing that nobody can stand in his way. He orders her to pour him a drink of country liquor, which she does in silence.",
+    "opening_gist": "Dablu lies back on the bed talking arrogantly.",
+    "closing_gist": "Laili pours alcohol into a metal tumbler.",
+    "ends_on": "transition",
+    "tags": [
+     "drinking",
+     "alcohol",
+     "bedroom",
+     "shack",
+     "chauvinism"
+    ],
+    "sensitive_themes": [
+     "alcohol"
+    ]
+   },
+   "scene_after": {
+    "start": "27:19",
+    "end": "28:42",
+    "location": "Mandar's room",
+    "characters": [
+     "Mandar"
+    ],
+    "dominant_activity": "Mandar drinking liquor and reminiscing about Laili",
+    "mood": "heartbroken",
+    "summary": "Sitting alone in his dark room, Mandar downs a glass of alcohol. He takes a photo from a secret pouch in his clothes and gazes lovingly at a picture of him and Laili together in wedding attire, heartbroken by their separation.",
+    "opening_gist": "Mandar sits on the edge of his bed drinking liquor.",
+    "closing_gist": "Mandar stares at the photograph inside his wallet.",
+    "ends_on": "transition",
+    "tags": [
+     "drinking",
+     "alcohol",
+     "photograph",
+     "heartache",
+     "bedroom"
+    ],
+    "sensitive_themes": [
+     "alcohol"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.49,
+    "natural_break_confidence": 0.49,
+    "same_conversation": 0.03,
+    "emotional_peak": 0.13,
+    "input_tokens": 1121
+   },
+   "quality": 0.873,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 19,
+   "gemini_boundary": 1722.0,
+   "t": 1721.792,
+   "kind": "shot_cut",
+   "shot_score": 0.619,
+   "silence_before_s": 102.76,
+   "silence_after_s": 1.8,
+   "alternatives": [
+    {
+     "t": 1726.75,
+     "kind": "shot_cut",
+     "shot_score": 0.413,
+     "silence_before_s": 2.88,
+     "silence_after_s": 5.83
+    }
+   ],
+   "id": "c019",
+   "scene_before": {
+    "start": "27:19",
+    "end": "28:42",
+    "location": "Mandar's room",
+    "characters": [
+     "Mandar"
+    ],
+    "dominant_activity": "Mandar drinking liquor and reminiscing about Laili",
+    "mood": "heartbroken",
+    "summary": "Sitting alone in his dark room, Mandar downs a glass of alcohol. He takes a photo from a secret pouch in his clothes and gazes lovingly at a picture of him and Laili together in wedding attire, heartbroken by their separation.",
+    "opening_gist": "Mandar sits on the edge of his bed drinking liquor.",
+    "closing_gist": "Mandar stares at the photograph inside his wallet.",
+    "ends_on": "transition",
+    "tags": [
+     "drinking",
+     "alcohol",
+     "photograph",
+     "heartache",
+     "bedroom"
+    ],
+    "sensitive_themes": [
+     "alcohol"
+    ]
+   },
+   "scene_after": {
+    "start": "28:42",
+    "end": "28:55",
+    "location": "Wedding memory / Fantasy",
+    "characters": [
+     "Mandar",
+     "Laili",
+     "Wedding guests"
+    ],
+    "dominant_activity": "Flashback to Mandar and Laili exchanging wedding garlands",
+    "mood": "joyful",
+    "summary": "A brief, blissful memory shows Mandar and Laili dressed as bride and groom, joyfully exchanging floral garlands during a Bengali wedding ceremony surrounded by smiling relatives.",
+    "opening_gist": "Laili places a garland around Mandar's neck.",
+    "closing_gist": "Laili laughs radiantly in bridal makeup.",
+    "ends_on": "resolved",
+    "tags": [
+     "wedding",
+     "flashback",
+     "garland exchange",
+     "love",
+     "memory"
+    ],
+    "sensitive_themes": [
+     "romance_or_intimacy"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.42,
+    "natural_break_confidence": 0.42,
+    "same_conversation": 0.06,
+    "emotional_peak": 0.32,
+    "input_tokens": 1121
+   },
+   "quality": 0.8147,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 20,
+   "gemini_boundary": 1735.0,
+   "t": 1740.625,
+   "kind": "shot_cut",
+   "shot_score": 0.224,
+   "silence_before_s": 3.16,
+   "silence_after_s": 7.12,
+   "alternatives": [
+    {
+     "t": 1740.625,
+     "kind": "shot_cut",
+     "shot_score": 0.224,
+     "silence_before_s": 3.16,
+     "silence_after_s": 7.12
+    }
+   ],
+   "id": "c020",
+   "scene_before": {
+    "start": "28:42",
+    "end": "28:55",
+    "location": "Wedding memory / Fantasy",
+    "characters": [
+     "Mandar",
+     "Laili",
+     "Wedding guests"
+    ],
+    "dominant_activity": "Flashback to Mandar and Laili exchanging wedding garlands",
+    "mood": "joyful",
+    "summary": "A brief, blissful memory shows Mandar and Laili dressed as bride and groom, joyfully exchanging floral garlands during a Bengali wedding ceremony surrounded by smiling relatives.",
+    "opening_gist": "Laili places a garland around Mandar's neck.",
+    "closing_gist": "Laili laughs radiantly in bridal makeup.",
+    "ends_on": "resolved",
+    "tags": [
+     "wedding",
+     "flashback",
+     "garland exchange",
+     "love",
+     "memory"
+    ],
+    "sensitive_themes": [
+     "romance_or_intimacy"
+    ]
+   },
+   "scene_after": {
+    "start": "28:55",
+    "end": "30:49",
+    "location": "Laili's shack / Kitchen / Yard",
+    "characters": [
+     "Laili",
+     "Dablu Bhai",
+     "Driver"
+    ],
+    "dominant_activity": "Dablu leaving Laili's house while a neighbor watches",
+    "mood": "tense",
+    "summary": "Laili heats tea on a gas stove as Dablu finishes his drink and prepares to depart, mocking Mandar's manhood on his way out. As Dablu gets into his car, a nosy female neighbor watches suspiciously from across the lane, noticing Laili standing at her door.",
+    "opening_gist": "Blue flames lick the bottom of a tea pan on the stove.",
+    "closing_gist": "Dablu's car speeds away as the neighbor sneers.",
+    "ends_on": "resolved",
+    "tags": [
+     "kitchen",
+     "car departure",
+     "gossip",
+     "neighbor",
+     "shack"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.83,
+    "natural_break_confidence": 0.83,
+    "same_conversation": 0.03,
+    "emotional_peak": 0.05,
+    "input_tokens": 1134
+   },
+   "quality": 0.9513,
+   "audit": {
+    "speech_near_cut": true,
+    "sentence_spans_cut": false,
+    "what_is_heard": "A male voice sings 'I love you' which ends just around 00:04-00:05, followed by physical grunts and ambient noise around 00:05-00:06.",
+    "passed": false
+   },
+   "rejected_cuts": [
+    {
+     "t": 1730.917,
+     "heard": "A vocalist finishes singing a phrase around 00:04.5, followed by a brief breath/pause, and then begins singing the next line just after 00:05 over gentle background instrumentation."
+    }
+   ],
+   "decision": "rejected: Gemini audit heard dialogue at every clean cut here (A male voice sings 'I love you' which ends just around 00:04-00:05, followed by physical grunts and ambient noise around 00:05-00:06.)"
+  },
+  {
+   "boundary_index": 21,
+   "gemini_boundary": 1849.0,
+   "t": 1850.125,
+   "kind": "shot_cut",
+   "shot_score": 0.354,
+   "silence_before_s": 67.18,
+   "silence_after_s": 18.52,
+   "alternatives": [],
+   "id": "c021",
+   "scene_before": {
+    "start": "28:55",
+    "end": "30:49",
+    "location": "Laili's shack / Kitchen / Yard",
+    "characters": [
+     "Laili",
+     "Dablu Bhai",
+     "Driver"
+    ],
+    "dominant_activity": "Dablu leaving Laili's house while a neighbor watches",
+    "mood": "tense",
+    "summary": "Laili heats tea on a gas stove as Dablu finishes his drink and prepares to depart, mocking Mandar's manhood on his way out. As Dablu gets into his car, a nosy female neighbor watches suspiciously from across the lane, noticing Laili standing at her door.",
+    "opening_gist": "Blue flames lick the bottom of a tea pan on the stove.",
+    "closing_gist": "Dablu's car speeds away as the neighbor sneers.",
+    "ends_on": "resolved",
+    "tags": [
+     "kitchen",
+     "car departure",
+     "gossip",
+     "neighbor",
+     "shack"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "30:49",
+    "end": "32:10",
+    "location": "Mandar's bedroom",
+    "characters": [
+     "Mandar",
+     "Laili"
+    ],
+    "dominant_activity": "Laili berating Mandar over the phone",
+    "mood": "hostile",
+    "summary": "Mandar answers a phone call from Laili, who explodes in fury at his failure to stand up to Dablu Bhai and cure his sexual impotence. She screams that if he doesn't see a doctor and become a real man, she will see Dablu destroyed and take matters into her own hands.",
+    "opening_gist": "Mandar lies on the bed before his phone rings.",
+    "closing_gist": "Laili furiously hangs up on Mandar.",
+    "ends_on": "cliffhanger",
+    "tags": [
+     "bedroom",
+     "phone call",
+     "screaming",
+     "impotence",
+     "ultimatum"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.46,
+    "natural_break_confidence": 0.46,
+    "same_conversation": 0.05,
+    "emotional_peak": 0.11,
+    "input_tokens": 1147
+   },
+   "quality": 0.8665,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "Ambient background tones and birds chirping, with no dialogue.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": {
+     "brand_id": "brand_e",
+     "brand": "Brand E",
+     "p_forbidden_context": 0.07,
+     "fit": 2.54,
+     "blocked": false,
+     "blocked_by": [],
+     "lexical_evidence": []
+    },
+    "table": [
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.07,
+      "fit": 2.54,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.09,
+      "fit": 1.75,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.08,
+      "fit": 0.48,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.08,
+      "fit": 0.15,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.1,
+      "fit": 0.05,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.08,
+      "fit": 0.03,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.08,
+      "fit": 0.02,
+      "blocked": false,
+      "blocked_by": [],
+      "lexical_evidence": []
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.37,
+      "fit": 0.07,
+      "blocked": true,
+      "blocked_by": [
+       "jev"
+      ],
+      "lexical_evidence": []
+     }
+    ],
+    "floor": [],
+    "input_tokens": 4203
+   },
+   "decision": "selected",
+   "brand": {
+    "id": "brand_e",
+    "name": "Brand E",
+    "category": "automotive/mobility",
+    "target_contexts": [
+     "car",
+     "automobile",
+     "driving",
+     "road trip",
+     "commuting",
+     "traffic",
+     "parking",
+     "highway",
+     "motorcycle",
+     "vehicle",
+     "road",
+     "journey",
+     "travel by car",
+     "family trip"
+    ],
+    "negative_contexts": [
+     "funeral",
+     "hospital",
+     "violence",
+     "accident",
+     "injury",
+     "grief"
+    ],
+    "creatives": [
+     {
+      "id": "e_20s_bn",
+      "duration_sec": 20,
+      "language": "bn",
+      "url": "ads/brand_e/e_20s_bn.mp4"
+     },
+     {
+      "id": "e_30s_bn",
+      "duration_sec": 30,
+      "language": "bn",
+      "url": "ads/brand_e/e_30s_bn.mp4"
+     }
+    ],
+    "color": "#2b9660"
+   },
+   "creative": {
+    "id": "e_30s_bn",
+    "duration_sec": 30,
+    "language": "bn",
+    "url": "ads/brand_e/e_30s_bn.mp4"
+   },
+   "creative_url": "/ads/brand_e/e_30s_bn.mp4",
+   "media_url": "/ads/brand_e/e_30s_bn.mp4",
+   "trace": {
+    "where": {
+     "cut_s": 1850.125,
+     "cut_type": "shot_cut",
+     "gemini_scene_boundary_s": 1849.0,
+     "silence_before_s": 67.18,
+     "silence_after_s": 18.52,
+     "audio_audit": "Ambient background tones and birds chirping, with no dialogue.",
+     "moved_from": []
+    },
+    "whether": {
+     "quality": 0.8665,
+     "jev_natural_break_0_to_3": 2.46,
+     "jev_p_same_conversation": 0.05,
+     "jev_p_emotional_peak": 0.11,
+     "creative_seconds": 30
+    },
+    "what": {
+     "brand": "Brand E",
+     "creative": "e_30s_bn",
+     "fit_0_to_3": 2.54,
+     "p_forbidden_context": 0.07,
+     "platform_floor": [],
+     "blocked_brands": [
+      {
+       "brand": "Brand B",
+       "blocked_by": [
+        "jev"
+       ],
+       "evidence": [],
+       "p_forbidden_context": 0.37
+      }
+     ],
+     "brands_considered": 8
+    }
+   }
+  },
+  {
+   "boundary_index": 22,
+   "gemini_boundary": 1930.0,
+   "t": 1930.417,
+   "kind": "shot_cut",
+   "shot_score": 0.624,
+   "silence_before_s": 52.76,
+   "silence_after_s": 106.2,
+   "alternatives": [],
+   "id": "c022",
+   "scene_before": {
+    "start": "30:49",
+    "end": "32:10",
+    "location": "Mandar's bedroom",
+    "characters": [
+     "Mandar",
+     "Laili"
+    ],
+    "dominant_activity": "Laili berating Mandar over the phone",
+    "mood": "hostile",
+    "summary": "Mandar answers a phone call from Laili, who explodes in fury at his failure to stand up to Dablu Bhai and cure his sexual impotence. She screams that if he doesn't see a doctor and become a real man, she will see Dablu destroyed and take matters into her own hands.",
+    "opening_gist": "Mandar lies on the bed before his phone rings.",
+    "closing_gist": "Laili furiously hangs up on Mandar.",
+    "ends_on": "cliffhanger",
+    "tags": [
+     "bedroom",
+     "phone call",
+     "screaming",
+     "impotence",
+     "ultimatum"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "32:10",
+    "end": "32:44",
+    "location": "Laili's shack",
+    "characters": [
+     "Laili"
+    ],
+    "dominant_activity": "Laili washing herself with cold water",
+    "mood": "frustrated",
+    "summary": "Distraught and disgusted, Laili walks into her dark bathroom wash area and pours bucket after bucket of cold water over her head, attempting to wash away the feeling of Dablu's touch.",
+    "opening_gist": "Laili enters the dimly lit bathroom stall.",
+    "closing_gist": "Laili sits panting under the splash of water.",
+    "ends_on": "transition",
+    "tags": [
+     "bathing",
+     "water bucket",
+     "wash area",
+     "disgust",
+     "frustration"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.43,
+    "natural_break_confidence": 0.43,
+    "same_conversation": 0.08,
+    "emotional_peak": 0.82,
+    "input_tokens": 1109
+   },
+   "quality": 0.7115,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 23,
+   "gemini_boundary": 1964.0,
+   "t": 1963.792,
+   "kind": "shot_cut",
+   "shot_score": 0.418,
+   "silence_before_s": 86.13,
+   "silence_after_s": 72.82,
+   "alternatives": [],
+   "id": "c023",
+   "scene_before": {
+    "start": "32:10",
+    "end": "32:44",
+    "location": "Laili's shack",
+    "characters": [
+     "Laili"
+    ],
+    "dominant_activity": "Laili washing herself with cold water",
+    "mood": "frustrated",
+    "summary": "Distraught and disgusted, Laili walks into her dark bathroom wash area and pours bucket after bucket of cold water over her head, attempting to wash away the feeling of Dablu's touch.",
+    "opening_gist": "Laili enters the dimly lit bathroom stall.",
+    "closing_gist": "Laili sits panting under the splash of water.",
+    "ends_on": "transition",
+    "tags": [
+     "bathing",
+     "water bucket",
+     "wash area",
+     "disgust",
+     "frustration"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "32:44",
+    "end": "33:34",
+    "location": "Village square / Market",
+    "characters": [
+     "Mandar",
+     "Villagers"
+    ],
+    "dominant_activity": "Mandar walking toward Dr. Gupta's clinic",
+    "mood": "determined",
+    "summary": "Having reached his breaking point, Mandar walks through the busy town market wearing his red sunglasses. He spots the sign for Dr. Haradhan Gupta's clinic and ascends the exterior staircase to seek treatment.",
+    "opening_gist": "A mannequin stands outside a shopping store.",
+    "closing_gist": "Mandar climbs the stairs leading to the sex clinic.",
+    "ends_on": "resolved",
+    "tags": [
+     "market",
+     "street",
+     "stairs",
+     "sunglasses",
+     "clinic"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.78,
+    "natural_break_confidence": 0.78,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.56,
+    "input_tokens": 1076
+   },
+   "quality": 0.8427,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  },
+  {
+   "boundary_index": 24,
+   "gemini_boundary": 2014.0,
+   "t": 2014.167,
+   "kind": "shot_cut",
+   "shot_score": 0.773,
+   "silence_before_s": 136.51,
+   "silence_after_s": 22.45,
+   "alternatives": [],
+   "id": "c024",
+   "scene_before": {
+    "start": "32:44",
+    "end": "33:34",
+    "location": "Village square / Market",
+    "characters": [
+     "Mandar",
+     "Villagers"
+    ],
+    "dominant_activity": "Mandar walking toward Dr. Gupta's clinic",
+    "mood": "determined",
+    "summary": "Having reached his breaking point, Mandar walks through the busy town market wearing his red sunglasses. He spots the sign for Dr. Haradhan Gupta's clinic and ascends the exterior staircase to seek treatment.",
+    "opening_gist": "A mannequin stands outside a shopping store.",
+    "closing_gist": "Mandar climbs the stairs leading to the sex clinic.",
+    "ends_on": "resolved",
+    "tags": [
+     "market",
+     "street",
+     "stairs",
+     "sunglasses",
+     "clinic"
+    ],
+    "sensitive_themes": []
+   },
+   "scene_after": {
+    "start": "33:34",
+    "end": "37:02",
+    "location": "Laili's home",
+    "characters": [
+     "Laili",
+     "Dablu's wife"
+    ],
+    "dominant_activity": "Dablu's wife confronting and threatening Laili",
+    "mood": "menacing",
+    "summary": "Dablu's wife arrives at Laili's home under the guise of casual conversation and eating plum pickle. She subtly reveals she knows about Laili's affair with Dablu, warning her not to reach above her station or she will personally mutilate her lower belly, before leaving with a chilling parting smile.",
+    "opening_gist": "Laili sits in her room eating sour pickles from a bowl.",
+    "closing_gist": "Dablu's wife exits the house after finishing her warning.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "house visit",
+     "confrontation",
+     "veiled threat",
+     "pickle eating",
+     "infidelity"
+    ],
+    "sensitive_themes": [
+     "violence_or_fight"
+    ]
+   },
+   "jev": {
+    "natural_break": 2.87,
+    "natural_break_confidence": 0.87,
+    "same_conversation": 0.02,
+    "emotional_peak": 0.06,
+    "input_tokens": 1126
+   },
+   "quality": 0.9592,
+   "audit": {
+    "speech_near_cut": false,
+    "sentence_spans_cut": false,
+    "what_is_heard": "Ambient background sound and instrumental music with no dialogue spoken.",
+    "passed": true
+   },
+   "brand_match": {
+    "choice": null,
+    "table": [
+     {
+      "brand_id": "brand_f",
+      "brand": "Brand F",
+      "p_forbidden_context": 0.77,
+      "fit": 0.55,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_h",
+      "brand": "Brand H",
+      "p_forbidden_context": 0.73,
+      "fit": 0.4,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_e",
+      "brand": "Brand E",
+      "p_forbidden_context": 0.68,
+      "fit": 0.2,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_d",
+      "brand": "Brand D",
+      "p_forbidden_context": 0.79,
+      "fit": 0.12,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_a",
+      "brand": "Brand A",
+      "p_forbidden_context": 0.87,
+      "fit": 0.09,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_b",
+      "brand": "Brand B",
+      "p_forbidden_context": 0.96,
+      "fit": 0.09,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "eating (matched 'eating')",
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_c",
+      "brand": "Brand C",
+      "p_forbidden_context": 0.83,
+      "fit": 0.07,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     },
+     {
+      "brand_id": "brand_g",
+      "brand": "Brand G",
+      "p_forbidden_context": 0.86,
+      "fit": 0.02,
+      "blocked": true,
+      "blocked_by": [
+       "platform_floor",
+       "lexical",
+       "jev"
+      ],
+      "lexical_evidence": [
+       "hospital (matched 'clinic')"
+      ]
+     }
+    ],
+    "floor": [
+     "jev 0.48"
+    ],
+    "input_tokens": 4170
+   },
+   "decision": "rejected: platform brand-safety floor (jev 0.48)"
+  },
+  {
+   "boundary_index": 25,
+   "gemini_boundary": 2222.0,
+   "t": 2222.625,
+   "kind": "shot_cut",
+   "shot_score": 0.451,
+   "silence_before_s": 28.61,
+   "silence_after_s": 41.41,
+   "alternatives": [],
+   "id": "c025",
+   "scene_before": {
+    "start": "33:34",
+    "end": "37:02",
+    "location": "Laili's home",
+    "characters": [
+     "Laili",
+     "Dablu's wife"
+    ],
+    "dominant_activity": "Dablu's wife confronting and threatening Laili",
+    "mood": "menacing",
+    "summary": "Dablu's wife arrives at Laili's home under the guise of casual conversation and eating plum pickle. She subtly reveals she knows about Laili's affair with Dablu, warning her not to reach above her station or she will personally mutilate her lower belly, before leaving with a chilling parting smile.",
+    "opening_gist": "Laili sits in her room eating sour pickles from a bowl.",
+    "closing_gist": "Dablu's wife exits the house after finishing her warning.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "house visit",
+     "confrontation",
+     "veiled threat",
+     "pickle eating",
+     "infidelity"
+    ],
+    "sensitive_themes": [
+     "violence_or_fight"
+    ]
+   },
+   "scene_after": {
+    "start": "37:02",
+    "end": "39:10",
+    "location": "Town market / Laili's bedroom",
+    "characters": [
+     "Mandar",
+     "Laili",
+     "Stray cat"
+    ],
+    "dominant_activity": "Mandar reporting his medical visit while Laili plans revenge",
+    "mood": "sinister",
+    "summary": "Mandar calls Laili from the street, revealing he saw the doctor, took an injection, and bought medicines to cure his condition. In the dim room, Laili hears a cat meowing at her window and listens with an intense, vengeful glare, resolute in her dark ambitions as dramatic music swells to a close.",
+    "opening_gist": "Mandar paces outside a medical pharmacy calling Laili.",
+    "closing_gist": "Extreme close-up on Laili's enraged, calculating face.",
+    "ends_on": "dramatic_beat",
+    "tags": [
+     "phone call",
+     "clinic",
+     "medicine",
+     "vengeance",
+     "cat",
+     "menacing look"
+    ],
+    "sensitive_themes": []
+   },
+   "jev": {
+    "natural_break": 2.86,
+    "natural_break_confidence": 0.86,
+    "same_conversation": 0.04,
+    "emotional_peak": 0.61,
+    "input_tokens": 1174
+   },
+   "quality": 0.8423,
+   "decision": "not chosen: the pacing planner preferred a better-spaced set of breaks"
+  }
+ ],
+ "rejected_boundaries": [
+  {
+   "boundary_index": 0,
+   "gemini_boundary": 14.0,
+   "reason": "inside protected opening/ending window"
+  },
+  {
+   "boundary_index": 1,
+   "gemini_boundary": 92.0,
+   "reason": "inside protected opening/ending window"
+  }
+ ],
+ "brands": [
+  {
+   "id": "brand_a",
+   "name": "Brand A",
+   "category": "food/spices/cooking",
+   "target_contexts": [
+    "cooking",
+    "kitchen",
+    "eating",
+    "family meal",
+    "recipe",
+    "food preparation",
+    "spices",
+    "seasoning",
+    "frying",
+    "boiling",
+    "homemade food",
+    "lunch",
+    "dinner",
+    "festival food"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "illness",
+    "bathroom",
+    "accident",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "a_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_a/a_15s_bn.mp4"
+    },
+    {
+     "id": "a_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_a/a_20s_bn.mp4"
+    },
+    {
+     "id": "a_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_a/a_30s_bn.mp4"
+    }
+   ],
+   "color": "#8a2b96"
+  },
+  {
+   "id": "brand_b",
+   "name": "Brand B",
+   "category": "personal care/skincare",
+   "target_contexts": [
+    "face wash",
+    "skincare",
+    "bathroom",
+    "morning routine",
+    "hair care",
+    "sweating",
+    "heat",
+    "shower",
+    "washing face",
+    "moisturizer",
+    "cream",
+    "personal hygiene",
+    "self care",
+    "getting ready"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "violence",
+    "eating",
+    "accident",
+    "hospital",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "b_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_b/b_15s_bn.mp4"
+    },
+    {
+     "id": "b_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_b/b_20s_bn.mp4"
+    },
+    {
+     "id": "b_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_b/b_30s_bn.mp4"
+    }
+   ],
+   "color": "#962b8e"
+  },
+  {
+   "id": "brand_c",
+   "name": "Brand C",
+   "category": "beauty/cosmetics",
+   "target_contexts": [
+    "make-up",
+    "getting ready",
+    "wedding",
+    "party",
+    "mirror",
+    "fashion",
+    "salon",
+    "lipstick",
+    "foundation",
+    "eyeliner",
+    "beauty",
+    "dressing",
+    "celebration",
+    "special occasion"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "violence",
+    "illness",
+    "accident",
+    "hospital",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "c_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_c/c_15s_bn.mp4"
+    },
+    {
+     "id": "c_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_c/c_20s_bn.mp4"
+    },
+    {
+     "id": "c_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_c/c_30s_bn.mp4"
+    }
+   ],
+   "color": "#302b96"
+  },
+  {
+   "id": "brand_d",
+   "name": "Brand D",
+   "category": "telecom/connectivity",
+   "target_contexts": [
+    "phone",
+    "mobile",
+    "calling",
+    "video call",
+    "messaging",
+    "internet",
+    "wifi",
+    "streaming",
+    "social media",
+    "working remotely",
+    "online meeting",
+    "travel",
+    "communication",
+    "family conversation"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "medical emergency",
+    "violence"
+   ],
+   "creatives": [
+    {
+     "id": "d_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_d/d_20s_bn.mp4"
+    },
+    {
+     "id": "d_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_d/d_30s_bn.mp4"
+    }
+   ],
+   "color": "#964c2b"
+  },
+  {
+   "id": "brand_e",
+   "name": "Brand E",
+   "category": "automotive/mobility",
+   "target_contexts": [
+    "car",
+    "automobile",
+    "driving",
+    "road trip",
+    "commuting",
+    "traffic",
+    "parking",
+    "highway",
+    "motorcycle",
+    "vehicle",
+    "road",
+    "journey",
+    "travel by car",
+    "family trip"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "accident",
+    "injury",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "e_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_e/e_20s_bn.mp4"
+    },
+    {
+     "id": "e_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_e/e_30s_bn.mp4"
+    }
+   ],
+   "color": "#2b9660"
+  },
+  {
+   "id": "brand_f",
+   "name": "Brand F",
+   "category": "fintech/digital payments",
+   "target_contexts": [
+    "shopping",
+    "payment",
+    "mobile payment",
+    "digital wallet",
+    "banking",
+    "money transfer",
+    "bill payment",
+    "online shopping",
+    "checkout",
+    "merchant",
+    "salary",
+    "personal finance",
+    "transaction"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "financial distress",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "f_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_f/f_15s_bn.mp4"
+    },
+    {
+     "id": "f_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_f/f_20s_bn.mp4"
+    },
+    {
+     "id": "f_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_f/f_30s_bn.mp4"
+    }
+   ],
+   "color": "#952b96"
+  },
+  {
+   "id": "brand_g",
+   "name": "Brand G",
+   "category": "travel/hospitality",
+   "target_contexts": [
+    "travel",
+    "vacation",
+    "holiday",
+    "hotel",
+    "resort",
+    "tourism",
+    "train journey",
+    "airport",
+    "beach",
+    "mountains",
+    "sightseeing",
+    "road trip",
+    "weekend trip",
+    "family vacation"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "accident",
+    "illness",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "g_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_g/g_20s_bn.mp4"
+    },
+    {
+     "id": "g_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_g/g_30s_bn.mp4"
+    }
+   ],
+   "color": "#962b8c"
+  },
+  {
+   "id": "brand_h",
+   "name": "Brand H",
+   "category": "e-commerce/online shopping",
+   "target_contexts": [
+    "online shopping",
+    "shopping",
+    "delivery",
+    "package",
+    "parcel",
+    "e-commerce",
+    "mobile shopping",
+    "product browsing",
+    "checkout",
+    "fashion shopping",
+    "home shopping",
+    "electronics shopping",
+    "gift",
+    "purchase"
+   ],
+   "negative_contexts": [
+    "funeral",
+    "hospital",
+    "violence",
+    "accident",
+    "grief"
+   ],
+   "creatives": [
+    {
+     "id": "h_15s_bn",
+     "duration_sec": 15,
+     "language": "bn",
+     "url": "ads/brand_h/h_15s_bn.mp4"
+    },
+    {
+     "id": "h_20s_bn",
+     "duration_sec": 20,
+     "language": "bn",
+     "url": "ads/brand_h/h_20s_bn.mp4"
+    },
+    {
+     "id": "h_30s_bn",
+     "duration_sec": 30,
+     "language": "bn",
+     "url": "ads/brand_h/h_30s_bn.mp4"
+    }
+   ],
+   "color": "#2b3496"
+  }
+ ],
+ "policy": {
+  "BOUNDARY_SEARCH_WINDOW_S": 6.0,
+  "BRAND_BLOCK_THRESHOLD": 0.25,
+  "CREATIVE_BASE_URL": "/",
+  "CUT_MAX_SPEECH_PROB": 0.15,
+  "GEMINI_MODEL": "gemini-3.8-flash",
+  "JEV_MODEL": "jev-latest",
+  "LONG_CREATIVE_MIN_QUALITY": 0.85,
+  "MAX_AD_LOAD_PCT": 6.0,
+  "MAX_BREAKS_PER_HOUR": 6,
+  "MIN_BRAND_FIT": 0.35,
+  "MIN_BREAK_QUALITY": 0.55,
+  "MIN_GAP_BETWEEN_BREAKS_S": 240,
+  "MIN_SOFT_GAP_S": 1.2,
+  "MIN_SPEECH_CLEARANCE_S": 0.35,
+  "NO_BREAK_BEFORE_S": 120,
+  "NO_BREAK_IN_LAST_S": 60,
+  "PREFERRED_CREATIVE_S": 20,
+  "SAME_CONVERSATION_REJECT": 0.7,
+  "UNSAFE_SLOT_POLICY": "move",
+  "VAD_THRESHOLD": 0.4
+ },
+ "pacing": {
+  "max_breaks_for_runtime": 4,
+  "ad_budget_s": 141.0,
+  "ad_seconds_used": 120,
+  "ad_load_pct": 5.11
+ },
+ "analysis_model": "gemini-3.8-flash",
+ "analysed_at": "2026-09-26 16:38:05",
+ "timings": {
+  "understand_s": 0.0,
+  "signals_s": 0.0,
+  "judge_s": 2.3,
+  "select_s": 6.7,
+  "total_s": 9.0
+ },
+ "vmap_url": "/out/mandaar/vmap.xml"
+}

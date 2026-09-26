@@ -1,0 +1,421 @@
+{
+ "synopsis": "This episode introduces the characters and sets the stage for a financial drama. A man named Shariar is involved in stock market investments, while another man, Akbar, faces severe financial distress, including his house being put up for auction. Akbar's nephew, who has sent money to Akbar, is also struggling. The episode highlights themes of financial fraud, desperation, and the lengths people go to for money, culminating in a plan for a bank robbery.",
+ "scenes": [
+  {
+   "start": "00:00",
+   "end": "00:04",
+   "location": "Digital",
+   "characters": [],
+   "dominant_activity": "Brand logo animation",
+   "mood": "Neutral, corporate",
+   "summary": "The Hoichoi streaming platform logo is displayed with animated effects.",
+   "opening_gist": "Animated logo appears.",
+   "closing_gist": "Logo settles.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:04",
+   "end": "00:15",
+   "location": "Digital",
+   "characters": [],
+   "dominant_activity": "Displaying legal disclaimer",
+   "mood": "Neutral, informative",
+   "summary": "A disclaimer is shown, stating the program is fictional and may contain strong language, violence, and mature scenes. It also warns about smoking, alcohol, and tobacco consumption.",
+   "opening_gist": "Disclaimer text appears.",
+   "closing_gist": "Disclaimer text remains on screen.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "smoking"
+   ]
+  },
+  {
+   "start": "00:15",
+   "end": "00:23",
+   "location": "Digital",
+   "characters": [],
+   "dominant_activity": "Displaying 'Hoichoi Originals' and 'Episode One' titles.",
+   "mood": "Neutral, informative",
+   "summary": "The screen transitions to 'Hoichoi Originals' and then 'Episode One' in Bengali.",
+   "opening_gist": "'Hoichoi Originals' appears.",
+   "closing_gist": "'Episode One' in Bengali appears.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:23",
+   "end": "01:04",
+   "location": "A dimly lit room",
+   "characters": [
+    "A man",
+    "A woman"
+   ],
+   "dominant_activity": "Domestic violence, physical assault",
+   "mood": "Violent, tense, fearful",
+   "summary": "A man violently assaults a woman in a dimly lit room, hitting and choking her. She struggles and cries out in pain before collapsing. The man then leaves the room.",
+   "opening_gist": "A man enters a room and immediately starts assaulting a woman.",
+   "closing_gist": "The man leaves the room, leaving the woman unconscious on the floor.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "violence_or_fight",
+    "injury_or_blood"
+   ]
+  },
+  {
+   "start": "01:04",
+   "end": "02:05",
+   "location": "Digital, abstract visuals",
+   "characters": [],
+   "dominant_activity": "Displaying opening credits with abstract visuals and the title 'Money Honey Director's Cut'.",
+   "mood": "Dramatic, artistic",
+   "summary": "The opening credits roll with abstract, ink-in-water visuals, showcasing the cast and crew, and ending with the title 'Money Honey Director's Cut'.",
+   "opening_gist": "Abstract visuals with 'A hoichoi original series' appear.",
+   "closing_gist": "The title 'MONEY HONEY DIRECTOR'S CUT' is displayed.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "02:05",
+   "end": "03:51",
+   "location": "A dimly lit bar",
+   "characters": [
+    "Shariar",
+    "A bald man (investor)",
+    "Two women",
+    "Other patrons"
+   ],
+   "dominant_activity": "Gambling, smoking, and a tense business discussion about stock market investments.",
+   "mood": "Tense, slightly anxious, smoky",
+   "summary": "Shariar and an investor are gambling and smoking in a bar. The investor expresses concern about his money invested in the stock market through Shariar, who reassures him that the market will recover.",
+   "opening_gist": "Men are gambling and smoking in a bar.",
+   "closing_gist": "Shariar reassures the investor that the market will recover in a week, guaranteeing it.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "smoking",
+    "alcohol",
+    "poverty_or_financial_distress"
+   ]
+  },
+  {
+   "start": "03:51",
+   "end": "04:10",
+   "location": "A living room at night",
+   "characters": [
+    "A man",
+    "A woman",
+    "A young boy"
+   ],
+   "dominant_activity": "Family watching TV, relaxed",
+   "mood": "Calm, domestic",
+   "summary": "A family is seen relaxing on a couch, watching TV in their living room at night.",
+   "opening_gist": "A man walks into a living room where a woman and a boy are watching TV.",
+   "closing_gist": "The family continues to watch TV.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "04:10",
+   "end": "04:24",
+   "location": "Outside a house in a rural/semi-urban area",
+   "characters": [
+    "A man (carrying a suitcase)",
+    "An old man"
+   ],
+   "dominant_activity": "A man returning home and greeting an old man.",
+   "mood": "Hopeful, reunion",
+   "summary": "A man carrying a suitcase arrives at his home, calling out for his mother. He is greeted by an old man outside the house.",
+   "opening_gist": "A man walks with a suitcase, calling for his mother.",
+   "closing_gist": "The man greets an old man outside his house.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "04:24",
+   "end": "05:53",
+   "location": "Inside a modest home",
+   "characters": [
+    "A man (the one who just arrived)",
+    "His mother",
+    "His sister"
+   ],
+   "dominant_activity": "Family discussion about money, sister going out",
+   "mood": "Concerned, domestic",
+   "summary": "The man who just arrived is talking to his mother and sister. His sister is getting ready to go out, and his mother questions her. The mother then asks the man about the money he sent to his uncle Akbar, expressing concern about its recovery.",
+   "opening_gist": "The man asks his mother about his uncle Akbar.",
+   "closing_gist": "The mother expresses worry about the money sent to Akbar, but the man reassures her.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "poverty_or_financial_distress"
+   ]
+  },
+  {
+   "start": "05:53",
+   "end": "06:42",
+   "location": "Inside a rickshaw on a street",
+   "characters": [
+    "A man (Akbar)",
+    "A woman (his wife)"
+   ],
+   "dominant_activity": "A couple arguing about their financial situation and living arrangements.",
+   "mood": "Tense, frustrated, argumentative",
+   "summary": "Akbar and his wife are in a rickshaw, arguing about their financial troubles. The wife is upset that Akbar might have to live in a mess (bachelor's accommodation) due to their situation, and she calls him a 'fraud' and 'thug' for ruining her life.",
+   "opening_gist": "Akbar tells his wife to give him two months to fix things.",
+   "closing_gist": "Akbar tries to reassure his wife that things will be fine, despite her anger.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "poverty_or_financial_distress"
+   ]
+  },
+  {
+   "start": "06:42",
+   "end": "07:22",
+   "location": "A busy street",
+   "characters": [
+    "Shariar",
+    "Other pedestrians"
+   ],
+   "dominant_activity": "Shariar talking on the phone about a stock market deal.",
+   "mood": "Busy, professional",
+   "summary": "Shariar is walking on a busy street, talking on the phone with a client who wants to invest 40 lakh taka in the stock market. Shariar advises him to buy now as prices are low and arranges a meeting in Kushtia.",
+   "opening_gist": "Shariar answers a call from someone named Selim Bhai.",
+   "closing_gist": "Shariar agrees to meet the client in Kushtia.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "07:22",
+   "end": "08:38",
+   "location": "An office",
+   "characters": [
+    "Akbar",
+    "A manager",
+    "Another man (Kashim)"
+   ],
+   "dominant_activity": "Discussion about Akbar's house being auctioned and a deal to withdraw the case.",
+   "mood": "Tense, formal, manipulative",
+   "summary": "Akbar is in an office discussing his house being put up for auction. The manager and Kashim offer to buy his house and withdraw the case if Akbar agrees to their terms, which include a partial upfront payment and the rest later. Akbar warns Kashim about trusting the manager.",
+   "opening_gist": "Akbar asks the manager why he was called.",
+   "closing_gist": "Akbar warns Kashim not to trust the manager, implying he might face a similar fate.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "poverty_or_financial_distress",
+    "crime_theft_or_fraud"
+   ]
+  },
+  {
+   "start": "08:38",
+   "end": "09:19",
+   "location": "Outside a bank",
+   "characters": [
+    "Akbar",
+    "Akbar's nephew"
+   ],
+   "dominant_activity": "Akbar's nephew calling him, demanding his money.",
+   "mood": "Tense, demanding",
+   "summary": "Akbar's nephew calls him, demanding to know why he hasn't answered his calls and asks about his money. Akbar tries to explain he's in trouble and asks his nephew to come to Kushtia.",
+   "opening_gist": "Akbar's nephew calls him, asking why he hasn't answered his calls.",
+   "closing_gist": "Akbar's nephew says he's coming to Kushtia tonight and demands his money.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "poverty_or_financial_distress"
+   ]
+  },
+  {
+   "start": "09:19",
+   "end": "09:54",
+   "location": "Ferry at night",
+   "characters": [
+    "Shariar"
+   ],
+   "dominant_activity": "Shariar smoking and looking around on a ferry.",
+   "mood": "Pensive, slightly anxious",
+   "summary": "Shariar is seen on a ferry at night, smoking and looking around, seemingly deep in thought.",
+   "opening_gist": "A bus drives onto a ferry at night. Shariar lights a cigarette.",
+   "closing_gist": "Shariar continues to smoke and look around.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "smoking"
+   ]
+  },
+  {
+   "start": "09:54",
+   "end": "11:53",
+   "location": "Ferry at night",
+   "characters": [
+    "Shariar",
+    "Akbar's nephew",
+    "Two police officers"
+   ],
+   "dominant_activity": "Akbar's nephew smoking, confronted by police, Shariar intervenes.",
+   "mood": "Tense, confrontational, then relieved",
+   "summary": "Akbar's nephew is smoking on the ferry when two police officers confront him. Shariar intervenes, claiming the nephew is his younger brother and takes responsibility, convincing the police to let him go with a warning.",
+   "opening_gist": "Akbar's nephew asks Shariar for a cigarette.",
+   "closing_gist": "Shariar thanks the police officers after they release the nephew.",
+   "ends_on": "resolved",
+   "sensitive_themes": [
+    "smoking"
+   ]
+  },
+  {
+   "start": "11:53",
+   "end": "12:37",
+   "location": "A small shop/tea stall",
+   "characters": [
+    "Akbar",
+    "Akbar's nephew",
+    "Other patrons"
+   ],
+   "dominant_activity": "Akbar's nephew asking about the stock market, Akbar explaining.",
+   "mood": "Informative, slightly desperate",
+   "summary": "Akbar's nephew asks Akbar about the stock market. Akbar explains it as a quick way to get rich and mentions he has 5-7 lakh taka he wants to invest, asking for Shariar's contact.",
+   "opening_gist": "Akbar's nephew asks Akbar about the stock market.",
+   "closing_gist": "Akbar's nephew asks Shariar for his number to invest money.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "poverty_or_financial_distress"
+   ]
+  },
+  {
+   "start": "12:37",
+   "end": "14:44",
+   "location": "Akbar's house, seen through a window at night",
+   "characters": [
+    "Akbar",
+    "Akbar's nephew"
+   ],
+   "dominant_activity": "Akbar trying to convince his nephew to help him with a plan.",
+   "mood": "Desperate, manipulative",
+   "summary": "Akbar is seen through a window, talking to his crying nephew. Akbar apologizes for taking his money, explaining his business failed. He then tries to convince his nephew to help him with a plan, hinting at a 'tunnel' and promising to make him rich, but doesn't reveal details yet.",
+   "opening_gist": "Akbar's nephew is crying, and Akbar tells him not to cry.",
+   "closing_gist": "Akbar tells his nephew he will take him somewhere tomorrow to show him everything.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "poverty_or_financial_distress"
+   ]
+  },
+  {
+   "start": "14:44",
+   "end": "16:30",
+   "location": "Riverside, near a bridge",
+   "characters": [
+    "Akbar",
+    "Akbar's nephew"
+   ],
+   "dominant_activity": "Akbar's nephew discussing a bank robbery plan with Akbar.",
+   "mood": "Tense, desperate, criminal",
+   "summary": "Akbar's nephew tells Akbar that his uncle's house and business were taken by the bank. He then reveals that Akbar suggested a bank robbery as a solution. The nephew is shocked but seems to consider it, as he needs money due to his mother's illness.",
+   "opening_gist": "Akbar's nephew tells Akbar that his uncle's assets were taken by the bank.",
+   "closing_gist": "Akbar's nephew suggests they get tea before heading back.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "smoking",
+    "poverty_or_financial_distress",
+    "crime_theft_or_fraud",
+    "illness_or_hospital"
+   ]
+  },
+  {
+   "start": "16:30",
+   "end": "17:00",
+   "location": "Bathroom",
+   "characters": [
+    "Akbar's nephew",
+    "His mother (voice-over)"
+   ],
+   "dominant_activity": "Akbar's nephew on the phone, his mother looking for his brother.",
+   "mood": "Anxious, secretive",
+   "summary": "Akbar's nephew is in the bathroom, talking on the phone, asking for two lakh taka. His mother calls out, looking for his brother Shobhon, whose door is open. The nephew promises to call back.",
+   "opening_gist": "Akbar's nephew is on the phone, asking for two lakh taka.",
+   "closing_gist": "Akbar's nephew promises to call back and hangs up.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "poverty_or_financial_distress"
+   ]
+  },
+  {
+   "start": "17:00",
+   "end": "17:46",
+   "location": "Street, outside a house, and a field",
+   "characters": [
+    "Shariar",
+    "Akbar's nephew",
+    "Shobhon (Akbar's brother)"
+   ],
+   "dominant_activity": "Shariar threatening Akbar's nephew, Shobhon being forced to run.",
+   "mood": "Threatening, fearful, violent",
+   "summary": "Shariar, on the phone, threatens Akbar's nephew, demanding his money within seven days. He orders Shobhon, Akbar's brother, to run as a punishment, calling him a 'motherfucker' and threatening to make him dig for money.",
+   "opening_gist": "Shariar, wearing sunglasses, talks on the phone, threatening Akbar's nephew.",
+   "closing_gist": "Shobhon is seen running in a field, shivering.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "violence_or_fight",
+    "poverty_or_financial_distress"
+   ]
+  },
+  {
+   "start": "17:46",
+   "end": "19:15",
+   "location": "A dimly lit room (possibly a bar backroom)",
+   "characters": [
+    "Shariar",
+    "Akbar's nephew",
+    "Two henchmen"
+   ],
+   "dominant_activity": "Shariar physically assaulting and threatening Akbar's nephew over unpaid money.",
+   "mood": "Violent, intimidating, desperate",
+   "summary": "Shariar and his henchmen confront Akbar's nephew in a dimly lit room. Shariar physically assaults him, demanding his 50 lakh taka. He gives the nephew six months to repay, threatening to kill his brother first, then him, if he fails or tries to cheat again.",
+   "opening_gist": "Shariar enters a room where Akbar's nephew is being held by henchmen.",
+   "closing_gist": "Shariar leaves, leaving the nephew beaten and terrified.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "violence_or_fight",
+    "poverty_or_financial_distress",
+    "crime_theft_or_fraud"
+   ]
+  },
+  {
+   "start": "19:15",
+   "end": "20:06",
+   "location": "A living room",
+   "characters": [
+    "Akbar's nephew",
+    "Shariar"
+   ],
+   "dominant_activity": "Akbar's nephew showing a job application to Shariar, Shariar dismissing it.",
+   "mood": "Desperate, dismissive",
+   "summary": "Akbar's nephew shows Shariar a job application for a security guard position with an 8,000 taka salary. Shariar dismisses it, tearing up the application, and tells the nephew he has seen millions of taka and needs a lot of money, hinting at a bigger plan.",
+   "opening_gist": "Akbar's nephew shows Shariar a job application.",
+   "closing_gist": "Shariar tells the nephew he needs a lot of money and asks if he has ever seen millions.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "poverty_or_financial_distress"
+   ]
+  },
+  {
+   "start": "20:06",
+   "end": "21:36",
+   "location": "A living room",
+   "characters": [
+    "Akbar",
+    "Akbar's nephew",
+    "Shariar"
+   ],
+   "dominant_activity": "Akbar and Shariar discussing a plan, Akbar's nephew is excluded.",
+   "mood": "Tense, secretive, manipulative",
+   "summary": "Akbar's nephew tries to talk to Akbar, but Akbar dismisses him, telling him to go to Kushtia. Shariar then tells Akbar that he will handle the plan, excluding the nephew. Akbar then tells Shariar about his plan, which involves a 'tunnel' and making them rich.",
+   "opening_gist": "Akbar's nephew tries to talk to Akbar, who dismisses him.",
+   "closing_gist": "Akbar tells Shariar to listen carefully to his plan.",
+   "ends_on": "cliffhanger",
+   "sensitive_themes": [
+    "poverty_or_financial_distress",
+    "crime_theft_or_fraud"
+   ]
+  }
+ ],
+ "model": "gemini-2.5-flash",
+ "usage": {
+  "prompt_tokens": 134386,
+  "output_tokens": 4994,
+  "thinking_tokens": 2044
+ }
+}

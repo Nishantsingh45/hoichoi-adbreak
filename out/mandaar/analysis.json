@@ -1,0 +1,671 @@
+{
+ "synopsis": "Investigating a coastal corpse discovery, Inspector Debashis Mondal navigates local tensions and crime boss Dablu Bhai's corrupt grip over the fisheries. Meanwhile, Mander grapples with his feelings of sexual inadequacy, turning to a quack doctor while his lover Laili manipulates Dablu and seethes with growing vengeance.",
+ "scenes": [
+  {
+   "start": "00:00",
+   "end": "00:14",
+   "location": "Studio / Graphics",
+   "characters": [],
+   "dominant_activity": "Disclaimer text displayed on screen",
+   "mood": "neutral",
+   "summary": "The episode opens with standard legal disclaimers stating that the show contains mature themes and depictions, followed by the Hoichoi Originals production logo.",
+   "opening_gist": "Disclaimer warning text appears.",
+   "closing_gist": "The Hoichoi Originals title card is displayed.",
+   "ends_on": "transition",
+   "tags": [
+    "disclaimer",
+    "logo",
+    "text"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:14",
+   "end": "01:32",
+   "location": "Sandy beach",
+   "characters": [
+    "Debashis Mondal",
+    "Fishermen",
+    "Madan Halder's minion"
+   ],
+   "dominant_activity": "Police inspecting a washed-up dead body on the beach",
+   "mood": "grim",
+   "summary": "Fishermen pull a bloated dead body out of the surf onto a motorized cart on an empty beach. Sub-Inspector Debashis Mondal arrives in a police vehicle, examines the corpse, and is surprised when a local boy rolls up with a bicycle tire and hands him a hotel room key retrieved from the sea. Mondal immediately calls Madan Babu to report the development.",
+   "opening_gist": "Fishermen pull a body from the sea onto a cart.",
+   "closing_gist": "A boy reveals a key from his fist, and Mondal makes a phone call.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "beach",
+    "sea",
+    "corpse",
+    "police",
+    "investigation",
+    "phone call",
+    "crab",
+    "key"
+   ],
+   "sensitive_themes": [
+    "death",
+    "crime_theft_or_fraud"
+   ]
+  },
+  {
+   "start": "01:32",
+   "end": "02:54",
+   "location": "Beach / Seashore",
+   "characters": [
+    "Crazed woman/witch",
+    "Fisher boy"
+   ],
+   "dominant_activity": "Witch reciting a prophetic curse on the beach",
+   "mood": "eerie",
+   "summary": "A haggard, ash-smeared woman sitting beneath a weathered seaside tree mutters ominous prophecies about sea rising and drowning them all. The young boy frolics in the ocean waves before running directly toward the camera with a sinister grin. The main title card 'Mandar' slams onto the screen.",
+   "opening_gist": "A strange wild woman mutters by a dried tree.",
+   "closing_gist": "The title card 'Mandar' is revealed against a black screen.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "beach",
+    "prophecy",
+    "witch",
+    "ocean waves",
+    "creepy",
+    "title card"
+   ],
+   "sensitive_themes": [
+    "horror_or_fear"
+   ]
+  },
+  {
+   "start": "02:54",
+   "end": "04:53",
+   "location": "Sandy beach",
+   "characters": [
+    "Mandar",
+    "Laili"
+   ],
+   "dominant_activity": "Surreal decorated bed scene on the beach",
+   "mood": "surreal",
+   "summary": "Episode title 'Blood Will Have Blood' displays over an empty beach where a bridal canopy bed sits. Mandar walks across the sand dressed in festive red garb, approaching a veiled bride holding a black cat. When he tries to touch her, the veil reveals the creepy witch laughing hysterically, sending Mandar running away in terror as an SUV splashes into the sea.",
+   "opening_gist": "A flower-decorated bridal canopy bed stands on the desolate beach.",
+   "closing_gist": "An SUV races away through the shallow ocean water.",
+   "ends_on": "transition",
+   "tags": [
+    "beach",
+    "dream sequence",
+    "hallucination",
+    "bride",
+    "wedding bed",
+    "car",
+    "ocean"
+   ],
+   "sensitive_themes": [
+    "horror_or_fear"
+   ]
+  },
+  {
+   "start": "04:53",
+   "end": "06:49",
+   "location": "Mandar's bedroom",
+   "characters": [
+    "Mandar"
+   ],
+   "dominant_activity": "Mandar waking up and doing pushups",
+   "mood": "frustrated",
+   "summary": "Mandar wakes abruptly in his dimly lit room, agitated and restless. He looks at himself in the mirror, smokes a cigarette, and begins doing rigorous push-ups on the floor to vent his frustration.",
+   "opening_gist": "Mandar sits up in bed sweating and anxious.",
+   "closing_gist": "Mandar aggressively does pushups facing his reflection.",
+   "ends_on": "transition",
+   "tags": [
+    "bedroom",
+    "smoking",
+    "exercise",
+    "pushups",
+    "mirror",
+    "restlessness"
+   ],
+   "sensitive_themes": [
+    "smoking"
+   ]
+  },
+  {
+   "start": "06:49",
+   "end": "09:22",
+   "location": "Fish farm embankment / Tea stall",
+   "characters": [
+    "Debashis Mondal",
+    "Madan Halder"
+   ],
+   "dominant_activity": "Eating fried fish and discussing local politics",
+   "mood": "tense",
+   "summary": "Mondal sits at a roadside bamboo shack overlooking the fishery ponds, eating freshly fried fish with local political operative Madan Halder. Madan flatters him, drops hints about Mondal's past transfer troubles involving a lady constable, and promises him full support in Geonkhali while hinting at tensions surrounding Mokai Das.",
+   "opening_gist": "A plate of hot fried fish is served at a small outdoor table.",
+   "closing_gist": "Mondal eats fish silently while contemplating Madan's words.",
+   "ends_on": "mid_conversation",
+   "tags": [
+    "eating",
+    "fried fish",
+    "fishery",
+    "police officer",
+    "political gossip",
+    "bribery"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "09:22",
+   "end": "10:17",
+   "location": "Fishery pond embankment",
+   "characters": [
+    "Fontus",
+    "Fish farm workers",
+    "Madan's henchman"
+   ],
+   "dominant_activity": "Fishermen protesting and clashing with a young thug",
+   "mood": "aggressive",
+   "summary": "Fontus speeds in on a motorbike and confront the striking fishermen holding posters demanding justice for Mokai Das's death. When Fontus arrogant insults them, a brawl breaks out, and Madan's men jump in to physically clash with the striking workers.",
+   "opening_gist": "Fontus rides his motorcycle along the dirt embankment.",
+   "closing_gist": "A chaotic fight erupts between Fontus, the workers, and Madan's men.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "motorcycle",
+    "protest",
+    "strike",
+    "fistfight",
+    "brawl",
+    "fishery"
+   ],
+   "sensitive_themes": [
+    "violence_or_fight"
+   ]
+  },
+  {
+   "start": "10:17",
+   "end": "12:04",
+   "location": "Fish farm embankment / Tea stall",
+   "characters": [
+    "Debashis Mondal",
+    "Madan Halder"
+   ],
+   "dominant_activity": "Observing the brawl and continuing their discussion",
+   "mood": "cynical",
+   "summary": "Madan rushes out to break up the scuffle among the laborers while Debashis watches nonchalantly from the table, enjoying his fish. Madan scolds the rowdy youth and ushers everyone back to work before returning to reassure the officer.",
+   "opening_gist": "Madan Halder notices the shouting and rises from his seat.",
+   "closing_gist": "Debashis smirks and cleans his teeth as Fontus rides away.",
+   "ends_on": "transition",
+   "tags": [
+    "tea stall",
+    "police",
+    "observation",
+    "rural",
+    "eating"
+   ],
+   "sensitive_themes": [
+    "violence_or_fight"
+   ]
+  },
+  {
+   "start": "12:04",
+   "end": "13:32",
+   "location": "Village alley / Clinic exterior",
+   "characters": [
+    "Mandar"
+   ],
+   "dominant_activity": "Mandar secretly visiting a sexology clinic",
+   "mood": "humiliated",
+   "summary": "Mandar walks through town, stops outside a closed shop covered in illicit clinic posters, and rips off a flyer advertising Dr. Haradhan Gupta's clinic for sexual disorders. He hides the slip inside his clothes, deeply conscious of anyone noticing.",
+   "opening_gist": "Mandar sits quietly at a tea stall looking lost.",
+   "closing_gist": "Mandar tears a flyer from the closed green doorway.",
+   "ends_on": "resolved",
+   "tags": [
+    "street",
+    "alley",
+    "clinic flyer",
+    "secrecy",
+    "shame"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "13:32",
+   "end": "14:59",
+   "location": "Fish harbor / Dablu Bhai's office boat",
+   "characters": [
+    "Fontus",
+    "Dablu Bhai",
+    "Harbor workers"
+   ],
+   "dominant_activity": "Fontus reporting the strike to Dablu Bhai",
+   "mood": "tense",
+   "summary": "Fontus arrives at the bustling fishing harbor and confronts crime boss Dablu Bhai on his moored boat office, complaining bitterly about Madan Halder undermining him. Dablu firmly puts Fontus in his place, warning him not to disrupt business operations and ordering him to leave.",
+   "opening_gist": "Fontus rides through the busy fishing harbor.",
+   "closing_gist": "Dablu Bhai shouts at an old laborer while sending Fontus away.",
+   "ends_on": "resolved",
+   "tags": [
+    "harbor",
+    "boats",
+    "crime boss",
+    "argument",
+    "fishing industry"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "14:59",
+   "end": "16:29",
+   "location": "Village market street",
+   "characters": [
+    "Mandar",
+    "Sunglasses vendor"
+   ],
+   "dominant_activity": "Mandar buying red sunglasses in the market",
+   "mood": "somber",
+   "summary": "Standing near the clinic flyer he took, Mandar smokes thoughtfully on the street before noticing a roadside stall selling cheap novelty sunglasses. The vendor enthusiastically persuades him to try on a pair of bright red sunglasses, saying they suit him like a boss.",
+   "opening_gist": "Mandar holds the torn clinic slip while standing near a dusty road.",
+   "closing_gist": "Mandar holds up the red sunglasses in front of his face.",
+   "ends_on": "resolved",
+   "tags": [
+    "market",
+    "shopping",
+    "sunglasses",
+    "smoking",
+    "street"
+   ],
+   "sensitive_themes": [
+    "smoking"
+   ]
+  },
+  {
+   "start": "16:29",
+   "end": "18:37",
+   "location": "Rural road / Embankment",
+   "characters": [
+    "Dablu Bhai",
+    "Madan Halder",
+    "Bhalka"
+   ],
+   "dominant_activity": "Dablu Bhai handing over management of the fishery",
+   "mood": "calculating",
+   "summary": "Dablu Bhai's car cruises down a scenic coastal road where Madan Halder flags him down alongside Bhalka. Dablu praises Bhalka for handling the dispute earlier and appoints him to oversee the Jorabheri fishery starting tomorrow, to Madan's delight, while inquiring if the new police officer has arrived.",
+   "opening_gist": "Dablu Bhai listens to music in the back of his luxury SUV.",
+   "closing_gist": "Dablu Bhai's car drives off leaving Madan and Bhalka on the road.",
+   "ends_on": "transition",
+   "tags": [
+    "luxury car",
+    "rural road",
+    "crime boss",
+    "appointment",
+    "corrupt politics"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "18:37",
+   "end": "19:55",
+   "location": "Rooftop in village / Embankment",
+   "characters": [
+    "Bonka",
+    "Bhalka",
+    "Local card players"
+   ],
+   "dominant_activity": "Phone conversation regarding the Jorabheri fishery handover",
+   "mood": "suspicious",
+   "summary": "While playing cards on a village rooftop, Bonka receives a phone call from Bhalka informing him that Dablu Bhai gave him charge of Jorabheri following Mokai Das's death. Bonka advises him to handle the job carefully and promises to return soon.",
+   "opening_gist": "Men sit cross-legged on a cot on a rooftop playing cards.",
+   "closing_gist": "Bonka looks thoughtful after ending the call.",
+   "ends_on": "transition",
+   "tags": [
+    "cards",
+    "gambling",
+    "rooftop",
+    "phone call",
+    "rural"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "19:55",
+   "end": "22:01",
+   "location": "Mandar's room / Rooftop",
+   "characters": [
+    "Mandar",
+    "Bonka"
+   ],
+   "dominant_activity": "Mandar raging after hearing news of Fontus and Dablu",
+   "mood": "rageful",
+   "summary": "Bonka calls Mandar to pass along the news about Fontus and Dablu Bhai assigning Jorabheri. Infuriated by his perceived lack of respect and impotence, Mandar hangs up and smashes his bedroom mirror with a heavy brick in a violent fit of anger.",
+   "opening_gist": "Mandar prepares a brick in his room while looking into the mirror.",
+   "closing_gist": "Mandar repeatedly smashes his mirror with a brick.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "bedroom",
+    "mirror",
+    "phone call",
+    "violent outburst",
+    "brick"
+   ],
+   "sensitive_themes": [
+    "violence_or_fight"
+   ]
+  },
+  {
+   "start": "22:01",
+   "end": "23:09",
+   "location": "Dablu Bhai's mansion",
+   "characters": [
+    "Dablu Bhai",
+    "Dablu's wife",
+    "Fontus"
+   ],
+   "dominant_activity": "Dablu Bhai berating Fontus at home",
+   "mood": "hostile",
+   "summary": "Dablu arrives at his lavish home, stepping over vomit near the entrance. He discovers Fontus slumped intoxicated on the sofa and screams at him furiously, cursing him for being useless and a disgrace.",
+   "opening_gist": "Dablu Bhai steps out of his car and enters his house.",
+   "closing_gist": "Dablu continues yelling at Fontus before storming up the stairs.",
+   "ends_on": "transition",
+   "tags": [
+    "mansion",
+    "family dispute",
+    "shouting",
+    "vomit",
+    "intoxication"
+   ],
+   "sensitive_themes": [
+    "alcohol",
+    "vomiting_or_disgust"
+   ]
+  },
+  {
+   "start": "23:09",
+   "end": "23:39",
+   "location": "Dablu's hallway / Balcony",
+   "characters": [
+    "Dablu Bhai",
+    "Dablu's wife"
+   ],
+   "dominant_activity": "Dablu taking a secretive phone call",
+   "mood": "deceptive",
+   "summary": "Upstairs, Dablu takes a phone call from a woman asking if he is arriving. He confirms he is bringing a bottle in the car and tells his wife, who watches from the balcony, not to cook for him as he won't be eating at home.",
+   "opening_gist": "Dablu checks his phone and answers a call in the hallway.",
+   "closing_gist": "Dablu's wife stares coldly as he finishes his conversation.",
+   "ends_on": "transition",
+   "tags": [
+    "phone call",
+    "infidelity",
+    "mansion",
+    "marriage"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "23:39",
+   "end": "24:34",
+   "location": "Rural road / Community center",
+   "characters": [
+    "Laili",
+    "Mothers and children"
+   ],
+   "dominant_activity": "Laili watching children and mothers at a health camp",
+   "mood": "melancholic",
+   "summary": "Laili sits on the back of a motorized van on a country road, gazing wistfully at mothers with infants gathering outside a rural polio and health clinic. Her expression is pained and envious as she observes the joyful children.",
+   "opening_gist": "Laili sits quietly on a parked motorized cart looking at her phone.",
+   "closing_gist": "The cart drives away while Laili watches the babies.",
+   "ends_on": "transition",
+   "tags": [
+    "rural road",
+    "health clinic",
+    "infants",
+    "longing",
+    "cart"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "24:34",
+   "end": "26:38",
+   "location": "Laili's bedroom",
+   "characters": [
+    "Laili",
+    "Dablu Bhai"
+   ],
+   "dominant_activity": "Intimacy followed by a heated demand for a child",
+   "mood": "passionate",
+   "summary": "Laili and Dablu Bhai engage in intimate lovemaking in her shack. Afterwards, she gently caresses his necklace and tearfully pleads with him to father a child with her, but Dablu pushes her hands away, reminding her that he already has a family.",
+   "opening_gist": "Dablu Bhai and Laili are seen in bed during intimate passion.",
+   "closing_gist": "Dablu gets dressed and mutters dismissively to Laili.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "bedroom",
+    "lovemaking",
+    "intimacy",
+    "pregnancy request",
+    "rejection"
+   ],
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ]
+  },
+  {
+   "start": "26:38",
+   "end": "27:19",
+   "location": "Laili's bedroom / Kitchen area",
+   "characters": [
+    "Laili",
+    "Dablu Bhai"
+   ],
+   "dominant_activity": "Dablu demanding alcohol before leaving",
+   "mood": "callous",
+   "summary": "Dablu tells Laili that he only came because her illness was an excuse, laughing that nobody can stand in his way. He orders her to pour him a drink of country liquor, which she does in silence.",
+   "opening_gist": "Dablu lies back on the bed talking arrogantly.",
+   "closing_gist": "Laili pours alcohol into a metal tumbler.",
+   "ends_on": "transition",
+   "tags": [
+    "drinking",
+    "alcohol",
+    "bedroom",
+    "shack",
+    "chauvinism"
+   ],
+   "sensitive_themes": [
+    "alcohol"
+   ]
+  },
+  {
+   "start": "27:19",
+   "end": "28:42",
+   "location": "Mandar's room",
+   "characters": [
+    "Mandar"
+   ],
+   "dominant_activity": "Mandar drinking liquor and reminiscing about Laili",
+   "mood": "heartbroken",
+   "summary": "Sitting alone in his dark room, Mandar downs a glass of alcohol. He takes a photo from a secret pouch in his clothes and gazes lovingly at a picture of him and Laili together in wedding attire, heartbroken by their separation.",
+   "opening_gist": "Mandar sits on the edge of his bed drinking liquor.",
+   "closing_gist": "Mandar stares at the photograph inside his wallet.",
+   "ends_on": "transition",
+   "tags": [
+    "drinking",
+    "alcohol",
+    "photograph",
+    "heartache",
+    "bedroom"
+   ],
+   "sensitive_themes": [
+    "alcohol"
+   ]
+  },
+  {
+   "start": "28:42",
+   "end": "28:55",
+   "location": "Wedding memory / Fantasy",
+   "characters": [
+    "Mandar",
+    "Laili",
+    "Wedding guests"
+   ],
+   "dominant_activity": "Flashback to Mandar and Laili exchanging wedding garlands",
+   "mood": "joyful",
+   "summary": "A brief, blissful memory shows Mandar and Laili dressed as bride and groom, joyfully exchanging floral garlands during a Bengali wedding ceremony surrounded by smiling relatives.",
+   "opening_gist": "Laili places a garland around Mandar's neck.",
+   "closing_gist": "Laili laughs radiantly in bridal makeup.",
+   "ends_on": "resolved",
+   "tags": [
+    "wedding",
+    "flashback",
+    "garland exchange",
+    "love",
+    "memory"
+   ],
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ]
+  },
+  {
+   "start": "28:55",
+   "end": "30:49",
+   "location": "Laili's shack / Kitchen / Yard",
+   "characters": [
+    "Laili",
+    "Dablu Bhai",
+    "Driver"
+   ],
+   "dominant_activity": "Dablu leaving Laili's house while a neighbor watches",
+   "mood": "tense",
+   "summary": "Laili heats tea on a gas stove as Dablu finishes his drink and prepares to depart, mocking Mandar's manhood on his way out. As Dablu gets into his car, a nosy female neighbor watches suspiciously from across the lane, noticing Laili standing at her door.",
+   "opening_gist": "Blue flames lick the bottom of a tea pan on the stove.",
+   "closing_gist": "Dablu's car speeds away as the neighbor sneers.",
+   "ends_on": "resolved",
+   "tags": [
+    "kitchen",
+    "car departure",
+    "gossip",
+    "neighbor",
+    "shack"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "30:49",
+   "end": "32:10",
+   "location": "Mandar's bedroom",
+   "characters": [
+    "Mandar",
+    "Laili"
+   ],
+   "dominant_activity": "Laili berating Mandar over the phone",
+   "mood": "hostile",
+   "summary": "Mandar answers a phone call from Laili, who explodes in fury at his failure to stand up to Dablu Bhai and cure his sexual impotence. She screams that if he doesn't see a doctor and become a real man, she will see Dablu destroyed and take matters into her own hands.",
+   "opening_gist": "Mandar lies on the bed before his phone rings.",
+   "closing_gist": "Laili furiously hangs up on Mandar.",
+   "ends_on": "cliffhanger",
+   "tags": [
+    "bedroom",
+    "phone call",
+    "screaming",
+    "impotence",
+    "ultimatum"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "32:10",
+   "end": "32:44",
+   "location": "Laili's shack",
+   "characters": [
+    "Laili"
+   ],
+   "dominant_activity": "Laili washing herself with cold water",
+   "mood": "frustrated",
+   "summary": "Distraught and disgusted, Laili walks into her dark bathroom wash area and pours bucket after bucket of cold water over her head, attempting to wash away the feeling of Dablu's touch.",
+   "opening_gist": "Laili enters the dimly lit bathroom stall.",
+   "closing_gist": "Laili sits panting under the splash of water.",
+   "ends_on": "transition",
+   "tags": [
+    "bathing",
+    "water bucket",
+    "wash area",
+    "disgust",
+    "frustration"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "32:44",
+   "end": "33:34",
+   "location": "Village square / Market",
+   "characters": [
+    "Mandar",
+    "Villagers"
+   ],
+   "dominant_activity": "Mandar walking toward Dr. Gupta's clinic",
+   "mood": "determined",
+   "summary": "Having reached his breaking point, Mandar walks through the busy town market wearing his red sunglasses. He spots the sign for Dr. Haradhan Gupta's clinic and ascends the exterior staircase to seek treatment.",
+   "opening_gist": "A mannequin stands outside a shopping store.",
+   "closing_gist": "Mandar climbs the stairs leading to the sex clinic.",
+   "ends_on": "resolved",
+   "tags": [
+    "market",
+    "street",
+    "stairs",
+    "sunglasses",
+    "clinic"
+   ],
+   "sensitive_themes": []
+  },
+  {
+   "start": "33:34",
+   "end": "37:02",
+   "location": "Laili's home",
+   "characters": [
+    "Laili",
+    "Dablu's wife"
+   ],
+   "dominant_activity": "Dablu's wife confronting and threatening Laili",
+   "mood": "menacing",
+   "summary": "Dablu's wife arrives at Laili's home under the guise of casual conversation and eating plum pickle. She subtly reveals she knows about Laili's affair with Dablu, warning her not to reach above her station or she will personally mutilate her lower belly, before leaving with a chilling parting smile.",
+   "opening_gist": "Laili sits in her room eating sour pickles from a bowl.",
+   "closing_gist": "Dablu's wife exits the house after finishing her warning.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "house visit",
+    "confrontation",
+    "veiled threat",
+    "pickle eating",
+    "infidelity"
+   ],
+   "sensitive_themes": [
+    "violence_or_fight"
+   ]
+  },
+  {
+   "start": "37:02",
+   "end": "39:10",
+   "location": "Town market / Laili's bedroom",
+   "characters": [
+    "Mandar",
+    "Laili",
+    "Stray cat"
+   ],
+   "dominant_activity": "Mandar reporting his medical visit while Laili plans revenge",
+   "mood": "sinister",
+   "summary": "Mandar calls Laili from the street, revealing he saw the doctor, took an injection, and bought medicines to cure his condition. In the dim room, Laili hears a cat meowing at her window and listens with an intense, vengeful glare, resolute in her dark ambitions as dramatic music swells to a close.",
+   "opening_gist": "Mandar paces outside a medical pharmacy calling Laili.",
+   "closing_gist": "Extreme close-up on Laili's enraged, calculating face.",
+   "ends_on": "dramatic_beat",
+   "tags": [
+    "phone call",
+    "clinic",
+    "medicine",
+    "vengeance",
+    "cat",
+    "menacing look"
+   ],
+   "sensitive_themes": []
+  }
+ ],
+ "model": "gemini-3.8-flash",
+ "usage": {
+  "prompt_tokens": 214153,
+  "output_tokens": 5630,
+  "thinking_tokens": null
+ }
+}

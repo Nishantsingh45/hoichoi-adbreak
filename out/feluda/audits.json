@@ -1,0 +1,98 @@
+{
+ "511.120": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man says \"ko\" at 00:03. Then, there is the sound of a vehicle and a scooter.",
+  "passed": true
+ },
+ "395.216": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A song plays, then stops at 00:05. A man starts speaking at 00:06.",
+  "passed": true
+ },
+ "856.760": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "There is no speech, only music and the sound of a boat moving through water.",
+  "passed": true
+ },
+ "686.520": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "There is no speech between 00:04 and 00:06. Only background music is heard.",
+  "passed": true
+ },
+ "1126.096": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man shouts \"beta\" at 00:03, and then another man shouts \"Good afternoon\" at 00:06.",
+  "passed": false
+ },
+ "1474.600": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man is speaking in Bengali, then the screen cuts to black with background music playing.",
+  "passed": true
+ },
+ "1289.968": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A man is speaking, and his sentence is cut off by the ad break.",
+  "passed": false
+ },
+ "1287.742": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man says \"ki\" and then another man says \"oh\".",
+  "passed": false
+ },
+ "306.280": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Instrumental theme music plays with no speech around the 5-second mark.",
+  "passed": true
+ },
+ "543.760": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "There is complete silence at the cut point around 00:05, with speech only starting near the end of the clip.",
+  "passed": true
+ },
+ "1117.360": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A male character begins speaking right after 00:05 over ambient music.",
+  "passed": false
+ },
+ "1041.344": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A brief moment of water splashing ambient sounds until Feluda begins speaking around 00:05.5.",
+  "passed": false
+ },
+ "1047.954": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Silence with ambient water sounds between spoken lines",
+  "passed": true
+ },
+ "1287.504": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A soft exclamation/sigh ('hm') occurs around 00:04, followed by silence at 00:05 before an 'oh' sigh around 00:06.",
+  "passed": false
+ },
+ "544.820": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Silence during the black screen transition around 00:05, followed by vehicle ambience.",
+  "passed": true
+ },
+ "1478.100": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "Ending credits background music plays uninterrupted; no speech is present.",
+  "passed": true
+ }
+}

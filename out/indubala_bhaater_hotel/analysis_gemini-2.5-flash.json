@@ -1,0 +1,891 @@
+{
+ "synopsis": "This episode delves into the past and present of Indubala, a woman who runs a hotel. It explores her childhood memories, her current struggles, and the tragic loss of her sister, Laxmi. The narrative weaves between nostalgic moments of cooking and family life, and the harsh realities of poverty and loss, culminating in Indubala's determination to keep her sister's memory alive through her hotel.",
+ "scenes": [
+  {
+   "start": "00:00",
+   "end": "00:05",
+   "location": "Digital screen",
+   "characters": [],
+   "dominant_activity": "Displaying Hoichoi logo",
+   "mood": "Neutral, introductory",
+   "summary": "The scene displays the Hoichoi logo with animated text, serving as an introduction to the program.",
+   "opening_gist": "Hoichoi logo animation begins.",
+   "closing_gist": "Hoichoi logo animation ends.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:05",
+   "end": "00:18",
+   "location": "Digital screen",
+   "characters": [],
+   "dominant_activity": "Displaying a disclaimer",
+   "mood": "Neutral, informative",
+   "summary": "A disclaimer is displayed, stating that the program is fictional, contains strong language, violence, and mature scenes. It also warns about smoking, alcohol, and stunts performed by professionals.",
+   "opening_gist": "Disclaimer text appears on screen.",
+   "closing_gist": "Disclaimer text fades out.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:18",
+   "end": "01:06",
+   "location": "A dense, overgrown field/jungle, raining heavily",
+   "characters": [
+    "A young girl (Laxmi)",
+    "A young boy (her brother)"
+   ],
+   "dominant_activity": "Two children running through a field in heavy rain",
+   "mood": "Fearful, urgent, tense",
+   "summary": "A young girl, Laxmi, and her brother are running through a dense, overgrown field in heavy rain. The boy is scared of snakes, but Laxmi reassures him by reciting a rhyme. She then calls out for her brother, who seems to have disappeared.",
+   "opening_gist": "Two children are running through a field, the boy expresses fear of snakes.",
+   "closing_gist": "Laxmi calls out for her brother, who is no longer visible.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "horror_or_fear"
+   ]
+  },
+  {
+   "start": "01:06",
+   "end": "02:41",
+   "location": "A dimly lit room, possibly a living room or study, at night",
+   "characters": [
+    "An elderly woman (Thamma)",
+    "A middle-aged man (her son, on video call)",
+    "A young woman (her granddaughter, on video call)"
+   ],
+   "dominant_activity": "A video call between a mother and her son/granddaughter",
+   "mood": "Calm, affectionate, slightly humorous",
+   "summary": "Thamma is reading a book when her son video calls her. He tries to add his brother to the call, but Thamma suggests calling back tomorrow as it's late. His daughter then joins the call, showing Thamma the food she cooked using an internet recipe. Thamma encourages her granddaughter, while the son playfully teases her. The son then mentions planning a long visit home.",
+   "opening_gist": "Thamma answers a video call from her son.",
+   "closing_gist": "Thamma ends the call after her son says goodnight, looking thoughtful.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "02:41",
+   "end": "02:56",
+   "location": "The same dimly lit room, at night",
+   "characters": [
+    "Thamma",
+    "A middle-aged woman (Dhana's mother)"
+   ],
+   "dominant_activity": "Conversation about cooking and a girl named Kochu Bata",
+   "mood": "Calm, slightly mysterious",
+   "summary": "Dhana's mother informs Thamma that Dhana wants to know what to cook tomorrow. She also mentions that if 'that girl' (Kochu Bata) keeps asking for Kochu Bata, she should be sent away. Thamma tells her to go and says she will see about it in the morning.",
+   "opening_gist": "Dhana's mother enters and speaks to Thamma about cooking.",
+   "closing_gist": "Dhana's mother agrees to Thamma's instruction and leaves.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "02:56",
+   "end": "03:18",
+   "location": "A dense, overgrown field/jungle, raining heavily",
+   "characters": [
+    "A young girl (Laxmi)"
+   ],
+   "dominant_activity": "A young girl cutting vegetables in the rain",
+   "mood": "Determined, slightly melancholic",
+   "summary": "Laxmi is seen cutting vegetables in the heavy rain, seemingly alone. The scene is accompanied by a melancholic song.",
+   "opening_gist": "Laxmi is seen cutting vegetables in the rain.",
+   "closing_gist": "Laxmi looks up at the sky, rain falling on her face.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "03:18",
+   "end": "04:09",
+   "location": "A bustling, old-fashioned hotel/eatery, daytime",
+   "characters": [
+    "Dhana",
+    "Customers",
+    "A woman (Maaji)"
+   ],
+   "dominant_activity": "Customers eating and talking, Maaji serving food",
+   "mood": "Lively, busy, nostalgic",
+   "summary": "Customers are enjoying their meal at the hotel, praising the food and suggesting improvements like a billing system and registration. Maaji serves food and interacts with customers. Dhana is seen working in the kitchen.",
+   "opening_gist": "Customers are eating and praising the food, discussing the hotel.",
+   "closing_gist": "Maaji is seen smiling, listening to customers.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "04:09",
+   "end": "04:23",
+   "location": "The hotel's courtyard/entrance",
+   "characters": [
+    "Maaji",
+    "Dhana",
+    "A young girl (Laxmi)"
+   ],
+   "dominant_activity": "Laxmi arriving with a large vegetable, Maaji and Dhana reacting",
+   "mood": "Surprised, happy",
+   "summary": "Laxmi arrives at the hotel, carrying a large mankochhu (taro). Dhana and Maaji are surprised and happy to see her.",
+   "opening_gist": "Maaji calls out for Dhana, then Laxmi enters with a large taro.",
+   "closing_gist": "Maaji smiles, looking at Laxmi and the taro.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "04:23",
+   "end": "05:03",
+   "location": "The hotel's dining area and courtyard",
+   "characters": [
+    "Maaji",
+    "Dhana",
+    "Customers",
+    "Laxmi"
+   ],
+   "dominant_activity": "Customers requesting Kochu Bata, Maaji and Laxmi discussing it",
+   "mood": "Lively, anticipatory",
+   "summary": "Customers at the hotel request Kochu Bata, a dish made from taro. Laxmi, who brought the taro, assures them it will be made. Dhana is told to prepare the grinding stone. Maaji then goes to a vegetable vendor and buys more taro, ensuring it's of good quality.",
+   "opening_gist": "Customers request Kochu Bata.",
+   "closing_gist": "Maaji buys taro from a vendor, checking its quality.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "05:03",
+   "end": "05:27",
+   "location": "The hotel's kitchen",
+   "characters": [
+    "Maaji",
+    "Laxmi"
+   ],
+   "dominant_activity": "Maaji and Laxmi preparing Kochu Bata, reminiscing",
+   "mood": "Nostalgic, warm",
+   "summary": "Maaji and Laxmi are in the kitchen, preparing Kochu Bata. Maaji asks Laxmi where she learned to cook it, and Laxmi replies it was from her grandmother in Dhaka, recalling a large taro patch near a lotus pond.",
+   "opening_gist": "Maaji and Laxmi are preparing food in the kitchen.",
+   "closing_gist": "Laxmi smiles, reminiscing about her childhood.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "05:27",
+   "end": "05:59",
+   "location": "Intercutting between the dense field in the rain and the kitchen",
+   "characters": [
+    "Laxmi (younger self in field, older self in kitchen)",
+    "Young boy (in field)",
+    "Maaji (in kitchen)"
+   ],
+   "dominant_activity": "Laxmi preparing Kochu Bata, intercut with her childhood memory of the field",
+   "mood": "Melancholic, nostalgic, determined",
+   "summary": "The scene intercuts between Laxmi preparing Kochu Bata in the kitchen and her childhood memory of running through a taro field in the rain with her brother. The song 'Brishti' plays in the background, enhancing the nostalgic and slightly melancholic mood.",
+   "opening_gist": "Laxmi is seen in the kitchen preparing Kochu Bata, intercut with her younger self in a taro field.",
+   "closing_gist": "Laxmi continues to prepare the Kochu Bata, focused and determined.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "05:59",
+   "end": "06:50",
+   "location": "The hotel's kitchen",
+   "characters": [
+    "Maaji",
+    "Laxmi"
+   ],
+   "dominant_activity": "Maaji and Laxmi preparing Kochu Bata, singing",
+   "mood": "Nostalgic, warm, harmonious",
+   "summary": "Maaji and Laxmi continue preparing Kochu Bata, adding coconut and chilies. They sing a melancholic song together, reflecting on memories and the passage of time. The scene emphasizes their bond and shared experience.",
+   "opening_gist": "Laxmi adds coconut to the Kochu Bata mixture. Maaji joins her in singing.",
+   "closing_gist": "Maaji and Laxmi continue to prepare the food, singing softly.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "06:50",
+   "end": "07:07",
+   "location": "The hotel's kitchen",
+   "characters": [
+    "Maaji",
+    "Laxmi"
+   ],
+   "dominant_activity": "Maaji and Laxmi preparing Kochu Bata, singing",
+   "mood": "Nostalgic, warm, harmonious",
+   "summary": "Maaji and Laxmi continue preparing Kochu Bata, singing a melancholic song together. The scene emphasizes their bond and shared experience.",
+   "opening_gist": "Maaji and Laxmi continue to prepare the food, singing softly.",
+   "closing_gist": "Maaji and Laxmi continue to prepare the food, singing softly.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "07:07",
+   "end": "08:34",
+   "location": "The hotel's dining area",
+   "characters": [
+    "Thamma",
+    "Dhana",
+    "Customers",
+    "A young woman (granddaughter)"
+   ],
+   "dominant_activity": "Customers eating Kochu Bata, Thamma serving, granddaughter filming",
+   "mood": "Lively, satisfied, celebratory",
+   "summary": "Customers are enthusiastically eating Kochu Bata, which Thamma is serving. Her granddaughter is filming the process, expressing her delight and suggesting that this dish will attract many customers. Thamma is pleased by the positive reception.",
+   "opening_gist": "Customers are eating Kochu Bata, Thamma serves more.",
+   "closing_gist": "Thamma sings a melancholic song, looking around the dining area.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "08:34",
+   "end": "08:45",
+   "location": "The hotel's courtyard/kitchen entrance",
+   "characters": [
+    "Thamma",
+    "Dhana"
+   ],
+   "dominant_activity": "Thamma checking the stove, Dhana responding",
+   "mood": "Domestic, slightly concerned",
+   "summary": "Thamma checks the stove, asking Dhana if the fire has caught, as the house is filled with smoke. Dhana assures her it will catch soon.",
+   "opening_gist": "Thamma sings while checking the stove.",
+   "closing_gist": "Dhana assures Thamma that the fire will catch.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "08:45",
+   "end": "09:00",
+   "location": "The hotel's courtyard/entrance",
+   "characters": [
+    "Thamma",
+    "Dhana",
+    "Two young boys"
+   ],
+   "dominant_activity": "Thamma and Dhana interacting with school children",
+   "mood": "Warm, domestic",
+   "summary": "Thamma and Dhana are in the courtyard. Two school children arrive, and Thamma instructs them to go straight home after school and not to be late.",
+   "opening_gist": "Dhana is working, Thamma is in the background. Two school children arrive.",
+   "closing_gist": "Thamma watches the children leave, then turns to Dhana.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "09:00",
+   "end": "09:22",
+   "location": "The hotel's courtyard/kitchen entrance",
+   "characters": [
+    "Thamma",
+    "Dhana"
+   ],
+   "dominant_activity": "Thamma asking about Laxmi, Dhana reassuring her",
+   "mood": "Concerned, reassuring",
+   "summary": "Thamma asks Dhana why Laxmi hasn't arrived yet, as she was supposed to bring taro and the 'babura' (gentlemen) would be arriving soon. Dhana reassures her that Laxmi will come, likely having gone to the taro patch near the railway line.",
+   "opening_gist": "Thamma asks Dhana about Laxmi's whereabouts.",
+   "closing_gist": "Dhana reassures Thamma that Laxmi will arrive soon.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "09:22",
+   "end": "09:54",
+   "location": "The hotel's courtyard/kitchen entrance",
+   "characters": [
+    "Thamma",
+    "Dhana"
+   ],
+   "dominant_activity": "Dhana delivering tragic news about Laxmi",
+   "mood": "Shocked, tragic, grief-stricken",
+   "summary": "Dhana approaches Thamma with a somber expression and informs her that Laxmi has died. He explains that Laxmi was hit by a train while crossing the railway line, and her body was cut in two. Thamma is visibly shocked and devastated.",
+   "opening_gist": "Dhana approaches Thamma with a distressed look.",
+   "closing_gist": "Dhana breaks down, revealing Laxmi's tragic death.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "death",
+    "accident_or_crash",
+    "grief"
+   ]
+  },
+  {
+   "start": "09:54",
+   "end": "10:14",
+   "location": "The hotel's courtyard/kitchen entrance",
+   "characters": [
+    "Thamma",
+    "Dhana"
+   ],
+   "dominant_activity": "Thamma reacting to Laxmi's death, singing a melancholic song",
+   "mood": "Grief-stricken, melancholic",
+   "summary": "Thamma reacts to the news of Laxmi's death with deep grief, singing a melancholic song about loss and not recognizing the departed. Dhana is also visibly upset.",
+   "opening_gist": "Thamma sings a melancholic song, expressing her grief.",
+   "closing_gist": "Thamma continues to sing, her face filled with sorrow.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "death",
+    "grief"
+   ]
+  },
+  {
+   "start": "10:14",
+   "end": "10:31",
+   "location": "Railway crossing, daytime",
+   "characters": [
+    "Police officers",
+    "Locals"
+   ],
+   "dominant_activity": "Police and locals carrying Laxmi's body parts",
+   "mood": "Somber, tragic",
+   "summary": "Police officers and locals are seen carrying Laxmi's dismembered body parts on a cart across the railway tracks, confirming the tragic accident.",
+   "opening_gist": "The scene shows a railway crossing with people gathered.",
+   "closing_gist": "Laxmi's body parts are carried away on a cart.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "death",
+    "accident_or_crash",
+    "injury_or_blood"
+   ]
+  },
+  {
+   "start": "10:31",
+   "end": "10:39",
+   "location": "Digital screen",
+   "characters": [],
+   "dominant_activity": "Displaying the title card 'Indubala Bhaater Hotel'",
+   "mood": "Neutral, informative",
+   "summary": "The title card 'Indubala Bhaater Hotel' is displayed, followed by a voiceover asking who is knocking at the door so late at night.",
+   "opening_gist": "The title card 'Indubala Bhaater Hotel' appears.",
+   "closing_gist": "A voiceover asks who is knocking at the door.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "10:39",
+   "end": "10:47",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala",
+    "Two young boys"
+   ],
+   "dominant_activity": "Indubala reading to children, discussing the knocking sound",
+   "mood": "Calm, domestic, slightly eerie",
+   "summary": "Indubala is reading to two young boys in her bedroom. They hear a knocking sound, and the boys suggest it's someone coming to eat at her hotel. Indubala dismisses it, saying it's just the wind, as it's late at night.",
+   "opening_gist": "Indubala is reading to two boys, a knocking sound is heard.",
+   "closing_gist": "Indubala dismisses the knocking as the wind.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "10:47",
+   "end": "11:00",
+   "location": "A dark, rainy street/alleyway",
+   "characters": [],
+   "dominant_activity": "Showing a dark, rainy street with sounds of wind and animals",
+   "mood": "Eerie, desolate",
+   "summary": "The scene shows a dark, rainy street with a fallen tree. The sounds of wind and a jackal howling (Hukka Hua) create an eerie and desolate atmosphere, suggesting the late hour and bad weather.",
+   "opening_gist": "A dark, rainy street with a fallen tree is shown.",
+   "closing_gist": "The sounds of wind and a jackal howling are heard.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "11:00",
+   "end": "11:19",
+   "location": "The hotel's courtyard, night, raining heavily",
+   "characters": [
+    "Indubala",
+    "Dhana",
+    "Two young boys",
+    "Laxmi"
+   ],
+   "dominant_activity": "Laxmi arriving soaked in rain, children excited",
+   "mood": "Chaotic, relieved, domestic",
+   "summary": "Indubala calls out for Pradip and Sudip. Laxmi arrives, completely soaked from the heavy rain, carrying a large taro. The children are excited to see her and the taro. Indubala and Dhana rush to help her inside.",
+   "opening_gist": "Indubala calls out names. Laxmi arrives, soaked in rain.",
+   "closing_gist": "Indubala tells the children to go inside and eat.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "11:19",
+   "end": "11:44",
+   "location": "The hotel's courtyard, night, raining heavily",
+   "characters": [
+    "Indubala",
+    "Laxmi",
+    "Dhana",
+    "Two young boys"
+   ],
+   "dominant_activity": "Indubala and Dhana helping Laxmi inside, customers leaving",
+   "mood": "Chaotic, domestic, slightly humorous",
+   "summary": "Indubala and Dhana help Laxmi, who is drenched, inside. Laxmi explains that due to the heavy rain, all transport has stopped. Customers are leaving, and Dhana promises them khichuri with eggplant fritters if they return tomorrow during the rain.",
+   "opening_gist": "Indubala helps Laxmi inside, who is completely wet.",
+   "closing_gist": "Customers leave, Dhana promises khichuri for tomorrow if it rains.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "11:44",
+   "end": "12:15",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala",
+    "Laxmi"
+   ],
+   "dominant_activity": "Indubala helping Laxmi change, discussing the hotel",
+   "mood": "Caring, domestic",
+   "summary": "Indubala helps Laxmi change out of her wet clothes. Laxmi suggests that if it's raining so much, there's no need for taro, implying the hotel should close. Indubala dismisses her, saying she can't close the hotel and tells her to quickly change and help her.",
+   "opening_gist": "Laxmi says there's no need for taro. Indubala helps her change.",
+   "closing_gist": "Indubala tells Laxmi to change quickly and help her.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "12:15",
+   "end": "12:47",
+   "location": "A dark, cold room (morgue-like)",
+   "characters": [
+    "Two men"
+   ],
+   "dominant_activity": "Two men handling a body, cutting ice",
+   "mood": "Somber, grim",
+   "summary": "Two men are seen in a dark, cold room, handling a body that appears to be dismembered. They are cutting large blocks of ice, presumably to preserve the body. A melancholic song plays in the background.",
+   "opening_gist": "Two men are seen with a body and blocks of ice.",
+   "closing_gist": "The men continue to handle the body and ice.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "death",
+    "injury_or_blood",
+    "grief"
+   ]
+  },
+  {
+   "start": "12:47",
+   "end": "13:16",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala"
+   ],
+   "dominant_activity": "Indubala looking at her reflection, singing a melancholic song",
+   "mood": "Melancholic, reflective",
+   "summary": "Indubala looks at her reflection in a mirror, her face filled with sorrow. She sings a melancholic song about being caught in a trap, reflecting her inner turmoil and grief.",
+   "opening_gist": "Indubala looks at her reflection in a mirror.",
+   "closing_gist": "Indubala continues to sing, her gaze fixed.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "grief"
+   ]
+  },
+  {
+   "start": "13:16",
+   "end": "13:39",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala",
+    "Laxmi"
+   ],
+   "dominant_activity": "Indubala and Laxmi singing a melancholic song",
+   "mood": "Melancholic, sorrowful",
+   "summary": "Indubala and Laxmi are in the bedroom, singing a melancholic song together. Laxmi expresses that she is 'finished' and will come soon, hinting at her impending death.",
+   "opening_gist": "Indubala and Laxmi sing a melancholic song.",
+   "closing_gist": "Laxmi says she is 'finished' and will come soon.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "grief",
+    "death"
+   ]
+  },
+  {
+   "start": "13:39",
+   "end": "14:12",
+   "location": "A hospital corridor, daytime, raining",
+   "characters": [
+    "Indubala",
+    "Dhana",
+    "Police officer"
+   ],
+   "dominant_activity": "Indubala and Dhana arriving at the hospital, police officer asking questions",
+   "mood": "Somber, tense, grief-stricken",
+   "summary": "Indubala and Dhana arrive at a hospital in the rain. A police officer asks if they are Laxmi Pahan's family. Dhana tells Indubala to go inside, but she hesitates, her face filled with grief.",
+   "opening_gist": "Indubala and Dhana arrive at a hospital in the rain.",
+   "closing_gist": "Indubala looks distraught, refusing to go inside.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "death",
+    "grief",
+    "illness_or_hospital"
+   ]
+  },
+  {
+   "start": "14:12",
+   "end": "14:28",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala"
+   ],
+   "dominant_activity": "Indubala lighting a lamp, singing a melancholic song",
+   "mood": "Melancholic, somber",
+   "summary": "Indubala lights a lamp in her dark room, singing a melancholic song about her fate. The flickering light emphasizes her solitude and sorrow.",
+   "opening_gist": "Indubala lights a lamp in her dark room.",
+   "closing_gist": "Indubala continues to sing, her face illuminated by the lamp.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "grief"
+   ]
+  },
+  {
+   "start": "14:28",
+   "end": "14:50",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala",
+    "Laxmi"
+   ],
+   "dominant_activity": "Indubala comforting Laxmi, discussing her bed",
+   "mood": "Caring, melancholic",
+   "summary": "Indubala comforts Laxmi, who apologizes for falling asleep. Indubala remarks on Laxmi's large bed, saying she has never seen such a bed before. Laxmi confirms she hadn't either before coming here.",
+   "opening_gist": "Indubala comforts Laxmi, who apologizes for falling asleep.",
+   "closing_gist": "Indubala and Laxmi discuss the bed, both looking melancholic.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "14:50",
+   "end": "15:09",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala",
+    "Laxmi"
+   ],
+   "dominant_activity": "Indubala and Laxmi discussing hunger and tea",
+   "mood": "Caring, domestic",
+   "summary": "Indubala asks Laxmi if she's hungry, as it's getting late. She suggests they have some tea and puffed rice. Indubala then calls Dhana to prepare the tea.",
+   "opening_gist": "Indubala asks Laxmi if she's hungry.",
+   "closing_gist": "Indubala calls Dhana to prepare tea.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "15:09",
+   "end": "15:33",
+   "location": "A dark, cold room (morgue-like)",
+   "characters": [
+    "Indubala",
+    "Dhana",
+    "A body"
+   ],
+   "dominant_activity": "Indubala covering a body, singing a melancholic song",
+   "mood": "Grief-stricken, somber",
+   "summary": "Indubala is seen covering a body on a stretcher with a white sheet, her face filled with sorrow. Dhana is also present, looking distraught. A melancholic song plays, emphasizing the tragic loss.",
+   "opening_gist": "Indubala covers a body on a stretcher.",
+   "closing_gist": "Indubala looks up, her face etched with grief.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "death",
+    "grief",
+    "illness_or_hospital"
+   ]
+  },
+  {
+   "start": "15:33",
+   "end": "16:22",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala",
+    "Laxmi"
+   ],
+   "dominant_activity": "Laxmi recounting a dream about her childhood village and a boy",
+   "mood": "Nostalgic, melancholic",
+   "summary": "Laxmi tells Indubala about a dream she had, recalling her childhood village, Komli, a small river, and a boy named Arjun. She remembers them playing in the fields and him buying her bangles. She wonders where he is now.",
+   "opening_gist": "Laxmi tells Indubala about a dream.",
+   "closing_gist": "Laxmi wonders where Arjun is now.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "16:22",
+   "end": "17:25",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala",
+    "Laxmi"
+   ],
+   "dominant_activity": "Laxmi recounting her past, Indubala listening",
+   "mood": "Melancholic, resigned",
+   "summary": "Laxmi continues her story, explaining that after marriage, she moved away and never returned to Komli village. A big flood destroyed her home, and she lost contact with her past. She sadly jokes that her love for Arjun was beaten out of her by her husband, who now drinks and beats her. She then asks Indubala to share her story.",
+   "opening_gist": "Laxmi explains she never went back to Komli village.",
+   "closing_gist": "Laxmi asks Indubala to tell her story.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "poverty_or_financial_distress",
+    "violence_or_fight",
+    "alcohol",
+    "natural_disaster"
+   ]
+  },
+  {
+   "start": "17:25",
+   "end": "17:52",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala",
+    "Laxmi"
+   ],
+   "dominant_activity": "Indubala denying having a story, Laxmi insisting",
+   "mood": "Melancholic, evasive",
+   "summary": "Indubala claims she has no story to tell. Laxmi insists, saying that everyone has a story and that Dhana had told her Indubala also had someone in her past. Indubala looks away, avoiding the topic.",
+   "opening_gist": "Indubala says she has no story.",
+   "closing_gist": "Indubala avoids Laxmi's gaze, looking away.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "17:52",
+   "end": "18:37",
+   "location": "Intercutting between the dense field in the rain and Indubala's bedroom",
+   "characters": [
+    "Indubala (younger self in field, older self in bedroom)",
+    "Young boy (in field)",
+    "Laxmi (in bedroom)"
+   ],
+   "dominant_activity": "Indubala's memory of her past love, intercut with her present conversation",
+   "mood": "Nostalgic, melancholic, romantic",
+   "summary": "The scene intercuts between Indubala's memory of her younger self with a boy in a taro field during the rain, and her present conversation with Laxmi. A melancholic song plays, highlighting her unspoken past love and the pain of lost memories.",
+   "opening_gist": "Indubala's memory of her younger self in a taro field is shown.",
+   "closing_gist": "Indubala looks melancholic, lost in her memories.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "romance_or_intimacy",
+    "grief"
+   ]
+  },
+  {
+   "start": "18:37",
+   "end": "19:03",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala",
+    "Laxmi"
+   ],
+   "dominant_activity": "Indubala confirming her past love, Laxmi teasing her",
+   "mood": "Nostalgic, bittersweet, affectionate",
+   "summary": "Indubala confirms that she too had a past love, as Laxmi playfully teases her, reminding her that Dhana had told her. Indubala smiles, reminiscing about her youth.",
+   "opening_gist": "Laxmi asks Indubala to tell her story.",
+   "closing_gist": "Indubala smiles, lost in her memories.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "romance_or_intimacy"
+   ]
+  },
+  {
+   "start": "19:03",
+   "end": "19:22",
+   "location": "A dark, cold room (morgue-like)",
+   "characters": [
+    "Indubala",
+    "Police officer"
+   ],
+   "dominant_activity": "Police officer asking Indubala to sign papers for Laxmi's body",
+   "mood": "Somber, grim, bureaucratic",
+   "summary": "A police officer asks Indubala to sign papers for Laxmi's body. He asks her relationship to Laxmi, and Indubala states she is her sister. The officer finds it strange that a Mallick is related to a Pahan, highlighting social differences.",
+   "opening_gist": "A police officer asks Indubala to sign papers.",
+   "closing_gist": "The officer questions the relationship between a Mallick and a Pahan.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "death",
+    "grief",
+    "illness_or_hospital"
+   ]
+  },
+  {
+   "start": "19:22",
+   "end": "20:05",
+   "location": "Intercutting between a dark, cold room and Indubala's bedroom",
+   "characters": [
+    "Indubala (in both locations)",
+    "Police officer (in cold room)",
+    "Laxmi (in bedroom)"
+   ],
+   "dominant_activity": "Indubala signing papers for Laxmi's body, intercut with her memory of Laxmi",
+   "mood": "Grief-stricken, melancholic, tragic",
+   "summary": "The scene intercuts between Indubala signing papers for Laxmi's body in the morgue and her memory of Laxmi in the bedroom. A melancholic song plays, emphasizing Indubala's deep sorrow and the finality of her sister's death.",
+   "opening_gist": "Indubala signs papers for Laxmi's body.",
+   "closing_gist": "Indubala looks up, her face filled with grief.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "death",
+    "grief",
+    "illness_or_hospital"
+   ]
+  },
+  {
+   "start": "20:05",
+   "end": "20:24",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala"
+   ],
+   "dominant_activity": "Indubala looking up, holding a ring, singing a melancholic song",
+   "mood": "Grief-stricken, melancholic, hopeful",
+   "summary": "Indubala looks up, her face filled with grief, holding a ring in her hand. She sings a melancholic song about crossing the ocean of sorrow and seeing the light, suggesting a glimmer of hope amidst her despair.",
+   "opening_gist": "Indubala looks up, holding a ring in her hand.",
+   "closing_gist": "Indubala continues to sing, her gaze fixed upwards.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "grief"
+   ]
+  },
+  {
+   "start": "20:24",
+   "end": "20:50",
+   "location": "The hotel's courtyard/entrance",
+   "characters": [
+    "A young boy",
+    "A lawyer",
+    "Dhana"
+   ],
+   "dominant_activity": "Lawyer informing Dhana about Indubala winning the property case",
+   "mood": "Surprised, relieved",
+   "summary": "A lawyer arrives at the hotel and informs Dhana that Indubala has won the property case. The house now belongs to Indubala Mallick, and the other residents have seven days to vacate.",
+   "opening_gist": "A young boy is playing. A lawyer enters and asks for Maaji.",
+   "closing_gist": "The lawyer informs Dhana that Indubala has won the case.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "20:50",
+   "end": "21:27",
+   "location": "The hotel's courtyard/entrance",
+   "characters": [
+    "A young boy",
+    "A lawyer",
+    "Dhana"
+   ],
+   "dominant_activity": "Lawyer informing Dhana about Indubala winning the property case",
+   "mood": "Surprised, relieved",
+   "summary": "A lawyer informs Dhana that Indubala has won the property case, and the house now belongs to her. He also mentions that a girl helped them win the case and asks Dhana to inform Indubala's friend.",
+   "opening_gist": "The lawyer informs Dhana that Indubala has won the property case.",
+   "closing_gist": "The lawyer leaves, and Dhana looks thoughtful.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "21:27",
+   "end": "21:46",
+   "location": "Indubala's bedroom, daytime",
+   "characters": [
+    "Indubala",
+    "Dhana"
+   ],
+   "dominant_activity": "Dhana offering water to Indubala, discussing the funeral rites",
+   "mood": "Somber, domestic",
+   "summary": "Dhana offers water to Indubala, who is sitting quietly. He asks if the funeral rites were completed properly. Indubala then asks Dhana to go to the market to buy ingredients for cooking for Laxmi's shraddha (funeral feast).",
+   "opening_gist": "Dhana offers water to Indubala.",
+   "closing_gist": "Indubala asks Dhana to go to the market.",
+   "ends_on": "resolved",
+   "sensitive_themes": [
+    "funeral_or_mourning"
+   ]
+  },
+  {
+   "start": "21:46",
+   "end": "22:25",
+   "location": "Indubala's bedroom, daytime",
+   "characters": [
+    "Indubala",
+    "Dhana"
+   ],
+   "dominant_activity": "Indubala discussing cooking for Laxmi's shraddha",
+   "mood": "Somber, determined",
+   "summary": "Indubala tells Dhana that she needs to cook for Laxmi's shraddha, as it is a tradition to feed people on the day of mourning. She asks Dhana to check if taro is available in the market. Dhana offers to make her tea, but Indubala declines.",
+   "opening_gist": "Indubala tells Dhana she needs to cook for Laxmi's shraddha.",
+   "closing_gist": "Indubala declines tea, looking somber.",
+   "ends_on": "resolved",
+   "sensitive_themes": [
+    "funeral_or_mourning"
+   ]
+  },
+  {
+   "start": "22:25",
+   "end": "23:16",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala",
+    "Dhana"
+   ],
+   "dominant_activity": "Indubala lighting a lamp, singing a melancholic song",
+   "mood": "Melancholic, ritualistic",
+   "summary": "Indubala lights a lamp, her face filled with sorrow. She sings a melancholic song about being alone and crossing the river of tears, reflecting her grief and the ritualistic act of lighting the lamp for the departed.",
+   "opening_gist": "Indubala lights a lamp.",
+   "closing_gist": "Indubala continues to sing, her face illuminated by the lamp.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "grief",
+    "religious_ritual"
+   ]
+  },
+  {
+   "start": "23:16",
+   "end": "24:06",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala",
+    "Dhana"
+   ],
+   "dominant_activity": "Indubala singing a melancholic song, Dhana listening",
+   "mood": "Grief-stricken, melancholic",
+   "summary": "Indubala continues to sing a melancholic song about being alone and crossing the river of tears, reflecting her grief. Dhana listens intently, sharing her sorrow.",
+   "opening_gist": "Indubala continues to sing, her face illuminated by the lamp.",
+   "closing_gist": "Indubala continues to sing, her face filled with sorrow.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "grief"
+   ]
+  },
+  {
+   "start": "24:06",
+   "end": "24:39",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala",
+    "Dhana"
+   ],
+   "dominant_activity": "Indubala singing a melancholic song, Dhana listening",
+   "mood": "Grief-stricken, melancholic",
+   "summary": "Indubala continues to sing a melancholic song about being alone and crossing the river of tears, reflecting her grief. Dhana listens intently, sharing her sorrow.",
+   "opening_gist": "Indubala continues to sing, her face filled with sorrow.",
+   "closing_gist": "Indubala continues to sing, her face filled with sorrow.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "grief"
+   ]
+  },
+  {
+   "start": "24:39",
+   "end": "24:50",
+   "location": "Indubala's bedroom, night",
+   "characters": [
+    "Indubala"
+   ],
+   "dominant_activity": "Indubala singing a melancholic song, looking at a plate of food",
+   "mood": "Grief-stricken, melancholic",
+   "summary": "Indubala sings a melancholic song about being alone and crossing the river of tears, reflecting her grief. She looks at a plate of food, symbolizing the meal prepared for Laxmi's shraddha.",
+   "opening_gist": "Indubala sings a melancholic song, looking at a plate of food.",
+   "closing_gist": "Indubala continues to sing, her face filled with sorrow.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "grief",
+    "funeral_or_mourning"
+   ]
+  },
+  {
+   "start": "24:50",
+   "end": "25:54",
+   "location": "Digital screen",
+   "characters": [],
+   "dominant_activity": "Displaying credits",
+   "mood": "Neutral",
+   "summary": "The credits for the episode are displayed, listing the cast and crew.",
+   "opening_gist": "Credits begin to roll.",
+   "closing_gist": "Credits end.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  }
+ ],
+ "model": "gemini-2.5-flash",
+ "usage": {
+  "prompt_tokens": 160342,
+  "output_tokens": 11369,
+  "thinking_tokens": 2045
+ }
+}

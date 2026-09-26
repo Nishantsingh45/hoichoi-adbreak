@@ -1,0 +1,62 @@
+{
+ "250.280": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man is heard walking with a suitcase on a dirt road. The sound of the suitcase wheels is heard.",
+  "passed": true
+ },
+ "713.400": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man says \"Bhai\" at 00:04. A different man says \"Bhai\" at 00:06.",
+  "passed": false
+ },
+ "559.200": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "There is no speech, only ambient sounds of a bus and a ferry.",
+  "passed": true
+ },
+ "758.736": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "There is no speech between 00:04 and 00:06. The audio is silent.",
+  "passed": true
+ },
+ "989.400": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A man is speaking on the phone while smoking a cigarette. His sentence is cut off by the ad break.",
+  "passed": false
+ },
+ "514.960": {
+  "speech_near_cut": false,
+  "sentence_spans_cut": false,
+  "what_is_heard": "The scene changes from an office to a bank, with no speech heard around the cut.",
+  "passed": true
+ },
+ "884.880": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man is heard speaking in Bengali, and then another man lights a cigarette.",
+  "passed": false
+ },
+ "593.360": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man says \"Excuse me, brother\" starting at 00:05.5.",
+  "passed": false
+ },
+ "1203.392": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": true,
+  "what_is_heard": "A man is speaking in Bengali, and his speech is cut off by the ad break.",
+  "passed": false
+ },
+ "1065.640": {
+  "speech_near_cut": true,
+  "sentence_spans_cut": false,
+  "what_is_heard": "A man coughs loudly and then another man speaks in Bengali.",
+  "passed": false
+ }
+}

@@ -1,0 +1,319 @@
+{
+ "synopsis": "This episode of 'Sunrise Bhojon Bilashi Season 2' takes viewers on a culinary and historical journey through Serampore, a town in West Bengal with a rich colonial past. Hosts Somak Ghosh and Parno Mittra engage in a playful game of riddles to reveal the location and the unique dishes they will explore. Somak, initially frustrated by the cryptic clues, eventually deduces the town's name, Serampore, known for its Danish heritage and as the 'Print Capital of India'. Parno, the guest host, welcomes Somak and shares personal anecdotes about her early career and the importance of parental support. Together, they guess and enjoy two special dishes: Chhanar Paturi (steamed cottage cheese in banana leaf) and Railway Mutton Curry, highlighting the blend of traditional Bengali and colonial influences in Serampore's cuisine.",
+ "scenes": [
+  {
+   "start": "00:00",
+   "end": "00:05",
+   "location": "On-screen graphics",
+   "characters": [],
+   "dominant_activity": "Displaying Hoichoi logo",
+   "mood": "Energetic, introductory",
+   "summary": "The Hoichoi logo animation plays, introducing the platform.",
+   "opening_gist": "Hoichoi logo appears.",
+   "closing_gist": "Hoichoi logo fades out.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:05",
+   "end": "00:14",
+   "location": "On-screen text",
+   "characters": [],
+   "dominant_activity": "Displaying disclaimer and series title",
+   "mood": "Informative",
+   "summary": "A disclaimer about the program's content and a title card for 'Hoichoi Series' are shown.",
+   "opening_gist": "Disclaimer text appears.",
+   "closing_gist": "'Hoichoi Series' text appears.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:14",
+   "end": "00:47",
+   "location": "Colorful street with old buildings",
+   "characters": [
+    "Somak Ghosh"
+   ],
+   "dominant_activity": "Somak giving clues about a city/town",
+   "mood": "Playful, inquisitive",
+   "summary": "Somak stands on a colorful street, holding a piece of paper and giving poetic clues in Bengali about a city. He mentions many people coming, the Hooghly river, a printing press, and a capital city, asking the audience to guess the name.",
+   "opening_gist": "Somak appears on a street, looking at a paper.",
+   "closing_gist": "Somak looks around, thinking.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:47",
+   "end": "01:03",
+   "location": "Various, including a bridge, riverside, and a street",
+   "characters": [
+    "Parno Mittra"
+   ],
+   "dominant_activity": "Parno giving clues about a city/town while eating and walking",
+   "mood": "Playful, confident",
+   "summary": "Parno gives her own set of clues, starting with a riddle about 'dales and leaves' while eating a snack. She then walks on a bridge and by the river, stating that the city is 'very strange' and that knowing the meaning of her name would help solve the riddle.",
+   "opening_gist": "Parno eats a snack, giving a riddle.",
+   "closing_gist": "Parno smiles, asking if the clue was too hard.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "01:03",
+   "end": "01:40",
+   "location": "Green park area with old buildings",
+   "characters": [
+    "Parno Mittra"
+   ],
+   "dominant_activity": "Parno explaining the city's unique blend of foreign and Bengali culture",
+   "mood": "Informative, engaging",
+   "summary": "Parno explains that the city, despite its foreign appearance, is entirely Bengali at heart, from its people to its food. She wants to share these aspects with the audience and hopes Somak, the food critic, will find her soon. She checks her watch, expecting him in five minutes.",
+   "opening_gist": "Parno walks in a park, explaining the city's character.",
+   "closing_gist": "Parno checks her watch, expecting Somak.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "01:40",
+   "end": "02:53",
+   "location": "Street with a red food truck",
+   "characters": [
+    "Somak Ghosh"
+   ],
+   "dominant_activity": "Somak trying to decipher clues and getting frustrated",
+   "mood": "Frustrated, then relieved",
+   "summary": "Somak, standing by his food truck, expresses frustration with the cryptic clues, comparing it to sending a wedding invitation with riddles instead of direct information. He tries to piece together the clues (Hooghly river, printing press, capital, foreign city) and finally realizes the answer is Serampore.",
+   "opening_gist": "Somak complains about the clues, standing by his food truck.",
+   "closing_gist": "Somak exclaims 'Serampore!' with a look of realization.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "02:53",
+   "end": "03:31",
+   "location": "Aerial views of Serampore, showing landmarks and the river",
+   "characters": [],
+   "dominant_activity": "Showcasing the beauty and landmarks of Serampore",
+   "mood": "Majestic, informative",
+   "summary": "Aerial shots display the scenic beauty of Serampore, including the Hooghly river, churches, and temples, while the names of the hosts and crew are displayed. The segment ends with the show's title card, 'Sunrise Bhojon Bilashi Season 2'.",
+   "opening_gist": "Aerial view of the Hooghly river and Serampore.",
+   "closing_gist": "'Sunrise Bhojon Bilashi Season 2' title card.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "03:31",
+   "end": "04:25",
+   "location": "Serampore College (Danish Tavern)",
+   "characters": [
+    "Somak Ghosh"
+   ],
+   "dominant_activity": "Somak explaining Serampore's colonial history",
+   "mood": "Informative, enthusiastic",
+   "summary": "Somak arrives at Serampore College in his food truck, explaining that India had various European colonizers, not just the British. He highlights that Serampore was built by the Danish and was once known as the 'Print Capital of India' or Frederiksnagore, now Serampore. He wonders who called him there.",
+   "opening_gist": "Somak drives his food truck to Serampore College.",
+   "closing_gist": "Somak checks his phone, then walks off, ready to find who called him.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "04:25",
+   "end": "05:18",
+   "location": "Street market/stalls",
+   "characters": [
+    "Somak Ghosh",
+    "a man",
+    "a woman"
+   ],
+   "dominant_activity": "Somak asking people for clues, getting ignored or mistaken for a celebrity",
+   "mood": "Humorous, slightly frustrated",
+   "summary": "Somak approaches two different people on the street, asking for clues related to Parno's riddles. The first man dismisses him, and the second woman mistakes him for a celebrity, asking for a selfie, completely ignoring his questions.",
+   "opening_gist": "Somak approaches a man at a stall, asking for clues.",
+   "closing_gist": "Somak looks around, confused and frustrated.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "05:18",
+   "end": "06:18",
+   "location": "Temple/historic building by the river",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra"
+   ],
+   "dominant_activity": "Parno revealing herself and the location, welcoming Somak",
+   "mood": "Playful, triumphant",
+   "summary": "Somak, frustrated, exclaims he won't play anymore when Parno appears from behind a pillar, revealing herself as the one who sent the clues. She playfully chides him for not solving the easy riddle. She welcomes him to Serampore, and they walk together, holding hands, as aerial shots show the beautiful riverside.",
+   "opening_gist": "Somak complains about the game, then Parno appears.",
+   "closing_gist": "Parno and Somak walk together, holding hands, as aerial shots show the river.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "06:18",
+   "end": "07:21",
+   "location": "Serampore College campus with food truck",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra"
+   ],
+   "dominant_activity": "Discussing the beautiful location and its history",
+   "mood": "Relaxed, appreciative",
+   "summary": "Parno and Somak sit at a table in front of Serampore College, admiring the peaceful environment and the Hooghly Ghat nearby. Somak learns that Serampore College is the fourth oldest college in the country, and Parno expresses her love for the spot.",
+   "opening_gist": "Somak and Parno sit at a table, admiring the campus.",
+   "closing_gist": "Somak praises the beautiful spot.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "07:21",
+   "end": "07:54",
+   "location": "Serampore College campus with food truck",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra",
+    "Chef Prashanta Daw"
+   ],
+   "dominant_activity": "Introducing the chef and starting the guessing game for dishes",
+   "mood": "Excited, playful",
+   "summary": "Parno introduces Chef Prashanta Daw, who brings a tray of Sunrise spice packets. Parno explains they will play a game called 'Saat Sutra' (Seven Clues) to guess the dishes, with Somak picking spices based on her clues.",
+   "opening_gist": "Chef Prashanta Daw approaches with a tray of spices.",
+   "closing_gist": "Parno announces the start of the 'Saat Sutra' game.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "07:54",
+   "end": "09:06",
+   "location": "Serampore College campus with food truck",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra"
+   ],
+   "dominant_activity": "Playing the first round of the guessing game for a dish",
+   "mood": "Challenging, humorous",
+   "summary": "Parno gives clues for the first dish: it's served on a banana leaf, made with a milk product, and steamed. Somak guesses various spices but fails to name the dish. Parno reveals the first dish is Chhanar Paturi (cottage cheese paturi).",
+   "opening_gist": "Parno gives the first clue: served on a banana leaf.",
+   "closing_gist": "Parno reveals the first dish: Chhanar Paturi.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "09:06",
+   "end": "09:41",
+   "location": "Food truck kitchen and Serampore College campus",
+   "characters": [
+    "Chef Prashanta Daw",
+    "Parno Mittra",
+    "Somak Ghosh"
+   ],
+   "dominant_activity": "Chef preparing Chhanar Paturi, Parno correcting Somak's spice guesses",
+   "mood": "Instructive, lighthearted",
+   "summary": "Chef Prashanta Daw is shown preparing Chhanar Paturi, mixing cottage cheese with spices and steaming it in banana leaves. Parno tells Somak he guessed the dish wrong and most of the spices, but correctly identified Sunrise Mustard-Poppy Seed Powder.",
+   "opening_gist": "Chef prepares Chhanar Paturi, cutting green chilies.",
+   "closing_gist": "Chef places the wrapped paturi in a pan to steam.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "09:41",
+   "end": "12:45",
+   "location": "Serampore College campus with food truck",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra"
+   ],
+   "dominant_activity": "Parno sharing her early career struggles and advice",
+   "mood": "Reflective, inspiring",
+   "summary": "Somak asks Parno about her early start in acting, even before finishing school. Parno shares her struggles, including school trauma and moving to Mumbai at a young age with her parents' support. She emphasizes the importance of diction in acting and advises young people to pursue education, despite her own unconventional path.",
+   "opening_gist": "Somak asks Parno about her early career start.",
+   "closing_gist": "Parno concludes that small journeys shape a person.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "12:45",
+   "end": "14:50",
+   "location": "Serampore College campus with food truck",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra"
+   ],
+   "dominant_activity": "Playing the second round of the guessing game for a dish",
+   "mood": "Playful, challenging",
+   "summary": "Parno and Somak start the second round of the game. Parno gives clues for the second dish: it has a connection to trains, contains potatoes, is spicy, and is a Bengali staple for Sundays. Somak guesses various spices and finally correctly identifies the dish as Railway Mutton Curry.",
+   "opening_gist": "Parno gives the first clue for the second dish: connection to trains.",
+   "closing_gist": "Parno confirms Somak's guess: Railway Mutton Curry.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  },
+  {
+   "start": "14:50",
+   "end": "15:24",
+   "location": "Food truck kitchen and Serampore College campus",
+   "characters": [
+    "Chef Prashanta Daw",
+    "Parno Mittra",
+    "Somak Ghosh"
+   ],
+   "dominant_activity": "Chef preparing Railway Mutton Curry, Parno correcting Somak's spice guesses",
+   "mood": "Instructive, lighthearted",
+   "summary": "Chef Prashanta Daw is shown preparing Railway Mutton Curry, frying onions, adding spices, and cooking the mutton. Parno tells Somak he guessed the dish correctly but picked the wrong chili and pepper spices, confirming that Sunrise Garam Masala was the correct choice.",
+   "opening_gist": "Chef prepares Railway Mutton Curry, slicing onions.",
+   "closing_gist": "Chef serves the Railway Mutton Curry.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "15:24",
+   "end": "17:13",
+   "location": "Serampore College campus with food truck",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra"
+   ],
+   "dominant_activity": "Parno sharing her passion for cooking and family stories",
+   "mood": "Warm, personal",
+   "summary": "Somak and Parno discuss her cooking skills. Parno reveals she loves cooking, especially North Indian dal, Yakhni Pulao, and Ganesh Puja bhog. She shares that her mother, who is now unwell, loves her cooking. Somak expresses his hunger, and Parno calls the chef to bring the food.",
+   "opening_gist": "Somak asks Parno if she cooks.",
+   "closing_gist": "Parno calls the chef to bring the food.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "17:13",
+   "end": "19:53",
+   "location": "Serampore College campus with food truck",
+   "characters": [
+    "Somak Ghosh",
+    "Parno Mittra",
+    "Chef Prashanta Daw"
+   ],
+   "dominant_activity": "Enjoying the prepared dishes and receiving a final clue",
+   "mood": "Satisfied, intrigued",
+   "summary": "Chef Prashanta Daw serves Chhanar Paturi and Railway Mutton Curry with rice. Somak and Parno enjoy the meal, praising the flavors brought by Sunrise spices. Somak is impressed by the vegetarian paturi trick. As they finish, Parno receives a voice note, which she plays for Somak, revealing a final clue for their next destination.",
+   "opening_gist": "Chef serves the Chhanar Paturi and Railway Mutton Curry.",
+   "closing_gist": "Somak listens intently to a voice note with the next clue.",
+   "ends_on": "cliffhanger",
+   "sensitive_themes": []
+  },
+  {
+   "start": "19:53",
+   "end": "20:27",
+   "location": "On-screen credits",
+   "characters": [],
+   "dominant_activity": "Displaying production credits",
+   "mood": "Concluding",
+   "summary": "The episode concludes with a rolling list of production credits.",
+   "opening_gist": "Credits begin to roll.",
+   "closing_gist": "Final production company logo and year are displayed.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  }
+ ],
+ "model": "gemini-2.5-flash",
+ "usage": {
+  "prompt_tokens": 126764,
+  "output_tokens": 4288,
+  "thinking_tokens": 2046
+ }
+}

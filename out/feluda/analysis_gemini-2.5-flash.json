@@ -1,0 +1,311 @@
+{
+ "synopsis": "Feluda, Topshe, and Lalmohan Ganguly embark on a journey to Kashmir to help Lalmohan overcome his writer's block, following a numerologist's advice. Unbeknownst to them, a retired judge, Siddheshwar Mallick, is also in Kashmir, seeking to resolve lingering doubts about his past capital punishment verdicts. Meanwhile, a militant group is actively working to destabilize the region through a proxy war. As Feluda and his companions enjoy the scenic beauty of Kashmir, they are drawn into a complex web of political intrigue, militancy, and personal quests for truth, leading to a dangerous investigation.",
+ "scenes": [
+  {
+   "start": "00:00",
+   "end": "00:06",
+   "location": "Digital space",
+   "characters": [],
+   "dominant_activity": "Logo animation",
+   "mood": "Introductory",
+   "summary": "The Hoichoi logo is displayed with animation, transitioning from red and white shapes to the full logo on a red background.",
+   "opening_gist": "Red and white shapes form the Hoichoi logo.",
+   "closing_gist": "The Hoichoi logo is fully formed.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:06",
+   "end": "00:10",
+   "location": "Digital space",
+   "characters": [],
+   "dominant_activity": "Displaying a disclaimer",
+   "mood": "Informative",
+   "summary": "A disclaimer text is shown on screen, stating that the program is a work of fiction and advising viewer discretion regarding sensitive content such as violence, drugs, and alcohol.",
+   "opening_gist": "The word \"Disclaimer\" appears on screen.",
+   "closing_gist": "The disclaimer text remains on screen.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "00:10",
+   "end": "01:20",
+   "location": "A cozy room with a large window overlooking a snowy mountain landscape",
+   "characters": [
+    "An elderly man with a beard"
+   ],
+   "dominant_activity": "Listening to a news broadcast and reacting",
+   "mood": "Pensive, concerned",
+   "summary": "An elderly man sits in a room, listening intently to a news report about political alliances in Jammu and Kashmir. The news mentions the weak performance of the Muslim United Party (MUP) and the formation of a coalition between JKNC and Congress, which could be significant for political direction. The man appears thoughtful and concerned by the news, eventually picking up a phone to make a call.",
+   "opening_gist": "A snowy mountain landscape is seen through a window, with news audio playing.",
+   "closing_gist": "The man picks up a landline phone and says \"Behka General Saab se baat karein\" (I need to speak with General Saab).",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "01:20",
+   "end": "02:59",
+   "location": "Snowy mountain landscape, then a military camp",
+   "characters": [
+    "Soldiers"
+   ],
+   "dominant_activity": "Establishing shot of a military camp in a snowy, mountainous region. Soldiers are seen patrolling and then gathering inside a tent.",
+   "mood": "Serene (initially), then tense, strategic",
+   "summary": "The Hoichoi Originals title card is shown, followed by breathtaking aerial shots of a snow-covered mountainous region, revealing a military camp. Soldiers are seen patrolling the perimeter and then entering a large tent, suggesting a strategic meeting or briefing.",
+   "opening_gist": "Hoichoi Originals title card appears, followed by aerial shots of snowy mountains.",
+   "closing_gist": "Soldiers are seen inside a tent, one is drinking from a mug.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "02:59",
+   "end": "05:02",
+   "location": "Inside a military tent in a snowy region",
+   "characters": [
+    "Four soldiers in camouflage uniforms, wearing maroon berets"
+   ],
+   "dominant_activity": "Discussing a military strategy to destabilize Kashmir by inciting local leaders and providing weapons and training",
+   "mood": "Tense, conspiratorial, strategic",
+   "summary": "Inside a military tent, four soldiers discuss a strategy to exploit the political unrest in Kashmir. They plan to incite MUP leaders and their supporters against India, provide them with weapons and training, and create small insurgent groups to carry out attacks on Indian government representatives like the army, police, politicians, bureaucrats, and judges. They refer to this as a \"proxy war\" to avenge the 1971 surrender.",
+   "opening_gist": "A soldier asks why Islamabad is suddenly shouting \"Moka Moka\" (Opportunity, Opportunity).",
+   "closing_gist": "A soldier states that everything is fair in love, war, and against India, as the camera pans out of the tent to the snowy landscape.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "violence_or_fight",
+    "crime_theft_or_fraud",
+    "smoking"
+   ]
+  },
+  {
+   "start": "05:02",
+   "end": "06:36",
+   "location": "Animated scenes depicting various locations and characters",
+   "characters": [
+    "Animated versions of Feluda, Topshe, Jatayu, and other characters"
+   ],
+   "dominant_activity": "Animated title sequence for \"Feludar Goyendagiri\" (Feluda's Detective Work)",
+   "mood": "Adventurous, mysterious, playful",
+   "summary": "An animated title sequence introduces the show \"Feludar Goyendagiri\" (Feluda's Detective Work), featuring the main characters Feluda, Topshe, and Jatayu in various adventurous scenarios, hinting at the mysteries they will solve. The animation style is black and white sketch-like.",
+   "opening_gist": "Animated characters appear with the title \"A Hoichoi Original Series\".",
+   "closing_gist": "The animated title \"Feludar Goyendagiri\" is displayed.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "06:36",
+   "end": "08:29",
+   "location": "A traditional Bengali living room",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly (Jatayu)",
+    "A palmist"
+   ],
+   "dominant_activity": "Feluda, Topshe, and Lalmohan are consulting a palmist about Lalmohan's writer's block.",
+   "mood": "Humorous, curious",
+   "summary": "Feluda, Topshe, and Lalmohan Ganguly visit a palmist to understand why Lalmohan is experiencing writer's block. The palmist, after examining Lalmohan's palm and a scroll, suggests he needs a \"mental shake-up\" and a long journey to a place starting with the letter 'K' to regain his creative flow.",
+   "opening_gist": "Lalmohan asks the palmist how long he's had writer's block.",
+   "closing_gist": "The palmist confirms the destination must start with 'K'.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "08:29",
+   "end": "09:05",
+   "location": "A town square in a mountainous region",
+   "characters": [
+    "Soldiers",
+    "Militants",
+    "Civilians"
+   ],
+   "dominant_activity": "A sudden and violent militant attack on soldiers in a town square",
+   "mood": "Violent, chaotic, shocking",
+   "summary": "In a sudden and brutal attack, militants on a motorcycle open fire on soldiers in a town square. The soldiers return fire, but the militants manage to throw a grenade, destroying a military jeep and causing casualties. The scene is chaotic and violent, highlighting the ongoing conflict.",
+   "opening_gist": "Military jeeps are parked in a town square, a soldier stands guard.",
+   "closing_gist": "A military jeep explodes, and a militant falls to the ground.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "violence_or_fight",
+    "death",
+    "injury_or_blood"
+   ]
+  },
+  {
+   "start": "09:05",
+   "end": "11:24",
+   "location": "Inside a car, driving through a rural landscape",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "A driver"
+   ],
+   "dominant_activity": "Feluda, Topshe, and Lalmohan are discussing their travel plans to Kashmir, excited about the trip.",
+   "mood": "Enthusiastic, lighthearted",
+   "summary": "Feluda, Topshe, and Lalmohan are in a car, discussing their upcoming trip to Kashmir. Lalmohan is particularly excited, mentioning the numerologist's prediction about a place starting with 'K' and suggesting various locations like Gulmarg, Sonmarg, and Pahalgam. They decide on staying in a houseboat in Srinagar, a tent in Pahalgam, and a log cabin in Gulmarg.",
+   "opening_gist": "The car drives through a green landscape, Lalmohan says \"Aapni jai bolun\" (Whatever you say).",
+   "closing_gist": "Lalmohan expresses excitement about the trip to Kashmir.",
+   "ends_on": "transition",
+   "sensitive_themes": [
+    "smoking"
+   ]
+  },
+  {
+   "start": "11:24",
+   "end": "14:12",
+   "location": "Hotel lobby in Kashmir",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Siddheshwar Mallick (retired judge)",
+    "Sushanto Som (Mallick's private secretary)"
+   ],
+   "dominant_activity": "Feluda, Topshe, and Lalmohan meet Siddheshwar Mallick and his secretary, Sushanto Som, in a hotel lobby.",
+   "mood": "Formal, curious",
+   "summary": "Feluda, Topshe, and Lalmohan arrive at a hotel in Kashmir and meet Siddheshwar Mallick, a retired judge, and his private secretary, Sushanto Som. Mallick expresses his long-standing connection to crime cases and his excitement at meeting a private investigator like Feluda. He explains that he is exploring Kashmir, a place he lived in but never truly experienced due to his judicial duties.",
+   "opening_gist": "Feluda, Topshe, and Lalmohan arrive at the hotel, Lalmohan asks if they are ready.",
+   "closing_gist": "Mallick says he will meet them in Bhuswargo (Kashmir).",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": []
+  },
+  {
+   "start": "14:12",
+   "end": "15:49",
+   "location": "Dal Lake, Srinagar, Kashmir",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Sushanto Som",
+    "Boatmen"
+   ],
+   "dominant_activity": "Feluda, Topshe, and Lalmohan arrive at Dal Lake and board a shikara to their houseboat, 'Water Lily'.",
+   "mood": "Joyful, serene, picturesque",
+   "summary": "Feluda, Topshe, and Lalmohan arrive at Dal Lake in Srinagar, where they are greeted by Sushanto Som. They board a shikara (traditional Kashmiri boat) to reach their houseboat, named 'Water Lily'. Lalmohan is visibly excited by the beauty of the lake and the surrounding houseboats.",
+   "opening_gist": "A river flows through a mountainous landscape, then a shikara is seen on Dal Lake.",
+   "closing_gist": "Feluda, Topshe, and Lalmohan are on the houseboat deck, admiring the view.",
+   "ends_on": "transition",
+   "sensitive_themes": []
+  },
+  {
+   "start": "15:49",
+   "end": "17:52",
+   "location": "On a shikara on Dal Lake, Srinagar",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Sushanto Som",
+    "Boatmen"
+   ],
+   "dominant_activity": "Lalmohan sings a song and recites a poem about Kashmir, while Feluda and Topshe observe the surroundings.",
+   "mood": "Joyful, appreciative, reflective",
+   "summary": "Lalmohan, overwhelmed by the beauty of Kashmir, sings a Bollywood song and then recites a poem about Srinagar, describing its natural beauty and unique charm. Feluda and Topshe listen, occasionally interjecting with observations about the historical and geographical landmarks, such as Charminar Island and Shankaracharya Temple.",
+   "opening_gist": "Lalmohan sings a song about Kashmir's beauty.",
+   "closing_gist": "Sushanto Som asks Feluda if Kashmir is just about 'Kali' (flowers).",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "17:52",
+   "end": "18:44",
+   "location": "On a shikara on Dal Lake, Srinagar",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Sushanto Som",
+    "Boatmen"
+   ],
+   "dominant_activity": "Feluda, Topshe, and Lalmohan are enjoying the scenic beauty of Dal Lake from their shikara, which is adorned with flowers.",
+   "mood": "Serene, appreciative",
+   "summary": "Feluda, Topshe, and Lalmohan are enjoying a ride on a flower-laden shikara on Dal Lake. They are captivated by the serene beauty of the lake and the surrounding mountains. Lalmohan continues to express his delight, while Feluda and Topshe take in the peaceful atmosphere.",
+   "opening_gist": "A boatman rows a shikara filled with flowers.",
+   "closing_gist": "The shikara passes by houseboats, and Lalmohan points excitedly.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "18:44",
+   "end": "19:39",
+   "location": "Houseboat 'Miranda' on Dal Lake, Srinagar",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Sushanto Som",
+    "Bijoy Mallick (Siddheshwar Mallick's son)",
+    "Other guests"
+   ],
+   "dominant_activity": "Feluda, Topshe, and Lalmohan visit the 'Miranda' houseboat and meet Bijoy Mallick and other guests.",
+   "mood": "Social, curious",
+   "summary": "Feluda, Topshe, and Lalmohan visit the 'Miranda' houseboat, where Sushanto Som introduces them to Bijoy Mallick, Siddheshwar Mallick's son, and other guests. Bijoy mentions that his father is on another houseboat, 'Water Lily'. Sushanto explains that Bijoy has made new acquaintances on the plane, including a Bengali named Sarkar and a Punjabi, all of whom are gamblers.",
+   "opening_gist": "Lalmohan greets someone on a nearby houseboat, asking if they are coming.",
+   "closing_gist": "Sushanto asks Feluda and Topshe if they play cards.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": []
+  },
+  {
+   "start": "19:39",
+   "end": "21:33",
+   "location": "Houseboat 'Miranda' on Dal Lake, Srinagar",
+   "characters": [
+    "Feluda",
+    "Topshe",
+    "Lalmohan Ganguly",
+    "Sushanto Som",
+    "Bijoy Mallick"
+   ],
+   "dominant_activity": "Sushanto Som explains the recent militant activities in Kashmir to Feluda, Topshe, and Lalmohan.",
+   "mood": "Informative, tense",
+   "summary": "Sushanto Som explains to Feluda, Topshe, and Lalmohan about the recent surge in militancy in Kashmir. He attributes it to rigged elections two years prior, which led to a local party losing and many people taking up arms. He mentions that support is coming from across the border and that government officials, including police, army, and even judges, are being targeted. He also shares that Siddheshwar Mallick, despite warnings, refused protection, believing fate cannot be avoided.",
+   "opening_gist": "Feluda replies that he has some knowledge of cards but no habit.",
+   "closing_gist": "Sushanto says Siddheshwar Mallick is living a philosophical life due to his judicial past.",
+   "ends_on": "mid_conversation",
+   "sensitive_themes": [
+    "violence_or_fight",
+    "crime_theft_or_fraud",
+    "smoking"
+   ]
+  },
+  {
+   "start": "21:33",
+   "end": "24:34",
+   "location": "Siddheshwar Mallick's study on a houseboat",
+   "characters": [
+    "Siddheshwar Mallick",
+    "Sushanto Som"
+   ],
+   "dominant_activity": "Siddheshwar Mallick reveals his inner turmoil and his desire to resolve past judgments.",
+   "mood": "Somber, reflective, determined",
+   "summary": "Siddheshwar Mallick, in his study, gives Sushanto Som his diaries, which contain records of his judicial career, including dates marked with a red cross for every capital punishment verdict. He reveals his deep regret and the burden of having acted as part of an \"institutionalized murder.\" He expresses a profound desire to resolve the question marks next to some of these red crosses, indicating doubts about the correctness of his past judgments, by speaking to the souls of those he condemned.",
+   "opening_gist": "Sushanto Som enters Mallick's study.",
+   "closing_gist": "Mallick states he must find the truth and resolve these question marks, even if it means talking to the dead.",
+   "ends_on": "dramatic_beat",
+   "sensitive_themes": [
+    "death",
+    "smoking"
+   ]
+  },
+  {
+   "start": "24:34",
+   "end": "25:35",
+   "location": "Digital space",
+   "characters": [],
+   "dominant_activity": "Displaying credits and production information",
+   "mood": "Informative",
+   "summary": "The end credits roll, listing the cast, crew, and production details for the episode, accompanied by the show's theme music.",
+   "opening_gist": "Credits for visual effects and production appear.",
+   "closing_gist": "The Hoichoi Technologies copyright notice is displayed.",
+   "ends_on": "resolved",
+   "sensitive_themes": []
+  }
+ ],
+ "model": "gemini-2.5-flash",
+ "usage": {
+  "prompt_tokens": 158488,
+  "output_tokens": 4546,
+  "thinking_tokens": 2045
+ }
+}
