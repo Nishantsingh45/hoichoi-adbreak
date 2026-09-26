@@ -1,14 +1,12 @@
 """Demo server: player UI, outputs, and a small job API so new videos and brands can be processed live."""
 import json
 import re
+import shutil
 import threading
 import time
 import traceback
 import uuid
 from pathlib import Path
-
-import os
-import shutil
 
 import httpx
 from dotenv import load_dotenv
@@ -23,10 +21,10 @@ load_dotenv(ROOT / ".env")
 from adbreak import brands as brand_lib  # noqa: E402  (config reads env at import)
 from adbreak import budget, media, pipeline  # noqa: E402
 
-# Sample episodes are not stored on the server: they are streamed from object storage (Cloudflare R2).
-# Uploaded episodes live on local disk, one at a time.
+# Sample episodes ship with the app as small 360p copies (samples/). Uploaded episodes live in
+# data/videos, one at a time. Locally, full-quality originals in data/videos take precedence.
 SAMPLES = set(json.loads((ROOT / "samples.json").read_text(encoding="utf-8"))["videos"])
-VIDEO_BASE_URL = os.getenv("R2_PUBLIC_BASE_URL", "").rstrip("/")
+SAMPLE_DIR = ROOT / "samples"
 OUT = ROOT / "out"
 VIDEOS = ROOT / "data" / "videos"
 BRANDS = ROOT / "brands" / "brands.json"
@@ -78,14 +76,13 @@ def _drive_direct(url: str) -> str:
     return f"https://drive.usercontent.google.com/download?id={m.group(1)}&export=download&confirm=t" if m else url
 
 
-def _source(video_id: str):
-    """Local file if present, else the sample's copy in object storage."""
+def _source(video_id: str) -> Path:
+    """The uploaded (or local original) file if present, else the bundled 360p sample copy."""
     vid = brand_lib.safe_id(video_id)
-    local = VIDEOS / f"{vid}.mp4"
-    if local.exists():
-        return local
-    if vid in SAMPLES and VIDEO_BASE_URL:
-        return f"{VIDEO_BASE_URL}/{vid}.mp4"
+    for folder in (VIDEOS, SAMPLE_DIR):
+        path = folder / f"{vid}.mp4"
+        if path.exists():
+            return path
     raise HTTPException(404, "video not found")
 
 
@@ -218,14 +215,7 @@ def reanalyse(video_id: str):
 
 @app.get("/videos/{name}")
 def video(name: str):
-    """Uploaded episodes are served from local disk; sample episodes redirect to object storage."""
-    vid = brand_lib.safe_id(Path(name).stem)
-    local = VIDEOS / f"{vid}.mp4"
-    if local.exists():
-        return FileResponse(local, media_type="video/mp4")
-    if vid in SAMPLES and VIDEO_BASE_URL:
-        return RedirectResponse(f"{VIDEO_BASE_URL}/{vid}.mp4", status_code=307)
-    raise HTTPException(404, "video not found")
+    return FileResponse(_source(Path(name).stem), media_type="video/mp4")
 
 
 @app.get("/api/budget")
